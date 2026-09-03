@@ -1,0 +1,2657 @@
+{
+  "subject": "Australian Communities Foundation Limited",
+  "atoms": [
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation distributed 909 grants to 527 organisations and individuals in the 2019/20 financial year, totalling more than $12.5 million.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0127"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The grants distributed in the 2019/20 financial year constituted 11% of the Australian Communities Foundation corpus and represented a 33% increase on giving from the previous financial year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0127"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation provided an additional $2.8 million to support communities most impacted by the bushfires and Covid-19 during the 2019/20 financial year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0127"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation is a community of giving that connects donors with people and organisations leading social, environmental and cultural change.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0128"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation describes its mission as activating a nation of givers for a fairer and more sustainable Australia.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0128"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation states that it is Australia’s only national community foundation.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0128"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation has more than 20 years of experience catalysing positive social and environmental change.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0128"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation’s giving community comprised more than 350 funds and foundations in the 2019/20 financial year, with 43 funds and foundations joining during that year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        8,
+        9
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0129",
+        "RE-0130"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation organises its giving into five key focus areas: tackling inequality, strengthening democracy, supporting Indigenous communities, safeguarding the environment, and building a culturally vibrant society; it also supports international aid and development.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0129"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 9,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation partnered with Philanthropy Australia in March 2020 to launch the Covid-19 National Funding Platform.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation",
+      "effective_from": "2020-03-01",
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence states the launch occurred in March, in the context of the 2019/20 financial year; the year 2020 is inferred from the surrounding Covid-19 context."
+      ],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0131"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-033",
+          "atom_index": 9,
+          "proposition": "Australian Communities Foundation partnered with Philanthropy Australia in March 2020 to launch the Covid-19 National Funding Platform.",
+          "field": "effective_from",
+          "value": "2020-03-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 5,
+                "unit_sequence": 5
+              },
+              "text": "FROM THE CEO\nThe 2019/20 financial year delivered no shortage of challenges\nfor our sector and our giving community. But the response\nof our community to the multiple crises of 2020 has been\noverwhelmingly generous.\nOur giving community swung into Crisis Response Fund to support\naction immediately during the communities most affected by\nneed in our communities and new\nbushfires and again, just a couple of the Covid-19 crisis. We have been\nworking from home arrangements\nshort months later, as the sweeping delighted to partner with the Paul\nwith resourcefulness and\nimpacts of Covid-19 began to be Ramsay Foundation and our giving\ntremendous grace under pressure.\nfelt. With an additional 300 grants community to enable more than\nIt was a herculean effort, and I am\ngoing out the door, the ACF team $500,000 to be distributed to\nincredibly proud.\nhave worked together behind the vulnerable communities through the\nscenes to support your collective Fund to date.\nOur team is a very close knit one, so\ngenerosity.\nthe loss of colleagues is always felt\nDuring 2019/20, we welcomed 43\nvery deeply. Over the past year we\nResponding to the pandemic new named funds and foundations\nwere saddened to lose three very\nswiftly and with agility, Australian to our giving community and\ndear friends: Sue Beecher, Lynne\nCommunities Foundation also achieved new giving records, both\nWannan and Christopher Baker.\npartnered with peak body in terms of the value and number of\nTheir legacies have helped make\nPhilanthropy Australia in March grants made. Thirty-three per cent\nAustralian Communities Foundation\nto launch the Covid-19 National more funding went out the door\nthe organisation that it is today.\nFunding Platform on our new this financial year. We also saw a\nwebsite. The National Funding rise in collective giving within our\nThank you to everyone who has\nPlatform is a fantastic tool and community this year, with more\ncontributed to our community of\nhas been well used by our giving co-funders contributing to this\ngiving this year, particularly our\ncommunity and beyond to enable year’s Impact Fund grants than ever\nBoard, our donors, my colleagues\nthe philanthropic response to before.\nand the changemakers who are\nCovid-19.\nreimagining our country. As we\nThroughout it all, the Australian\nMaree Sidey\nlook ahead to 2021, I know that\nTo deepen our impact and enhance Communities Foundation team\nCEO, Australian Communities\nour community’s courageous\nour ability to channel resources into showcased its professionalism\nFoundation\ncompassion will continue to\nhard-to-reach and often overlooked and adaptability, responding to the\nmake Australia a fairer and more\nplaces, we established the National multiple challenges of increased\nsustainable place.\n06 AUSTRALIAN COMMUNITIES FOUNDATION 07",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-033",
+      "atom_index": 10,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation established the National Crisis Response Fund to support communities affected by the bushfires and Covid-19; more than $500,000 had been distributed to vulnerable communities through the fund by the report date.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "National Crisis Response Fund",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20 financial year",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence says the fund had distributed more than $500,000 'to date' at the time of reporting."
+      ],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0131"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation supports individuals and families across Australia to establish and activate giving plans, primarily through Named Sub-Funds.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0132"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation administers and provides compliance support for Named Sub-Funds, enabling fundholders to focus on granting.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0132"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation supports the establishment of private ancillary funds (PAFs) and offers Granting, Compliance, and Total Impact service packages.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0133"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation provides services to established foundations through its Supporting Foundations Service, including grantmaking, communications, administration, and compliance services.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0133"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "In 2019/20, Australian Communities Foundation provided grantmaking services and compliance support for another five clients as its support services continued to grow.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": "2020-06-30",
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0133"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-034",
+          "atom_index": 4,
+          "proposition": "In 2019/20, Australian Communities Foundation provided grantmaking services and compliance support for another five clients as its support services continued to grow.",
+          "field": "effective_to",
+          "value": "2020-06-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 2,
+              "structural_locator": {
+                "kind": "page",
+                "page": 11,
+                "unit_sequence": 2
+              },
+              "text": "PRIVATE FOUNDATIONS SUPPORT\nESTABLISHING A PRIVATE SUPPORT FOR FOUNDATIONS\nFOUNDATION (PAF)\nAustralian Communities Foundation\nFor those looking to join our also assists established foundations\ngiving community while retaining through our Supporting Foundations\nthe independence of their own Service, which enables you to pick\nfoundation, we can support you to and choose the specific services\nset up a private ancillary fund (PAF) you need across the areas of\nthrough Australian Communities grantmaking, communications,\nFoundation. administration and compliance.\nOnce your foundation is established, SEE A FULL LIST OF THE\nyou can then choose the level of SERVICES WE OFFER \nongoing support you would like by\nselecting one of three packages: JOINING US IN 2019/20\nGranting: We develop a crafted, end- Garry White Foundation: Working\nto-end philanthropic strategy that for a sustainable Australia by funding\nbrings your interests and passions to inspirational people, projects and\nlife through your giving. campaigns in the areas of education,\nconservation, climate solutions and\nCompliance: We undertake all regenerative agriculture.\ncompliance, financial and secretariat\nservices for you, enabling you to As we continued to grow our\nfocus on the joy of giving to your support services throughout 2020,\nTELEMATICS TRUST • coordination and promotion\nchosen causes. we provided grantmaking services\nof annual grant round for\nand compliance support for another The Telematics Trust is a public\ntechnological innovation in Victoria\nTotal impact: Our total package helps five clients. charitable trust promoting\n• communication with grantees\nyou achieve both strategic purpose technology-based education in\nand other key stakeholders from\nand freedom from the compliance Victoria through the provision of\napplication process to selection,\nburden, ensuring effective and grants, equity and debt investments.\npayment and reporting\nefficient philanthropy. In its role as Secretariat, Australian\n• management of website and\nCommunities Foundation supports\nLEARN MORE ABOUT other communications, including\nTelematics with grantmaking,\nESTABLISHING A PRIVATE annual report\ncommunications, administration and\nFOUNDATION  • preparation of board papers and\ncompliance. The following services\ncoordination of meetings\nwere provided in 2019/20:\n• financial reporting and ACNC\ncompliance.\n18 AUSTRALIAN COMMUNITIES FOUNDATION 19",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation supported Telematics Trust as Secretariat with grantmaking, communications, administration, and compliance.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0133"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation offers Gumnut Accounts, allowing individuals to make regular tax-deductible donations toward a lasting endowment fund.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Gumnut Account",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0134"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "A Gumnut Account can be opened with contributions of $500 per quarter or $2,000 per annum, with additional donations or increased regular contributions permitted.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Gumnut Account",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0134"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "When a Gumnut Account balance reaches $20,000, it matures into a Named Sub-Fund.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Gumnut Account",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0134"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 9,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation supports scholarship providers through Scholarship Funds to increase access to education and provide educational payments, prizes, and bursaries to students across Australia.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0135"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 10,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation supports collective giving across Australia and facilitates collaboration among givers.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0136"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 11,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation provides online donation services for fundraising events and recurring membership-fee payments.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0136"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-034",
+      "atom_index": 12,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation has supported people and organisations to fundraise for diverse causes for more than 20 years and provides fundraising support to fundholders across Australia through nationwide licensing.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0136"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The organisation supports organisations across Australia to establish and extend corporate and workplace giving programs.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0137"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The organisation supports not-for-profits across the country through low-cost NFP Future Funds.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0138"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, the organisation's giving community gave more to Australian communities than ever before, including $2.8 million to support those most affected by the 2019/20 bushfire season and COVID-19.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0139"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, the organisation's community of 350 funds and foundations distributed 909 grants to 527 organisations and individuals, totaling $12,502,071.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's community of 350 funds and foundations",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0140"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, the organisation's largest grant was $380,000 and its average grant was $14,000.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's community of 350 funds and foundations",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0140"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, the organisation distributed $12.5 million in total funding grants across Australia.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        6
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0141"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, the organisation distributed $4,004,476 in grants to national projects and $5,996,061 to international projects.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        6
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0141"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, almost 40% of the organisation's $12.5 million in grants went to organisations working to tackle inequality, particularly in health and education.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's giving community",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0142"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, one quarter of the organisation's funding went towards supporting Indigenous communities.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's giving community",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0142"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 9,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "During 2019/20, one fifth of the organisation's funding went towards safeguarding the environment, particularly addressing climate change.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's giving community",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0142"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 10,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Following the 2019/20 Australian bushfire season, the organisation's giving community funded emergency response, recovery and policy reform, focusing on four strategic areas.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's giving community",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0143"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-035",
+      "atom_index": 11,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Following the 2019/20 Australian bushfire season, the organisation's giving community distributed $2,199,150 across Indigenous-led crisis response; conservation, biodiversity and climate change; disaster prevention and response; public policy, research and advocacy; and other activities.",
+      "scope_kind": "reporting_group",
+      "scope_label": "the organisation's giving community",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0143"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported grant funding of $629,868 for Wildlife Victoria’s Victorian Bushfire Appeal project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a bushfire response grant highlight."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0144"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported grant funding of $100,000 for Hornsby Rural Fire Brigade’s emergency response project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a bushfire response grant highlight."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0144"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported grant funding of $50,000 for the Foundation for Rural and Regional Renewal’s Disaster Resilience and Recovery Fund.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a bushfire response grant highlight."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0144"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported grant funding of $131,010 for Katungul Aboriginal Corporation Regional Health and Community Services’ Aboriginal Bushfire Healing Project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a bushfire response grant highlight."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0144"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported grant funding of $100,000 for Port Stephens Koala and Wildlife Preservation Society’s bushfire response project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this under conservation, biodiversity and climate change grant highlights."
+      ],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0145"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported that its giving community’s COVID-19 funding focused on immediate needs and structural concerns across six strategic areas.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0145"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported COVID-19 response grants totaling $133,000 for health, wellbeing and medical research.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source labels this as a COVID-19 response grant category total."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported $35,000 in funding for the National Aboriginal Community Controlled Health Organisation’s protective-measures project for Aboriginal Community Controlled Health Organisations.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a COVID-19 response grant highlight."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported $55,000 in funding for the Public Interest Advocacy Centre’s asylum seeker health rights project during COVID-19.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a COVID-19 response grant highlight."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 9,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported $10,000 in funding for the National LGBTI Health Alliance’s QLife project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a COVID-19 response grant highlight."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 10,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported $20,000 in funding for Music and Opera Singers Trust’s Freelance Artist Relief Australia project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source presents this as a COVID-19 response grant highlight."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 11,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported $10,000 plus $55,000 pledged through the Impact Fund for the Climate and Health Alliance’s COVID-19 action on climate and health project.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source distinguishes the $55,000 amount as pledged."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 12,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported that 10 per cent of all COVID-19 grant funding went toward public policy, research and advocacy.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-036",
+      "atom_index": 13,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation reported COVID-19 response grant funding of $270,400 for education, training and employment.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source labels this as a COVID-19 response grant category total."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0146"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation partnered with Philanthropy Australia to launch the COVID-19 National Funding Platform in early 2020 to coordinate the national philanthropic response to the crisis.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": "2020-01-01",
+      "effective_to": "2020-12-31",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence states only “early in 2020”; the year bounds are used to represent that temporal specificity."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0147"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 0,
+          "proposition": "Australian Communities Foundation partnered with Philanthropy Australia to launch the COVID-19 National Funding Platform in early 2020 to coordinate the national philanthropic response to the crisis.",
+          "field": "effective_from",
+          "value": "2020-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 0,
+          "proposition": "Australian Communities Foundation partnered with Philanthropy Australia to launch the COVID-19 National Funding Platform in early 2020 to coordinate the national philanthropic response to the crisis.",
+          "field": "effective_to",
+          "value": "2020-12-31",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The COVID-19 National Funding Platform enabled not-for-profit organisations to register COVID-related funding needs and, between March and June 2020, received requests from more than 300 projects totaling more than $11 million.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "COVID-19 National Funding Platform",
+      "effective_from": "2020-03-01",
+      "effective_to": "2020-06-30",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0147"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 1,
+          "proposition": "The COVID-19 National Funding Platform enabled not-for-profit organisations to register COVID-related funding needs and, between March and June 2020, received requests from more than 300 projects totaling more than $11 million.",
+          "field": "effective_from",
+          "value": "2020-03-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 1,
+          "proposition": "The COVID-19 National Funding Platform enabled not-for-profit organisations to register COVID-related funding needs and, between March and June 2020, received requests from more than 300 projects totaling more than $11 million.",
+          "field": "effective_to",
+          "value": "2020-06-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation launched the COVID-19 Rapid Advocacy Fund with Australian Progress and the Australian Council of Social Service as a pooled funding initiative for advocacy campaigns responding to the pandemic.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "COVID-19 Rapid Advocacy Fund",
+      "effective_from": "2020-02-01",
+      "effective_to": "2020-06-30",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence places the Fund’s operation between February and June 2020."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0147"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 2,
+          "proposition": "Australian Communities Foundation launched the COVID-19 Rapid Advocacy Fund with Australian Progress and the Australian Council of Social Service as a pooled funding initiative for advocacy campaigns responding to the pandemic.",
+          "field": "effective_from",
+          "value": "2020-02-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 2,
+          "proposition": "Australian Communities Foundation launched the COVID-19 Rapid Advocacy Fund with Australian Progress and the Australian Council of Social Service as a pooled funding initiative for advocacy campaigns responding to the pandemic.",
+          "field": "effective_to",
+          "value": "2020-06-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The COVID-19 Rapid Advocacy Fund pooled over $150,000 and supported 22 COVID-related advocacy projects.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "COVID-19 Rapid Advocacy Fund",
+      "effective_from": "2020-02-01",
+      "effective_to": "2020-06-30",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0147"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 3,
+          "proposition": "The COVID-19 Rapid Advocacy Fund pooled over $150,000 and supported 22 COVID-related advocacy projects.",
+          "field": "effective_from",
+          "value": "2020-02-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 3,
+          "proposition": "The COVID-19 Rapid Advocacy Fund pooled over $150,000 and supported 22 COVID-related advocacy projects.",
+          "field": "effective_to",
+          "value": "2020-06-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 1
+              },
+              "text": "COVID-19 RESPONSE:\nINITIATIVES\nCHILDREN’S GROUND $7,500 Launch Housing is an independent\nProject: General charitable purposes Melbourne-based community COVID-19 NATIONAL RAPID ADVOCACY FUND\nFund: Nicholas R Taylor Fund organisation passionately committed FUNDING PLATFORM\nto ending homelessness. This grant\nPartnering with Australian Progress\nFocus area: Tackling Inequality supported Launch Housing workers\nIn early 2020, Australian Communities and Australian Council of Social\nDesigned with First Nations people, on the frontline of the Covid-19\nFoundation partnered with Services (ACOSS), Australian\nChildren's Ground builds on the response to distribute essential food,\nPhilanthropy Australia to launch the Communities Foundation launched\nability, strength and culture of toiletries, medical care, transport\nCovid-19 National Funding Platform to the Covid-19 Rapid Advocacy Fund\ncommunities while responding to and emergency accommodation to\ncoordinate the national philanthropic –a pooled funding initiative that can\ntrauma and creating opportunities. people experiencing homelessness.\nresponse to the crisis. The Platform rapidly inject funds into strategic\nWorking where people live, Children's\nGround builds generational change DOMESTIC VIOLENCE provided not-for-profit organisations advocacy campaigns demanding\nthe opportunity to register their ambitious policies in response to the\nby supporting each child, in every PREVENTION $40,000\nCovid-related funding needs. pandemic in Australia. In the period\nfamily within a community over a\nbetween February and June 2020,\n25-year period. This grant provided REFUGEE LEGAL $10,000 In the period between March and\nthe Fund pooled over $150,000\ngeneral support to Children’s Ground Project: Family Violence and June 2020, over 300 projects and supported 22 Covid-related\nduring Covid-19. Migration Law Project requested a total of more than $11 advocacy projects.\nmillion through the platform, giving\nFund: ACF National Crisis Response\nfunders an understanding of the LEARN MORE \nFund\nexact needs of the sector during\nFocus area: Tackling Inequality this time.\nGRANT HIGHLIGHTS\nRefugee Legal is Australia’s largest\nVISIT THE PLATFORM \nprovider of free specialist legal 350.org Australia $4,000\nassistance to people seeking\nAlliance for Gambling Reform $10,000\nasylum, refugees and disadvantaged\nmigrants. Refugee Legal’s Family Anti-Poverty Week $10,000\nViolence and Migration Law Project\nAustralian Association of\nis focussed on being responsive to\nPsychologists $5,000\nwomen experiencing family violence\nHOUSING & during Covid-19. Women who seek KEY INSIGHT Climate & Health Alliance $5,000\nHOMELESSNESS $60,500 help experienced increased isolation\nDuring Covid-19, we saw a trend Deadly Connections Community &\nfrom family, friends and other\nLAUNCH HOUSING $35,000 towards more collective giving Justice Services $9,500\nsupports during this period. Funding\nin our giving community, with\nProject: Emergency Covid-19 aid for supported Refugee Legal to provide Digital Rights Watch $5,000\n12 per cent of grants disbursed\npeople experiencing homelessness legal advice and assistance to women\nthrough the National Crisis Multicultural Youth Affairs Network\nFund: Sally Browne Fund, Juno Fund, on temporary visas or without visas Response Fund and Rapid $3,000\nStory Street Fund, Vanraay Family who are experiencing family violence Advocacy Fund. Over 30\nFund, Clare Murphy Fund, Reve Fund during Covid-19. funders contributed to these National Council of Single Mothers\nand their Children $6,000\nFocus area: Tackling Inequality funds between February and\nJune 2020. Refugee Voices $5,000\nRoad to Refuge $5,000\nThe Parenthood $6,000\n Children's Ground.\nTomorrow Movement $10,000\n48 AUSTRALIAN COMMUNITIES FOUNDATION 49",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation established the National Crisis Response Fund shortly after launching the COVID-19 National Funding Platform as a pooled funding initiative for an effective philanthropic response to the pandemic.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "National Crisis Response Fund",
+      "effective_from": "2020-01-01",
+      "effective_to": "2020-12-31",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence states only “shortly after” and does not provide an exact establishment date."
+      ],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0148"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 4,
+          "proposition": "Australian Communities Foundation established the National Crisis Response Fund shortly after launching the COVID-19 National Funding Platform as a pooled funding initiative for an effective philanthropic response to the pandemic.",
+          "field": "effective_from",
+          "value": "2020-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 2,
+              "structural_locator": {
+                "kind": "page",
+                "page": 27,
+                "unit_sequence": 2
+              },
+              "text": "NATIONAL CRISIS RESPONSE\nAboriginal Child Family and Law & Advocacy Centre for Women\nFUND: COVID-19\nCommunity Care Secretariat (AbSec) $10,000 — Supporting women exiting\n$25,000 – Meeting Aboriginal prison during Covid-19 Ú\ncommunity needs during Covid-19 Ú\nNational Aboriginal Community\nAustralian Migrant Resource Centre Controlled Health Organisation\n$5,000 – Providing financial support $5,000 — Supporting protective\nto refugees on bridging visas Ú measures in vulnerable communities\nin response to Covid-19 Ú\nAustralian Unemployed Workers’\nUnion $10,000 – Supporting people QLife (National LGBTI Health\nneeding job-seeking advice Ú Alliance) $10,000 — Supporting\nLGBTI peer support throughout\nBallarat Foundation $12,000 –\nCovid-19 Ú\nProviding food relief in the Ballarat\narea Ú Refugee Legal’s Family Violence\nand Migration Law Project $10,000\nBarpidhila Foundation $25,000 –\n— Supporting refugee women\nIndigenous Artists Relief Fund Ú\nexperiencing family violence during\nCouncil of Single Mothers and Their Covid-19 Ú\nChildren $15,000 – Providing financial\nRISE: Refugees, Survivors and\nsupport for single mothers Ú\nEx-Detainees $5,000 – Providing\nShortly after launching the Covid-19 $539,000 Didi Bahini Samaj $5,000 – door-to-door emergency relief to low-\nNational Funding Platform, Australian Providing financial support for Nepali income households Ú\nCommunities Foundation established DISTRIBUTED students Ú\nStepping Out $10,000 – Keeping\nthe National Crisis Response Fund – a\nTHROUGH Encompass Care $15,000 – Providing survivors connected during Covid-19\npooled funding initiative to enable an\nemergency food relief for asylum Ú\neffective philanthropic response to\n45 GRANTS seekers and international students Ú\nthe pandemic. Welfare Rights Centre $10,000 –\nGeorges River Life Care $5,000 – Assisting Australians on JobSeeker Ú\nAlong with a broader analysis of TO COMMUNITIES\nSupporting disadvantaged individuals\nneed within the sector, the National Women’s Information, Support and\nACROSS AUSTRALIA and families in Georges River Ú\nFunding Platform revealed where Housing in the North (WISHIN)\nfunding is still desperately needed: Inner Melbourne Community Legal $15,000 – Supporting homeless\ngaps in the national response, where $15,000 – Providing communications women and children through Covid-19\nexisting government and community strategy and support for Covid-19 Ú\nsupport isn’t going. Through our partnership with the Paul public housing lockdown Ú\nRamsay Foundation and support from Wungening Aboriginal Corporation’s\nBy leveraging Australian Communities\nour giving community and the public, Jesuit Refugee Service $5,000 Covid-19 Food Appeal $10,000 —\nFoundation’s national reach and our\nthe National Crisis Response Fund –Providing food and medicine to Supporting Indigenous people and\nextensive network of not-for-profit\nhas distributed $539,000 through refugees and people seeking families across Perth and SW Western\nand sector experts, the National\n45 grants to communities across asylum Ú Australia throughout the crisis Ú\nCrisis Response Fund has been able\nAustralia.\nto get funding out to communities VIEW ALL GRANTS \nwhere it’s needed most. LEARN MORE \n50 AUSTRALIAN COMMUNITIES FOUNDATION 51",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 4,
+          "proposition": "Australian Communities Foundation established the National Crisis Response Fund shortly after launching the COVID-19 National Funding Platform as a pooled funding initiative for an effective philanthropic response to the pandemic.",
+          "field": "effective_to",
+          "value": "2020-12-31",
+          "mapped_evidence": [
+            {
+              "evidence_id": 2,
+              "structural_locator": {
+                "kind": "page",
+                "page": 27,
+                "unit_sequence": 2
+              },
+              "text": "NATIONAL CRISIS RESPONSE\nAboriginal Child Family and Law & Advocacy Centre for Women\nFUND: COVID-19\nCommunity Care Secretariat (AbSec) $10,000 — Supporting women exiting\n$25,000 – Meeting Aboriginal prison during Covid-19 Ú\ncommunity needs during Covid-19 Ú\nNational Aboriginal Community\nAustralian Migrant Resource Centre Controlled Health Organisation\n$5,000 – Providing financial support $5,000 — Supporting protective\nto refugees on bridging visas Ú measures in vulnerable communities\nin response to Covid-19 Ú\nAustralian Unemployed Workers’\nUnion $10,000 – Supporting people QLife (National LGBTI Health\nneeding job-seeking advice Ú Alliance) $10,000 — Supporting\nLGBTI peer support throughout\nBallarat Foundation $12,000 –\nCovid-19 Ú\nProviding food relief in the Ballarat\narea Ú Refugee Legal’s Family Violence\nand Migration Law Project $10,000\nBarpidhila Foundation $25,000 –\n— Supporting refugee women\nIndigenous Artists Relief Fund Ú\nexperiencing family violence during\nCouncil of Single Mothers and Their Covid-19 Ú\nChildren $15,000 – Providing financial\nRISE: Refugees, Survivors and\nsupport for single mothers Ú\nEx-Detainees $5,000 – Providing\nShortly after launching the Covid-19 $539,000 Didi Bahini Samaj $5,000 – door-to-door emergency relief to low-\nNational Funding Platform, Australian Providing financial support for Nepali income households Ú\nCommunities Foundation established DISTRIBUTED students Ú\nStepping Out $10,000 – Keeping\nthe National Crisis Response Fund – a\nTHROUGH Encompass Care $15,000 – Providing survivors connected during Covid-19\npooled funding initiative to enable an\nemergency food relief for asylum Ú\neffective philanthropic response to\n45 GRANTS seekers and international students Ú\nthe pandemic. Welfare Rights Centre $10,000 –\nGeorges River Life Care $5,000 – Assisting Australians on JobSeeker Ú\nAlong with a broader analysis of TO COMMUNITIES\nSupporting disadvantaged individuals\nneed within the sector, the National Women’s Information, Support and\nACROSS AUSTRALIA and families in Georges River Ú\nFunding Platform revealed where Housing in the North (WISHIN)\nfunding is still desperately needed: Inner Melbourne Community Legal $15,000 – Supporting homeless\ngaps in the national response, where $15,000 – Providing communications women and children through Covid-19\nexisting government and community strategy and support for Covid-19 Ú\nsupport isn’t going. Through our partnership with the Paul public housing lockdown Ú\nRamsay Foundation and support from Wungening Aboriginal Corporation’s\nBy leveraging Australian Communities\nour giving community and the public, Jesuit Refugee Service $5,000 Covid-19 Food Appeal $10,000 —\nFoundation’s national reach and our\nthe National Crisis Response Fund –Providing food and medicine to Supporting Indigenous people and\nextensive network of not-for-profit\nhas distributed $539,000 through refugees and people seeking families across Perth and SW Western\nand sector experts, the National\n45 grants to communities across asylum Ú Australia throughout the crisis Ú\nCrisis Response Fund has been able\nAustralia.\nto get funding out to communities VIEW ALL GRANTS \nwhere it’s needed most. LEARN MORE \n50 AUSTRALIAN COMMUNITIES FOUNDATION 51",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The National Crisis Response Fund distributed $539,000 through 45 grants to communities across Australia.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "National Crisis Response Fund",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0148"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "The Impact Fund mobilised a total of $3 million to 30 projects across Australia through co-funding from the giving community and external partners.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Impact Fund",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence describes this as achieved to the point of reporting, without an exact date."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0149"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "In the 2019/20 reporting period, the Impact Fund raised $814,000 for 11 projects with support from 60 co-funders.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Impact Fund",
+      "effective_from": "2019-07-01",
+      "effective_to": "2020-06-30",
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0149"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 7,
+          "proposition": "In the 2019/20 reporting period, the Impact Fund raised $814,000 for 11 projects with support from 60 co-funders.",
+          "field": "effective_from",
+          "value": "2019-07-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 28,
+                "unit_sequence": 3
+              },
+              "text": "IMPACT FUND\nINVESTING IN Voice, Treaty, Truth: Progressing\nMOMENTOUS CHANGE the Uluru Statement UNSW\nIndigenous Law Centre\nEstablished as a vehicle for collective $150,000\ngiving, the Impact Fund inspires\nCONVENING GRANTS\ninvestments in the boldest solutions\nto our country’s biggest issues. Digital Rights Convening Project\nResponsible Technology Australia\nIn brokering co-funding from our\n$10,000\ngiving community and external\npartners, the Impact Fund has COVID-19 AGILE GRANTS\nmobilised a total of $3 million to\n30 projects across Australia. Asylum Seeker Health Rights project\nPublic Interest Advocacy Centre\nIn 2019/20, the Impact Fund raised $50,000\n$814,000 for 11 projects with support\nfrom 60 co-funders. Covid-19 Action on Climate and\nHealth Climate and Health Alliance\nVIEW THE HIGHLIGHTS OF $50,000\nWHAT THE IMPACT FUND HAS\nACHIEVED SO FAR  Misinformation Medic campaign\nResponsible Technology Australia\nLARGE GRANTS $50,000\nProtecting Australian Species Protecting First Nations\nAgainst Extinction Invasive Species Communities from Covid-19 Central\nCouncil $150,000 Australian Aboriginal Congress\n$14,000\nRaise the Rate campaign Australian\nCouncil of Social Service Raise the Rate for Good campaign\n$150,000 Australian Council of Social Service\n$50,000\nThe Democracy Project Shark Island\nInstitute OTHER AGILE GRANTS\n$150,000\nOur Islands Our Home campaign\n350 Australia\n$23,000\n Li-Anthawirriyarra Ranger Jodie Evans being interviewed by SBS News about the benefits of working\nas a ranger through the Country Needs People program, funded by the Impact Fund. Credit: Alex Inglis.\n Supporters at a rally for marriage equality in Melbourne. The YES campaign was supported by the\nImpact Fund in 2017. Credit: Paris Buttfield-Addison.\n Supporters of the Alliance Gambling Reform meet in Melbourne. The Alliance's campaign for poker\nmachine reform has received funding from the Impact Fund.\n52 AUSTRALIAN COMMUNITIES FOUNDATION 53",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 7,
+          "proposition": "In the 2019/20 reporting period, the Impact Fund raised $814,000 for 11 projects with support from 60 co-funders.",
+          "field": "effective_to",
+          "value": "2020-06-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 28,
+                "unit_sequence": 3
+              },
+              "text": "IMPACT FUND\nINVESTING IN Voice, Treaty, Truth: Progressing\nMOMENTOUS CHANGE the Uluru Statement UNSW\nIndigenous Law Centre\nEstablished as a vehicle for collective $150,000\ngiving, the Impact Fund inspires\nCONVENING GRANTS\ninvestments in the boldest solutions\nto our country’s biggest issues. Digital Rights Convening Project\nResponsible Technology Australia\nIn brokering co-funding from our\n$10,000\ngiving community and external\npartners, the Impact Fund has COVID-19 AGILE GRANTS\nmobilised a total of $3 million to\n30 projects across Australia. Asylum Seeker Health Rights project\nPublic Interest Advocacy Centre\nIn 2019/20, the Impact Fund raised $50,000\n$814,000 for 11 projects with support\nfrom 60 co-funders. Covid-19 Action on Climate and\nHealth Climate and Health Alliance\nVIEW THE HIGHLIGHTS OF $50,000\nWHAT THE IMPACT FUND HAS\nACHIEVED SO FAR  Misinformation Medic campaign\nResponsible Technology Australia\nLARGE GRANTS $50,000\nProtecting Australian Species Protecting First Nations\nAgainst Extinction Invasive Species Communities from Covid-19 Central\nCouncil $150,000 Australian Aboriginal Congress\n$14,000\nRaise the Rate campaign Australian\nCouncil of Social Service Raise the Rate for Good campaign\n$150,000 Australian Council of Social Service\n$50,000\nThe Democracy Project Shark Island\nInstitute OTHER AGILE GRANTS\n$150,000\nOur Islands Our Home campaign\n350 Australia\n$23,000\n Li-Anthawirriyarra Ranger Jodie Evans being interviewed by SBS News about the benefits of working\nas a ranger through the Country Needs People program, funded by the Impact Fund. Credit: Alex Inglis.\n Supporters at a rally for marriage equality in Melbourne. The YES campaign was supported by the\nImpact Fund in 2017. Credit: Paris Buttfield-Addison.\n Supporters of the Alliance Gambling Reform meet in Melbourne. The Alliance's campaign for poker\nmachine reform has received funding from the Impact Fund.\n52 AUSTRALIAN COMMUNITIES FOUNDATION 53",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-037",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "For the 2019 Impact Fund Large Grants Round, the Impact Fund supported national campaigns across four impact areas.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Impact Fund",
+      "effective_from": "2019-01-01",
+      "effective_to": "2019-12-31",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence identifies the round as occurring in 2019."
+      ],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0150"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 8,
+          "proposition": "For the 2019 Impact Fund Large Grants Round, the Impact Fund supported national campaigns across four impact areas.",
+          "field": "effective_from",
+          "value": "2019-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 29,
+                "unit_sequence": 4
+              },
+              "text": "IMPACT FUND\n2019 LARGE GRANTS ROUND\nFor the 2019 Impact Fund Large Grants Round, our giving\ncommunity once again came together to fund national campaigns\nacross the Fund’s four Impact Areas. Here’s a snapshot of what\neach campaign has achieved so far, and what’s next in their\njourneys towards positive impact.\nVOICE, TREATY, TRUTH: PROTECTING AUSTRALIAN\nPROGRESSING THE ULURU SPECIES AGAINST EXTINCTION\nSTATEMENT UNSW INDIGENOUS INVASIVE SPECIES COUNCIL\nLAW CENTRE\nSAFEGUARDING THE ENVIRONMENT\nSUPPORTING INDIGENOUS SELF-\nDETERMINATION With invasive species being the\nleading cause of Australia’s current\nThe Indigenous Law Centre at the\nextinction crisis, the Invasive\nRAISE THE RATE CAMPAIGN THE DEMOCRACY PROJECT University of New South Wales is\nSpecies Council (ISC) has been\nAUSTRALIAN COUNCIL OF SHARK ISLAND INSTITUTE the backbone organisation that\nworking to develop a package\nSOCIAL SERVICE coordinates the ongoing national\nSTRENGTHENING DEMOCRACY of institutional, legal and policy\ndialogue process to ensure First\nTACKLING INEQUALITY reforms for a more concerted focus\nThe Democracy Project is Nations voices remain at the heart on abating major threats to native\nRaise the Rate is a national an upcoming social impact of delivering on Voice, Treaty, species. The ISC is continuing\ncampaign that seeks to secure documentary film that seeks Truth—the three pathways to justice to engage a broad network of\nan increase to the base rate of to pull back the curtain on the set out in the Uluru Statement. government stakeholders and\nNewstart/JobSeeker and other relationship between money and Having recently facilitated two experts to stop the processes\nallowances by at least $75 per power in Australia. The extent to leadership dialogues and launched that cause extinction and find\nweek. While the allowance was which money has infiltrated our a video campaign to raise public opportunities to generate new jobs\nincreased at the onset of the political process has become even awareness, the campaign is in a threat abatement industry.\nCovid-19 crisis, this has since been more apparent in the aftermath now engaging media to build a\nreduced, prompting ACOSS to of Covid-19, creating even more more nuanced First Nations-led READ MORE \nlaunch the Raise the Rate for Good timely and powerful content for the conversation with the Australian\ncampaign. With more people on film, which is now expected to be people about the Uluru Statement.\nthe unemployment allowance than released in March 2021. The film’s\nREAD MORE \never before in Australia's history, the impact campaign is expected to\ncampaign continues to push for a generate greater support for critical\npermanent increase to JobSeeker. democratic reform.\nREAD MORE  READ MORE \n54 AUSTRALIAN COMMUNITIES FOUNDATION 55",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-037",
+          "atom_index": 8,
+          "proposition": "For the 2019 Impact Fund Large Grants Round, the Impact Fund supported national campaigns across four impact areas.",
+          "field": "effective_to",
+          "value": "2019-12-31",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 29,
+                "unit_sequence": 4
+              },
+              "text": "IMPACT FUND\n2019 LARGE GRANTS ROUND\nFor the 2019 Impact Fund Large Grants Round, our giving\ncommunity once again came together to fund national campaigns\nacross the Fund’s four Impact Areas. Here’s a snapshot of what\neach campaign has achieved so far, and what’s next in their\njourneys towards positive impact.\nVOICE, TREATY, TRUTH: PROTECTING AUSTRALIAN\nPROGRESSING THE ULURU SPECIES AGAINST EXTINCTION\nSTATEMENT UNSW INDIGENOUS INVASIVE SPECIES COUNCIL\nLAW CENTRE\nSAFEGUARDING THE ENVIRONMENT\nSUPPORTING INDIGENOUS SELF-\nDETERMINATION With invasive species being the\nleading cause of Australia’s current\nThe Indigenous Law Centre at the\nextinction crisis, the Invasive\nRAISE THE RATE CAMPAIGN THE DEMOCRACY PROJECT University of New South Wales is\nSpecies Council (ISC) has been\nAUSTRALIAN COUNCIL OF SHARK ISLAND INSTITUTE the backbone organisation that\nworking to develop a package\nSOCIAL SERVICE coordinates the ongoing national\nSTRENGTHENING DEMOCRACY of institutional, legal and policy\ndialogue process to ensure First\nTACKLING INEQUALITY reforms for a more concerted focus\nThe Democracy Project is Nations voices remain at the heart on abating major threats to native\nRaise the Rate is a national an upcoming social impact of delivering on Voice, Treaty, species. The ISC is continuing\ncampaign that seeks to secure documentary film that seeks Truth—the three pathways to justice to engage a broad network of\nan increase to the base rate of to pull back the curtain on the set out in the Uluru Statement. government stakeholders and\nNewstart/JobSeeker and other relationship between money and Having recently facilitated two experts to stop the processes\nallowances by at least $75 per power in Australia. The extent to leadership dialogues and launched that cause extinction and find\nweek. While the allowance was which money has infiltrated our a video campaign to raise public opportunities to generate new jobs\nincreased at the onset of the political process has become even awareness, the campaign is in a threat abatement industry.\nCovid-19 crisis, this has since been more apparent in the aftermath now engaging media to build a\nreduced, prompting ACOSS to of Covid-19, creating even more more nuanced First Nations-led READ MORE \nlaunch the Raise the Rate for Good timely and powerful content for the conversation with the Australian\ncampaign. With more people on film, which is now expected to be people about the Uluru Statement.\nthe unemployment allowance than released in March 2021. The film’s\nREAD MORE \never before in Australia's history, the impact campaign is expected to\ncampaign continues to push for a generate greater support for critical\npermanent increase to JobSeeker. democratic reform.\nREAD MORE  READ MORE \n54 AUSTRALIAN COMMUNITIES FOUNDATION 55",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation operates three charitable trust funds and established a fourth fund, the National Crisis Response Fund, in 2019/20 to provide disaster relief grants.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0151"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation offers fee-for-service support to private ancillary funds.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0151"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's net revenue was $18 million in the 2019/20 financial year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2,
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0152",
+        "RE-0151"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation received $18.9 million in donations during 2019/20.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The financial summary specifies donations of $18,907,324."
+      ],
+      "raw_evidence_references": [
+        3,
+        4,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0151",
+        "RE-0153",
+        "RE-0154"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's giving community granted $12.5 million during 2019/20.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The financial summary specifies granting of $12,501,070."
+      ],
+      "raw_evidence_references": [
+        4,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0153",
+        "RE-0154"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's total operating costs were $2.8 million in 2019/20.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The financial summary specifies operating costs of $2,826,360."
+      ],
+      "raw_evidence_references": [
+        4,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0153",
+        "RE-0154"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "At June 2020, Australian Communities Foundation's total corpus was $113.7 million, approximately $2.7 million higher than the prior year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": "2020-06-01",
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The reported total corpus was $113,685,052, compared with $111,009,627 in 2019."
+      ],
+      "raw_evidence_references": [
+        3,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0151",
+        "RE-0154"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-038",
+          "atom_index": 6,
+          "proposition": "At June 2020, Australian Communities Foundation's total corpus was $113.7 million, approximately $2.7 million higher than the prior year.",
+          "field": "effective_from",
+          "value": "2020-06-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 32,
+                "unit_sequence": 3
+              },
+              "text": "STRUCTURE\nAustralian Communities Foundation operates three charitable trust funds,\nproviding flexibility to suit individual giving preferences and areas of interest.\nA fourth fund, the National Crisis Response Fund, was established this year to\nprovide disaster relief grants. We also offer fee-for-service support of private\nancillary funds. REVENUE\nDespite challenging conditions, the Foundation's net\nrevenue in 2019/20 was $18 million. As with many other\norganisations, the Foundation's investment returns were\nheavily impacted by the market volatility caused by Covid-19.\nHowever, our donor community continued to rise to the\nAUSTRALIAN COMMUNITIES FOUNDATION LIMITED challenge, donating $18.9 million during the year.\nTRUSTEE COMPANY LIMITED BY GUARANTEE\nD ONATIONS\n$18,907,324\nNATIONAL I NVESTMENTS\nMAIN EXTENSION SCHOLARSHIP CRISIS -$1,294,256\nFUND FUND FUND RESPONSE\nTAX- NOT TAX- TAX- FUND: SUPPORTING OTHER\nDEDUCTIBLE DEDUCTIBLE DEDUCTIBLE COVID-19 FOUNDATIONS REVENUE\nSERVICE\nTAX- $500,000\n(DGR & ITEF) (TCC) (DGR & TCC) D(DEGDRU C& TTICBCL)E\nABN: 57 967 620 ABN: 57 485 460 ABN: 82 218 603 ABN: 93 895 133\nTOTAL CORPUS\n066 977 765 560\nAt June 2020, the total corpus was over $113.7 million – an\nincrease of approximately $2.7 million from the prior year.\nGRANTS TO GRANTS TO GRANTS TO GRANTS TO\nDGR ITEM 1 INDIVIDUALS/ INDIVIDUALS/ INDIVIDUALS/ SUPPORT FOR\nAND INCOME ORGANISATIONS ORGANISATIONS ORGANISATIONS TRUSTS AND 120,000,000\nTAX EXEMPT FOR CHARITABLE FOR EDUCATION FOR DIRECT FOUNDATIONS\nCHARITIES PURPOSES SCHOLARSHIPS RELIEF\n100,000,000\n80,000,000\nDGR: Deductible Gift Recipient status. A DGR is an organisation that is entitled to receive\nincome tax deductible gifts and deductible contributions. 60,000,000\nITEF: Income Tax Exempt Fund. Registered charities must be endorsed by the Australian\nTax Office to be income tax exempt.\n40,000,000\nTCC: Tax Concession Charity. A TCC is endorsed by the Australian Tax Office to access\none or more of the following tax concession: income tax exemption, goods and services\ntax (GST) charity concessions, fringe benefits tax (FBT) rebate and FBT exemption. 20,000,000\n0\n035,740,56$ 427,389,37$ 766,249,98$ 726,900,111$ 250,586,311$\n2019/20\nPERFORMANCE\n-5,000,000 0 5,000,000 10,000,000 15,000,000 20,000,000\n2015/16 2016/17 2017/18 2018/19 2019/20\n60 AUSTRALIAN COMMUNITIES FOUNDATION 61",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            },
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 34,
+                "unit_sequence": 5
+              },
+              "text": "FINANCIAL SUMMARY RESPONSIBLE INVESTING\nIN UNPRECEDENTED TIMES\nUpdate from Tim One of the ways that we measure\nREVENUE OUTGOINGS\nMacready, Chief progress is the percentage of assets\nDonations 18,907,324 Granting 12,501,070\nInvestment Officer, that are invested by managers with\nInvestment -1,294,256 Operating costs 2,826,360 Brightlight Advisory a focus on benefiting stakeholders\nOther revenue 503,259 Other disbursements 113,472 and incorporating active engagement\nAs we approach the end of what has strategies into their approach. In\nTotal 18,116,327 Total 15,440,902\nbeen a very unusual 2020, it provides the last year, we have increased the\nan opportunity to reflect on the percentage of the portfolio using\nchanges that have been made across these higher-sustainability focused\nBREAKDOWN OF OPERATING COSTS\nthe investment portfolio. Since this approaches from 10 per cent to\nSalary & staff-related costs 1,689,290 time last year, Brightlight has focused 26 per cent, while reducing the\nAdministration & professional costs 1,137,070 on increasing the alignment of the percentage of the portfolio using only\nTotal 2,826,360 investment portfolio with Australian basic screening strategies with low\nCommunities Foundation’s values sustainability and engagement focus\nand preparing the portfolio to include from 33 per cent to 12 per cent.\nCORPUS 2020 2019 targeted impact investments.\nREAD THE FULL UPDATE \nACF Ltd 1,316,808 971,068\nMain Fund 82,250,677 78,353,849\nExtension 29,798,440 31,271,761\nScholarship 319,127 412,949\nTotal 113,685,052 111,009,627\nAUSTRALIAN COMMUNITIES FOUNDATION’S\nDECISION TO ALIGN ITS PORTFOLIO WITH\nGot a question about our financials or investments? ITS VALUES HAS CREATED NUMEROUS\nContact Daniel Brugaletta, Chief Financial Officer.\nOPPORTUNITIES TO SHARE THE ACF STORY.\n(03)9412 0412 | [public contact email omitted]\nWE HOPE TO INSPIRE MANY OTHERS TO\nTAKE A SIMILAR JOURNEY.\n64 AUSTRALIAN COMMUNITIES FOUNDATION 65",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation invests in projects intended to make a positive and sustainable difference to society, including renewable energy and social infrastructure loans and debt securities.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0152"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 8,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation increased the percentage of its portfolio using higher-sustainability-focused investment approaches from 10% to 26% and reduced the percentage using only basic screening strategies from 33% to 12%.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The comparison is described as occurring over the last year."
+      ],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0154"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 9,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's people are described as operating within a culture of inclusivity and mutual respect.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        6
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0155"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-038",
+      "atom_index": 10,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Maree Sidey has been Chief Executive Officer of Australian Communities Foundation since 2015.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": "2015-01-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The source gives the year 2015 but not a specific date."
+      ],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0156"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-038",
+          "atom_index": 10,
+          "proposition": "Maree Sidey has been Chief Executive Officer of Australian Communities Foundation since 2015.",
+          "field": "effective_from",
+          "value": "2015-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 7,
+              "structural_locator": {
+                "kind": "page",
+                "page": 36,
+                "unit_sequence": 7
+              },
+              "text": "OUR TEAM\nPHILANTHROPY & IMPACT DEVELOPMENT & DONOR RELATIONS\nLOUISE GEORGIA JULIE RAE OLIVIA CLARK- RAZ BABIC JACOB BABIC\nKURAMOTO MATHEWS Head of Operations MOFFAT Donor Services Administration\nHead of Philanthropy & & Donor Services Head of Coordinator Support Officer\nPhilanthropy Engagement Engagement\n& Impact Manager\nMAREE SIDEY COMMUNICATIONS & MARKETING ADMIN\nChief Executive Officer\nMBA (Social Impact), BSW, BA Hons\nMaree has been Chief Executive\nOfficer of Australian Communities\nFoundation since 2015. Maree also\nholds Non-Executive Director roles ANDREA GABBY LAM\nLINDORES Grants Coordinator\nat Australian Community Philanthropy\nImpact & Insights\nand Australian Progress. Prior to Manager NICOLE REBECCA DOM O’DONNELL CHRISTINE SELLE\nRICHARDS BRIDGES Communications Executive Assistant\nworking at the Foundation, Maree\nHead of Events & Marketing & Marketing to the CEO and\nspent twenty years working in the\nCommunications Coordinator Coordinator Office Manager\nfor-purpose sector including & Marketing\nexecutive roles in family services,\nyouth mental health, and drug and\nalcohol organisations. In her spare FINANCE CONSULTING\ntime, Maree is a passionate gardener\nand a Mum of three boys – 5, 12\nand 14.\nDAPHNE TAN\nGrants Support\nCoordinator\nDANIEL JENNIFER LIU JAMES TRUDY WYSE\nBRUGALETTA Mangagement MAGLOVSKI Consultant\nChief Financial Accountant Management\nOfficer Accountant\n68 AUSTRALIAN COMMUNITIES FOUNDATION 69",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 0,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's board included Eric Beecher as Chair, Penny Burke, Sarah Hosking, Adam Milgrom, Michael Gilmore, and David Imber; David Imber retired from the Board in December 2019.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0157"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 1,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation had Finance, Risk, Audit & IT; Philanthropy & Impact; Investment; and Nominations committees.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0158"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 2,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's listed committee members included George Krithis, Steve Rothfield, Cath Smith, Emma Woolley, Michael Gilmore, Sue Dahn, Sarah Hosking, Adam Milgrom, Penny Burke, Steve Bradby, Regina Hill, Eric Beecher, and Loretta Mannix-Fell and Peter van Duyn as outgoing Philanthropy & Impact Committee members.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0158"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 3,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's listed address was Level 6, 126 Wellington Parade, East Melbourne VIC 3002, with telephone number (03) 9412 0412, email [public contact email omitted], and website communityfoundation.org.au.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0159"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 4,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's patrons were Hayden Raysmith AM and Marion Webster OAM.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0160"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 5,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation established the Beecher Family Fund with Eric Beecher and Sue Beecher in 2012.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": "2012-01-01",
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The evidence supports the year 2012 but not a specific day or month."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0160"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-039",
+          "atom_index": 5,
+          "proposition": "Australian Communities Foundation established the Beecher Family Fund with Eric Beecher and Sue Beecher in 2012.",
+          "field": "effective_from",
+          "value": "2012-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 39,
+                "unit_sequence": 3
+              },
+              "text": "Australian Communities Foundation honours the inspiring legacies\nof the much-loved colleagues and friends we lost in 2019/20.\nTHANK\nVALE SUE BEECHER\nYOU\nSue and her husband Eric (Chair, Australian Communities\nFoundation) established the Beecher Family Fund in 2012.\nA determined social justice campaigner, Sue pursued her\npassions for many causes, including First Nations justice,\nhuman rights, and asylum seeker and refugee issues. Sue's\nlove of philanthropy was both inspiring and infectious and\nIN-KIND EXTERNAL ADVISERS\nmany people started their own giving journey as a result of\n(IMPACT FUND)\nmeeting her.\nArnold Bloch Leibler\nAustralian Environmental Kirsty\nBell Potter\nAlbion, Centre for Australian Progress\nHall and Wilcox VALE CHRISTOPHER BAKER\nAustralian Environmental\nHerbert Smith Freehills\nGrantmakers Network Christopher made a significant contribution to research on\nMatthew Deeble, Social giving in Australia, most recently as a Research Fellow at the\nFUNDING PARTNERS Ventures Australia Centre for Social Impact, Swinburne. Joining the Australian\nCommunities Foundation in 2012, Christopher and his late\nErin Dolan, Lord Mayor’s\nAustralian Environmental wife, Kerri, opened the Equal Access Fund with a focus on\nCharitable Foundation\nGrantmakers Network improving literacy as a means of addressing systemic and\nJohn Harding, Koondee\nAustralian Progress intergenerational disadvantage.\nWoonga-gat Toor-rong\nCentre for Multicultural Youth\nWendy Hayhurst, Community\nDocumentary Australia Foundation Housing Industry Association VALE LYNNE WANNAN\nEcstra Regina Hill, Effective Philanthropy\nLynne was a long term friend and supporter of community\nFoundation for Rural and Regional Jane Hunt, The Front Project foundations. It was under her leadership as Director of the\nRenewal Andrew Johnson, Reichstein Office for the Community Sector that the sector received the\nGiveOUT Foundation matched granting incentive that seeded so many community\nInner North Community Foundation Peter Mares, Cranlana Centre foundations across Victoria. This single act – one of many in an\namazing career – means that Victoria now has more community\nPaul Ramsay Foundation Regional for Ethical Leadership\nfoundations than any other state in Australia, Lynne is survived\nArts Victoria Harriet McCallum, Mannifera\nby her husband and ACF Founder Hayden Raysmith.\nReichstein Foundation Streetsmart Roxanne Moore, National\nAboriginal and Torres Strait\nThe Funding Network\nIslander Legal Service\nMillie Rooney, Australia reMADE\nPATRONS\nJohn Spierings, formerly\nHayden Raysmith AM Reichstein Foundation\n O ur Patrons, Marion Webster OAM and Hayden Raysmith AM, meet with members of our\nMarion Webster OAM Malinda Wink, Mannifera giving community.\n74 75\nAUSTRALIAN COMMUNITIES FOUNDATION",
+              "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 6,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation's listed funding partners included the Australian Environmental Grantmakers Network, Australian Progress, Centre for Multicultural Youth, Documentary Australia Foundation, Ecstra, Foundation for Rural and Regional Renewal, GiveOUT, Inner North Community Foundation, Paul Ramsay Foundation, Regional Arts Victoria, Reichstein Foundation, Streetsmart, and The Funding Network.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Communities Foundation Limited",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0160"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-039",
+      "atom_index": 7,
+      "subject": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "proposition": "Australian Communities Foundation listed in-kind external advisers for its Impact Fund, including Arnold Bloch Leibler, Bell Potter, Hall and Wilcox, Herbert Smith Freehills, and others named in the source.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Impact Fund",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2019/20",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035",
+      "mapped_review_evidence_ids": [
+        "RE-0160"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    }
+  ]
+}

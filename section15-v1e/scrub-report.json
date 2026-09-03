@@ -1,0 +1,16 @@
+{
+  "scanned_files": [
+    "section15-v1e-compact-review.json",
+    "section15-v1e-compact-summary.json",
+    "README.md"
+  ],
+  "findings": {
+    "api_key_or_token": 0,
+    "authorization_header": 0,
+    "local_path": 0,
+    "email": 0
+  },
+  "potential_secret_detected": false,
+  "provider_calls": 0,
+  "email_redaction": "all source-material email addresses replaced with [public contact email omitted]"
+}

@@ -1,0 +1,2127 @@
+{
+  "subject": "World Vision Australia",
+  "atoms": [
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 0,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported 172,556 children, 217,958 supporters, $391.9 million raised, and 327 projects in 40 countries in its 2024 snapshot.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0001"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 1,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported that 84% of total operating expenses were used for field programs and advocacy work during 2024.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0001"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 2,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported making a material difference in the lives of over 7.5 million people across 40 countries during 2024.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Statement by the Board Chair in the 2024 annual report."
+      ],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0002"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 3,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported reaching over 7.5 million people in 40 countries during 2024 with generous Australians.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Statement by the Chief Executive Officer in the 2024 annual report."
+      ],
+      "raw_evidence_references": [
+        6
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0003"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 4,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia described itself as a Christian charity dedicated to empowering everyday Australians to help vulnerable children around the world live life to the fullest.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-description."
+      ],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0004"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 5,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported that its work includes transformational development, emergency relief, promoting justice, and engaging Australians to support vulnerable children.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-description."
+      ],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0004"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 6,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported serving all people regardless of religion, race, ethnicity, or gender, and collaborating with people of all faiths and with people who share its values.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-description."
+      ],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0004"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 7,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported being part of the global World Vision Partnership, which has more than 34,000 staff in nearly 100 countries.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "raw_evidence_references": [
+        7
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0004"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 8,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported that its 327 projects in 40 countries reached 7,554,870 people.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report; page presents this as a project/program reach figure."
+      ],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0005"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 9,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported that Australian sponsors and donors provide funds for World Vision field offices to run relief and development projects, with technical support from the World Vision Australia team.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0005"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 10,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported working directly with First Nations communities in Australia to run activities and ensure those communities drive their own development.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "raw_evidence_references": [
+        8
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0005"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-001",
+      "atom_index": 11,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia stated that it is committed to working with Aboriginal and Torres Strait Islander peoples and to maintaining and strengthening respectful partnerships and relationships with Australian First Nations peoples.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Statement in the organisation's acknowledgment of country."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0006"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 0,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In FY24, World Vision Australia worked with partners in 40 countries across 327 projects, and everyday Australians reached 7.5 million people through supporting its work.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0007"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 1,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In FY24, World Vision Australia had 92 Area Programs undertaking 226 projects across 21 countries and opened 11 new Area Programs.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0007"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 2,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In FY24, 319,706 people participated in World Vision Australia's Australian NGO Cooperation Program across 32 projects in 20 countries.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0007"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 3,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia delivers humanitarian response and international community development programming across five key sectors: livelihoods; health and nutrition; education; water, sanitation and hygiene; and child protection.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0007"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 4,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In FY24, World Vision Australia's sector reach included 146 livelihoods projects in 26 countries reaching over 2,353,454 people; 58 health and nutrition projects in 25 countries reaching over 1,385,108 people; 56 education projects in 24 countries reaching over 625,797 people; 33 water and sanitation projects in 14 countries reaching over 724,550 people; and 32 child protection projects in 14 countries reaching over 655,540 people.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Sector reach figures are calculated separately from total reach figures because a participant could be engaged in multiple projects at the same time."
+      ],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0008"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 5,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia undertakes scheduled evaluations and reviews of all its programs and projects to assess their impact on participants, with particular focus on vulnerable or excluded people, including people with disability, women and children.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0009"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 6,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In 2024, World Vision Australia conducted 12 evaluations and reviews, including seven evaluations and five mid-term reviews.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2024-01-01",
+      "effective_to": "2024-12-31",
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "Most of these projects were supported by the Australian Government through the Australian NGO Cooperation Program."
+      ],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0009"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-002",
+          "atom_index": 6,
+          "proposition": "In 2024, World Vision Australia conducted 12 evaluations and reviews, including seven evaluations and five mid-term reviews.",
+          "field": "effective_from",
+          "value": "2024-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 11,
+                "unit_sequence": 3
+              },
+              "text": "11\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nOUR COMMITMENT We are committed to demonstrating a credible account of change\nthrough our programs.\nTO ACCOUNTABILITY We undertake scheduled evaluations and reviews of all our\nprograms and projects to assess their impact on the lives of\nparticipants. We focus especially on those who are the most\nvulnerable or excluded, including people with disability, women\nand children. Insights and lessons learned from these assessments\nare used to improve the quality and effectiveness of current and\nnew projects and programs.\nIn 2024, we conducted 12 evaluations and reviews, including\nseven evaluations and five mid-term reviews. Most of these\nprojects are supported by the Australian Government through the\nAustralian NGO Cooperation Program (ANCP). Our ANCP projects\nare complex and often bring several sectors of community\ndevelopment together. This year, substantial work took place\nacross five programs: climate action and natural resource\nmanagement; economic empowerment; food security, health\nand nutrition; water, sanitation and hygiene; and child protection,\neducation and rights.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-002",
+          "atom_index": 6,
+          "proposition": "In 2024, World Vision Australia conducted 12 evaluations and reviews, including seven evaluations and five mid-term reviews.",
+          "field": "effective_to",
+          "value": "2024-12-31",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 11,
+                "unit_sequence": 3
+              },
+              "text": "11\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nOUR COMMITMENT We are committed to demonstrating a credible account of change\nthrough our programs.\nTO ACCOUNTABILITY We undertake scheduled evaluations and reviews of all our\nprograms and projects to assess their impact on the lives of\nparticipants. We focus especially on those who are the most\nvulnerable or excluded, including people with disability, women\nand children. Insights and lessons learned from these assessments\nare used to improve the quality and effectiveness of current and\nnew projects and programs.\nIn 2024, we conducted 12 evaluations and reviews, including\nseven evaluations and five mid-term reviews. Most of these\nprojects are supported by the Australian Government through the\nAustralian NGO Cooperation Program (ANCP). Our ANCP projects\nare complex and often bring several sectors of community\ndevelopment together. This year, substantial work took place\nacross five programs: climate action and natural resource\nmanagement; economic empowerment; food security, health\nand nutrition; water, sanitation and hygiene; and child protection,\neducation and rights.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 7,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia developed an evidence-building strategy in 2020 aimed at improving how it collects, aggregates and uses evidence of impact.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2020-01-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0010"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-002",
+          "atom_index": 7,
+          "proposition": "World Vision Australia developed an evidence-building strategy in 2020 aimed at improving how it collects, aggregates and uses evidence of impact.",
+          "field": "effective_from",
+          "value": "2020-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 13,
+                "unit_sequence": 5
+              },
+              "text": "13\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nTHE WAY In 2020, we developed an evidence-building strategy aimed at improving the way we collect,\naggregate and utilise evidence of impact. This has enabled us to generate credible evidence of\nour impact and effectiveness at the portfolio level. We publicly disseminate results from a series\nWE MEASURE\nof meta-reviews, meta-learning and case studies. For wider dissemination of our impact at scale,\nwe are exploring the use of Artificial Intelligence (AI) to translate our findings into succinct impact\nstatements and stories across our portfolio of projects.\nIMPACT\nOur evidence building and research agenda is focused on three priority evidence pillars:\nclimate action and regenerative environment; economic empowerment; and food security,\nhealth and nutrition; as well as cross-cutting themes on gender equality, disability and social\ninclusion.\nIt is implemented through our evidence building framework, involving the use of a standardised\nmonitoring and evaluation approach. This is to ensure a minimum level of quality assurance and\nconsistency in selecting a set of priority indicators for each evidence pillar. We also use a set of\nguidance notes, tools and ongoing training to build capacity and support national project teams\nin countries where we operate.\nIn 2024, we concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural\nRegeneration (FMNR), FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 8,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "In 2024, World Vision Australia concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural Regeneration, the FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2024-01-01",
+      "effective_to": "2024-12-31",
+      "reporting_period": "2024",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0010"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-002",
+          "atom_index": 8,
+          "proposition": "In 2024, World Vision Australia concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural Regeneration, the FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+          "field": "effective_from",
+          "value": "2024-01-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 13,
+                "unit_sequence": 5
+              },
+              "text": "13\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nTHE WAY In 2020, we developed an evidence-building strategy aimed at improving the way we collect,\naggregate and utilise evidence of impact. This has enabled us to generate credible evidence of\nour impact and effectiveness at the portfolio level. We publicly disseminate results from a series\nWE MEASURE\nof meta-reviews, meta-learning and case studies. For wider dissemination of our impact at scale,\nwe are exploring the use of Artificial Intelligence (AI) to translate our findings into succinct impact\nstatements and stories across our portfolio of projects.\nIMPACT\nOur evidence building and research agenda is focused on three priority evidence pillars:\nclimate action and regenerative environment; economic empowerment; and food security,\nhealth and nutrition; as well as cross-cutting themes on gender equality, disability and social\ninclusion.\nIt is implemented through our evidence building framework, involving the use of a standardised\nmonitoring and evaluation approach. This is to ensure a minimum level of quality assurance and\nconsistency in selecting a set of priority indicators for each evidence pillar. We also use a set of\nguidance notes, tools and ongoing training to build capacity and support national project teams\nin countries where we operate.\nIn 2024, we concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural\nRegeneration (FMNR), FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-002",
+          "atom_index": 8,
+          "proposition": "In 2024, World Vision Australia concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural Regeneration, the FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+          "field": "effective_to",
+          "value": "2024-12-31",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 13,
+                "unit_sequence": 5
+              },
+              "text": "13\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nTHE WAY In 2020, we developed an evidence-building strategy aimed at improving the way we collect,\naggregate and utilise evidence of impact. This has enabled us to generate credible evidence of\nour impact and effectiveness at the portfolio level. We publicly disseminate results from a series\nWE MEASURE\nof meta-reviews, meta-learning and case studies. For wider dissemination of our impact at scale,\nwe are exploring the use of Artificial Intelligence (AI) to translate our findings into succinct impact\nstatements and stories across our portfolio of projects.\nIMPACT\nOur evidence building and research agenda is focused on three priority evidence pillars:\nclimate action and regenerative environment; economic empowerment; and food security,\nhealth and nutrition; as well as cross-cutting themes on gender equality, disability and social\ninclusion.\nIt is implemented through our evidence building framework, involving the use of a standardised\nmonitoring and evaluation approach. This is to ensure a minimum level of quality assurance and\nconsistency in selecting a set of priority indicators for each evidence pillar. We also use a set of\nguidance notes, tools and ongoing training to build capacity and support national project teams\nin countries where we operate.\nIn 2024, we concluded three meta-reviews: Partnerships for Scaling Farmer Managed Natural\nRegeneration (FMNR), FMNR Evidence Gap Map, and nutrition-sensitive agriculture.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-002",
+      "atom_index": 9,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia's independent meta-review of nutrition-sensitive agriculture programming covered 13 projects across nine countries.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "The past year relative to the report",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The programming was funded by DFAT, ANCP, the European Union and the World Bank."
+      ],
+      "raw_evidence_references": [
+        6
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0011"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 0,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia has ABN 28004778081.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [],
+      "evidence_reference_validation": {
+        "valid": false,
+        "unsupported_ids": [],
+        "missing_supporting": true
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": null,
+      "mapped_review_evidence_ids": [],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 1,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported FY24 total income of $391.9 million, compared with $442.7 million in FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 compared with FY23",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 2,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported FY24 total expenditure of $419.2 million, compared with $439.3 million in FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 compared with FY23",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 3,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported a FY24 deficit of $27.3 million, compared with a FY23 surplus of $3.4 million.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 compared with FY23",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2,
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012",
+        "RE-0013"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 4,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported FY24 cash income of $301.3 million and non-monetary donations and grants of $90.6 million.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 5,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported FY24 expenditure of $240.0 million in monetary funds to international programs, $5.3 million in monetary funds to domestic programs, and $90.3 million in non-monetary expenditure.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2,
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012",
+        "RE-0013"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 6,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported 172,556 sponsorships during FY24.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0013"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 7,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia measured 1,501 tonnes of carbon dioxide equivalent before offsets in FY24, compared with 1,583 tonnes in FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 compared with FY23",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The measurement covered selected activities and consumption items rather than all emissions associated with World Vision Australia's activities."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0014"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 8,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported that its measured emissions after offsets were zero tonnes of carbon dioxide equivalent in FY24 and FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 and FY23",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The reported offsets were purchased from World Vision projects and offset 1,501 tonnes in FY24 and 1,583 tonnes in FY23."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0014"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 9,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia has set a target of net zero emissions for its measured key indicators.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024 Annual Report",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The target applies to the key indicators measured and reported in the environmental management disclosure."
+      ],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0014"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 10,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is registered with the Australian Charities and Not-for-profits Commission as a large charity.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024 Annual Report",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-003",
+      "atom_index": 11,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is a signatory to the ACFID Code of Conduct.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024 Annual Report",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": false,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0012"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 0,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported total revenue of $391.9 million for FY24, compared with $442.7 million for FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0015",
+        "RE-0016"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 0,
+          "proposition": "World Vision Australia reported total revenue of $391.9 million for FY24, compared with $442.7 million for FY23.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            },
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 0,
+          "proposition": "World Vision Australia reported total revenue of $391.9 million for FY24, compared with $442.7 million for FY23.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            },
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 1,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported total expenditure of $419.264 million for FY24, compared with $439.275 million for FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0016"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 1,
+          "proposition": "World Vision Australia reported total expenditure of $419.264 million for FY24, compared with $439.275 million for FY23.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 1,
+          "proposition": "World Vision Australia reported total expenditure of $419.264 million for FY24, compared with $439.275 million for FY23.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 2,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported a net deficit of $27.349 million for FY24, compared with a surplus of $3.422 million for FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0015",
+        "RE-0016"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 2,
+          "proposition": "World Vision Australia reported a net deficit of $27.349 million for FY24, compared with a surplus of $3.422 million for FY23.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            },
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 2,
+          "proposition": "World Vision Australia reported a net deficit of $27.349 million for FY24, compared with a surplus of $3.422 million for FY23.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            },
+            {
+              "evidence_id": 5,
+              "structural_locator": {
+                "kind": "page",
+                "page": 24,
+                "unit_sequence": 5
+              },
+              "text": "24\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINCOME\nSTATEMENT\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nINCOME $’000 $’000 EXPENDITURE $’000 $’000\nDonations and gifts International aid and development programs expenditure\nMonetary International programs\n– Pledge programs 3 100,544 107,164 – Funds to international programs 4 240,041 197,706\n– Appeals, donations and gifts 3 26,193 25,508 – Program support costs 11,777 10,526\nNon-monetary 251,818 208,232\n– Donated goods and assets 3 247 506 Community education 2,770 2,250\n– Grants (multilateral) 3 90,310 154,250 Fundraising costs\n217,294 287,428 – Public 38,994 34,602\nBequests and legacies – Government, multilateral and private 2,705 2,514\n3 7,455 4,305\n- Monetary\nAccountability and administration 26,240 30,562\nGrants\nCommercial activities expenditure 1,078 1,164\n– DFAT 3 76,873 62,817\nNon-monetary expenditure 4, 5(b) 90,310 154,250\n– Other Australian 3 4,264 3,255\nTotal international aid and development programs expenditure 413,915 433,574\n– Other overseas 3 82,547 81,253\nDomestic programs expenditure 5,349 5,701\n163,684 147,325\nTOTAL EXPENDITURE 5(a) 419,264 439,275\nInvestment income 3 1,760 1,870\nNet (deficit)/surplus of income over expenditure (27,349) 3,422\nOther income 3 1,722 1,769\nThe above should be read in conjunction with the accompanying notes which can be found on our website in\nthe full version of our audited Annual Financial Statements for the year ended 30 September 2024.\nTOTAL INCOME 391,915 442,697",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 3,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported $335.6 million in total funds to international and domestic programs for FY24, compared with $357.7 million for FY23.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0015"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 3,
+          "proposition": "World Vision Australia reported $335.6 million in total funds to international and domestic programs for FY24, compared with $357.7 million for FY23.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 3,
+          "proposition": "World Vision Australia reported $335.6 million in total funds to international and domestic programs for FY24, compared with $357.7 million for FY23.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 4,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia reported international expenditure of $148.2 million in Africa, $124.7 million in Asia-Pacific, $51.4 million in the Middle East/Eastern Europe, and $6.1 million in global operations and other for FY24.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0015"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 4,
+          "proposition": "World Vision Australia reported international expenditure of $148.2 million in Africa, $124.7 million in Asia-Pacific, $51.4 million in the Middle East/Eastern Europe, and $6.1 million in global operations and other for FY24.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 4,
+          "proposition": "World Vision Australia reported international expenditure of $148.2 million in Africa, $124.7 million in Asia-Pacific, $51.4 million in the Middle East/Eastern Europe, and $6.1 million in global operations and other for FY24.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 20,
+                "unit_sequence": 1
+              },
+              "text": "20\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nAfrica Asia-Pacific\nINTERNATIONAL\nEXPENDITURE\n$148.2m $124.7m\nBY REGION\n45% 38%\nIN FY24\nInformation on the amounts expended in countries within each of the\nregions can be found at note four from page 23 of our audited\nAnnual Financial Statements for the year ended 30 September 2024,\navailable on our website. $51.4m $6.1m\nFY24 saw a shift in expenditure back towards the Asia-Pacific region 16% 1%\nas declines through Africa, the Middle East and Eastern Europe were\ncoupled with growth in the Asia-Pacific. Overall expenditure declined\nyear on year, driven by substantial declines in non-cash World Food\nProgramme disbursements. This was due to World Food Programme\nfundraising challenges reducing the available pool of funds for World\nMiddle East/Eastern Europe Global operations and other\nVision Australia to access and saw a particular decline in East Africa and\nthe Middle East/Eastern Europe regions. Asia-Pacific also saw favourable\ntiming of disbursement recognition compared to previous years.\nDisbursements by region\nWe have also included disbursements towards “Global operations and\n$300m\nother” in the chart. These disbursements are for global management\nFY22\nand expertise of the World Vision International Partnership and also for\nFY23\nthe Partnership’s international advocacy activities such as ending all\nFY24\nforms of violence against children, child and maternal health, and the $250m\nprotection of children during conflict and crisis. As explained on\npage 21, our programs are implemented via a network of National\nOffices under the oversight of the Partnership which coordinates\n$200m\nactivities such as the transfer of funds and strategic operations.\nTechnical experts, strategists and global leaders in the Partnership\nprovide global strategy and specialised expertise. Utilising this expertise\nand experience enables us to improve our efficiency and maximise $150m\neconomies of scale.\nNET (DEFICIT)/SURPLUS\n$100m\nOF INCOME OVER EXPENDITURE\nOverall, total revenue for FY24 was $391.9m (FY23: $442.7m), total funds\nto international and domestic programs was $335.6m (FY23: $357.7m) $50m\nand other expenditure was $83.6m (FY23: $81.7m) resulting in a deficit in\nFY24 of $27.3m (FY23: Surplus of $3.4m).\nAfrica Asia-Pacific Middle East/ Global operations\nEastern Europe and other",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 5,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia and retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0017"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 6,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia transfers funds for overseas projects to the World Vision Partnership Treasury Office, which provides the funds to field projects based on approved plans.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0017"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 7,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia’s accounts are audited annually by Grant Thornton, and its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0017"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 8,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia’s directors declared on 22 November 2024 that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2024-11-22",
+      "effective_to": "2024-11-22",
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0018"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 8,
+          "proposition": "World Vision Australia’s directors declared on 22 November 2024 that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable.",
+          "field": "effective_from",
+          "value": "2024-11-22",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 22,
+                "unit_sequence": 3
+              },
+              "text": "22\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nSUMMARISED\nFINANCIAL REPORT\nEXTRACTS FROM OUR DECLARATION BY DIRECTORS\nAUDITED SUMMARY\nIn accordance with a resolution of the Board of Directors of World Vision Australia, the Directors\nFINANCIAL STATEMENTS\ndeclare that in their opinion:\nSet out on the following pages are extracts from\n(a) There are reasonable grounds to believe that the Company will be able to pay all of its debts\nour Summary Financial Statements for the year\nas and when they become due and payable.\nended 30 September 2024:\n(b) The summary financial statements set out on pages 24-27 have been prepared in\nDeclaration by Directors Page 22\naccordance with Subdivision 60-C of the Australian Charities and Not-for-profits Commission Act\nIndependent Auditor’s Report Page 23 2012 (Cth), including:\nIncome Statement Page 24\ni. giving a true and fair view of the Company’s financial position as at 30 September 2024 and of\nStatement of Comprehensive Income Page 25 its performance for the year ended on that date; and\nStatement of Financial Position Page 26\nii. complying with Australian Accounting Standards (including the Australian Accounting\nStatement of Changes in Equity Page 27 Interpretations) and the Australian Charities and Not-for-profits Commission Regulations 2022 (Cth).\n(c) The summary financial statements and associated records of the Company have been\nproperly kept during the year ended 30 September 2024 in accordance with the provisions of\nthe Charitable Fundraising Act 1991 (NSW), the regulations under that Act and the conditions\nattached to organisation’s authority. The internal controls exercised by the Company are\nappropriate and effective in accounting for all income received and applied by the Company\nfrom any of its fundraising appeals.\nSigned in accordance with subsection 60.15(2) of the Australian Charities and Not-for-profit\nCommission Regulations 2022 (Cth).\nPeter Trent Alicia Leis\nChairman Director\n22 November 2024",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 8,
+          "proposition": "World Vision Australia’s directors declared on 22 November 2024 that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable.",
+          "field": "effective_to",
+          "value": "2024-11-22",
+          "mapped_evidence": [
+            {
+              "evidence_id": 3,
+              "structural_locator": {
+                "kind": "page",
+                "page": 22,
+                "unit_sequence": 3
+              },
+              "text": "22\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nSUMMARISED\nFINANCIAL REPORT\nEXTRACTS FROM OUR DECLARATION BY DIRECTORS\nAUDITED SUMMARY\nIn accordance with a resolution of the Board of Directors of World Vision Australia, the Directors\nFINANCIAL STATEMENTS\ndeclare that in their opinion:\nSet out on the following pages are extracts from\n(a) There are reasonable grounds to believe that the Company will be able to pay all of its debts\nour Summary Financial Statements for the year\nas and when they become due and payable.\nended 30 September 2024:\n(b) The summary financial statements set out on pages 24-27 have been prepared in\nDeclaration by Directors Page 22\naccordance with Subdivision 60-C of the Australian Charities and Not-for-profits Commission Act\nIndependent Auditor’s Report Page 23 2012 (Cth), including:\nIncome Statement Page 24\ni. giving a true and fair view of the Company’s financial position as at 30 September 2024 and of\nStatement of Comprehensive Income Page 25 its performance for the year ended on that date; and\nStatement of Financial Position Page 26\nii. complying with Australian Accounting Standards (including the Australian Accounting\nStatement of Changes in Equity Page 27 Interpretations) and the Australian Charities and Not-for-profits Commission Regulations 2022 (Cth).\n(c) The summary financial statements and associated records of the Company have been\nproperly kept during the year ended 30 September 2024 in accordance with the provisions of\nthe Charitable Fundraising Act 1991 (NSW), the regulations under that Act and the conditions\nattached to organisation’s authority. The internal controls exercised by the Company are\nappropriate and effective in accounting for all income received and applied by the Company\nfrom any of its fundraising appeals.\nSigned in accordance with subsection 60.15(2) of the Australian Charities and Not-for-profit\nCommission Regulations 2022 (Cth).\nPeter Trent Alicia Leis\nChairman Director\n22 November 2024",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-004",
+      "atom_index": 9,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "The independent auditor reported that World Vision Australia’s summary financial statements for the year ended 30 September 2024 were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "Year ended 30 September 2024",
+      "epistemic_status": "supported",
+      "qualifications": [
+        "The auditor’s report was dated 22 November 2024."
+      ],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0019"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 9,
+          "proposition": "The independent auditor reported that World Vision Australia’s summary financial statements for the year ended 30 September 2024 were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 23,
+                "unit_sequence": 4
+              },
+              "text": "23\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINDEPENDENT\nAUDITOR’S\nREPORT\nOUR OPINION The audited financial report and our report thereon\nWe expressed an unmodified audit opinion on the financial report in our report dated\nIn our opinion, the summary financial statements as derived from the audited financial\n22 November 2024.\nreport of World Vision Australia for the year ended 30 September 2024:\na) are consistent, in all material respects, with the audited financial report of World Vision Directors’ responsibility for the summary financial statements\nAustralia for the year ended 30 September 2024, in accordance with the basis of preparation The directors of World Vision Australia are responsible for the preparation of the summary\ndescribed in the summary financial statements; and financial statements in accordance with the basis of preparation as described in the audited\nfinancial report of World Vision Australia.\nb) comply, in all material respects, with Section 8.3.2 of the Australian Council for International\nDevelopment (ACFID) Code of Conduct.\nAuditor’s responsibility\nSummary financial statements Our responsibility is to express an opinion on whether the summary financial statements\nare consistent, in all material respects with the audited financial report and comply, in all\nThe summary financial statements do not contain all the disclosures required by Australian\nmaterial respects, with Section 8.3.2 of the Australian Council for International Development\nAccounting Standards and Division 60 of the Australian Charities and Not-for-profits\n(ACFID) Code of Conduct based on our procedures, which were conducted in accordance\nCommission (ACNC) Act 2012 applied in the preparation of the audited financial report of\nwith Australian Auditing Standard ASA 810 Engagements to Report on Summary Financial\nWorld Vision Australia for the year ended 30 September 2024. Reading the summary financial\nStatements.\nstatements, therefore, is not a substitute for reading the audited financial report of World\nVision Australia.\nGrant Thornton Audit Pty Ltd\nChartered Accountants\nP M Glynn\nPartner – Audit & Assurance\nMelbourne, 22 November 2024",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-004",
+          "atom_index": 9,
+          "proposition": "The independent auditor reported that World Vision Australia’s summary financial statements for the year ended 30 September 2024 were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 23,
+                "unit_sequence": 4
+              },
+              "text": "23\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nINDEPENDENT\nAUDITOR’S\nREPORT\nOUR OPINION The audited financial report and our report thereon\nWe expressed an unmodified audit opinion on the financial report in our report dated\nIn our opinion, the summary financial statements as derived from the audited financial\n22 November 2024.\nreport of World Vision Australia for the year ended 30 September 2024:\na) are consistent, in all material respects, with the audited financial report of World Vision Directors’ responsibility for the summary financial statements\nAustralia for the year ended 30 September 2024, in accordance with the basis of preparation The directors of World Vision Australia are responsible for the preparation of the summary\ndescribed in the summary financial statements; and financial statements in accordance with the basis of preparation as described in the audited\nfinancial report of World Vision Australia.\nb) comply, in all material respects, with Section 8.3.2 of the Australian Council for International\nDevelopment (ACFID) Code of Conduct.\nAuditor’s responsibility\nSummary financial statements Our responsibility is to express an opinion on whether the summary financial statements\nare consistent, in all material respects with the audited financial report and comply, in all\nThe summary financial statements do not contain all the disclosures required by Australian\nmaterial respects, with Section 8.3.2 of the Australian Council for International Development\nAccounting Standards and Division 60 of the Australian Charities and Not-for-profits\n(ACFID) Code of Conduct based on our procedures, which were conducted in accordance\nCommission (ACNC) Act 2012 applied in the preparation of the audited financial report of\nwith Australian Auditing Standard ASA 810 Engagements to Report on Summary Financial\nWorld Vision Australia for the year ended 30 September 2024. Reading the summary financial\nStatements.\nstatements, therefore, is not a substitute for reading the audited financial report of World\nVision Australia.\nGrant Thornton Audit Pty Ltd\nChartered Accountants\nP M Glynn\nPartner – Audit & Assurance\nMelbourne, 22 November 2024",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 0,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia’s ABN is 28 004 778 081.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020",
+        "RE-0021"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 1,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "1969-06-19",
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-005",
+          "atom_index": 1,
+          "proposition": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969.",
+          "field": "effective_from",
+          "value": "1969-06-19",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 28,
+                "unit_sequence": 4
+              },
+              "text": "28\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nABOUT THIS\nANNUAL\nREPORT\nThis Annual Report covers activities made possible by generous World Vision Australia ACCREDITATIONS\nWorld Vision Australia donors and supporters for the period\nABN 28 004 778 081 Fully accredited by the Australian Government through its\n1 October 2023 to 30 September 2024 – our financial year. Department of Foreign Affairs and Trade. The accreditation process\n1 Vision Drive Burwood East Victoria 3151 provides the Australian Government and the Australian public with\nWorld Vision Australia is a vital part of the global World Vision REGISTRATIONS confidence that they are funding a professional, well managed,\ncommunity-based organisation capable of delivering efficient\nInternational Partnership, which enables millions of everyday\nPublic company limited by guarantee under the Corporations Act development outcomes.\npeople to create better futures for the world’s most vulnerable 2001 (Cth) from 19 June 1969.\nMember of the Australian Council for International Development\nchildren. Achievements included in this report made by the\nRegistered charity with the Australian Charities and Not-for-profits (ACFID) and adherent to the ACFID Code of Conduct.\nWorld Vision Partnership are acknowledged accordingly. Commission. The code defines minimum standards of governance,\nmanagement and accountability for non-government\nThe report has been prepared to respond to specific legal Endorsed by the Australian Taxation Office for charity tax organisations. It aims to improve international development\nrequirements and the Australian Council For International concessions and as a Deductible Gift Recipient (DGR) as a Public outcomes and increase stakeholder trust by enhancing\nBenevolent Institution and for the operation of an Overseas Aid transparency and accountability of signatory organisations.\nDevelopment (ACFID) Code of Conduct. We encourage you Fund.\nto read it together with the most recent World Vision International FEEDBACK AND COMPLAINTS\nFundraising throughout Australia and registered under fundraising\nAccountability Report. legislation as required: Feedback on this report and on our operations and conduct more\ngenerally can be sent to [public contact email omitted] or in\nNSW Registration no. CFN13579 writing to:\nQLD Registration no. CH0675 Supporter Services\n1 Vision Drive\nSA Licence no. CCP2438\nBurwood East Vic 3151\nTAS Registration no. 1\nWe will acknowledge feedback and give a response.\nVIC Registration no. FR0010214\nWA Licence no. CC18076",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 2,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is a registered charity with the Australian Charities and Not-for-profits Commission.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 3,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is fully accredited by the Australian Government through the Department of Foreign Affairs and Trade.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 4,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is a member of the Australian Council for International Development and adheres to the ACFID Code of Conduct.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        3,
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0022",
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 5,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is endorsed by the Australian Taxation Office for charity tax concessions and as a Deductible Gift Recipient, a Public Benevolent Institution, and for operation of an Overseas Aid Fund.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 6,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia is a Christian relief, development and advocacy organisation dedicated to working with children, families and communities to overcome poverty and injustice.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0021"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 7,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia’s annual report covers the period from 1 October 2023 to 30 September 2024.",
+      "scope_kind": "reporting_group",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-005",
+          "atom_index": 7,
+          "proposition": "World Vision Australia’s annual report covers the period from 1 October 2023 to 30 September 2024.",
+          "field": "effective_from",
+          "value": "2023-10-01",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 28,
+                "unit_sequence": 4
+              },
+              "text": "28\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nABOUT THIS\nANNUAL\nREPORT\nThis Annual Report covers activities made possible by generous World Vision Australia ACCREDITATIONS\nWorld Vision Australia donors and supporters for the period\nABN 28 004 778 081 Fully accredited by the Australian Government through its\n1 October 2023 to 30 September 2024 – our financial year. Department of Foreign Affairs and Trade. The accreditation process\n1 Vision Drive Burwood East Victoria 3151 provides the Australian Government and the Australian public with\nWorld Vision Australia is a vital part of the global World Vision REGISTRATIONS confidence that they are funding a professional, well managed,\ncommunity-based organisation capable of delivering efficient\nInternational Partnership, which enables millions of everyday\nPublic company limited by guarantee under the Corporations Act development outcomes.\npeople to create better futures for the world’s most vulnerable 2001 (Cth) from 19 June 1969.\nMember of the Australian Council for International Development\nchildren. Achievements included in this report made by the\nRegistered charity with the Australian Charities and Not-for-profits (ACFID) and adherent to the ACFID Code of Conduct.\nWorld Vision Partnership are acknowledged accordingly. Commission. The code defines minimum standards of governance,\nmanagement and accountability for non-government\nThe report has been prepared to respond to specific legal Endorsed by the Australian Taxation Office for charity tax organisations. It aims to improve international development\nrequirements and the Australian Council For International concessions and as a Deductible Gift Recipient (DGR) as a Public outcomes and increase stakeholder trust by enhancing\nBenevolent Institution and for the operation of an Overseas Aid transparency and accountability of signatory organisations.\nDevelopment (ACFID) Code of Conduct. We encourage you Fund.\nto read it together with the most recent World Vision International FEEDBACK AND COMPLAINTS\nFundraising throughout Australia and registered under fundraising\nAccountability Report. legislation as required: Feedback on this report and on our operations and conduct more\ngenerally can be sent to [public contact email omitted] or in\nNSW Registration no. CFN13579 writing to:\nQLD Registration no. CH0675 Supporter Services\n1 Vision Drive\nSA Licence no. CCP2438\nBurwood East Vic 3151\nTAS Registration no. 1\nWe will acknowledge feedback and give a response.\nVIC Registration no. FR0010214\nWA Licence no. CC18076",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        },
+        {
+          "packet_id": "s15v1e-005",
+          "atom_index": 7,
+          "proposition": "World Vision Australia’s annual report covers the period from 1 October 2023 to 30 September 2024.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 4,
+              "structural_locator": {
+                "kind": "page",
+                "page": 28,
+                "unit_sequence": 4
+              },
+              "text": "28\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nABOUT THIS\nANNUAL\nREPORT\nThis Annual Report covers activities made possible by generous World Vision Australia ACCREDITATIONS\nWorld Vision Australia donors and supporters for the period\nABN 28 004 778 081 Fully accredited by the Australian Government through its\n1 October 2023 to 30 September 2024 – our financial year. Department of Foreign Affairs and Trade. The accreditation process\n1 Vision Drive Burwood East Victoria 3151 provides the Australian Government and the Australian public with\nWorld Vision Australia is a vital part of the global World Vision REGISTRATIONS confidence that they are funding a professional, well managed,\ncommunity-based organisation capable of delivering efficient\nInternational Partnership, which enables millions of everyday\nPublic company limited by guarantee under the Corporations Act development outcomes.\npeople to create better futures for the world’s most vulnerable 2001 (Cth) from 19 June 1969.\nMember of the Australian Council for International Development\nchildren. Achievements included in this report made by the\nRegistered charity with the Australian Charities and Not-for-profits (ACFID) and adherent to the ACFID Code of Conduct.\nWorld Vision Partnership are acknowledged accordingly. Commission. The code defines minimum standards of governance,\nmanagement and accountability for non-government\nThe report has been prepared to respond to specific legal Endorsed by the Australian Taxation Office for charity tax organisations. It aims to improve international development\nrequirements and the Australian Council For International concessions and as a Deductible Gift Recipient (DGR) as a Public outcomes and increase stakeholder trust by enhancing\nBenevolent Institution and for the operation of an Overseas Aid transparency and accountability of signatory organisations.\nDevelopment (ACFID) Code of Conduct. We encourage you Fund.\nto read it together with the most recent World Vision International FEEDBACK AND COMPLAINTS\nFundraising throughout Australia and registered under fundraising\nAccountability Report. legislation as required: Feedback on this report and on our operations and conduct more\ngenerally can be sent to [public contact email omitted] or in\nNSW Registration no. CFN13579 writing to:\nQLD Registration no. CH0675 Supporter Services\n1 Vision Drive\nSA Licence no. CCP2438\nBurwood East Vic 3151\nTAS Registration no. 1\nWe will acknowledge feedback and give a response.\nVIC Registration no. FR0010214\nWA Licence no. CC18076",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 8,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "For the year ended 30 September 2024, World Vision Australia reported total assets of $95.892 million, total liabilities of $38.771 million, and net assets of $57.121 million.",
+      "scope_kind": "reporting_group",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        2
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0023"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-005",
+          "atom_index": 8,
+          "proposition": "For the year ended 30 September 2024, World Vision Australia reported total assets of $95.892 million, total liabilities of $38.771 million, and net assets of $57.121 million.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 2,
+              "structural_locator": {
+                "kind": "page",
+                "page": 26,
+                "unit_sequence": 2
+              },
+              "text": "26\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nSTATEMENT OF\nFINANCIAL POSITION\nAS AT 30 SEPTEMBER 2024\nNotes FY24 FY23 Notes FY24 FY23\nASSETS $’000 $’000 LIABILITIES $’000 $’000\nCurrent assets Current liabilities\nCash and cash equivalents 6(a) 34,005 49,618 Accounts payable 6(e) 6,432 7,176\nReceivables 1,053 741 Provisions 7(c) 6,937 6,676\nPrepayments 2,101 1,841 Lease liabilities 6(f) 531 509\nOther financial assets 6(b) 11,040 9,628 Contract liabilities 3(b) 21,215 66,961\nUnrealised currency hedge 6(c) - 10,750 Unrealised currency hedge 6(c) 2,121 -\nLoan receivables 6(d) 108 107 Total current liabilities 37,236 81,322\nFulfilment costs 3(b) 28,134 86,501 Non-current liabilities\nTotal current assets 76,441 159,186 Provisions 7(c) 1,261 1,165\nNon-current assets Lease liabilities 6(f) 221 599\nUnrealised currency hedge 6(c) - 558 Unrealised currency hedge 6(c) 53 -\nReceivables 546 420 Total non-current liabilities 1,535 1,764\nLoan receivables 6(d) 1,478 1,039 TOTAL LIABILITIES 38,771 83,086\nProperty, computer hardware and equipment 7(a) 16,503 17,032 NET ASSETS 57,121 96,817\nIntangible assets 7(b) 257 674\nEquity\nRight of use asset 6(f) 667 994\nHedging reserve 6(c) (2,174) 11,308\nTotal non-current assets 19,451 20,717\nFVOCI reserve 1,128 (23)\nTOTAL ASSETS 95,892 179,903\nRetained earnings 58,167 85,532\nTotal equity 57,121 96,817\nThe above should be read in conjunction with the accompanying notes which can be found on our website in the full version of our audited Annual\nFinancial Statements for the year ended 30 September 2024.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 9,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "For the year ended 30 September 2024, World Vision Australia reported a deficit of income over expenditure of $27.349 million and total comprehensive loss of $39.696 million.",
+      "scope_kind": "reporting_group",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        1
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0024"
+      ],
+      "unsupported_exact_date_diagnostics": [
+        {
+          "packet_id": "s15v1e-005",
+          "atom_index": 9,
+          "proposition": "For the year ended 30 September 2024, World Vision Australia reported a deficit of income over expenditure of $27.349 million and total comprehensive loss of $39.696 million.",
+          "field": "effective_to",
+          "value": "2024-09-30",
+          "mapped_evidence": [
+            {
+              "evidence_id": 1,
+              "structural_locator": {
+                "kind": "page",
+                "page": 25,
+                "unit_sequence": 1
+              },
+              "text": "25\nAILARTSUA\nNOISIV\nDLROW\n|\n4202\ntropeR\nlaunnA\nSTATEMENT OF\nCOMPREHENSIVE\nINCOME\nFOR THE YEAR ENDED 30 SEPTEMBER 2024\nNotes FY24 FY23\n$’000 $’000\n(Deficit)/surplus of income over expenditure (27,349) 3,422\nOther comprehensive income\nItems that will not be reclassified subsequently to the income statement\nOCI related to derecognised shares transferred to retained earnings (16) 90\nChanges in the fair value of equity instruments at FVOCI 6(b) 1,151 470\nItems that may be reclassified subsequently to the income statement\nChanges in the fair value of cash flow hedges 6(c) (13,482) (9,461)\nOther comprehensive loss for the year (12,347) (8,901)\nTotal comprehensive loss for the year (39,696) (5,479)\nThe above should be read in conjunction with the accompanying notes which can be found on our website in the full version of our audited Annual Financial Statements for the year ended 30 September 2024.",
+              "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+            }
+          ],
+          "reason": "unsupported exact date"
+        }
+      ]
+    },
+    {
+      "packet_id": "s15v1e-005",
+      "atom_index": 10,
+      "subject": "World Vision Australia",
+      "abn": "28004778081",
+      "proposition": "World Vision Australia’s head office is at 1 Vision Drive, Burwood East, Victoria 3151.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "epistemic_status": "supported",
+      "qualifications": [],
+      "raw_evidence_references": [
+        4,
+        5
+      ],
+      "evidence_reference_validation": {
+        "valid": true,
+        "unsupported_ids": [],
+        "missing_supporting": false
+      },
+      "packet_offline_valid": true,
+      "representation_sha256": "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2",
+      "mapped_review_evidence_ids": [
+        "RE-0020",
+        "RE-0021"
+      ],
+      "unsupported_exact_date_diagnostics": []
+    }
+  ]
+}

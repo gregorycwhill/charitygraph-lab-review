@@ -1,0 +1,123 @@
+{
+  "experiment_id": "section15-v1e",
+  "bundle_schema": "charitygraph-semantic-lab-public-review-v1",
+  "subjects": [
+    {
+      "name": "World Vision Australia",
+      "abn": "28004778081",
+      "representation_shas": [
+        "c78b7d9740147b3ba9121db378bd65003d427871625267e7a963c1a347c0b4b2"
+      ]
+    },
+    {
+      "name": "Australian Red Cross Society",
+      "abn": "50169561394",
+      "representation_shas": [
+        "bf7f18de96b56af5a582b882470dec12e6cf50f3fac9fd0761049dc76ff81308"
+      ]
+    },
+    {
+      "name": "Australian Communities Foundation Limited",
+      "abn": "20077830347",
+      "representation_shas": [
+        "b60c3f52c6b140fc0a4cce821fdf31ecfaa0a9dafc16751e4141aca150926035"
+      ]
+    },
+    {
+      "name": "The Fred Hollows Foundation",
+      "abn": "46070556642",
+      "representation_shas": [
+        "7effa5031f84c15b1b99c750f9acd319c876e31fe50e277d2fe643771577ce2d"
+      ]
+    }
+  ],
+  "atom_counts_by_subject": {
+    "World Vision Australia": 55,
+    "Australian Red Cross Society": 331,
+    "Australian Communities Foundation Limited": 78,
+    "The Fred Hollows Foundation": 72
+  },
+  "valid_packet_counts": {
+    "World Vision Australia": null,
+    "Australian Red Cross Society": null,
+    "Australian Communities Foundation Limited": null,
+    "The Fred Hollows Foundation": null
+  },
+  "invalid_packets": {
+    "s15v1e-003": "atom 0 lacks supporting evidence",
+    "s15v1e-041": "atom 1 lacks supporting evidence"
+  },
+  "packet_ids_by_subject": {
+    "World Vision Australia": [
+      "s15v1e-001",
+      "s15v1e-002",
+      "s15v1e-003",
+      "s15v1e-004",
+      "s15v1e-005"
+    ],
+    "Australian Red Cross Society": [
+      "s15v1e-006",
+      "s15v1e-007",
+      "s15v1e-008",
+      "s15v1e-009",
+      "s15v1e-010",
+      "s15v1e-011",
+      "s15v1e-012",
+      "s15v1e-013",
+      "s15v1e-014",
+      "s15v1e-015",
+      "s15v1e-016",
+      "s15v1e-017",
+      "s15v1e-018",
+      "s15v1e-019",
+      "s15v1e-020",
+      "s15v1e-021",
+      "s15v1e-022",
+      "s15v1e-023",
+      "s15v1e-024",
+      "s15v1e-025",
+      "s15v1e-026",
+      "s15v1e-027",
+      "s15v1e-028",
+      "s15v1e-029",
+      "s15v1e-030",
+      "s15v1e-031",
+      "s15v1e-032"
+    ],
+    "Australian Communities Foundation Limited": [
+      "s15v1e-033",
+      "s15v1e-034",
+      "s15v1e-035",
+      "s15v1e-036",
+      "s15v1e-037",
+      "s15v1e-038",
+      "s15v1e-039"
+    ],
+    "The Fred Hollows Foundation": [
+      "s15v1e-040",
+      "s15v1e-041",
+      "s15v1e-042",
+      "s15v1e-043",
+      "s15v1e-044",
+      "s15v1e-045"
+    ]
+  },
+  "unsupported_exact_date_counts": {
+    "total": 289,
+    "by_field": {
+      "effective_from": 128,
+      "effective_to": 161
+    }
+  },
+  "files": {
+    "all_atoms": "all-atoms.json",
+    "compact_summary": "compact-summary.json",
+    "scrub_report": "scrub-report.json",
+    "subjects": {
+      "World Vision Australia": "subjects/world-vision-australia.json",
+      "Australian Red Cross Society": "subjects/australian-red-cross-society.json",
+      "Australian Communities Foundation Limited": "subjects/australian-communities-foundation-limited.json",
+      "The Fred Hollows Foundation": "subjects/fred-hollows-foundation.json"
+    }
+  }
+}
