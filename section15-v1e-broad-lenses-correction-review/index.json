@@ -1,0 +1,19 @@
+{
+  "experiment": "section15-v1e-broad-lenses-correction-v1",
+  "classification": "reconstructed corrected rerun, not exact replay",
+  "historical": {
+    "tasks": 344,
+    "candidates": 919,
+    "completed": 333,
+    "incomplete": 11,
+    "cost_usd": "0.229121"
+  },
+  "corrected": {
+    "tasks": 344,
+    "candidates": 438,
+    "completed": 334,
+    "incomplete": 10,
+    "cost_usd": "0.160001"
+  },
+  "provider_calls_this_tranche": 344
+}

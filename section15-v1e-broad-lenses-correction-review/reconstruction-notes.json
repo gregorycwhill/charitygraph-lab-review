@@ -1,0 +1,4 @@
+{
+  "historical_exact_request_payloads_retained": false,
+  "reconstruction_basis": "retained V1E packet/atom artefacts and historical task metadata"
+}
