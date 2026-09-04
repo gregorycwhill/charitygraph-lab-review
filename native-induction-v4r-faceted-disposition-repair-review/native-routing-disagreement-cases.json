@@ -1,0 +1,1126 @@
+[
+  {
+    "observation_id": "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Education and Child Protection"
+    },
+    "proposition": "Education and Child Protection is a named non-online program classified as Education (ID 170), with a reported location of Australia and beneficiaries including early-childhood children, children aged 6 to under 15, youth aged 15 to under 25, and Aboriginal and Torres Strait Islander people; the source also lists the reported overseas country set.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "native_candidate",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity",
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC and fundraising records report fundraising authority or registration entries for New South Wales, Queensland, South Australia, Tasmania, Victoria and online fundraising; the ACNC record also lists Western Australia and the Northern Territory fundraising entries without reference numbers.",
+    "luna_families": [
+      "regulatory_source_fact"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "regulatory_source_fact"
+    ],
+    "terra_facets": [
+      "fundraising_mode"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5",
+    "organisation": "World Vision Australia",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The registered office is 1 Vision Drive, East Burwood, Victoria 3151, Australia.",
+    "luna_families": [
+      "geography_location"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 3,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation states that its areas of expertise include strategic grantmaking, tax-effective giving, donor-advised funds, private ancillary funds, collective giving, workplace giving and family legacy.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "fundraising_mode",
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation describes itself as supporting and enabling smart, rewarding and effective giving.",
+    "luna_families": [
+      "position_or_commitment_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "ethos_conduct"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Agriculture and Food Security"
+    },
+    "proposition": "Agriculture and Food Security is a named non-online program classified as Food security (ID 14), serving the listed age groups, families, people with disabilities, females and overseas communities or charities in the reported countries including Afghanistan, Burundi, Democratic Republic of the Congo, Ethiopia, Indonesia, Kenya, Lebanon, Malawi, Myanmar, Papua New Guinea, Rwanda, Somalia, South Sudan, Sudan, Syria, Timor-Leste, Turkiye and Uganda.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "geography_location",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity",
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Health and Nutrition"
+    },
+    "proposition": "Health and Nutrition is a named non-online program classified as Health (ID 264), serving the listed age groups, families, people with disabilities and overseas communities or charities across the reported countries including Bangladesh, Brazil, Burundi, Cambodia, Chad, Colombia, Democratic Republic of the Congo, Ethiopia, Indonesia, Kenya, Laos, Myanmar, Nepal, Papua New Guinea, Sri Lanka, Tanzania, Timor-Leste, Uganda, Vietnam, Zambia and Zimbabwe.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "geography_location",
+      "native_candidate",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 3,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The company's principal activities are to provide administration and trustee services to Australian Communities Foundation, Australian Communities Foundation Extension Fund and Australian Communities Foundation Scholarship Fund, and professional services to customers and donors.",
+    "luna_families": [
+      "governance_role_or_structure",
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure",
+      "graph_relationship_instance",
+      "native_candidate",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity",
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+    "organisation": "World Vision Australia",
+    "section_id": 15,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation states that it adheres to the ACFID Code of Conduct and presents its FY25 financial statements in accordance with the Code’s presentation and disclosure requirements.",
+    "luna_families": [
+      "position_or_commitment_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "ethos_conduct",
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Martu Leadership Program"
+    },
+    "proposition": "A historical article reports the Martu Leadership Program as being delivered in partnership with Kanyirninpa Jukurrpa in the Pilbara.",
+    "luna_families": [
+      "graph_relationship_instance"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "graph_relationship_instance",
+      "native_candidate",
+      "temporal_history_event"
+    ],
+    "terra_facets": [
+      "operational_activity",
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81",
+    "organisation": "World Vision Australia",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "Grant Thornton Audit Pty Ltd was appointed as the external auditor for the year ended 30 September 2025.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure",
+      "regulatory_source_fact"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The official website describes Australian Communities Foundation as Australia's only national community foundation and says its community of givers comes from all over the country.",
+    "luna_families": [
+      "identity_attribute",
+      "population_beneficiary"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "identity_attribute",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:35c73756704b25a849c489f2def8bb9bd00c9d16208d759f",
+    "organisation": "World Vision Australia",
+    "section_id": 8,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "At 30 September 2025, reported total assets were $124.386 million, total liabilities were $50.968 million and net assets were $73.418 million; current assets were $105.434 million and current liabilities were $49.961 million.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:368f144319c0266b358758ccaad9163a40e9a3b78dd79e1d",
+    "organisation": "World Vision Australia",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation leases offices in multiple States, vehicles and photocopiers, and reported a fleet facility of $900,000 with $601,000 unutilised at the reporting date.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "capability_access"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Economic Empowerment"
+    },
+    "proposition": "Economic Empowerment is a named non-online program classified as Economic development (ID 133), serving the listed age groups, families, people with disabilities, females and overseas communities or charities in the reported countries including Bangladesh, Cambodia, Iraq, Kenya, Laos, Malawi, Myanmar, Papua New Guinea, Somalia, Sri Lanka, Timor-Leste, Uganda, Vanuatu, Vietnam, Zambia and Zimbabwe.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "geography_location",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation’s reported fundraising and resource mobilisation channels include pledge programs, sponsorship, appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "fundraising_mode"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:47e43e02de7dcda8e53cf2b97e7e3a5c910e90203b04cf1c",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 8,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "For the year ended 30 June 2025, the entity reported $0 government grants and $0 donations or bequests.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:49190fafe39704f5251f95ae43739c182f2751a6318e1d7a",
+    "organisation": "World Vision Australia",
+    "section_id": 16,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The FY25 financial report states that the company had no contingent liabilities or outstanding guarantees at 30 September 2025.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:574f3a9293a4cd888a6b1c5764dd7cf8ca3782a86394c1f4",
+    "organisation": "World Vision Australia",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The FY25 report identifies decreased grant income, shifted donor priorities, a 2.3% increase in operating costs and a 28.1% decrease in resources provided to the field compared with the prior year.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:58811bc14ef95a892a08d1dc0b69b3dc650e35f1899e1377",
+    "organisation": "World Vision Australia",
+    "section_id": 16,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The FY25 auditor’s independence declaration states that, to the auditor’s knowledge and belief, there were no contraventions of applicable professional conduct codes in relation to the audit.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "outcome_or_evaluation_observation"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:58b0163a7c5d17fb1be45ab320007cd60cb51201034ef1ce",
+    "organisation": "World Vision Australia",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The FY25 Directors’ Report identifies Peter Trent as Chair and lists Jon Seeley, Darryl Gardiner, Andrew Scipione, Charles Badenoch, Kate Harrison Brennan, Alicia Leis, Louise Mercer and Kylie Gerrard as directors in office during the year.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2",
+    "organisation": "World Vision Australia",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The 2025 annual information statement reports 89 Area Programs, 238 non-sponsorship projects and 42 partner countries, and also reports 89 Area Programs undertaking 222 projects across 22 countries.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Humanitarian and Emergency Affairs"
+    },
+    "proposition": "Humanitarian and Emergency Affairs is a named non-online program classified as Disasters and emergency management (ID 699), serving children, young people, adults, families, disaster victims and overseas communities or charities in the reported countries including Afghanistan, Bangladesh, Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Laos, Lebanon, Malawi, Mozambique, Myanmar, Nepal, Philippines, Somalia, South Sudan, Sri Lanka, Sudan, Syria, Turkiye, Uganda, Ukraine, Vanuatu and12",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "native_candidate",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+    "organisation": "World Vision Australia",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The stated long-term objectives include community-based sustainable transformational development focused especially on children; emergency relief for people affected by conflict or disaster; promotion of justice addressing unjust structures affecting poor communities; and public awareness leading to informed understanding, giving, involvement and prayer.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The website describes fundraising and giving pathways including contributing directly to a fund, supporting the Impact Fund, leaving a gift in a will and fundraising through a Named Fund.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow"
+    ],
+    "terra_facets": [
+      "capability_access",
+      "fundraising_mode"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:77fe3bb0ee30fed99d43f4c27fc4097dac23946ad5b89ffa",
+    "organisation": "World Vision Australia",
+    "section_id": 14,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "A historical article characterises World Vision Australia as a Christian organisation whose beliefs and activities are based on the Christian faith and a biblical framework.",
+    "luna_families": [
+      "position_or_commitment_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "identity_attribute",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "ethos_conduct"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:7e0a32bedb9605add3eac8c5ddf4563713996f913c833ad2",
+    "organisation": "World Vision Australia",
+    "section_id": 15,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The World Vision International Partnership is reported as undertaking advocacy on ending violence against children, child and maternal health, and protecting children during conflict and crisis.",
+    "luna_families": [
+      "position_or_commitment_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+    "organisation": "World Vision Australia",
+    "section_id": 13,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation reports adherence to the Australian Council for International Development Code of Conduct.",
+    "luna_families": [
+      "external_scheme_assignment"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "native_candidate",
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "ethos_conduct"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:8cf7d0846f245411c9faffee126ed83f5c991d777bba3198",
+    "organisation": "World Vision Australia",
+    "section_id": 17,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The historical article reports that World Vision International was founded in 1977 to restructure the worldwide World Vision organisation and that the Australian branch head was among signers of a 1978 Declaration of Internationalization.",
+    "luna_families": [
+      "temporal_history_event"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "graph_relationship_instance",
+      "native_candidate",
+      "temporal_history_event"
+    ],
+    "terra_facets": [
+      "participation",
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 4,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Program 1"
+    },
+    "proposition": "Program 1 is recorded as serving “Other charities”.",
+    "luna_families": [
+      "population_beneficiary"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:905dbce980432b9bcf885fe7746f252bba2b79f071858704",
+    "organisation": "World Vision Australia",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The reported principal activities for the 2025 financial year were international development, relief and advocacy, with no significant change during the period.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "temporal_history_event"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+    "organisation": "World Vision Australia",
+    "section_id": 10,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+    "luna_families": [
+      "governance_role_or_structure",
+      "temporal_history_event"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure",
+      "graph_relationship_instance",
+      "native_candidate",
+      "temporal_history_event"
+    ],
+    "terra_facets": [
+      "governance_practice",
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+    "organisation": "World Vision Australia",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "World Vision Australia is part of the World Vision International Partnership; Australian sponsors and donors provide funds to field offices, while World Vision Australia provides technical support.",
+    "luna_families": [
+      "finance_resource_flow",
+      "graph_relationship_instance"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow",
+      "graph_relationship_instance",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:a61fb5f357ee4ee1ce263f510e9cdeab866e27f001c82097",
+    "organisation": "World Vision Australia",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "World Vision Australia reports using the World Vision International Partnership’s national-office network, shared management and expertise, technical experts and global strategy support to implement programs.",
+    "luna_families": [
+      "graph_relationship_instance"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "graph_relationship_instance",
+      "native_candidate",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "capability_access",
+      "operational_activity",
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "40 Hour Famine"
+    },
+    "proposition": "A historical article describes the 40 Hour Famine as a fundraising scheme in which Australians, especially young people, go without food for 40 hours and seek sponsorship from others; it also reports a Backpack Challenge in 2017 and 2018 in its place.",
+    "luna_families": [
+      "finance_resource_flow",
+      "temporal_history_event"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow",
+      "native_candidate",
+      "program_service_structure",
+      "temporal_history_event"
+    ],
+    "terra_facets": [
+      "fundraising_mode"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f",
+    "organisation": "World Vision Australia",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "Financial risk management is carried out by senior management under policies approved by the Board, which provides written principles and policies covering foreign exchange, interest-rate, derivatives, non-derivative instruments and excess-liquidity investment.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:aa186ec309b892f57c9b43ec955a5fc0e31285e0da0e7fff",
+    "organisation": "World Vision Australia",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The board has a People, Culture and Governance Committee, Audit and Risk Committee, and Endowment Fund Committee, with board and committee meetings and director attendance reported for 1 October 2024 to 30 September 2025.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Program 1"
+    },
+    "proposition": "The 2025 ACNC record identifies a source-native program named Program 1, located in Australia and not operated online.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "native_candidate",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation's register record lists Australia as its country.",
+    "luna_families": [
+      "geography_location"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location"
+    ],
+    "terra_facets": [],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+    "organisation": "World Vision Australia",
+    "section_id": 5,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC register lists operation in Tasmania, New South Wales, Queensland, Western Australia, South Australia, the Australian Capital Territory and the Northern Territory.",
+    "luna_families": [
+      "geography_location"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "regulatory_source_fact"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+    "organisation": "World Vision Australia",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "Directors provide their services without charge, although certain travel and other business expenses may be reimbursed.",
+    "luna_families": [
+      "governance_role_or_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "governance_role_or_structure"
+    ],
+    "terra_facets": [
+      "governance_practice"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:cab71375f0f894b4c01c8a97728172695f896c770e4bf087",
+    "organisation": "World Vision Australia",
+    "section_id": 6,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Australian NGO Cooperation Program"
+    },
+    "proposition": "The 2025 annual information statement reports that 290,963 people participated in the Australian NGO Cooperation Program across 30 projects in 20 countries.",
+    "luna_families": [
+      "outcome_or_evaluation_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:d415681529809bc072eb2c92c82c6b71cdd618a58c8264bf",
+    "organisation": "World Vision Australia",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "World Vision Australia entered senior unsecured loan agreements with World Vision companies, with $2.519 million in loans advanced at 30 September 2025.",
+    "luna_families": [
+      "finance_resource_flow"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "finance_resource_flow",
+      "graph_relationship_instance",
+      "native_candidate"
+    ],
+    "terra_facets": [
+      "relationship_role"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:d4c265ca3b5ee385fc5aef80dc728985f07b0bcd3c54d401",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Australian First Nations Program"
+    },
+    "proposition": "Australian First Nations Program is a named non-online program classified as Community development (ID 118), with locations in all Australian states and territories listed in the source and beneficiaries including children, young people, adults, families and Aboriginal and Torres Strait Islander people.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "geography_location",
+      "native_candidate",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity",
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:e418755ae4f4522574c23d3797aeb3e7f3cec00bc681e9c3",
+    "organisation": "World Vision Australia",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The reported 2024-2028 strategy is the localisation of World Vision’s Our Promise global strategy and aims for impact at scale for the sustained wellbeing of the world’s most vulnerable children.",
+    "luna_families": [
+      "position_or_commitment_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "position_or_commitment_observation"
+    ],
+    "terra_facets": [
+      "other_native_residual"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ec0c139200f76636640deba90bc4d054290890bd3952efb4",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 6,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation's website states that its community of givers consists of thousands of people.",
+    "luna_families": [
+      "population_beneficiary"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "population_beneficiary"
+    ],
+    "terra_facets": [
+      "participation"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:f0757150364f5cb6f45235130b3497c1a1a60d9d28e02cd4",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Child and Community Sponsorship"
+    },
+    "proposition": "Child and Community Sponsorship is a named program that operates online, is classified by the source as Community development (ID 118), and is reported across the listed overseas countries including Bangladesh, Brazil, Burundi, Cambodia, Chad, Ethiopia, Indonesia, Kenya, Laos, Malawi, Mozambique, Myanmar, Nepal, Peru, Rwanda, Sri Lanka, Tanzania, Uganda, Vietnam, Zambia and Zimbabwe.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "geography_location",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf",
+    "organisation": "World Vision Australia",
+    "section_id": 6,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The 2025 annual information statement reports that Australian sponsors and donors reached 5.6 million people through the organisation’s work.",
+    "luna_families": [
+      "outcome_or_evaluation_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "native_candidate",
+      "outcome_or_evaluation_observation"
+    ],
+    "terra_facets": [
+      "other_native_residual"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+    "organisation": "World Vision Australia",
+    "section_id": 18,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation reports that monitoring and evaluation occurs at different points in project lifecycles to assess performance against plans, identify what is and is not working, and define project impact on people’s lives.",
+    "luna_families": [
+      "outcome_or_evaluation_observation"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "outcome_or_evaluation_observation"
+    ],
+    "terra_facets": [
+      "evaluation_method"
+    ],
+    "terra_explanation_available": false
+  },
+  {
+    "observation_id": "nativeobs:ffa130f234c871a1cc97e6c79237c3fce1fdc52ef0e66398",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Climate Action and Resilience"
+    },
+    "proposition": "Climate Action and Resilience is a named non-online program classified as Climate change (ID 229), with reported beneficiaries including rural, regional and remote communities, overseas communities or charities, the environment and farmers, and countries including Ethiopia, Ghana, Iraq, Kenya, Lebanon, Papua New Guinea, Rwanda, Senegal, Solomon Islands, Somalia, South Sudan, Timor-Leste, Uganda, Vanuatu and Zambia.",
+    "luna_families": [
+      "program_service_structure"
+    ],
+    "luna_facets": [],
+    "terra_families": [
+      "external_scheme_assignment",
+      "geography_location",
+      "population_beneficiary",
+      "program_service_structure"
+    ],
+    "terra_facets": [
+      "operational_activity"
+    ],
+    "terra_explanation_available": false
+  }
+]

@@ -1,0 +1,1702 @@
+[
+  {
+    "observation_id": "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The supplied S004 extract exposes generic ABN Lookup page metadata and no entity-specific DGR or other classification is visible in that extract.",
+    "object": {
+      "statement": "The supplied S004 extract exposes generic ABN Lookup page metadata, and no entity-specific DGR or other classification is visible in that extract.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The proposition describes the limits of what the supplied evidence exposes rather than asserting an entity status.",
+      "qualification": "Evidence-coverage limitation; it does not establish that the entity lacks DGR status or another classification."
+    }
+  },
+  {
+    "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The financial-report text extraction identifies representation gaps at pages 5 and 21.",
+    "object": {
+      "statement": "The financial-report text extraction has representation gaps at pages 5 and 21.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The proposition concerns limitations in the supplied evidence representation rather than the underlying report content.",
+      "qualification": "This is a packet representation limitation, not a claim that the underlying pages contain no information."
+    }
+  },
+  {
+    "observation_id": "nativeobs:56c13bb3c5461908d0ef21d140b1d06c89106748bf9436e6",
+    "organisation": "World Vision Australia",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The supplied financial-report text is marked with representation gaps for pages 28 and 42 in the packet, so the financial evidence coverage is partial for those locations.",
+    "object": {
+      "statement": "Financial evidence coverage is partial because the supplied packet has representation gaps for pages 28 and 42 of the FY25 financial report.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The observation directly concerns missing source representation rather than the organisation’s activities or attributes.",
+      "qualification": "Nearby extracted text resumes at later pages."
+    }
+  },
+  {
+    "observation_id": "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The packet supplies a 2025 signed financial-statements source, but the exposed locator content is PDF structural data rather than readable statement line items.",
+    "object": {
+      "statement": "A 2025 signed financial-statements source is supplied for Tweed Regional Gallery Foundation Limited, but the exposed locator content is PDF structural data rather than readable statement line items.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The observation describes the nature and limitation of supplied evidence rather than a substantive financial fact.",
+      "qualification": "No revenue, expenditure, asset, liability, grant or other financial observation is extracted."
+    }
+  },
+  {
+    "observation_id": "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The packet combines sources with different temporal positions, including a 2025 reporting-period AIS and financial report, website content listing 2026 events, and an ABN record extracted on 30 August 2026.",
+    "object": {
+      "statement": "The evidence packet combines sources with different temporal positions, including a 2025 reporting-period AIS and financial report, website content listing 2026 events, and an ABN record extracted on 30 August 2026.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "This is an observation about the temporal coverage and source composition of the evidence packet.",
+      "qualification": "Claims and statuses should be interpreted against the date and reporting scope of the relevant source."
+    }
+  },
+  {
+    "observation_id": "nativeobs:6d3692acac613dd3efee2782eda0b81cc7074f6bc55fe196",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The 2025 AIS states that the financial report was not consolidated from multiple entities, and the filed financial report is expressly for Australian Communities Foundation Limited; financial figures should therefore be read as entity-level figures rather than consolidated group figures.",
+    "object": {
+      "statement": "The 2025 financial report was not consolidated from multiple entities and is expressly for Australian Communities Foundation Limited; reported financial figures should therefore be read as entity-level figures rather than consolidated group figures.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "This qualifies the scope and interpretive coverage of the reported financial evidence.",
+      "qualification": "The entity also acts as trustee of named Funds; the packet does not provide consolidated financial figures for those Funds in this report."
+    }
+  },
+  {
+    "observation_id": "nativeobs:81e8e38310bffb03dbbe1109977a473f9cb89fb5f5d3c9af",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The 2025 annual information statement covers 1 July 2024 to 30 June 2025 and was timestamped 28 January 2026.",
+    "object": {
+      "statement": "Local Buying Foundation (WA)'s 2025 annual information statement covers 1 July 2024 to 30 June 2025 and was timestamped 28 January 2026.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The proposition records the reporting coverage and document timestamp of a source.",
+      "qualification": "The reporting period and timestamp are distinct temporal attributes."
+    }
+  },
+  {
+    "observation_id": "nativeobs:9874361e72c66faff596a1d1953a80550bc310a56e051a7e",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 20,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The national website snapshot displays headings for projects funded, regions supported and approved funding but supplies no corresponding numeric values in the packet.",
+    "object": {
+      "statement": "The captured national website snapshot displays headings for projects funded, regions supported, and approved funding but supplies no corresponding numeric values in the supplied packet.",
+      "representation_family": "evidence_coverage_metadata",
+      "facet_hint": null,
+      "rationale": "The proposition records the presence of headings and explicit absence of corresponding values in the supplied evidence.",
+      "qualification": "Absence is limited to the supplied captured lines as of August 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:2f61b4b97df3e5edb58aa6dfa8411ffe2478845744dd7fe1",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 19,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Program 1"
+    },
+    "proposition": "The ACNC record assigns Program 1 the source-reported classification “Unknown or not classified”, with classification ID 842.",
+    "object": {
+      "statement": "The ACNC record assigns Program 1 the source-reported classification “Unknown or not classified”, with classification ID 842.",
+      "representation_family": "external_scheme_assignment",
+      "facet_hint": null,
+      "rationale": "This is an explicit classification and identifier assigned by the ACNC record.",
+      "qualification": "No inferred CLASSIE, SDG or CharityGraph classification is assigned; reporting period 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+    "organisation": "World Vision Australia",
+    "section_id": 13,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation reports adherence to the Australian Council for International Development Code of Conduct.",
+    "object": {
+      "statement": "World Vision Australia reports adherence to the Australian Council for International Development Code of Conduct for the year ended 30 September 2025.",
+      "representation_family": "external_scheme_assignment",
+      "facet_hint": null,
+      "rationale": "The observation assigns the organisation an adherence status in relation to an identified external code.",
+      "qualification": "Reported adherence; supported by S003 L0583-L0587."
+    }
+  },
+  {
+    "observation_id": "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 13,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation states that it is a member of the Australian Council for International Development and compliant with the ACFID Code of Conduct.",
+    "object": {
+      "statement": "The Fred Hollows Foundation states that it is a member of the Australian Council for International Development and compliant with the ACFID Code of Conduct.",
+      "representation_family": "external_scheme_assignment",
+      "facet_hint": null,
+      "rationale": "The proposition records membership of an identified council and a stated compliance status under its code.",
+      "qualification": "Membership and compliance statement is first-party website content."
+    }
+  },
+  {
+    "observation_id": "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632",
+    "organisation": "World Vision Australia",
+    "section_id": 13,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "A historical article characterises World Vision Australia as a full member of ACFID and a signatory to the ACFID Code of Conduct.",
+    "object": {
+      "statement": "World Vision Australia was characterised in a historical article as a full member of ACFID and a signatory to the ACFID Code of Conduct.",
+      "representation_family": "external_scheme_assignment",
+      "facet_hint": null,
+      "rationale": "The proposition assigns externally defined membership and code-signatory statuses.",
+      "qualification": "Historical article accessed or revised before 2026; current first-party evidence independently supports adherence to the Code but does not restate full membership."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Backing a stronger future for Newman businesses"
+    },
+    "proposition": "Funding supports a dedicated Executive Officer for the Newman Chamber of Commerce and Industry.",
+    "object": {
+      "statement": "Funding supports a dedicated Executive Officer for the Newman Chamber of Commerce and Industry.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "This records funding directed toward a specified staffing purpose for another organisation.",
+      "qualification": "Funding support is not evidence that Local Buying Foundation (WA) operates the recipient's work."
+    }
+  },
+  {
+    "observation_id": "nativeobs:134cc64d2a5e0d5b003d5af290cb7f2b5d817b585052f965",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The entity leases office space at Level 6, 126 Wellington Parade, East Melbourne, under a five-year lease commencing 1 April 2023; the reported right-of-use asset was $681,776 at 30 June 2025.",
+    "object": {
+      "statement": "The reported right-of-use asset for the leased office space was $681,776 at 30 June 2025.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "The proposition reports a quantified financial statement asset.",
+      "qualification": "Reported for the period ending 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:368f144319c0266b358758ccaad9163a40e9a3b78dd79e1d",
+    "organisation": "World Vision Australia",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation leases offices in multiple States, vehicles and photocopiers, and reported a fleet facility of $900,000 with $601,000 unutilised at the reporting date.",
+    "object": {
+      "statement": "The organisation leases offices in multiple States, vehicles and photocopiers.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "The proposition reports leased operational assets and associated resource arrangements.",
+      "qualification": "Supported as of 30 September 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:368f144319c0266b358758ccaad9163a40e9a3b78dd79e1d",
+    "organisation": "World Vision Australia",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation leases offices in multiple States, vehicles and photocopiers, and reported a fleet facility of $900,000 with $601,000 unutilised at the reporting date.",
+    "object": {
+      "statement": "The organisation reported a fleet facility of $900,000, of which $601,000 was unutilised at the reporting date.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "This is a reported financial facility and unused resource capacity.",
+      "qualification": "Supported as of 30 September 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "During the year ended 30 June 2025, the company received $2,949,741 in administration and investment fees from the three named Funds; fees owed at year end were $510,014 and other receivables for reimbursed sub-fund expenses were $110,197.",
+    "object": {
+      "statement": "During the year ended 30 June 2025, Australian Communities Foundation received $2,949,741 in administration and investment fees from the three named Funds.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "The observation reports fee income and its stated source.",
+      "qualification": "The supplied observation does not name the three Funds individually."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "During the year ended 30 June 2025, the company received $2,949,741 in administration and investment fees from the three named Funds; fees owed at year end were $510,014 and other receivables for reimbursed sub-fund expenses were $110,197.",
+    "object": {
+      "statement": "At 30 June 2025, fees owed were $510,014 and other receivables for reimbursed sub-fund expenses were $110,197.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "The observation reports receivable balances arising from fees and reimbursed expenses.",
+      "qualification": "Year ended 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation’s reported fundraising and resource mobilisation channels include pledge programs, sponsorship, appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets.",
+    "object": {
+      "statement": "The organisation reported pledge programs and sponsorship as fundraising and resource mobilisation channels.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "These are reported channels through which financial resources are mobilised.",
+      "qualification": "Supported for the year ended 30 September 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation’s reported fundraising and resource mobilisation channels include pledge programs, sponsorship, appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets.",
+    "object": {
+      "statement": "The organisation reported appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets as fundraising and resource mobilisation channels.",
+      "representation_family": "finance_resource_flow",
+      "facet_hint": null,
+      "rationale": "These are reported forms of monetary and non-monetary resource inflow.",
+      "qualification": "Supported for the year ended 30 September 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:134cc64d2a5e0d5b003d5af290cb7f2b5d817b585052f965",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The entity leases office space at Level 6, 126 Wellington Parade, East Melbourne, under a five-year lease commencing 1 April 2023; the reported right-of-use asset was $681,776 at 30 June 2025.",
+    "object": {
+      "statement": "Australian Communities Foundation Limited leases office space at Level 6, 126 Wellington Parade, East Melbourne, under a five-year lease commencing 1 April 2023.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "The proposition identifies an organisational premises and its lease period.",
+      "qualification": "Reported for the period ending 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Local Buying Foundation Funding"
+    },
+    "proposition": "The ACNC register lists Local Buying Foundation Funding as a program with locations in Port Hedland and the Shire of East Pilbara.",
+    "object": {
+      "statement": "Local Buying Foundation Funding is located in Port Hedland and the Shire of East Pilbara.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "The locations are separately reusable geographic assertions about the named program.",
+      "qualification": "Current ACNC register listing."
+    }
+  },
+  {
+    "observation_id": "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Business After Hours brings Newman businesses together"
+    },
+    "proposition": "The project was a sponsored business-community event held in the Shire of East Pilbara.",
+    "object": {
+      "statement": "The project “Business After Hours brings Newman businesses together” was held in the Shire of East Pilbara.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "The proposition specifies the event’s location.",
+      "qualification": "No additional qualification supplied."
+    }
+  },
+  {
+    "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory"
+    },
+    "proposition": "The filed program record specifies locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+    "object": {
+      "statement": "The named program has recorded locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "This separately captures the program's listed geographic locations.",
+      "qualification": "Locations are taken from the filed program record."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5",
+    "organisation": "World Vision Australia",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The registered office is 1 Vision Drive, East Burwood, Victoria 3151, Australia.",
+    "object": {
+      "statement": "World Vision Australia's registered office is at 1 Vision Drive, East Burwood, Victoria 3151, Australia.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "This is a reported physical address for the subject.",
+      "qualification": "Supported; current scope."
+    }
+  },
+  {
+    "observation_id": "nativeobs:32f8ac6380e08ebaa7252734cf9ee24fd91101c74347ae73",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 5,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The funding FAQ identifies Queensland Isaac and Mackay regions, New South Wales Muswellbrook, Singleton and Upper Hunter shires, Western Australia's Town of Port Hedland and Shire of East Pilbara, and South Australian Olympic Dam-region local government areas as funding regions.",
+    "object": {
+      "statement": "The Local Buying Foundation national network identifies Queensland Isaac and Mackay regions; New South Wales Muswellbrook, Singleton and Upper Hunter shires; Western Australia’s Town of Port Hedland and Shire of East Pilbara; and South Australian Olympic Dam-region local government areas as funding regions.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "The proposition enumerates geographic funding regions associated with the reporting group.",
+      "qualification": "National network scope; current scope as supplied."
+    }
+  },
+  {
+    "observation_id": "nativeobs:93645d62fd0b59fe1924f41d17ca7818a4134dbbeccaaf64",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The 2025 annual information statement lists the charity address as 2 Mistral Rd, South Murwillumbah, NSW 2484.",
+    "object": {
+      "statement": "The charity address listed for Tweed Regional Gallery Foundation Limited is 2 Mistral Rd, South Murwillumbah, NSW 2484.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "The observation records the organisation's supplied address.",
+      "qualification": "2025 annual information statement; treated as a charity address, not activity or beneficiary geography."
+    }
+  },
+  {
+    "observation_id": "nativeobs:93e327ab489adedb891ce153a16bbff60476901da0473bff",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 5,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The national network reports activity across New South Wales, Queensland, South Australia and Western Australia, supporting 12 local regions.",
+    "object": {
+      "statement": "The Local Buying Foundation national network reports activity across New South Wales, Queensland, South Australia and Western Australia, supporting 12 local regions.",
+      "representation_family": "geography_location",
+      "facet_hint": null,
+      "rationale": "This states the reported geographic coverage and number of supported regions of the national network.",
+      "qualification": "National network scope, not a WA-subject-only count; as of August 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 3,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The company's principal activities are to provide administration and trustee services to Australian Communities Foundation, Australian Communities Foundation Extension Fund and Australian Communities Foundation Scholarship Fund, and professional services to customers and donors.",
+    "object": {
+      "statement": "The company provides trustee services to Australian Communities Foundation, Australian Communities Foundation Extension Fund and Australian Communities Foundation Scholarship Fund.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "Acting as trustee is a governance or fiduciary role distinct from general administration and professional services.",
+      "qualification": "Supported for the year ended 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+    "organisation": "World Vision Australia",
+    "section_id": 10,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+    "object": {
+      "statement": "The interim CEO held an interim leadership role in World Vision Australia while retaining employment with World Vision New Zealand.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The proposition identifies a leadership role and distinguishes the employing entity from the organisation led.",
+      "qualification": "The role and employment relationship are reported for the transition period."
+    }
+  },
+  {
+    "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The ACNC register records the charity as not being a group head and records no parent account or parent ABN.",
+    "object": {
+      "statement": "The ACNC register records Local Buying Foundation (WA) as not being a group head.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The observation concerns the organisation's position within a registered group structure.",
+      "qualification": "Recorded as of 28 January 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The ACNC register records the charity as not being a group head and records no parent account or parent ABN.",
+    "object": {
+      "statement": "The ACNC register records no parent account or parent ABN for Local Buying Foundation (WA).",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The observation concerns recorded parent-entity information in the organisational structure.",
+      "qualification": "Recorded as of 28 January 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The company acts as trustee of Australian Communities Foundation, Australian Communities Foundation Extension Company and Australian Communities Foundation Scholarship Company.",
+    "object": {
+      "statement": "Australian Communities Foundation Limited acts as trustee of Australian Communities Foundation, Australian Communities Foundation Extension Company and Australian Communities Foundation Scholarship Company.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The proposition assigns a trustee role and identifies the related entities.",
+      "qualification": "Applies to the year ended 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:182de5cdf4041b9dae8740cc2198da89177cf67329262192",
+    "organisation": "World Vision Australia",
+    "section_id": 10,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The FY25 financial report identifies eight key management personnel and total key management personnel remuneration of $3.418 million, including costs associated with three redundancies.",
+    "object": {
+      "statement": "In the year ended 30 September 2025, World Vision Australia reported eight key management personnel and total key management personnel remuneration of $3.418 million, including costs associated with three redundancies.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The observation concerns the number and remuneration of key management personnel, a governance and management structure matter.",
+      "qualification": "Reported in FY25 financial reporting."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The 2025 directors' report records four directors' meetings during the reporting year and provides attendance figures for each director.",
+    "object": {
+      "statement": "During the year ended 30 June 2025, Australian Communities Foundation Limited recorded four directors’ meetings and attendance figures for each director.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The proposition concerns board meeting activity and director attendance.",
+      "qualification": "No additional governance inference is made."
+    }
+  },
+  {
+    "observation_id": "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 9,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The ACNC register lists Daniel Brugaletta as Secretary, Fiona McLeay as Chairperson and other named responsible persons as Directors.",
+    "object": {
+      "statement": "The ACNC register lists Daniel Brugaletta as Secretary, Fiona McLeay as Chairperson, and other named responsible persons as Directors of Australian Communities Foundation Limited.",
+      "representation_family": "governance_role_or_structure",
+      "facet_hint": null,
+      "rationale": "The proposition identifies named people and their organisational governance roles.",
+      "qualification": "Current status is reported by the supplied ACNC record; the proposition does not enumerate every Director."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Backing a stronger future for Newman businesses"
+    },
+    "proposition": "Funding supports a dedicated Executive Officer for the Newman Chamber of Commerce and Industry.",
+    "object": {
+      "statement": "The Newman Chamber of Commerce and Industry is the recipient or supported organisation for the dedicated Executive Officer funding.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition establishes a funding-support relationship between the Foundation and the Chamber.",
+      "qualification": "The relationship is limited to the stated funding support."
+    }
+  },
+  {
+    "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 12,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Trading Tracks"
+    },
+    "proposition": "Trading Tracks is stated to have been developed in partnership with the Local Buying Foundation, BMA and BHP and delivered by Indigenous Business Builders.",
+    "object": {
+      "statement": "Trading Tracks was developed in partnership with the Local Buying Foundation, BMA and BHP, and delivered by Indigenous Business Builders.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition contains distinct development-partner and delivery-provider relationships for a named program.",
+      "qualification": "Official website project story; reported 7 August 2022."
+    }
+  },
+  {
+    "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+    "organisation": "World Vision Australia",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "World Vision Australia is part of the World Vision International Partnership; Australian sponsors and donors provide funds to field offices, while World Vision Australia provides technical support.",
+    "object": {
+      "statement": "World Vision Australia is part of the World Vision International Partnership.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "This is an organisational affiliation.",
+      "qualification": "Described in FY25 reporting."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 12,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Driving Tourism Growth in the Isaac Region"
+    },
+    "proposition": "The project is stated to leverage partnerships with Tourism and Events Queensland.",
+    "object": {
+      "statement": "The “Driving Tourism Growth in the Isaac Region” project is stated to leverage partnerships with Tourism and Events Queensland.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "This records a named project partnership relationship with another organisation.",
+      "qualification": "Official website project story dated 20 November 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Martu Leadership Program"
+    },
+    "proposition": "A historical article reports the Martu Leadership Program as being delivered in partnership with Kanyirninpa Jukurrpa in the Pilbara.",
+    "object": {
+      "statement": "The Martu Leadership Program was delivered in partnership with Kanyirninpa Jukurrpa, as reported in a historical article describing programming commencing or operating by 2018.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition asserts a program-to-organisation partnership relationship with historical scope.",
+      "qualification": "Third-party historical article; not a current program record."
+    }
+  },
+  {
+    "observation_id": "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The 2025 annual information statement is linked to the ACNC charity record through the matching source-native charity identifier.",
+    "object": {
+      "statement": "The 2025 annual information statement is linked to the ACNC charity record for TWEED REGIONAL GALLERY FOUNDATION LIMITED through a matching source-native charity identifier.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition records a source-level identity-binding relationship between two records.",
+      "qualification": "Does not create a CharityGraph identifier; supported by S001 L0001 and S002 L0001."
+    }
+  },
+  {
+    "observation_id": "nativeobs:72bde82b2dd803b307651886fa0e15d8a907797a0d51ad5f",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 12,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The Charter states that C-Res holds Foundation funds in trust, reports to ACNC and provides administrative support for each LBF.",
+    "object": {
+      "statement": "Under the January 2026 Charter, C-Res holds Local Buying Foundation funds in trust, reports to ACNC, and provides administrative support for each LBF.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition describes specified relationships and functions between C-Res, Foundation funds, ACNC, and each LBF.",
+      "qualification": "Applies as stated in Charter Version 3, released January 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 12,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Decarbonisation Accelerated"
+    },
+    "proposition": "Decarbonisation Accelerated is stated to be delivered by RCOE in partnership with Greater Whitsunday Alliance.",
+    "object": {
+      "statement": "Decarbonisation Accelerated is stated to be delivered by RCOE in partnership with Greater Whitsunday Alliance.",
+      "representation_family": "graph_relationship_instance",
+      "facet_hint": null,
+      "rationale": "The proposition describes a delivery relationship and partnership involving named organisations and a named program.",
+      "qualification": "The source does not establish that Local Buying Foundation (WA) directly operates the project."
+    }
+  },
+  {
+    "observation_id": "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The official website describes Australian Communities Foundation as Australia's only national community foundation and says its community of givers comes from all over the country.",
+    "object": {
+      "statement": "Australian Communities Foundation describes itself as Australia's only national community foundation.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "This is a first-party organisational description of the entity's identity and asserted status.",
+      "qualification": "First-party organisational claim; undated; supported by S005 L0102."
+    }
+  },
+  {
+    "observation_id": "nativeobs:b234401422af3c45fbe8e66a4f5ee43d2af66d0aa80c52d3",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The entity is Australian Communities Foundation Limited, ABN 20 077 830 347, and is recorded as registered with the ACNC.",
+    "object": {
+      "statement": "The entity is Australian Communities Foundation Limited, ABN 20 077 830 347.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "The proposition identifies the legal entity and ABN.",
+      "qualification": ". "
+    }
+  },
+  {
+    "observation_id": "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The entity is listed by ABN Lookup as an Australian Public Company, with an ABN active from 1 November 1999 and an ACN of 077 830 347.",
+    "object": {
+      "statement": "Australian Communities Foundation Limited is listed by ABN Lookup as an Australian Public Company, with an ABN active from 1 November 1999 and ACN 077 830 347.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "The proposition supplies legal identity and registration attributes.",
+      "qualification": "Current observation."
+    }
+  },
+  {
+    "observation_id": "nativeobs:49557e4861dcaba0779d3f6f15ec8ea34c0ed87f1a723c57",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation is a public company limited by guarantee incorporated and domiciled in Australia.",
+    "object": {
+      "statement": "The Fred Hollows Foundation is a public company limited by guarantee incorporated and domiciled in Australia.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "The proposition states the organisation's legal form and domicile.",
+      "qualification": "None stated."
+    }
+  },
+  {
+    "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The ACNC register records the organisation's legal name as TWEED REGIONAL GALLERY FOUNDATION LIMITED.",
+    "object": {
+      "statement": "The ACNC register records the organisation's legal name as TWEED REGIONAL GALLERY FOUNDATION LIMITED.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "The observation explicitly identifies the organisation's registered legal name.",
+      "qualification": "As recorded in the supplied ACNC register sources."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8cebc2a39cd7448e00e4f0e68a3c1038b4a44154170e57a4",
+    "organisation": "World Vision Australia",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+    "object": {
+      "statement": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "This states the entity's legal form, incorporation and domicile, and charity registration status.",
+      "qualification": "Supported for the reporting year ended 30 September 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8e0f4691fc7754087ef408a172070b61712b10819a5cbde6",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The ACNC register and 2025 annual information statement report empty OtherNames fields.",
+    "object": {
+      "statement": "The ACNC register and 2025 annual information statement recorded empty OtherNames fields for Tweed Regional Gallery Foundation Limited.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "OtherNames is an identity-record attribute, including its explicitly recorded empty state.",
+      "qualification": "This does not establish absence of informal names outside those source records."
+    }
+  },
+  {
+    "observation_id": "nativeobs:91ab9e0403a002a4ebc58171df9690621684492eaa487229",
+    "organisation": "Tweed Regional Gallery Foundation Limited",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+    },
+    "proposition": "The ACNC register and the 2025 annual information statement both report ABN 29003230073 for the organisation.",
+    "object": {
+      "statement": "Tweed Regional Gallery Foundation Limited has ABN 29003230073.",
+      "representation_family": "identity_attribute",
+      "facet_hint": null,
+      "rationale": "The proposition records the entity's ABN, an identity attribute.",
+      "qualification": "Reported by both the ACNC register and the 2025 annual information statement."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation reported that 805 medical facilities, training centres and schools were built, renovated or equipped in its 2025 global results.",
+    "object": {
+      "statement": "The Fred Hollows Foundation reported that 805 medical facilities, training centres, and schools were built, renovated, or equipped in its 2025 global results.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "The proposition is a quantified reported result.",
+      "qualification": "This is a result reported by the Foundation in its filed AIS."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3d598e6193e3c8e4d73ad583369f18e5abbddc304e302f08",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 6,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The Foundation reports that it has empowered hundreds of businesses, industry groups and community organisations to enhance skills and build capacity.",
+    "object": {
+      "statement": "The Local Buying Foundation reports that it has empowered hundreds of businesses, industry groups and community organisations to enhance skills and build capacity.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "The proposition reports claimed effects on capabilities and capacity of participant organisations.",
+      "qualification": "Official website self-report; national network scope."
+    }
+  },
+  {
+    "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 6,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation reported training 48,994 people, including surgeons, primary eye-care clinicians and teachers, in 2025.",
+    "object": {
+      "statement": "The Fred Hollows Foundation reported training 48,994 people, including surgeons, primary eye-care clinicians, and teachers, in 2025.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "This is a reported program result expressed as a training count and participant categories.",
+      "qualification": "Result reported by the Foundation in its filed AIS; 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 6,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation reported 212,216 cataract operations in its 2025 global results.",
+    "object": {
+      "statement": "In its 2025 global results, The Fred Hollows Foundation reported 212,216 cataract operations.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "The proposition is a quantified reported program result.",
+      "qualification": "This is a result reported by the Foundation in its filed AIS."
+    }
+  },
+  {
+    "observation_id": "nativeobs:4deda13493c359e952472adb9134c35c645602eda26d7cca",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 16,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The auditor's independence declaration states that there were no contraventions of applicable professional conduct requirements in relation to the audit for the year ended 30 June 2025.",
+    "object": {
+      "statement": "The auditor’s independence declaration states that there were no contraventions of applicable professional conduct requirements in relation to the audit for the year ended 30 June 2025.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "This is a bounded audit-related compliance finding.",
+      "qualification": "Limited to the auditor’s professional conduct in relation to this audit."
+    }
+  },
+  {
+    "observation_id": "nativeobs:5b54b006bc0f12c3b4186a6c63bbc8f5a012e54b91c21da7",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 6,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Business After Hours brings Newman businesses together"
+    },
+    "proposition": "The event attracted more than 30 attendees.",
+    "object": {
+      "statement": "The “Business After Hours brings Newman businesses together” event attracted more than 30 attendees.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "The proposition reports a quantified participation result for the event.",
+      "qualification": "This is an official website self-report."
+    }
+  },
+  {
+    "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 6,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation reported screening 6,136,161 people in its 2025 global results.",
+    "object": {
+      "statement": "The Fred Hollows Foundation reported screening 6,136,161 people in its 2025 global results.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "The proposition is a quantified reported result of the Foundation’s work.",
+      "qualification": "This is a result reported by the Foundation in its filed AIS; reporting period 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 18,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Strengthening Leadership and Workforce Participation"
+    },
+    "proposition": "The official project story claims that equipping women with leadership skills and networks strengthens succession planning, workforce participation and SME performance.",
+    "object": {
+      "statement": "The official project story claims that equipping women with leadership skills and networks strengthens succession planning, workforce participation and SME performance.",
+      "representation_family": "outcome_or_evaluation_observation",
+      "facet_hint": null,
+      "rationale": "This is an asserted chain from project activity to organisational and participation outcomes.",
+      "qualification": "Outcome and effectiveness claims are official website self-report; they are not independently evaluated in the supplied observation."
+    }
+  },
+  {
+    "observation_id": "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The official website describes Australian Communities Foundation as Australia's only national community foundation and says its community of givers comes from all over the country.",
+    "object": {
+      "statement": "Australian Communities Foundation describes its community of givers as comprising thousands of people from all over the country.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The statement identifies the composition and geographic reach of the organisation's giver community.",
+      "qualification": "First-party organisational claim; undated; supported by S005 L0102."
+    }
+  },
+  {
+    "observation_id": "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd",
+    "organisation": "World Vision Australia",
+    "section_id": 4,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC register reports beneficiaries including youth aged 15 to under 25, disaster victims, people with disabilities, people in rural, regional or remote communities, overseas communities or charities, females, families, the environment, early-childhood children, children aged 6 to under 15, adults aged 65 and over, adults aged 25 to under 65, and Aboriginal and Torres Strait Islander people.",
+    "object": {
+      "statement": "The ACNC register records beneficiaries including youth, children, adults, families, females, people with disabilities, disaster victims, rural, regional or remote communities, overseas communities or charities, the environment, and Aboriginal and Torres Strait Islander people.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The proposition explicitly enumerates beneficiary population categories recorded by the ACNC.",
+      "qualification": "The register also includes an uncategorised Other entry."
+    }
+  },
+  {
+    "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 4,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Local Buying Foundation Funding"
+    },
+    "proposition": "The ACNC program record identifies beneficiaries as current and emerging industries in local footprints where BHP Minerals Australia operates in Western Australia.",
+    "object": {
+      "statement": "The Local Buying Foundation Funding program identifies current and emerging industries in local footprints where BHP Minerals Australia operates in Western Australia as beneficiaries.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The proposition specifies the beneficiary population and its geographic/operational context.",
+      "qualification": "Beneficiary description is taken from the ACNC program record."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 4,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Program 1"
+    },
+    "proposition": "Program 1 is recorded as serving “Other charities”.",
+    "object": {
+      "statement": "Australian Communities Foundation's Program 1 is recorded as serving “Other charities”.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The observation explicitly identifies the program's recorded beneficiary category.",
+      "qualification": "Program-scoped ACNC record; not attributed to all activities of the entity."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8f75727b71e127d42b6a68164ba4bf42e07579df6aa1403b",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 6,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Fostering Innovation in the Pilbara"
+    },
+    "proposition": "The event drew hundreds of business leaders, government representatives and industry experts.",
+    "object": {
+      "statement": "The Fostering Innovation in the Pilbara event drew hundreds of business leaders, government representatives, and industry experts.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The proposition reports the categories of people involved in or attending a named event.",
+      "qualification": "Official website self-report; event dated 21 November 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 4,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory"
+    },
+    "proposition": "The program lists Aboriginal and Torres Strait Islander people and people in rural, regional or remote communities among its beneficiaries.",
+    "object": {
+      "statement": "The program Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory lists Aboriginal and Torres Strait Islander people and people in rural, regional, or remote communities among its beneficiaries.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The proposition explicitly identifies beneficiary populations for a named program.",
+      "qualification": "Reported for 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:c83eec369a50605bb593f85b7f96d68ef7cad8968d020c62",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 4,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The Foundation states that it supports regional businesses, industries, communities, industry groups and community organisations.",
+    "object": {
+      "statement": "The Local Buying Foundation network supports regional businesses, industries, communities, industry groups, and community organisations.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The proposition identifies groups supported by the network.",
+      "qualification": "The website statements are attributed to the national network scope."
+    }
+  },
+  {
+    "observation_id": "nativeobs:d8b45f4dbc15d2d3b4174030bb4fcd587417ad43d0d03749",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 4,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "The Indigenous Economic Development category targets Indigenous communities and opportunities for Indigenous people in employment, business, assets and economic growth.",
+    "object": {
+      "statement": "The Indigenous Economic Development category targets Indigenous communities and opportunities for Indigenous people in employment, business, assets, and economic growth.",
+      "representation_family": "population_beneficiary",
+      "facet_hint": null,
+      "rationale": "The observation specifies the population targeted and the opportunity domains addressed.",
+      "qualification": "Applies to the national network reporting group."
+    }
+  },
+  {
+    "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation states that it provides structures, services and a community to support structured giving, and that it makes philanthropy easy and accessible.",
+    "object": {
+      "statement": "The organisation states that it makes philanthropy easy and accessible.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "This is a first-party statement about the organisation's stated access-oriented purpose or commitment.",
+      "qualification": "First-party capability and access claim; undated."
+    }
+  },
+  {
+    "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation describes itself as supporting and enabling smart, rewarding and effective giving.",
+    "object": {
+      "statement": "Australian Communities Foundation describes itself as supporting and enabling smart, rewarding and effective giving.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "This is an official organisational self-description of its stated purpose or commitment.",
+      "qualification": "Official website statement; undated."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 18,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation states that it makes impactful philanthropy easy and accessible and supports effective giving.",
+    "object": {
+      "statement": "Australian Communities Foundation states that it makes impactful philanthropy easy and accessible and supports effective giving.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "The proposition records first-party claims about the organisation's stated purpose and approach, without an independently established outcome.",
+      "qualification": "First-party impact-related claims; no independent evaluation or outcome measure establishes effectiveness."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 2,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The Western Australia page states that the WA Foundation aims to enhance the economic sustainability of regions within the operational footprint of BHP Minerals Australia assets and BHP Operation Services in Western Australia.",
+    "object": {
+      "statement": "The Local Buying Foundation (WA) aims to enhance the economic sustainability of regions within the operational footprint of BHP Minerals Australia assets and BHP Operation Services in Western Australia.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "The statement expresses the foundation's reported aim.",
+      "qualification": "The aim is attributed to the Western Australia page."
+    }
+  },
+  {
+    "observation_id": "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+    "organisation": "World Vision Australia",
+    "section_id": 15,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation states that it adheres to the ACFID Code of Conduct and presents its FY25 financial statements in accordance with the Code’s presentation and disclosure requirements.",
+    "object": {
+      "statement": "World Vision Australia states that it adheres to the ACFID Code of Conduct and presents its FY25 financial statements in accordance with the Code's presentation and disclosure requirements.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "The proposition records an organisationally stated adherence and reporting commitment.",
+      "qualification": "This supports a reported commitment and implementation in financial reporting, not full policy implementation across all activities."
+    }
+  },
+  {
+    "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 14,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation presents itself as a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality.",
+    "object": {
+      "statement": "Australian Communities Foundation presents itself as a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "This is an official institutional identity and commitment statement.",
+      "qualification": "Undated official website statement."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 14,
+    "scope": {
+      "kind": "subject",
+      "label": "The Fred Hollows Foundation"
+    },
+    "proposition": "The Foundation describes itself as independent, not-for-profit, politically unaligned and secular.",
+    "object": {
+      "statement": "The Fred Hollows Foundation describes itself as independent, not-for-profit, politically unaligned and secular.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "These are the Foundation's own stated organisational characteristics and commitments.",
+      "qualification": "Foundation self-description in its filed 2025 AIS; not independently inferred."
+    }
+  },
+  {
+    "observation_id": "nativeobs:41b70582c08aa04d0bd60b7f4ca6e1a7e78bf4c76f928103",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 14,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The Charter states that the Foundation values diversity, equity and inclusion in Advisory Committee membership and decision-making.",
+    "object": {
+      "statement": "The Local Buying Foundation (WA) Charter states that the Foundation values diversity, equity and inclusion in Advisory Committee membership and decision-making.",
+      "representation_family": "position_or_commitment_observation",
+      "facet_hint": null,
+      "rationale": "The proposition records an organisational commitment concerning governance membership and decision-making.",
+      "qualification": "Charter Version 3, released January 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Local Buying Foundation Funding"
+    },
+    "proposition": "The ACNC register lists Local Buying Foundation Funding as a program with locations in Port Hedland and the Shire of East Pilbara.",
+    "object": {
+      "statement": "Local Buying Foundation Funding is listed as a program with locations in Port Hedland and the Shire of East Pilbara.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The observation identifies a named program and its reported locations.",
+      "qualification": "Current ACNC register listing."
+    }
+  },
+  {
+    "observation_id": "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 3,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The company's principal activities are to provide administration and trustee services to Australian Communities Foundation, Australian Communities Foundation Extension Fund and Australian Communities Foundation Scholarship Fund, and professional services to customers and donors.",
+    "object": {
+      "statement": "The company's principal activities are to provide administration and trustee services to Australian Communities Foundation, Australian Communities Foundation Extension Fund and Australian Communities Foundation Scholarship Fund, and professional services to customers and donors.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The proposition directly identifies the company's principal service activities and service recipients.",
+      "qualification": "Supported for the year ended 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:471767e276e2d0317290edbfbeaa8956b4c5cb026d280c18",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 17,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Trading Tracks"
+    },
+    "proposition": "The website identifies Trading Tracks as a key initiative and states that it launched in Queensland in 2022.",
+    "object": {
+      "statement": "Trading Tracks is identified as a key initiative and is stated to have launched in Queensland in 2022.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The observation identifies an initiative and supplies its launch location and time.",
+      "qualification": "National network initiative; historical scope 2021-2022."
+    }
+  },
+  {
+    "observation_id": "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Business After Hours brings Newman businesses together"
+    },
+    "proposition": "The project was a sponsored business-community event held in the Shire of East Pilbara.",
+    "object": {
+      "statement": "The project “Business After Hours brings Newman businesses together” was a sponsored business-community event held in the Shire of East Pilbara on 1 April 2026.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The proposition identifies a named event, its activity character and location.",
+      "qualification": "No additional qualification supplied."
+    }
+  },
+  {
+    "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 12,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Trading Tracks"
+    },
+    "proposition": "Trading Tracks is stated to have been developed in partnership with the Local Buying Foundation, BMA and BHP and delivered by Indigenous Business Builders.",
+    "object": {
+      "statement": "Indigenous Business Builders delivered Trading Tracks.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The proposition identifies the named program's delivery arrangement.",
+      "qualification": "Official website project story; reported 7 August 2022."
+    }
+  },
+  {
+    "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation"
+    },
+    "proposition": "The organisation states that it provides structures, services and a community to support structured giving, and that it makes philanthropy easy and accessible.",
+    "object": {
+      "statement": "The organisation states that it provides structures, services and a community to support structured giving.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "This describes the organisation's stated service infrastructure for structured giving.",
+      "qualification": "First-party capability and access claim; undated."
+    }
+  },
+  {
+    "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+    "organisation": "The Fred Hollows Foundation",
+    "section_id": 5,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory"
+    },
+    "proposition": "The filed program record specifies locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+    "object": {
+      "statement": "The filed program record for “Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory” specifies locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The statement concerns the filed geographic scope of a named program.",
+      "qualification": "The source-native program name refers to the Top End of the Northern Territory, while the filed location list also includes New South Wales, Western Australia and Queensland."
+    }
+  },
+  {
+    "observation_id": "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+    "organisation": "World Vision Australia",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Education and Child Protection"
+    },
+    "proposition": "Education and Child Protection is a named non-online program classified as Education (ID 170), with a reported location of Australia and beneficiaries including early-childhood children, children aged 6 to under 15, youth aged 15 to under 25, and Aboriginal and Torres Strait Islander people; the source also lists the reported overseas country set.",
+    "object": {
+      "statement": "Education and Child Protection is a named non-online program classified as Education (ID 170), located in Australia, serving early-childhood children, children aged 6 to under 15, youth aged 15 to under 25, and Aboriginal and Torres Strait Islander people; the source also reports an overseas country set.",
+      "representation_family": "program_service_structure",
+      "facet_hint": null,
+      "rationale": "The observation identifies a named program, its classification, location, and beneficiary scope.",
+      "qualification": "Reported for 2025; the overseas country set is not enumerated in the supplied proposition."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3b8dce91fbac21292aca5af109abef7854ad35e018dce66e",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The ACNC register records 2021, 2022, 2023, 2024 and 2025 annual information statements and financial reports as submitted, while 2026 and 2027 reports are shown as not yet submitted or pending.",
+    "object": {
+      "statement": "The ACNC register records Local Buying Foundation (WA)'s 2021, 2022, 2023, 2024, and 2025 annual information statements and financial reports as submitted.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "The observation reports document-submission statuses recorded in the ACNC register.",
+      "qualification": "Applies to the listed reporting years."
+    }
+  },
+  {
+    "observation_id": "nativeobs:3b8dce91fbac21292aca5af109abef7854ad35e018dce66e",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The ACNC register records 2021, 2022, 2023, 2024 and 2025 annual information statements and financial reports as submitted, while 2026 and 2027 reports are shown as not yet submitted or pending.",
+    "object": {
+      "statement": "The ACNC register shows Local Buying Foundation (WA)'s 2026 and 2027 reports as not yet submitted or pending.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "The observation reports current submission-status entries for the listed future or pending reporting years.",
+      "qualification": "Applies to the statuses shown in the supplied register record."
+    }
+  },
+  {
+    "observation_id": "nativeobs:87dc588341f9aa18bbe9924957a2823029e0c020686f1528",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 19,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The 2025 annual information statement reports CharitySize as Medium, ReportingGroupFlag as false and all listed beneficiary category flags as false.",
+    "object": {
+      "statement": "The 2025 annual information statement reports CharitySize as Medium and ReportingGroupFlag as false.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "These are source-reported classifications in an annual information statement.",
+      "qualification": "Applies to the reporting period 1 July 2024 to 30 June 2025."
+    }
+  },
+  {
+    "observation_id": "nativeobs:87dc588341f9aa18bbe9924957a2823029e0c020686f1528",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 19,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The 2025 annual information statement reports CharitySize as Medium, ReportingGroupFlag as false and all listed beneficiary category flags as false.",
+    "object": {
+      "statement": "The 2025 annual information statement reports all listed beneficiary category flags as false.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "This records the filed beneficiary-category fields without converting them into a broader claim about beneficiaries.",
+      "qualification": "Source-reported form classifications; these fields do not establish that no people or communities benefited."
+    }
+  },
+  {
+    "observation_id": "nativeobs:b234401422af3c45fbe8e66a4f5ee43d2af66d0aa80c52d3",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 1,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The entity is Australian Communities Foundation Limited, ABN 20 077 830 347, and is recorded as registered with the ACNC.",
+    "object": {
+      "statement": "Australian Communities Foundation Limited is recorded as registered with the ACNC.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "Registration status is a fact reported by a regulatory register.",
+      "qualification": ". "
+    }
+  },
+  {
+    "observation_id": "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c",
+    "organisation": "World Vision Australia",
+    "section_id": 14,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC charity subtype history reports Advancing religion, Promoting or protecting human rights, Public Benevolent Institution (PBI), and Advancing social or public welfare as continuing purposes from 31 December 2013.",
+    "object": {
+      "statement": "The ACNC charity subtype history records Advancing religion, Promoting or protecting human rights, Public Benevolent Institution (PBI), and Advancing social or public welfare as continuing purposes of World Vision Australia from 31 December 2013.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "The proposition is explicitly a source-reported regulatory subtype history.",
+      "qualification": "These are source-reported regulatory subtype records; no semantic-scheme assignment is inferred."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC and fundraising records report fundraising authority or registration entries for New South Wales, Queensland, South Australia, Tasmania, Victoria and online fundraising; the ACNC record also lists Western Australia and the Northern Territory fundraising entries without reference numbers.",
+    "object": {
+      "statement": "World Vision Australia has reported fundraising authority or registration entries for New South Wales, Queensland, South Australia, Tasmania, Victoria and online fundraising, and ACNC fundraising entries for Western Australia and the Northern Territory without reference numbers.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "The proposition records jurisdiction-specific regulatory and fundraising-register entries.",
+      "qualification": "The source fields do not provide one common effective date for every entry."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683",
+    "organisation": "World Vision Australia",
+    "section_id": 16,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The ACNC register contains an empty EnforcementOutcomes array for World Vision Australia.",
+    "object": {
+      "statement": "As of 2026-03-24, the ACNC register contains an empty EnforcementOutcomes array for World Vision Australia.",
+      "representation_family": "regulatory_source_fact",
+      "facet_hint": null,
+      "rationale": "This is a directly reported register field and its value.",
+      "qualification": "This is an absence of entries in the supplied register, not a finding of clean conduct."
+    }
+  },
+  {
+    "observation_id": "nativeobs:471767e276e2d0317290edbfbeaa8956b4c5cb026d280c18",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 17,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Trading Tracks"
+    },
+    "proposition": "The website identifies Trading Tracks as a key initiative and states that it launched in Queensland in 2022.",
+    "object": {
+      "statement": "Trading Tracks launched in Queensland in 2022.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "The launch is a dated historical event concerning the initiative.",
+      "qualification": "National network initiative."
+    }
+  },
+  {
+    "observation_id": "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 3,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "Business After Hours brings Newman businesses together"
+    },
+    "proposition": "The project was a sponsored business-community event held in the Shire of East Pilbara.",
+    "object": {
+      "statement": "The project “Business After Hours brings Newman businesses together” occurred on 1 April 2026.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "The observation specifies a historical event and date.",
+      "qualification": "No additional qualification supplied."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8cf7d0846f245411c9faffee126ed83f5c991d777bba3198",
+    "organisation": "World Vision Australia",
+    "section_id": 17,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The historical article reports that World Vision International was founded in 1977 to restructure the worldwide World Vision organisation and that the Australian branch head was among signers of a 1978 Declaration of Internationalization.",
+    "object": {
+      "statement": "World Vision International was founded in 1977 to restructure the worldwide World Vision organisation.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "This is a reported historical organisational event.",
+      "qualification": "Evidence is from a third-party historical article."
+    }
+  },
+  {
+    "observation_id": "nativeobs:8cf7d0846f245411c9faffee126ed83f5c991d777bba3198",
+    "organisation": "World Vision Australia",
+    "section_id": 17,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The historical article reports that World Vision International was founded in 1977 to restructure the worldwide World Vision organisation and that the Australian branch head was among signers of a 1978 Declaration of Internationalization.",
+    "object": {
+      "statement": "The Australian branch head was among the signers of a 1978 Declaration of Internationalization.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "This is a reported historical participation event.",
+      "qualification": "Evidence is from a third-party historical article."
+    }
+  },
+  {
+    "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+    "organisation": "World Vision Australia",
+    "section_id": 10,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+    "object": {
+      "statement": "An interim CEO from World Vision New Zealand served from July 2025 while remaining employed by World Vision New Zealand and not directly employed by World Vision Australia; Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "This records a time-bounded leadership transition and employment arrangement.",
+      "qualification": "Mixed temporal scope from July 2025 to 5 January 2026."
+    }
+  },
+  {
+    "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+    "organisation": "World Vision Australia",
+    "section_id": 7,
+    "scope": {
+      "kind": "named_program_or_service",
+      "label": "40 Hour Famine"
+    },
+    "proposition": "A historical article describes the 40 Hour Famine as a fundraising scheme in which Australians, especially young people, go without food for 40 hours and seek sponsorship from others; it also reports a Backpack Challenge in 2017 and 2018 in its place.",
+    "object": {
+      "statement": "World Vision Australia's 40 Hour Famine was historically replaced by a Backpack Challenge in 2017 and 2018.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "This records a reported historical change in the named program or service.",
+      "qualification": "The evidence is from a third-party article and includes citation-needed markers in the source text."
+    }
+  },
+  {
+    "observation_id": "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead",
+    "organisation": "World Vision Australia",
+    "section_id": 20,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "The principal FY25 financial source covers the year ended 30 September 2025 and was authorised for issue by the directors on 21 November 2025; the ACNC financial report was received on 24 March 2026.",
+    "object": {
+      "statement": "World Vision Australia's principal FY25 financial source covers the year ended 30 September 2025 and was authorised for issue by the directors on 21 November 2025; its ACNC financial report was received on 24 March 2026.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "The observation records reporting, authorisation, and receipt dates associated with financial reporting.",
+      "qualification": "The dates and source relationships are reported as provided."
+    }
+  },
+  {
+    "observation_id": "nativeobs:207a8d9f2deb8130785fb2516dd7c542fbff72d157502721",
+    "organisation": "World Vision Australia",
+    "section_id": 17,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "A historical article reports that World Vision Australia was founded in 1966 after a proposal to establish an Australian office and that its first project related to Vietnam.",
+    "object": {
+      "statement": "World Vision Australia was founded in 1966 after a proposal to establish an Australian office, and its first project related to Vietnam.",
+      "representation_family": "temporal_history_event",
+      "facet_hint": null,
+      "rationale": "The observation reports a historical founding event and an associated first project.",
+      "qualification": "Historical source-native account; it differs from the ACNC establishment date."
+    }
+  }
+]

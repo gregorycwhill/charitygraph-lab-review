@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "fully_grounded": 28,
+    "ungrounded": 34
+  },
+  "support_observation_counts": {
+    "2plus": 3,
+    "1": 25,
+    "0": 34
+  },
+  "support_organisation_counts": {
+    "1": 28,
+    "0": 34
+  },
+  "facet_status": "unknown_from_experiment",
+  "proposals": 62
+}

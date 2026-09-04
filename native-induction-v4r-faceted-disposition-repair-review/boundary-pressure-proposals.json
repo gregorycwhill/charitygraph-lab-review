@@ -1,0 +1,1862 @@
+[
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 1,
+    "preferred_label": "World Vision Australia",
+    "definition": "Organisation reference named in the supplied observations.",
+    "inclusion_boundary": "Retains the organisation name as a reusable entity anchor only.",
+    "exclusion_boundary": "Does not carry over the ABN, ACNC registration status, FY25 financial changes, reported reach, or the interim-CEO employment arrangement.",
+    "uncertainty": "Low for name occurrence; no additional legal-identity or performance assertion is inferred.",
+    "raw_support_keys": [
+      "semantic_objects[0]",
+      "semantic_objects[3]",
+      "semantic_objects[8]",
+      "semantic_objects[11]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[0]",
+      "semantic_objects[3]",
+      "semantic_objects[8]",
+      "semantic_objects[11]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+        "organisation": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation is World Vision Australia, ABN 28 004 778 081, and the ACNC register reports its status as Registered.",
+        "object": {
+          "statement": "World Vision Australia is identified by ABN 28 004 778 081 and is reported as Registered on the ACNC register.",
+          "representation_family": "identity_attribute",
+          "facet_hint": null,
+          "rationale": "The proposition states the organisation's identity, ABN and register status.",
+          "qualification": "Reported as of 2026-03-24."
+        }
+      },
+      {
+        "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+        "organisation": "World Vision Australia",
+        "section_id": 10,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+        "object": {
+          "statement": "The interim CEO held an interim leadership role in World Vision Australia while retaining employment with World Vision New Zealand.",
+          "representation_family": "governance_role_or_structure",
+          "facet_hint": null,
+          "rationale": "The proposition identifies a leadership role and distinguishes the employing entity from the organisation led.",
+          "qualification": "The role and employment relationship are reported for the transition period."
+        }
+      },
+      {
+        "observation_id": "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf",
+        "organisation": "World Vision Australia",
+        "section_id": 6,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The 2025 annual information statement reports that Australian sponsors and donors reached 5.6 million people through the organisation’s work.",
+        "object": {
+          "statement": "For FY25, World Vision Australia reported that Australian sponsors and donors reached 5.6 million people through the organisation’s work.",
+          "representation_family": "outcome_or_evaluation_observation",
+          "facet_hint": null,
+          "rationale": "The proposition reports a quantified reach result.",
+          "qualification": "This is self-reported; the packet provides no independent verification method."
+        }
+      },
+      {
+        "observation_id": "nativeobs:574f3a9293a4cd888a6b1c5764dd7cf8ca3782a86394c1f4",
+        "organisation": "World Vision Australia",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The FY25 report identifies decreased grant income, shifted donor priorities, a 2.3% increase in operating costs and a 28.1% decrease in resources provided to the field compared with the prior year.",
+        "object": {
+          "statement": "In FY25 compared with FY24, World Vision Australia reported decreased grant income, shifted donor priorities, a 2.3% increase in operating costs, and a 28.1% decrease in resources provided to the field.",
+          "representation_family": "finance_resource_flow",
+          "facet_hint": null,
+          "rationale": "The observation concerns reported income, costs, donor priorities, and resources provided to the field.",
+          "qualification": "Reported financial and resource constraints; not a general finding about delivery capacity."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 2,
+    "preferred_label": "World Vision New Zealand",
+    "definition": "Employer organisation reference named in connection with an interim leadership arrangement.",
+    "inclusion_boundary": "Retains only the named employing-entity reference.",
+    "exclusion_boundary": "Does not establish a corporate relationship with World Vision Australia, nor transfer the reported employment arrangement into a standing governance fact.",
+    "uncertainty": "Low for the name occurrence; the supplied statement supports only the transition-period employment context.",
+    "raw_support_keys": [
+      "semantic_objects[3]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[3]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+        "organisation": "World Vision Australia",
+        "section_id": 10,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+        "object": {
+          "statement": "The interim CEO held an interim leadership role in World Vision Australia while retaining employment with World Vision New Zealand.",
+          "representation_family": "governance_role_or_structure",
+          "facet_hint": null,
+          "rationale": "The proposition identifies a leadership role and distinguishes the employing entity from the organisation led.",
+          "qualification": "The role and employment relationship are reported for the transition period."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 3,
+    "preferred_label": "Australian Communities Foundation",
+    "definition": "Organisation reference named in a first-party statement about philanthropy and giving.",
+    "inclusion_boundary": "Retains the organisation name as a reusable entity anchor.",
+    "exclusion_boundary": "Does not retain the claims that philanthropy is easy, accessible, impactful, or effective; it is not merged with Australian Communities Foundation Limited.",
+    "uncertainty": "Low for name occurrence; no equivalence to the separately named limited entity is directly supported.",
+    "raw_support_keys": [
+      "semantic_objects[1]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[1]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1",
+        "organisation": "Australian Communities Foundation",
+        "section_id": 18,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation states that it makes impactful philanthropy easy and accessible and supports effective giving.",
+        "object": {
+          "statement": "Australian Communities Foundation states that it makes impactful philanthropy easy and accessible and supports effective giving.",
+          "representation_family": "position_or_commitment_observation",
+          "facet_hint": null,
+          "rationale": "The proposition records first-party claims about the organisation's stated purpose and approach, without an independently established outcome.",
+          "qualification": "First-party impact-related claims; no independent evaluation or outcome measure establishes effectiveness."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 4,
+    "preferred_label": "Australian Communities Foundation Limited",
+    "definition": "Named legal-entity reference appearing in ACNC reporting-status data.",
+    "inclusion_boundary": "Retains the exact legal-entity name as a reusable entity anchor.",
+    "exclusion_boundary": "Does not retain its reporting-group-head status or ReportingGroupFlag, and is not merged with Australian Communities Foundation without direct identity evidence.",
+    "uncertainty": "Low for exact name occurrence; relationship to the similarly named organisation is unresolved in the supplied material.",
+    "raw_support_keys": [
+      "semantic_objects[6]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[6]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:6ce41678cdf15ae2b70eb5cb27ca6bbbcb4dafe6725509af",
+        "organisation": "Australian Communities Foundation",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The ACNC record marks the entity as not being an ACNC reporting group head, and the 2025 AIS marks ReportingGroupFlag as false.",
+        "object": {
+          "statement": "Australian Communities Foundation Limited is marked as not being an ACNC reporting group head, and its 2025 ReportingGroupFlag is false.",
+          "representation_family": "regulatory_source_fact",
+          "facet_hint": null,
+          "rationale": "These are source-reported ACNC reporting-status fields.",
+          "qualification": "Reported for the 2025 reporting period."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 5,
+    "preferred_label": "Local Buying Foundation (WA)",
+    "definition": "Organisation reference named in supplied financial-position and ACNC classification observations.",
+    "inclusion_boundary": "Retains the organisation name as a reusable entity anchor.",
+    "exclusion_boundary": "Does not carry over net assets or liabilities, loans, CharitySize, beneficiary classification, dates, or reporting-period values.",
+    "uncertainty": "Low for name occurrence; source-reported financial and regulatory fields remain non-Native observations.",
+    "raw_support_keys": [
+      "semantic_objects[2]",
+      "semantic_objects[13]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[2]",
+      "semantic_objects[13]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:3692eacb8fa5ef6a0e7a817a85cbcb1eed57d63bd0268312",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 8,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "At the end of the 2024-25 reporting period, net assets or liabilities were reported as $3,284,658, with no non-current loans payable or other non-current liabilities reported.",
+        "object": {
+          "statement": "At the end of the 2024-25 reporting period, Local Buying Foundation (WA) reported net assets or liabilities of $3,284,658 and no non-current loans payable or other non-current liabilities.",
+          "representation_family": "finance_resource_flow",
+          "facet_hint": null,
+          "rationale": "The proposition reports financial-position figures and liabilities for a specified reporting period.",
+          "qualification": "Reporting period 1 July 2024 to 30 June 2025."
+        }
+      },
+      {
+        "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 19,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC register reports CharitySize as Medium and the beneficiary classification as Other.",
+        "object": {
+          "statement": "The ACNC register reports Local Buying Foundation (WA) as CharitySize Medium with beneficiary classification Other.",
+          "representation_family": "regulatory_source_fact",
+          "facet_hint": null,
+          "rationale": "These are source-reported classifications from the supplied ACNC register.",
+          "qualification": "Source-reported classifications only; as of 28 January 2026."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 6,
+    "preferred_label": "The Fred Hollows Foundation",
+    "definition": "Organisation reference named in supplied self-description and reported-results observations.",
+    "inclusion_boundary": "Retains the organisation name as a reusable entity anchor.",
+    "exclusion_boundary": "Does not retain claimed independence, political alignment, secular status, not-for-profit status, or reported cataract-operation results.",
+    "uncertainty": "Low for name occurrence; organisational characteristics and history remain qualified source assertions.",
+    "raw_support_keys": [
+      "semantic_objects[4]",
+      "semantic_objects[9]",
+      "semantic_objects[12]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[4]",
+      "semantic_objects[9]",
+      "semantic_objects[12]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d",
+        "organisation": "The Fred Hollows Foundation",
+        "section_id": 14,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The Foundation describes itself as independent, not-for-profit, politically unaligned and secular.",
+        "object": {
+          "statement": "The Fred Hollows Foundation describes itself as independent, not-for-profit, politically unaligned and secular.",
+          "representation_family": "position_or_commitment_observation",
+          "facet_hint": null,
+          "rationale": "These are the Foundation's own stated organisational characteristics and commitments.",
+          "qualification": "Foundation self-description in its filed 2025 AIS; not independently inferred."
+        }
+      },
+      {
+        "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "organisation": "The Fred Hollows Foundation",
+        "section_id": 6,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The Foundation reported 212,216 cataract operations in its 2025 global results.",
+        "object": {
+          "statement": "In its 2025 global results, The Fred Hollows Foundation reported 212,216 cataract operations.",
+          "representation_family": "outcome_or_evaluation_observation",
+          "facet_hint": null,
+          "rationale": "The proposition is a quantified reported program result.",
+          "qualification": "This is a result reported by the Foundation in its filed AIS."
+        }
+      },
+      {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "organisation": "The Fred Hollows Foundation",
+        "section_id": 17,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "An external Wikipedia article describes the Foundation as founded in 1992 by eye surgeon Fred Hollows.",
+        "object": {
+          "statement": "An external Wikipedia article states that The Fred Hollows Foundation was founded on 3 September 1992 by Fred Hollows.",
+          "representation_family": "temporal_history_event",
+          "facet_hint": null,
+          "rationale": "The proposition reports a historical founding event and identifies its external source context.",
+          "qualification": "External editorial context from Wikipedia, not a regulator record."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 7,
+    "preferred_label": "Tourism and Events Queensland",
+    "definition": "Organisation reference named as a partner in a project statement.",
+    "inclusion_boundary": "Retains the named organisation as a reusable entity anchor.",
+    "exclusion_boundary": "Does not assert a general, continuing, contractual, or otherwise independently verified partnership.",
+    "uncertainty": "Low for name occurrence; the partnership remains a project-specific reported relationship.",
+    "raw_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 12,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Driving Tourism Growth in the Isaac Region"
+        },
+        "proposition": "The project is stated to leverage partnerships with Tourism and Events Queensland.",
+        "object": {
+          "statement": "The “Driving Tourism Growth in the Isaac Region” project is stated to leverage partnerships with Tourism and Events Queensland.",
+          "representation_family": "graph_relationship_instance",
+          "facet_hint": null,
+          "rationale": "This records a named project partnership relationship with another organisation.",
+          "qualification": "Official website project story dated 20 November 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 8,
+    "preferred_label": "Driving Tourism Growth in the Isaac Region",
+    "definition": "Named project referenced in an official project story.",
+    "inclusion_boundary": "Retains the exact project title as a reusable project anchor.",
+    "exclusion_boundary": "Does not retain the stated partnership with Tourism and Events Queensland or infer project ownership, delivery responsibility, duration, geography, or outcomes beyond the source observation.",
+    "uncertainty": "Low for project-title occurrence; project attributes are intentionally not promoted beyond the reported statement.",
+    "raw_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 12,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Driving Tourism Growth in the Isaac Region"
+        },
+        "proposition": "The project is stated to leverage partnerships with Tourism and Events Queensland.",
+        "object": {
+          "statement": "The “Driving Tourism Growth in the Isaac Region” project is stated to leverage partnerships with Tourism and Events Queensland.",
+          "representation_family": "graph_relationship_instance",
+          "facet_hint": null,
+          "rationale": "This records a named project partnership relationship with another organisation.",
+          "qualification": "Official website project story dated 20 November 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 9,
+    "preferred_label": "Building creative businesses in Port Hedland",
+    "definition": "Named project referenced in an official project story.",
+    "inclusion_boundary": "Retains the exact project title as a reusable project anchor.",
+    "exclusion_boundary": "Does not carry over asserted participant groups, sustainable-business intent, mentoring components, skills, confidence, networks, implementing organisation, or measured outcomes.",
+    "uncertainty": "Low for project-title occurrence; delivery structure and intended effects remain source-specific claims.",
+    "raw_support_keys": [
+      "semantic_objects[7]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[7]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Building creative businesses in Port Hedland"
+        },
+        "proposition": "The project supports emerging artists and makers in Port Hedland to develop creative practices into sustainable businesses, with mentoring focused on skills, confidence and networks.",
+        "object": {
+          "statement": "The project “Building creative businesses in Port Hedland” supports emerging artists and makers in Port Hedland to develop creative practices into sustainable businesses, with mentoring focused on skills, confidence and networks.",
+          "representation_family": "program_service_structure",
+          "facet_hint": null,
+          "rationale": "The proposition describes a named project, its target participants, intended activity and mentoring components.",
+          "qualification": "Official website project story published 24 June 2026."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 10,
+    "preferred_label": "Business After Hours brings Newman businesses together",
+    "definition": "Named event referenced in a reported attendance observation.",
+    "inclusion_boundary": "Retains the event title as a reusable event anchor.",
+    "exclusion_boundary": "Does not carry over the reported attendance threshold, event organiser, date, location, participant identity, or any claim of business impact.",
+    "uncertainty": "Low for event-title occurrence; attendance remains an unverified official-website self-report.",
+    "raw_support_keys": [
+      "semantic_objects[10]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[10]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:5b54b006bc0f12c3b4186a6c63bbc8f5a012e54b91c21da7",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 6,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Business After Hours brings Newman businesses together"
+        },
+        "proposition": "The event attracted more than 30 attendees.",
+        "object": {
+          "statement": "The “Business After Hours brings Newman businesses together” event attracted more than 30 attendees.",
+          "representation_family": "outcome_or_evaluation_observation",
+          "facet_hint": null,
+          "rationale": "The proposition reports a quantified participation result for the event.",
+          "qualification": "This is an official website self-report."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 1,
+    "proposal_ordinal": 11,
+    "preferred_label": "Interim CEO",
+    "definition": "Temporary chief-executive leadership role referenced during an organisational transition.",
+    "inclusion_boundary": "Retains the reusable role concept only.",
+    "exclusion_boundary": "Does not identify a role-holder, establish a permanent appointment, or carry over the reported concurrent employment relationship.",
+    "uncertainty": "Low that an interim leadership role is referenced; role-holder and employment details are not retained as Native residuals.",
+    "raw_support_keys": [
+      "semantic_objects[3]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[3]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+        "organisation": "World Vision Australia",
+        "section_id": 10,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation appointed an interim CEO from World Vision New Zealand in July 2025; the interim CEO remained employed by World Vision New Zealand and was not a direct employee of World Vision Australia, and Grant Bayldon was formally appointed CEO effective 5 January 2026.",
+        "object": {
+          "statement": "The interim CEO held an interim leadership role in World Vision Australia while retaining employment with World Vision New Zealand.",
+          "representation_family": "governance_role_or_structure",
+          "facet_hint": null,
+          "rationale": "The proposition identifies a leadership role and distinguishes the employing entity from the organisation led.",
+          "qualification": "The role and employment relationship are reported for the transition period."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 2,
+    "proposal_ordinal": 1,
+    "preferred_label": "Environment as a beneficiary target",
+    "definition": "A non-human beneficiary category in which charitable benefit is directed to environmental protection, restoration, or related environmental outcomes.",
+    "inclusion_boundary": "Use where the source explicitly records or describes “the environment” as a beneficiary category or intended recipient of benefit.",
+    "exclusion_boundary": "Exclude human population groups, geographic locations merely containing environmental assets, and any inference about a particular environmental program or outcome.",
+    "uncertainty": "Low. The ACNC-register beneficiary enumeration explicitly includes the environment.",
+    "raw_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd",
+        "organisation": "World Vision Australia",
+        "section_id": 4,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The ACNC register reports beneficiaries including youth aged 15 to under 25, disaster victims, people with disabilities, people in rural, regional or remote communities, overseas communities or charities, females, families, the environment, early-childhood children, children aged 6 to under 15, adults aged 65 and over, adults aged 25 to under 65, and Aboriginal and Torres Strait Islander people.",
+        "object": {
+          "statement": "The ACNC register records beneficiaries including youth, children, adults, families, females, people with disabilities, disaster victims, rural, regional or remote communities, overseas communities or charities, the environment, and Aboriginal and Torres Strait Islander people.",
+          "representation_family": "population_beneficiary",
+          "facet_hint": null,
+          "rationale": "The proposition explicitly enumerates beneficiary population categories recorded by the ACNC.",
+          "qualification": "The register also includes an uncategorised Other entry."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 2,
+    "proposal_ordinal": 2,
+    "preferred_label": "Charity as a beneficiary organisation",
+    "definition": "An organisational beneficiary category comprising charities that receive or are intended to receive benefit, rather than individuals or population groups.",
+    "inclusion_boundary": "Use where charities are explicitly included among beneficiary categories or recipients of benefit.",
+    "exclusion_boundary": "Exclude a claim that a named organisation is a charity, that it received funding, or that it has any particular regulatory or tax status.",
+    "uncertainty": "Moderate. The source explicitly includes “charities” in the beneficiary enumeration, but does not identify particular recipient charities.",
+    "raw_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd",
+        "organisation": "World Vision Australia",
+        "section_id": 4,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The ACNC register reports beneficiaries including youth aged 15 to under 25, disaster victims, people with disabilities, people in rural, regional or remote communities, overseas communities or charities, females, families, the environment, early-childhood children, children aged 6 to under 15, adults aged 65 and over, adults aged 25 to under 65, and Aboriginal and Torres Strait Islander people.",
+        "object": {
+          "statement": "The ACNC register records beneficiaries including youth, children, adults, families, females, people with disabilities, disaster victims, rural, regional or remote communities, overseas communities or charities, the environment, and Aboriginal and Torres Strait Islander people.",
+          "representation_family": "population_beneficiary",
+          "facet_hint": null,
+          "rationale": "The proposition explicitly enumerates beneficiary population categories recorded by the ACNC.",
+          "qualification": "The register also includes an uncategorised Other entry."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 2,
+    "proposal_ordinal": 3,
+    "preferred_label": "Discretionary investment trust",
+    "definition": "A trust legal form characterised in the cited record as a discretionary investment trust.",
+    "inclusion_boundary": "Use only for an entity or trustee expressly characterised by an authoritative source as a Discretionary Investment Trust.",
+    "exclusion_boundary": "Exclude other trust forms, investment entities not expressly described as trusts, and any assertion that the underlying operating entity shares the trustee's legal form.",
+    "uncertainty": "Low for the Trustee referenced in the ATO ABN record; the statement does not establish this legal form for Local Buying Foundation (WA) itself.",
+    "raw_support_keys": [
+      "semantic_objects[12]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[12]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "The Trustee for Local Buying Foundation (WA)"
+        },
+        "proposition": "The ATO ABN record characterises the entity as a Discretionary Investment Trust, active from 1 June 2020.",
+        "object": {
+          "statement": "The ATO ABN record characterises the Trustee for Local Buying Foundation (WA) as a Discretionary Investment Trust, active from 1 June 2020.",
+          "representation_family": "regulatory_source_fact",
+          "facet_hint": null,
+          "rationale": "This is an entity characterisation and activity date reported by a supplied ATO ABN record.",
+          "qualification": "Supported; source scope as at 31 August 2026."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 1,
+    "preferred_label": "Key management personnel remuneration",
+    "definition": "Aggregate remuneration disclosed for an organisation’s key management personnel, including the associated personnel count where reported.",
+    "inclusion_boundary": "Use for a remuneration disclosure explicitly tied to key management personnel; it may note redundancy-related costs when the disclosure says they are included.",
+    "exclusion_boundary": "Do not treat the aggregate as remuneration for each individual, a general workforce-pay figure, or a separately quantified redundancy-cost figure.",
+    "uncertainty": "Low. The aggregate amount, personnel count, and inclusion of costs associated with three redundancies are directly reported; no component breakdown is supplied.",
+    "raw_support_keys": [
+      "input.semantic_objects[0]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[0]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 2,
+    "preferred_label": "Mentoring",
+    "definition": "Structured guidance or support intended to assist participants’ development.",
+    "inclusion_boundary": "Use where mentoring is expressly identified as an activity or support method.",
+    "exclusion_boundary": "Do not infer mentoring relationships, duration, intensity, or achieved participant outcomes beyond the stated support.",
+    "uncertainty": "Low. Mentoring is expressly stated as the support mechanism.",
+    "raw_support_keys": [
+      "input.semantic_objects[2]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[2]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 3,
+    "preferred_label": "Capability and network development",
+    "definition": "Support intended to build participants’ skills, confidence, and professional or peer networks.",
+    "inclusion_boundary": "Use where an activity is stated to help participants develop skills, confidence, or networks.",
+    "exclusion_boundary": "Do not represent this as verified capability gains, employment outcomes, business creation, or sustained network participation.",
+    "uncertainty": "Low for the stated intended support; outcomes are not evidenced.",
+    "raw_support_keys": [
+      "input.semantic_objects[2]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[2]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 4,
+    "preferred_label": "Operating cash flow",
+    "definition": "Net cash provided by or used in an entity’s operating activities for a specified reporting period.",
+    "inclusion_boundary": "Use for an explicitly reported net operating-cash-flow amount and period.",
+    "exclusion_boundary": "Do not equate operating cash flow with revenue, profit, unrestricted funding, total cash balance, or investment cash flows.",
+    "uncertainty": "Low. The amount and year-ended period are directly reported.",
+    "raw_support_keys": [
+      "input.semantic_objects[3]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[3]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 5,
+    "preferred_label": "Staffing support",
+    "definition": "Funding designated to support a personnel position or staffing function in an organisation.",
+    "inclusion_boundary": "Use where funding is expressly said to support a specified role, such as a dedicated Executive Officer.",
+    "exclusion_boundary": "Do not infer that the funder employs, manages, or delivers the work of the recipient organisation or supported staff member.",
+    "uncertainty": "Low for the designated staffing purpose; the employment and operational arrangement is not stated.",
+    "raw_support_keys": [
+      "input.semantic_objects[4]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[4]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 6,
+    "preferred_label": "Stakeholder representation in governance",
+    "definition": "Representation of distinct stakeholder groups or interests within a governance or advisory body.",
+    "inclusion_boundary": "Use where members are identified as representing sectors, communities, interest groups, or stakeholder constituencies.",
+    "exclusion_boundary": "Do not infer that every represented group has equal authority, that all stakeholders are represented, or that representation establishes consultation outcomes.",
+    "uncertainty": "Low. The committee membership and represented interests are explicitly described.",
+    "raw_support_keys": [
+      "input.semantic_objects[7]",
+      "input.semantic_objects[10]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[7]",
+      "input.semantic_objects[10]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 7,
+    "preferred_label": "Governance advisory",
+    "definition": "Provision of guidance and intelligence to inform governance, investment, or resource-disbursement decisions.",
+    "inclusion_boundary": "Use where a body is expressly described as providing advice, guidance, or intelligence for such decisions.",
+    "exclusion_boundary": "Do not treat an advisory function as decision-making authority, control of funds, or direct delivery of investments.",
+    "uncertainty": "Low for the stated advisory function; final decision rights are not specified.",
+    "raw_support_keys": [
+      "input.semantic_objects[10]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[10]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 8,
+    "preferred_label": "Philanthropic giving facilitation",
+    "definition": "Support that enables or improves giving by donors or prospective donors.",
+    "inclusion_boundary": "Use for an organisation’s stated role in supporting or enabling effective giving.",
+    "exclusion_boundary": "Do not infer the volume of funds raised or distributed, donor outcomes, or independently verified effectiveness from a self-description.",
+    "uncertainty": "Moderate. This is an undated first-party description of organisational purpose.",
+    "raw_support_keys": [
+      "input.semantic_objects[11]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[11]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 9,
+    "preferred_label": "Business networking support",
+    "definition": "An activity intended to foster connection among business participants and support business development.",
+    "inclusion_boundary": "Use where a business-focused event or series is expressly described as supporting connection and business growth.",
+    "exclusion_boundary": "Do not infer attendance, transactions, business performance, or realised growth outcomes.",
+    "uncertainty": "Low for the stated purpose; no outcome evidence is supplied.",
+    "raw_support_keys": [
+      "input.semantic_objects[12]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[12]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 10,
+    "preferred_label": "Fundraising",
+    "definition": "Mobilisation of financial resources through fundraising mechanisms, including pledge programmes and sponsorship.",
+    "inclusion_boundary": "Use where pledge programmes, sponsorship, or equivalent mechanisms are expressly identified as fundraising or resource-mobilisation channels.",
+    "exclusion_boundary": "Do not infer funds raised, donor counts, restricted-use status, or the effectiveness of any channel.",
+    "uncertainty": "Low for the reported channels; no channel-specific amounts are provided.",
+    "raw_support_keys": [
+      "input.semantic_objects[13]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[13]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 3,
+    "proposal_ordinal": 11,
+    "preferred_label": "Trustee services",
+    "definition": "Fiduciary services performed by a company or organisation in its capacity as trustee for one or more funds or entities.",
+    "inclusion_boundary": "Use where the entity is expressly stated to provide trustee services to identified funds or entities.",
+    "exclusion_boundary": "Do not infer beneficial ownership of trust assets, discretionary control beyond the trustee role, or broader administrative services not stated.",
+    "uncertainty": "Low. Trustee services and the named recipients are directly reported.",
+    "raw_support_keys": [
+      "input.semantic_objects[14]"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "input.semantic_objects[14]"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 1,
+    "preferred_label": "Voluntary sector code adherence claim",
+    "definition": "An organisation’s stated adherence to a voluntary sector code of conduct, including a stated alignment of financial-statement presentation and disclosures with that code.",
+    "inclusion_boundary": "Includes the World Vision Australia claim of adherence to the ACFID Code of Conduct and use of its presentation and disclosure requirements for FY25 financial statements.",
+    "exclusion_boundary": "Excludes independent assurance that the code has been fully implemented across all organisational activities or that every code requirement has been met.",
+    "uncertainty": "First-party stated adherence and reporting alignment; not independently verified compliance.",
+    "raw_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[0]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+        "organisation": "World Vision Australia",
+        "section_id": 15,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation states that it adheres to the ACFID Code of Conduct and presents its FY25 financial statements in accordance with the Code’s presentation and disclosure requirements.",
+        "object": {
+          "statement": "World Vision Australia states that it adheres to the ACFID Code of Conduct and presents its FY25 financial statements in accordance with the Code's presentation and disclosure requirements.",
+          "representation_family": "position_or_commitment_observation",
+          "facet_hint": null,
+          "rationale": "The proposition records an organisationally stated adherence and reporting commitment.",
+          "qualification": "This supports a reported commitment and implementation in financial reporting, not full policy implementation across all activities."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 2,
+    "preferred_label": "Company limited by guarantee",
+    "definition": "A legal entity form in which a company is limited by members’ guarantees rather than share capital.",
+    "inclusion_boundary": "Includes World Vision Australia’s reported status as an Australian public company limited by guarantee.",
+    "exclusion_boundary": "Excludes inferences about governance practice, financial liability, tax status, or other entities’ legal forms.",
+    "uncertainty": "Supported for the reporting year ended 30 September 2025.",
+    "raw_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:8cebc2a39cd7448e00e4f0e68a3c1038b4a44154170e57a4",
+        "organisation": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+        "object": {
+          "statement": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+          "representation_family": "identity_attribute",
+          "facet_hint": null,
+          "rationale": "This states the entity's legal form, incorporation and domicile, and charity registration status.",
+          "qualification": "Supported for the reporting year ended 30 September 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 3,
+    "preferred_label": "Charity registration status",
+    "definition": "Formal registration of an organisation as a charity with a charity regulator.",
+    "inclusion_boundary": "Includes World Vision Australia’s reported registration as a charity with the ACNC.",
+    "exclusion_boundary": "Excludes any conclusion about charity registration for entities not named in the supporting statement, or about ongoing regulatory compliance beyond the reported status.",
+    "uncertainty": "Supported for the reporting year ended 30 September 2025.",
+    "raw_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:8cebc2a39cd7448e00e4f0e68a3c1038b4a44154170e57a4",
+        "organisation": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+        "object": {
+          "statement": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+          "representation_family": "identity_attribute",
+          "facet_hint": null,
+          "rationale": "This states the entity's legal form, incorporation and domicile, and charity registration status.",
+          "qualification": "Supported for the reporting year ended 30 September 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 4,
+    "preferred_label": "Incorporation and domicile jurisdiction",
+    "definition": "The jurisdiction in which an organisation is incorporated and domiciled.",
+    "inclusion_boundary": "Includes the reported incorporation and domicile of World Vision Australia in Australia.",
+    "exclusion_boundary": "Excludes an inference that all operations, beneficiaries, assets, or programs are confined to that jurisdiction.",
+    "uncertainty": "Supported for the reporting year ended 30 September 2025.",
+    "raw_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[2]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:8cebc2a39cd7448e00e4f0e68a3c1038b4a44154170e57a4",
+        "organisation": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+        "object": {
+          "statement": "World Vision Australia is an Australian public company limited by guarantee, incorporated and domiciled in Australia, and registered as a charity with the ACNC.",
+          "representation_family": "identity_attribute",
+          "facet_hint": null,
+          "rationale": "This states the entity's legal form, incorporation and domicile, and charity registration status.",
+          "qualification": "Supported for the reporting year ended 30 September 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 5,
+    "preferred_label": "Funding-support recipient relationship",
+    "definition": "A relationship in which an organisation receives dedicated funding or other financial support for a specified role, activity, or purpose.",
+    "inclusion_boundary": "Includes the Newman Chamber of Commerce and Industry as recipient or supported organisation for dedicated Executive Officer funding.",
+    "exclusion_boundary": "Excludes characterising the support as a grant, contract, sponsorship, unrestricted funding, or a broader partnership where those terms are not supplied.",
+    "uncertainty": "The stated relationship is limited to the dedicated Executive Officer funding.",
+    "raw_support_keys": [
+      "semantic_objects[4]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[4]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Backing a stronger future for Newman businesses"
+        },
+        "proposition": "Funding supports a dedicated Executive Officer for the Newman Chamber of Commerce and Industry.",
+        "object": {
+          "statement": "The Newman Chamber of Commerce and Industry is the recipient or supported organisation for the dedicated Executive Officer funding.",
+          "representation_family": "graph_relationship_instance",
+          "facet_hint": null,
+          "rationale": "The proposition establishes a funding-support relationship between the Foundation and the Chamber.",
+          "qualification": "The relationship is limited to the stated funding support."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 6,
+    "preferred_label": "Operational geographic footprint",
+    "definition": "Places in which an organisation is recorded as operating by an authoritative register or source.",
+    "inclusion_boundary": "Includes the ACNC-listed operating areas for World Vision Australia: Tasmania, New South Wales, Queensland, Western Australia, South Australia, the Australian Capital Territory, and the Northern Territory.",
+    "exclusion_boundary": "Excludes a claim of service coverage, physical offices, program intensity, or operations in unlisted jurisdictions.",
+    "uncertainty": "Based on the ACNC register listing as of 2026-03-24.",
+    "raw_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[5]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+        "organisation": "World Vision Australia",
+        "section_id": 5,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The ACNC register lists operation in Tasmania, New South Wales, Queensland, Western Australia, South Australia, the Australian Capital Territory and the Northern Territory.",
+        "object": {
+          "statement": "The ACNC register lists World Vision Australia as operating in Tasmania, New South Wales, Queensland, Western Australia, South Australia, the Australian Capital Territory and the Northern Territory.",
+          "representation_family": "geography_location",
+          "facet_hint": null,
+          "rationale": "The proposition identifies the geographic areas in which the organisation is listed as operating.",
+          "qualification": "ACNC register listing as of 2026-03-24."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 7,
+    "preferred_label": "People screened (reported service reach)",
+    "definition": "A reported count of people who received a screening activity or service during a stated reporting period.",
+    "inclusion_boundary": "Includes The Fred Hollows Foundation’s reported screening of 6,136,161 people in its 2025 global results.",
+    "exclusion_boundary": "Excludes claims about diagnoses, treatment, health improvement, uniqueness of individuals, screening modality, or independently verified impact.",
+    "uncertainty": "Foundation-reported result in its filed 2025 AIS.",
+    "raw_support_keys": [
+      "semantic_objects[6]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[6]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "organisation": "The Fred Hollows Foundation",
+        "section_id": 6,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The Foundation reported screening 6,136,161 people in its 2025 global results.",
+        "object": {
+          "statement": "The Fred Hollows Foundation reported screening 6,136,161 people in its 2025 global results.",
+          "representation_family": "outcome_or_evaluation_observation",
+          "facet_hint": null,
+          "rationale": "The proposition is a quantified reported result of the Foundation’s work.",
+          "qualification": "This is a result reported by the Foundation in its filed AIS; reporting period 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 8,
+    "preferred_label": "Program co-design advisory group",
+    "definition": "A program-specific reference or advisory group whose members contribute to the design of a program.",
+    "inclusion_boundary": "Includes the Indigenous Business Reference Group established for the SA Trading Tracks pilot and its stated contribution to program design.",
+    "exclusion_boundary": "Excludes an inference that the group held decision-making authority, governed the entire program, or represented all Indigenous businesses or communities.",
+    "uncertainty": "Supported as a historical program event dated 1 April 2026.",
+    "raw_support_keys": [
+      "semantic_objects[7]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[7]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:90a8e86e8b5631cf99af912002181e7bd8924b79dfcb86e0",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 12,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "SA Trading Tracks pilot"
+        },
+        "proposition": "The South Australian Trading Tracks pilot established an Indigenous Business Reference Group whose members contributed to program design.",
+        "object": {
+          "statement": "The SA Trading Tracks pilot established an Indigenous Business Reference Group whose members contributed to program design.",
+          "representation_family": "program_service_structure",
+          "facet_hint": null,
+          "rationale": "The proposition describes a program-specific participatory structure and its design role.",
+          "qualification": "Historical event dated 1 April 2026."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 9,
+    "preferred_label": "Philanthropy and giving promotion purpose",
+    "definition": "An organisational purpose directed toward encouraging, enabling, or activating charitable giving.",
+    "inclusion_boundary": "Includes Australian Communities Foundation’s stated purpose of activating a nation of givers to create a fairer and more sustainable Australia.",
+    "exclusion_boundary": "Excludes treating the stated purpose as demonstrated social impact or assigning unstated thematic, beneficiary, or environmental outcomes.",
+    "uncertainty": "This is an organisation-stated purpose in its directors’ report.",
+    "raw_support_keys": [
+      "semantic_objects[8]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[8]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:579c378054bd2772172251af900e7fcbe851f81f6f9587b8",
+        "organisation": "Australian Communities Foundation",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation states that its purpose is to activate a nation of givers to create a fairer and more sustainable Australia.",
+        "object": {
+          "statement": "Australian Communities Foundation states that its purpose is to activate a nation of givers to create a fairer and more sustainable Australia.",
+          "representation_family": "position_or_commitment_observation",
+          "facet_hint": null,
+          "rationale": "The proposition is the organisation’s stated purpose.",
+          "qualification": "This is the organisation’s stated purpose in its directors’ report."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 10,
+    "preferred_label": "Business-community networking event",
+    "definition": "An event intended to bring businesses and wider community participants together for connection, engagement, or networking.",
+    "inclusion_boundary": "Includes the sponsored project event “Business After Hours brings Newman businesses together,” held in the Shire of East Pilbara on 1 April 2026.",
+    "exclusion_boundary": "Excludes claims about attendance totals, commercial outcomes, ongoing programming, or sponsorship terms beyond the stated event character.",
+    "uncertainty": "Supported as a named event with stated location and date.",
+    "raw_support_keys": [
+      "semantic_objects[9]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[9]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Business After Hours brings Newman businesses together"
+        },
+        "proposition": "The project was a sponsored business-community event held in the Shire of East Pilbara.",
+        "object": {
+          "statement": "The project “Business After Hours brings Newman businesses together” was a sponsored business-community event held in the Shire of East Pilbara on 1 April 2026.",
+          "representation_family": "program_service_structure",
+          "facet_hint": null,
+          "rationale": "The proposition identifies a named event, its activity character and location.",
+          "qualification": "No additional qualification supplied."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 11,
+    "preferred_label": "Workforce and volunteer composition",
+    "definition": "Reported composition of an organisation’s paid workforce, full-time-equivalent staffing, and unpaid volunteers.",
+    "inclusion_boundary": "Includes Australian Communities Foundation Limited’s 2025 report of 13 full-time employees, 8 part-time employees, no casual employees, 19 FTE staff, and 12 unpaid volunteers.",
+    "exclusion_boundary": "Excludes conclusions about remuneration, employment quality, contractor numbers, volunteer hours, or workforce composition in other years.",
+    "uncertainty": "Supported for the 2025 reporting period.",
+    "raw_support_keys": [
+      "semantic_objects[11]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[11]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:74a7c8830ac0c845a317c832312482d65a2ab45794c52a11",
+        "organisation": "Australian Communities Foundation",
+        "section_id": 10,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The 2025 AIS reports 13 full-time employees, 8 part-time employees, no casual employees, 12 unpaid volunteers and 19 FTE staff.",
+        "object": {
+          "statement": "For 2025, Australian Communities Foundation Limited reported 13 full-time employees, 8 part-time employees, no casual employees, 12 unpaid volunteers, and 19 FTE staff.",
+          "representation_family": "governance_role_or_structure",
+          "facet_hint": null,
+          "rationale": "The observation reports the organisation's workforce and volunteer structure.",
+          "qualification": "Supported; 2025 reporting period."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 12,
+    "preferred_label": "Cross-sector event participation",
+    "definition": "Participation at an event by attendees drawn from business, government, and industry sectors.",
+    "inclusion_boundary": "Includes the reported attendance of hundreds of business leaders, government representatives, and industry experts at the Fostering Innovation in the Pilbara event.",
+    "exclusion_boundary": "Excludes verification of the numerical attendance, claims of formal collaboration, or representation of all relevant stakeholder groups.",
+    "uncertainty": "Official-website self-report for an event dated 21 November 2025.",
+    "raw_support_keys": [
+      "semantic_objects[12]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[12]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:8f75727b71e127d42b6a68164ba4bf42e07579df6aa1403b",
+        "organisation": "Local Buying Foundation (WA)",
+        "section_id": 6,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Fostering Innovation in the Pilbara"
+        },
+        "proposition": "The event drew hundreds of business leaders, government representatives and industry experts.",
+        "object": {
+          "statement": "The Fostering Innovation in the Pilbara event drew hundreds of business leaders, government representatives, and industry experts.",
+          "representation_family": "population_beneficiary",
+          "facet_hint": null,
+          "rationale": "The proposition reports the categories of people involved in or attending a named event.",
+          "qualification": "Official website self-report; event dated 21 November 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 13,
+    "preferred_label": "Fundraising and resource-mobilisation channels",
+    "definition": "Reported channels through which an organisation mobilises monetary or non-monetary resources.",
+    "inclusion_boundary": "Includes appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets.",
+    "exclusion_boundary": "Excludes revenue amounts, relative materiality of channels, restrictions on funds, and an inference that every listed channel was active outside the stated reporting period.",
+    "uncertainty": "Supported for the year ended 30 September 2025.",
+    "raw_support_keys": [
+      "semantic_objects[13]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[13]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+        "organisation": "World Vision Australia",
+        "section_id": 7,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation’s reported fundraising and resource mobilisation channels include pledge programs, sponsorship, appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets.",
+        "object": {
+          "statement": "The organisation reported appeals, donations and gifts, emergency relief appeals, bequests and legacies, government and other grants, online fundraising, and non-monetary donated goods and assets as fundraising and resource mobilisation channels.",
+          "representation_family": "finance_resource_flow",
+          "facet_hint": null,
+          "rationale": "These are reported forms of monetary and non-monetary resource inflow.",
+          "qualification": "Supported for the year ended 30 September 2025."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 4,
+    "proposal_ordinal": 14,
+    "preferred_label": "Structured-giving support services",
+    "definition": "Structures, services, and community support provided to enable or assist structured charitable giving.",
+    "inclusion_boundary": "Includes the organisation’s stated provision of structures, services, and a community to support structured giving.",
+    "exclusion_boundary": "Excludes confirmation of service uptake, service quality, financial outcomes, or a conclusion that all forms of philanthropy are supported.",
+    "uncertainty": "First-party capability and access claim; undated.",
+    "raw_support_keys": [
+      "semantic_objects[14]"
+    ],
+    "resolved_support_keys": [
+      "semantic_objects[14]"
+    ],
+    "unresolved_support_keys": [],
+    "grounding": "fully_grounded",
+    "grounding_reason": "all keys resolve to exact batch positions",
+    "source_objects": [
+      {
+        "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+        "organisation": "Australian Communities Foundation",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation states that it provides structures, services and a community to support structured giving, and that it makes philanthropy easy and accessible.",
+        "object": {
+          "statement": "The organisation states that it provides structures, services and a community to support structured giving.",
+          "representation_family": "program_service_structure",
+          "facet_hint": null,
+          "rationale": "This describes the organisation's stated service infrastructure for structured giving.",
+          "qualification": "First-party capability and access claim; undated."
+        }
+      }
+    ],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 1,
+    "preferred_label": "Australian public-company legal form",
+    "definition": "Australian Communities Foundation Limited is reported as having the legal form Australian Public Company.",
+    "inclusion_boundary": "Includes only the source-reported legal-form classification.",
+    "exclusion_boundary": "Does not infer incorporation status beyond the ABN Lookup observation, ownership, tax status, or regulatory compliance.",
+    "uncertainty": "Direct ABN Lookup observation; current observation.",
+    "raw_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 2,
+    "preferred_label": "Australian Business Number (ABN) registration identifier",
+    "definition": "Australian Communities Foundation Limited is reported with ABN active from 1 November 1999.",
+    "inclusion_boundary": "Includes the organisation's ABN registration fact and stated activation date.",
+    "exclusion_boundary": "Does not infer continuous operational activity, registration history before that date, or any identifier not supplied.",
+    "uncertainty": "Direct ABN Lookup observation; current observation.",
+    "raw_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 3,
+    "preferred_label": "Australian Company Number (ACN) registration identifier",
+    "definition": "Australian Communities Foundation Limited is reported with ACN 077 830 347.",
+    "inclusion_boundary": "Includes only the stated ACN value associated with the named organisation.",
+    "exclusion_boundary": "Does not infer company-group relationships, ownership, or further corporate-registration attributes.",
+    "uncertainty": "Direct ABN Lookup observation; current observation.",
+    "raw_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/0"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 4,
+    "preferred_label": "Funding-supported role continuation and expansion",
+    "definition": "Funding is reported to support continuation and expansion of Business Port Pirie's Business Manager role.",
+    "inclusion_boundary": "Includes the direct relationship between reported funding and continuation/expansion of the specified role.",
+    "exclusion_boundary": "Does not identify a funder, amount, award terms, duration, or resulting outcomes.",
+    "uncertainty": "First-party project-story reporting; published 25 August 2026.",
+    "raw_support_keys": [
+      "/semantic_objects/1"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/1"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 5,
+    "preferred_label": "Country-level activity footprint",
+    "definition": "The ACNC record reports organisational activity in Afghanistan, Australia, Bangladesh, Brazil, Burundi, Cambodia, Chad, Colombia, Ethiopia, Ghana, Indonesia, Iraq, Kenya, Lebanon, Malawi, Mozambique, Nepal, Papua New Guinea, Peru, Philippines, Rwanda, Senegal, Solomon Islands, Somalia, South Sudan, Sri Lanka, Sudan, Turkiye, Uganda, Ukraine, Zambia, Zimbabwe, Democratic Republic of the Congo, Laos, Myanmar, Syria, Tanzania, Timor-Leste, Vanuatu and Vietnam.",
+    "inclusion_boundary": "Includes only the country labels explicitly listed in the ACNC record, preserved as source-native labels.",
+    "exclusion_boundary": "Does not establish offices, programs, beneficiaries, funding flows, or intensity of activity in any listed country.",
+    "uncertainty": "Register-reported activity countries as of 2026-03-24.",
+    "raw_support_keys": [
+      "/semantic_objects/2"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/2"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 6,
+    "preferred_label": "Program delivery jurisdiction",
+    "definition": "The filed program record for “Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory” specifies New South Wales, Northern Territory, Western Australia and Queensland as locations.",
+    "inclusion_boundary": "Includes the four jurisdictions in the filed location list for the named program.",
+    "exclusion_boundary": "Does not limit delivery to the Top End, resolve the difference between the program title and the location list, or infer delivery within particular localities.",
+    "uncertainty": "Direct filed-record observation; title/location-list scope is not reconciled.",
+    "raw_support_keys": [
+      "/semantic_objects/3"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/3"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 7,
+    "preferred_label": "National-network regional coverage",
+    "definition": "The Local Buying Foundation national network reports activity across New South Wales, Queensland, South Australia and Western Australia, supporting 12 local regions.",
+    "inclusion_boundary": "Includes the stated state coverage and reported total of 12 local regions for the national network.",
+    "exclusion_boundary": "Does not treat the count as Western Australia-only, identify individual regions, or infer service volume or impact.",
+    "uncertainty": "National-network self-report, stated as of August 2026.",
+    "raw_support_keys": [
+      "/semantic_objects/4"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/4"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 8,
+    "preferred_label": "Business cybersecurity support session delivery",
+    "definition": "“Keeping SA Far North Business Safe Online” is reported to have delivered practical sessions covering cyber threats, business systems and responses to attacks.",
+    "inclusion_boundary": "Includes reported session delivery and the listed session subject matter.",
+    "exclusion_boundary": "Does not establish participant numbers, completion, cyber-security outcomes, or effectiveness.",
+    "uncertainty": "Official website self-report for activity dated 29 May 2025.",
+    "raw_support_keys": [
+      "/semantic_objects/7"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/7"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 9,
+    "preferred_label": "Director meeting attendance record",
+    "definition": "For the year ended 30 June 2025, Australian Communities Foundation Limited recorded four directors’ meetings and attendance figures for each director.",
+    "inclusion_boundary": "Includes the reported meeting count and existence of director-level attendance figures.",
+    "exclusion_boundary": "Does not infer attendance quality, meeting content, governance effectiveness, or individual attendance values not reproduced in the statement.",
+    "uncertainty": "Direct annual-period record; no additional governance inference.",
+    "raw_support_keys": [
+      "/semantic_objects/8"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/8"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 10,
+    "preferred_label": "Dated business networking event",
+    "definition": "The project “Business After Hours brings Newman businesses together” is reported to have occurred on 1 April 2026.",
+    "inclusion_boundary": "Includes the named project event and its stated date.",
+    "exclusion_boundary": "Does not infer attendance, participants, outputs, recurrence, or business outcomes.",
+    "uncertainty": "Direct historical-event assertion.",
+    "raw_support_keys": [
+      "/semantic_objects/9"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/9"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 11,
+    "preferred_label": "Registered office address",
+    "definition": "World Vision Australia's registered office is reported as 1 Vision Drive, East Burwood, Victoria 3151, Australia.",
+    "inclusion_boundary": "Includes the stated registered-office address.",
+    "exclusion_boundary": "Does not establish that the address is a service-delivery location, mailing address, principal place of business, or current address outside the stated scope.",
+    "uncertainty": "Direct reported address; current scope.",
+    "raw_support_keys": [
+      "/semantic_objects/10"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/10"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 12,
+    "preferred_label": "Chair role accountability profile",
+    "definition": "The Local Buying Foundation Chair is assigned strategic leadership, coordination and oversight, governance and compliance, stakeholder engagement, decision-making and conflict resolution, monitoring and evaluation, and reporting to Trustees.",
+    "inclusion_boundary": "Includes the responsibilities assigned to the Chair role in the cited Charter.",
+    "exclusion_boundary": "Does not identify a current officeholder, establish that each responsibility was performed, or infer responsibilities beyond those listed.",
+    "uncertainty": "Direct Charter assignment; Version 3 released January 2026.",
+    "raw_support_keys": [
+      "/semantic_objects/12"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/12"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 5,
+    "proposal_ordinal": 13,
+    "preferred_label": "Leased operational assets",
+    "definition": "The organisation reports leasing offices in multiple States, vehicles and photocopiers.",
+    "inclusion_boundary": "Includes the stated lease arrangements for these operational asset categories.",
+    "exclusion_boundary": "Does not identify leased locations, asset quantities, lessors, lease terms, liabilities, or ownership of the assets.",
+    "uncertainty": "Direct reported arrangement as of 30 September 2025.",
+    "raw_support_keys": [
+      "/semantic_objects/13"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "/semantic_objects/13"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 1,
+    "preferred_label": "Local Buying Foundation (WA) — registered charity status",
+    "definition": "Local Buying Foundation (WA) is recorded by the ACNC register as a registered charity.",
+    "inclusion_boundary": "Includes only the ACNC-recorded registration status for Local Buying Foundation (WA).",
+    "exclusion_boundary": "Excludes tax endorsement, deductible-gift-recipient status, governance details, and any inference about operational activities or program outcomes.",
+    "uncertainty": "Direct regulator-recorded fact; stated as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_7"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_7"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 2,
+    "preferred_label": "Local Buying Foundation (WA) — registered program location: Port Hedland",
+    "definition": "Port Hedland, Western Australia, is a registered program location of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the specific registered program-location association with Port Hedland.",
+    "exclusion_boundary": "Excludes an assertion that the organisation is headquartered, incorporated, or exclusively active in Port Hedland.",
+    "uncertainty": "Directly supported as a registered program location; no date beyond the current-observation qualification is supplied.",
+    "raw_support_keys": [
+      "semantic_object_2"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_2"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 3,
+    "preferred_label": "Local Buying Foundation (WA) — registered program location: Shire of East Pilbara",
+    "definition": "The Shire of East Pilbara, Western Australia, is a registered program location of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the specific registered program-location association with the Shire of East Pilbara.",
+    "exclusion_boundary": "Excludes an assertion that the organisation is headquartered, incorporated, or exclusively active in the Shire of East Pilbara.",
+    "uncertainty": "Directly supported as a registered program location; no date beyond the current-observation qualification is supplied.",
+    "raw_support_keys": [
+      "semantic_object_2"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_2"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 4,
+    "preferred_label": "Local Buying Foundation (WA) — Chairperson: Craig Doyle",
+    "definition": "The ACNC register identifies Craig Doyle as Chairperson of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the regulator-recorded Chairperson role for Craig Doyle.",
+    "exclusion_boundary": "Excludes any unreported commencement, end, employment, or additional governance role details.",
+    "uncertainty": "Direct regulator-recorded role listing as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_5"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_5"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 5,
+    "preferred_label": "Local Buying Foundation (WA) — Director: Kylie Porter",
+    "definition": "The ACNC register identifies Kylie Porter as a Director of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the regulator-recorded Director role for Kylie Porter.",
+    "exclusion_boundary": "Excludes any unreported commencement, end, employment, or additional governance role details.",
+    "uncertainty": "Direct regulator-recorded role listing as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_5"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_5"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 6,
+    "preferred_label": "Local Buying Foundation (WA) — Director: Melissa Westcott",
+    "definition": "The ACNC register identifies Melissa Westcott as a Director of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the regulator-recorded Director role for Melissa Westcott.",
+    "exclusion_boundary": "Excludes any unreported commencement, end, employment, or additional governance role details.",
+    "uncertainty": "Direct regulator-recorded role listing as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_5"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_5"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 7,
+    "preferred_label": "Local Buying Foundation (WA) — Director: Daniel Katz",
+    "definition": "The ACNC register identifies Daniel Katz as a Director of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the regulator-recorded Director role for Daniel Katz.",
+    "exclusion_boundary": "Excludes any unreported commencement, end, employment, or additional governance role details.",
+    "uncertainty": "Direct regulator-recorded role listing as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_5"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_5"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 8,
+    "preferred_label": "Local Buying Foundation (WA) — Director: Tony Fitzpatrick",
+    "definition": "The ACNC register identifies Tony Fitzpatrick as a Director of Local Buying Foundation (WA).",
+    "inclusion_boundary": "Includes the regulator-recorded Director role for Tony Fitzpatrick.",
+    "exclusion_boundary": "Excludes any unreported commencement, end, employment, or additional governance role details.",
+    "uncertainty": "Direct regulator-recorded role listing as of 2026-01-28.",
+    "raw_support_keys": [
+      "semantic_object_5"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_5"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 9,
+    "preferred_label": "World Vision Australia — CEO: Grant Bayldon",
+    "definition": "Grant Bayldon was formally appointed Chief Executive Officer of World Vision Australia effective 5 January 2026.",
+    "inclusion_boundary": "Includes Grant Bayldon's formal CEO appointment and its stated effective date.",
+    "exclusion_boundary": "Excludes the unnamed interim CEO's identity, the interim employment arrangement, and any claim about roles before the stated effective date.",
+    "uncertainty": "Directly supported appointment fact; effective date is 2026-01-05.",
+    "raw_support_keys": [
+      "semantic_object_3"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_3"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  },
+  {
+    "boundary_call": 6,
+    "proposal_ordinal": 10,
+    "preferred_label": "Business After Hours brings Newman businesses together — event location",
+    "definition": "The project “Business After Hours brings Newman businesses together” was held in the Shire of East Pilbara.",
+    "inclusion_boundary": "Includes the stated location of this named project or event.",
+    "exclusion_boundary": "Excludes a claim that the Shire of East Pilbara is the organiser's headquarters, a registered program location, or the location of other project activities.",
+    "uncertainty": "Directly supported; no event date is supplied.",
+    "raw_support_keys": [
+      "semantic_object_10"
+    ],
+    "resolved_support_keys": [],
+    "unresolved_support_keys": [
+      "semantic_object_10"
+    ],
+    "grounding": "ungrounded",
+    "grounding_reason": "no supplied support key resolves in the exact batch namespace",
+    "source_objects": [],
+    "facet": "unknown_from_experiment"
+  }
+]

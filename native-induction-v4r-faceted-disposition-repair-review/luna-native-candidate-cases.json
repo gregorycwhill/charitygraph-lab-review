@@ -1,0 +1,90 @@
+[
+  {
+    "observation_id": "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e",
+    "organisation": "World Vision Australia",
+    "section_id": 15,
+    "scope": {
+      "kind": "subject",
+      "label": "World Vision Australia"
+    },
+    "proposition": "For Australian projects, the organisation reports working directly with First Nations communities to run activities and ensure communities drive their own development.",
+    "native_objects": [
+      {
+        "statement": "For Australian projects, World Vision Australia reports working directly with First Nations communities to run activities and ensure communities drive their own development.",
+        "representation_family": "native_candidate",
+        "facet_hint": "participation",
+        "rationale": "This expresses a reusable organisational participation and decision-making practice concerning direct community involvement and community-led development, not merely a program or relationship instance.",
+        "qualification": "Organisational self-description reported in FY25 ACNC materials."
+      }
+    ],
+    "other_objects": []
+  },
+  {
+    "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 7,
+    "scope": {
+      "kind": "reporting_group",
+      "label": "Local Buying Foundation (national network)"
+    },
+    "proposition": "Funding applications are submitted online and assessed by a Local Buying Foundation Advisory Committee.",
+    "native_objects": [
+      {
+        "statement": "Funding applications are submitted online and assessed by a Local Buying Foundation Advisory Committee.",
+        "representation_family": "native_candidate",
+        "facet_hint": "governance_practice",
+        "rationale": "The proposition expresses a reusable CharityGraph-specific funding assessment practice combining an application channel with committee assessment, not otherwise represented as a financial flow or entity structure.",
+        "qualification": "Described for the Local Buying Foundation national network."
+      }
+    ],
+    "other_objects": []
+  },
+  {
+    "observation_id": "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225",
+    "organisation": "Australian Communities Foundation",
+    "section_id": 7,
+    "scope": {
+      "kind": "subject",
+      "label": "Australian Communities Foundation Limited"
+    },
+    "proposition": "The 2025 AIS reports that the entity conducts fundraising in NSW, Queensland, South Australia, Tasmania, Victoria and Western Australia, and conducts online fundraising.",
+    "native_objects": [
+      {
+        "statement": "Australian Communities Foundation reported conducting online fundraising during 2025.",
+        "representation_family": "native_candidate",
+        "facet_hint": "fundraising_mode",
+        "rationale": "Online fundraising is a reusable fundraising mode specific to how the organisation conducts fundraising and is not itself a regulatory status, geography, program, or financial amount.",
+        "qualification": "Limited to the 2025 AIS disclosure."
+      }
+    ],
+    "other_objects": [
+      {
+        "statement": "Australian Communities Foundation reported fundraising in New South Wales, Queensland, South Australia, Tasmania, Victoria and Western Australia during 2025.",
+        "representation_family": "finance_resource_flow",
+        "facet_hint": null,
+        "rationale": "The proposition reports fundraising activity by jurisdiction.",
+        "qualification": "Limited to the 2025 AIS disclosures."
+      }
+    ]
+  },
+  {
+    "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+    "organisation": "Local Buying Foundation (WA)",
+    "section_id": 11,
+    "scope": {
+      "kind": "subject",
+      "label": "Local Buying Foundation (WA)"
+    },
+    "proposition": "The Charter provides online meeting options for Advisory Committee members unable to travel.",
+    "native_objects": [
+      {
+        "statement": "The Local Buying Foundation Charter provides online meeting options for Advisory Committee members unable to travel.",
+        "representation_family": "native_candidate",
+        "facet_hint": "governance_practice",
+        "rationale": "This is a reusable governance practice concerning remote participation in committee meetings, not merely a governance officeholder or organisational structure.",
+        "qualification": "Reported as of Charter Version 3, released January 2026."
+      }
+    ],
+    "other_objects": []
+  }
+]

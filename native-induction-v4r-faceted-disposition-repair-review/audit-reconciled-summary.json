@@ -1,0 +1,12 @@
+{
+  "paired_observations": 87,
+  "family_set_exact_agreement": 26,
+  "native_presence_exact_agreement": 37,
+  "facet_set_exact_agreement": 42,
+  "native_presence_matrix": {
+    "luna_native_terra_native": 2,
+    "luna_native_terra_non_native": 0,
+    "luna_non_native_terra_native": 50,
+    "luna_non_native_terra_non_native": 35
+  }
+}
