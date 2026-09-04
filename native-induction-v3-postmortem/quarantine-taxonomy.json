@@ -2,7 +2,11 @@
   "counts": {
     "operation_application:invalid_complete_prefix_operation": 1,
     "attachment_validation:invalid_observation_id": 14,
-    "attachment_validation:unknown_concept_id": 3
+    "attachment_validation:unknown_concept_id": 3,
+    "operation_application:successor_collision": 3,
+    "operation_application:merge_cardinality": 1,
+    "operation_application:reparent_requires_parent": 3,
+    "operation_application:impossible_support_observation_id": 2
   },
   "affected_stage_counts": {
     "L-workshop-first-05:invalid_observation_id": 1,
