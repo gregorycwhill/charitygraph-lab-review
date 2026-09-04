@@ -1,0 +1,1392 @@
+{
+  "atoms": [
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-004",
+      "atom_index": 5,
+      "atom_key": "s15v1e-004:5",
+      "proposition": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia and retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-004:programs_populations_geography:candidate-002",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "financial_reserves",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia and retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve."
+        },
+        {
+          "candidate_id": "s15v1e-004:participation_fundraising:candidate-002",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for distribution to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:finance_resource_flows:candidate-002",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for provision to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "financial_stewardship_and_controls",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for provision to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "accountability_and_stewardship",
+          "statement": "World Vision Australia demonstrates stewardship and accountability through its reserve and banking practices, controlled transfer of overseas project funds, annual independent audits, regulatory and sector reporting, published audited financial statements, and a director-declared capacity to meet debts as they fell due. For the year ended 30 September 2024, its summary financial statements were reported as materially consistent with the audited financial report and compliant with the relevant ACFID Code of Conduct requirements."
+        },
+        {
+          "candidate_id": "s15v1e-004:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "financial_controls_and_funds_transfer",
+          "statement": "World Vision Australia places project funds in term deposits with minimum A+ rated Australian banks, retains a reserve equivalent to at least eight weeks’ operating expenditure, and transfers funds for overseas projects through the World Vision Partnership Treasury Office to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia reported that it places project funds in term deposits with minimum A+ rated Australian banks, retains working capital equivalent to at least eight weeks of operating expenditure, and transfers overseas project funds to the World Vision Partnership Treasury Office for disbursement to field projects based on approved plans."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-004",
+      "atom_index": 6,
+      "atom_key": "s15v1e-004:6",
+      "proposition": "World Vision Australia transfers funds for overseas projects to the World Vision Partnership Treasury Office, which provides the funds to field projects based on approved plans.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-004:programs_populations_geography:candidate-003",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "program_fund_transfer",
+          "statement": "World Vision Australia transfers funds for overseas projects to the World Vision Partnership Treasury Office, which provides the funds to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:participation_fundraising:candidate-002",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for distribution to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:finance_resource_flows:candidate-002",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for provision to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "financial_stewardship_and_controls",
+          "statement": "World Vision Australia places funds raised for its projects in term deposits with minimum A+ rated banks in Australia, retains an amount equivalent to at least eight weeks’ operating expenditure as a working capital reserve, and transfers funds for overseas projects to the World Vision Partnership Treasury Office for provision to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "accountability_and_stewardship",
+          "statement": "World Vision Australia demonstrates stewardship and accountability through its reserve and banking practices, controlled transfer of overseas project funds, annual independent audits, regulatory and sector reporting, published audited financial statements, and a director-declared capacity to meet debts as they fell due. For the year ended 30 September 2024, its summary financial statements were reported as materially consistent with the audited financial report and compliant with the relevant ACFID Code of Conduct requirements."
+        },
+        {
+          "candidate_id": "s15v1e-004:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "financial_controls_and_funds_transfer",
+          "statement": "World Vision Australia places project funds in term deposits with minimum A+ rated Australian banks, retains a reserve equivalent to at least eight weeks’ operating expenditure, and transfers funds for overseas projects through the World Vision Partnership Treasury Office to field projects based on approved plans."
+        },
+        {
+          "candidate_id": "s15v1e-004:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "funds_management",
+          "statement": "World Vision Australia reported that it places project funds in term deposits with minimum A+ rated Australian banks, retains working capital equivalent to at least eight weeks of operating expenditure, and transfers overseas project funds to the World Vision Partnership Treasury Office for disbursement to field projects based on approved plans."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 3,
+      "atom_key": "s15v1e-009:3",
+      "proposition": "Australian Red Cross mobilised $20 million in humanitarian funding to support international emergencies, including responses to Ukraine and Israel and the Occupied Palestinian Territories.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-002",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including Ukraine and Israel and the Occupied Palestinian Territories, and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_humanitarian_funding",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including over $4 million in donor funds for the Israel and Occupied Palestinian Territories response, over $20.9 million through its Ukraine Crisis Appeal, and over $7 million through its Türkiye and Syria Earthquakes Appeal."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-004",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "humanitarian_funding",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding to support international emergencies, including responses to Ukraine and Israel and the Occupied Palestinian Territories."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding to support international emergencies, including responses to Ukraine and Israel and the Occupied Palestinian Territories."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "resource_mobilisation_and_relief_delivery",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_resource_mobilisation",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 10,
+      "atom_key": "s15v1e-009:10",
+      "proposition": "Australian Red Cross mobilised over $4 million in donor funds, including a $3 million DFAT grant, to support the work of the ICRC and IFRC in Israel, the Occupied Palestinian Territories, and neighbouring countries such as Egypt and Lebanon.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-003",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross provided support to people in Australia and on the ground in Israel and the Occupied Palestinian Territories; supported repatriation to New South Wales and Western Australia; provided cash assistance to people from Israel and the Occupied Palestinian Territories on temporary visas experiencing financial hardship; mobilised over $4 million for ICRC and IFRC work in Israel, the Occupied Palestinian Territories, Egypt, and Lebanon; deployed 12 delegates; and helped establish and staff a 60-bed ICRC field hospital in Rafah, Gaza."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_humanitarian_funding",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including over $4 million in donor funds for the Israel and Occupied Palestinian Territories response, over $20.9 million through its Ukraine Crisis Appeal, and over $7 million through its Türkiye and Syria Earthquakes Appeal."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-003",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_humanitarian_funding",
+          "statement": "Australian Red Cross mobilised over $4 million in donor funds, including a $3 million DFAT grant, to support the work of the ICRC and IFRC in Israel, the Occupied Palestinian Territories, and neighbouring countries such as Egypt and Lebanon."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-001",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross mobilised over $4 million in donor funds, including a $3 million DFAT grant, to support the work of the ICRC and IFRC in Israel, the Occupied Palestinian Territories, and neighbouring countries such as Egypt and Lebanon."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "conflict_response_commitment",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation and cash support, mobilised over $4 million for ICRC and IFRC operations, deployed 12 delegates, and engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "conflict_response_and_humanitarian_assistance",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation, provided cash assistance, mobilised over $4 million in donor funds, deployed 12 delegates, and contributed delegates to the ICRC field hospital that opened in Rafah, Gaza, on 9 May 2024; it also engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 14,
+      "atom_key": "s15v1e-009:14",
+      "proposition": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2022-02-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The source specifies February 2022 but not an exact day."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-004",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_humanitarian_funding",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including over $4 million in donor funds for the Israel and Occupied Palestinian Territories response, over $20.9 million through its Ukraine Crisis Appeal, and over $7 million through its Türkiye and Syria Earthquakes Appeal."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising",
+          "statement": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-002",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-004",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "appeal_and_funding_commitment",
+          "statement": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-003",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "crisis_appeal_and_funding",
+          "statement": "Australian Red Cross raised over $20.9 million through its Ukraine Crisis Appeal since February 2022, supplemented by a $2 million Australian Government grant."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 15,
+      "atom_key": "s15v1e-009:15",
+      "proposition": "Australian Red Cross launched the Türkiye and Syria Earthquakes Appeal and raised over $7 million to support relief efforts, with an additional $4 million grant from the Australian Government.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-02-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The source specifies February 2023 for the earthquakes but not an exact day."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-005",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross launched the Türkiye and Syria Earthquakes Appeal in February 2023 and raised over $7 million to support relief efforts, with an additional $4 million grant from the Australian Government."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_humanitarian_funding",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including over $4 million in donor funds for the Israel and Occupied Palestinian Territories response, over $20.9 million through its Ukraine Crisis Appeal, and over $7 million through its Türkiye and Syria Earthquakes Appeal."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-002",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising",
+          "statement": "Australian Red Cross launched the Türkiye and Syria Earthquakes Appeal and raised over $7 million to support relief efforts, with an additional $4 million grant from the Australian Government."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-003",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross launched the Türkiye and Syria Earthquakes Appeal and raised over $7 million to support relief efforts, with an additional $4 million grant from the Australian Government."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-005",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "regional_disaster_response_commitment",
+          "statement": "Australian Red Cross supported disaster responses in Türkiye and Syria, Mongolia, Bangladesh and Vanuatu through appeals, funding, technical assistance, delegates and humanitarian relief items, including support for the Mongolian Red Cross, Bangladesh Red Crescent and Vanuatu Red Cross."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-004",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "earthquake_response_funding",
+          "statement": "Australian Red Cross raised over $7 million through its Türkiye and Syria Earthquakes Appeal to support relief efforts, supplemented by a $4 million Australian Government grant."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 16,
+      "atom_key": "s15v1e-009:16",
+      "proposition": "Australian Red Cross supported the Mongolian Red Cross response to the dzud through funding and other partners.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-006",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported regional disaster responses in Mongolia, Bangladesh, and Vanuatu, including the Mongolian Red Cross response to the dzud; the Bangladesh Red Crescent response to Tropical Cyclone Mocha, supplemented by a $1 million Australian Government grant; and the Vanuatu Red Cross response to Tropical Cyclone Lola through two delegates and a large shipment of humanitarian relief items."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-005",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross supported the Mongolian Red Cross response to the dzud through funding and other partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-005",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "regional_disaster_response_commitment",
+          "statement": "Australian Red Cross supported disaster responses in Türkiye and Syria, Mongolia, Bangladesh and Vanuatu through appeals, funding, technical assistance, delegates and humanitarian relief items, including support for the Mongolian Red Cross, Bangladesh Red Crescent and Vanuatu Red Cross."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-005",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "disaster_response_support",
+          "statement": "Australian Red Cross supported disaster responses in Mongolia, Bangladesh, and Vanuatu through funding, technical assistance, delegates, and humanitarian relief items, including support for the dzud, Tropical Cyclone Mocha, and Tropical Cyclone Lola."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 17,
+      "atom_key": "s15v1e-009:17",
+      "proposition": "Australian Red Cross supported the Bangladesh Red Crescent response to Tropical Cyclone Mocha through funding, supplemented by a $1 million Australian Government grant.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-05-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The source specifies May 2023 but not an exact day."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-006",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported regional disaster responses in Mongolia, Bangladesh, and Vanuatu, including the Mongolian Red Cross response to the dzud; the Bangladesh Red Crescent response to Tropical Cyclone Mocha, supplemented by a $1 million Australian Government grant; and the Vanuatu Red Cross response to Tropical Cyclone Lola through two delegates and a large shipment of humanitarian relief items."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-004",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross supported the Bangladesh Red Crescent response to Tropical Cyclone Mocha through funding, supplemented by a $1 million Australian Government grant."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-005",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "regional_disaster_response_commitment",
+          "statement": "Australian Red Cross supported disaster responses in Türkiye and Syria, Mongolia, Bangladesh and Vanuatu through appeals, funding, technical assistance, delegates and humanitarian relief items, including support for the Mongolian Red Cross, Bangladesh Red Crescent and Vanuatu Red Cross."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-005",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "disaster_response_support",
+          "statement": "Australian Red Cross supported disaster responses in Mongolia, Bangladesh, and Vanuatu through funding, technical assistance, delegates, and humanitarian relief items, including support for the dzud, Tropical Cyclone Mocha, and Tropical Cyclone Lola."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 18,
+      "atom_key": "s15v1e-009:18",
+      "proposition": "Australian Red Cross provided technical assistance to the Vanuatu Red Cross response to Tropical Cyclone Lola through two delegates and a large shipment of humanitarian relief items.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-10-21",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The source states that Tropical Cyclone Lola formed on 21 October 2023 and made landfall four days later."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-006",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported regional disaster responses in Mongolia, Bangladesh, and Vanuatu, including the Mongolian Red Cross response to the dzud; the Bangladesh Red Crescent response to Tropical Cyclone Mocha, supplemented by a $1 million Australian Government grant; and the Vanuatu Red Cross response to Tropical Cyclone Lola through two delegates and a large shipment of humanitarian relief items."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:finance_resource_flows:candidate-006",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "Australian Red Cross provided technical assistance to the Vanuatu Red Cross response to Tropical Cyclone Lola through two delegates and a large shipment of humanitarian relief items."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-005",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "regional_disaster_response_commitment",
+          "statement": "Australian Red Cross supported disaster responses in Türkiye and Syria, Mongolia, Bangladesh and Vanuatu through appeals, funding, technical assistance, delegates and humanitarian relief items, including support for the Mongolian Red Cross, Bangladesh Red Crescent and Vanuatu Red Cross."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-005",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "disaster_response_support",
+          "statement": "Australian Red Cross supported disaster responses in Mongolia, Bangladesh, and Vanuatu through funding, technical assistance, delegates, and humanitarian relief items, including support for the dzud, Tropical Cyclone Mocha, and Tropical Cyclone Lola."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 0,
+      "atom_key": "s15v1e-010:0",
+      "proposition": "Australian Red Cross has a responsibility to promote awareness and respect for international humanitarian law in Australia as a member of the International Red Cross and Red Crescent Movement.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "mandate",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law, including through dissemination to the Australian public and key stakeholders, and advocates for people and communities affected by conflict, disaster, and other vulnerabilities as a National Society within the International Red Cross and Red Crescent Movement and as an auxiliary to public authorities in the humanitarian field."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "mandate",
+          "statement": "Australian Red Cross has a responsibility and mandate to promote awareness, respect, and dissemination of international humanitarian law to the Australian public and key stakeholders."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 1,
+      "atom_key": "s15v1e-010:1",
+      "proposition": "Australian Red Cross has a mandate to promote respect for international humanitarian law through dissemination to the Australian public and key stakeholders.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "mandate",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law, including through dissemination to the Australian public and key stakeholders, and advocates for people and communities affected by conflict, disaster, and other vulnerabilities as a National Society within the International Red Cross and Red Crescent Movement and as an auxiliary to public authorities in the humanitarian field."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "mandate",
+          "statement": "Australian Red Cross has a responsibility and mandate to promote awareness, respect, and dissemination of international humanitarian law to the Australian public and key stakeholders."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 2,
+      "atom_key": "s15v1e-010:2",
+      "proposition": "Australian Red Cross published, in partnership with the International Committee of the Red Cross, an online compendium of resources on responsible business in armed conflict.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-003",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_activity",
+          "statement": "Australian Red Cross advances awareness and understanding of international humanitarian law through public resources, professional education, military-law collaboration, social media, university training, and legal education initiatives."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation",
+          "statement": "Australian Red Cross implemented its international humanitarian law responsibilities by publishing an online compendium on responsible business in armed conflict and launching an online continuing professional development module for Australian lawyers on corporate war crimes and related liabilities."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 3,
+      "atom_key": "s15v1e-010:3",
+      "proposition": "Australian Red Cross launched an online continuing professional development module for Australian lawyers on corporate war crimes and related liabilities.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The module was based on a briefing paper co-published with Nyman Gibson Miralis Lawyers in 2023."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-003",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_activity",
+          "statement": "Australian Red Cross advances awareness and understanding of international humanitarian law through public resources, professional education, military-law collaboration, social media, university training, and legal education initiatives."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation",
+          "statement": "Australian Red Cross implemented its international humanitarian law responsibilities by publishing an online compendium on responsible business in armed conflict and launching an online continuing professional development module for Australian lawyers on corporate war crimes and related liabilities."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 4,
+      "atom_key": "s15v1e-010:4",
+      "proposition": "Australian Red Cross continued its commitment to providing evidence-based, neutral, independent, and impartial briefings to government bodies at federal, state, and territory levels during FY24.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_practice",
+          "statement": "During FY24, Australian Red Cross continued providing evidence-based, neutral, independent, and impartial briefings to government bodies at federal, state, and territory levels."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "populations_geography",
+          "statement": "Australian Red Cross advocates for people and communities in Australia and globally affected by conflict, disaster, and other vulnerabilities, and engages Australian federal, state, and territory governments and parliamentary processes through evidence-based, neutral, independent, and impartial briefings, submissions, advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "advocacy_and_policy_engagement",
+          "statement": "Australian Red Cross advocates for people and communities affected by conflict, disaster, and other vulnerabilities through evidence-based briefings, submissions to government and parliamentary inquiries, and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "public_authority_engagement_and_advocacy",
+          "statement": "Australian Red Cross engages with public authorities and other stakeholders through evidence-based, neutral, independent, and impartial briefings, advocacy, submissions to government and parliamentary inquiries, and participation in advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-001",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross acts as an evidence-based, neutral, independent, and impartial humanitarian advocate and adviser for people and communities affected by conflict, disaster, and other vulnerabilities, engaging with public authorities, governments, parliamentary inquiries, and humanitarian advisory groups."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "advocacy_and_engagement",
+          "statement": "Australian Red Cross maintained evidence-based, neutral, independent, and impartial engagement with public authorities and advocated for people and communities affected by conflict, disaster, and other vulnerabilities through government and parliamentary submissions and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "policy_influence_and_advisory_engagement",
+          "statement": "During FY24, Australian Red Cross provided evidence-based, neutral, independent, and impartial briefings to government bodies, made submissions to government and parliamentary inquiries on humanitarian and related issues, and contributed to humanitarian advisory groups, roundtables, and consultations."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 5,
+      "atom_key": "s15v1e-010:5",
+      "proposition": "Australian Red Cross advocates on behalf of people and communities in Australia and globally who are impacted by conflict, disaster, and other vulnerabilities, in its role as a National Society within the International Red Cross and Red Crescent Movement and as an auxiliary to public authorities in the humanitarian field.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "mandate",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law, including through dissemination to the Australian public and key stakeholders, and advocates for people and communities affected by conflict, disaster, and other vulnerabilities as a National Society within the International Red Cross and Red Crescent Movement and as an auxiliary to public authorities in the humanitarian field."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "populations_geography",
+          "statement": "Australian Red Cross advocates for people and communities in Australia and globally affected by conflict, disaster, and other vulnerabilities, and engages Australian federal, state, and territory governments and parliamentary processes through evidence-based, neutral, independent, and impartial briefings, submissions, advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "advocacy_and_policy_engagement",
+          "statement": "Australian Red Cross advocates for people and communities affected by conflict, disaster, and other vulnerabilities through evidence-based briefings, submissions to government and parliamentary inquiries, and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "public_authority_engagement_and_advocacy",
+          "statement": "Australian Red Cross engages with public authorities and other stakeholders through evidence-based, neutral, independent, and impartial briefings, advocacy, submissions to government and parliamentary inquiries, and participation in advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-001",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross acts as an evidence-based, neutral, independent, and impartial humanitarian advocate and adviser for people and communities affected by conflict, disaster, and other vulnerabilities, engaging with public authorities, governments, parliamentary inquiries, and humanitarian advisory groups."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "advocacy_and_engagement",
+          "statement": "Australian Red Cross maintained evidence-based, neutral, independent, and impartial engagement with public authorities and advocated for people and communities affected by conflict, disaster, and other vulnerabilities through government and parliamentary submissions and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "humanitarian_advocacy_and_external_engagement",
+          "statement": "Australian Red Cross advocates for people and communities impacted by conflict, disaster, and other vulnerabilities, including through submissions to government and parliamentary inquiries and participation in humanitarian advisory groups, roundtables, and consultations."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 6,
+      "atom_key": "s15v1e-010:6",
+      "proposition": "Australian Red Cross made submissions during FY24 to government and parliamentary inquiries on humanitarian and related issues, including Pacific priorities, support for Ukraine, disaster resilience, national adaptation planning, the not-for-profit sector, multicultural policy, artificial intelligence, rental affordability, emergency response funding, and drought funding.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-002",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "advocacy",
+          "statement": "Australian Red Cross advocates on humanitarian and related issues through submissions to government and parliamentary inquiries and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "populations_geography",
+          "statement": "Australian Red Cross advocates for people and communities in Australia and globally affected by conflict, disaster, and other vulnerabilities, and engages Australian federal, state, and territory governments and parliamentary processes through evidence-based, neutral, independent, and impartial briefings, submissions, advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "advocacy_and_policy_engagement",
+          "statement": "Australian Red Cross advocates for people and communities affected by conflict, disaster, and other vulnerabilities through evidence-based briefings, submissions to government and parliamentary inquiries, and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "public_authority_engagement_and_advocacy",
+          "statement": "Australian Red Cross engages with public authorities and other stakeholders through evidence-based, neutral, independent, and impartial briefings, advocacy, submissions to government and parliamentary inquiries, and participation in advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-001",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross acts as an evidence-based, neutral, independent, and impartial humanitarian advocate and adviser for people and communities affected by conflict, disaster, and other vulnerabilities, engaging with public authorities, governments, parliamentary inquiries, and humanitarian advisory groups."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "advocacy_and_engagement",
+          "statement": "Australian Red Cross maintained evidence-based, neutral, independent, and impartial engagement with public authorities and advocated for people and communities affected by conflict, disaster, and other vulnerabilities through government and parliamentary submissions and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "policy_influence_and_advisory_engagement",
+          "statement": "During FY24, Australian Red Cross provided evidence-based, neutral, independent, and impartial briefings to government bodies, made submissions to government and parliamentary inquiries on humanitarian and related issues, and contributed to humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "humanitarian_advocacy_and_external_engagement",
+          "statement": "Australian Red Cross advocates for people and communities impacted by conflict, disaster, and other vulnerabilities, including through submissions to government and parliamentary inquiries and participation in humanitarian advisory groups, roundtables, and consultations."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 7,
+      "atom_key": "s15v1e-010:7",
+      "proposition": "Australian Red Cross contributes to humanitarian advisory groups, roundtables, and consultations, including the Community Services Advisory Group, Climate Leaders Coalition, Global Red Cross Red Crescent Migration Leadership Group, National Roundtable on Human Trafficking and Slavery, and National International Humanitarian Law Committee.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-002",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "advocacy",
+          "statement": "Australian Red Cross advocates on humanitarian and related issues through submissions to government and parliamentary inquiries and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "populations_geography",
+          "statement": "Australian Red Cross advocates for people and communities in Australia and globally affected by conflict, disaster, and other vulnerabilities, and engages Australian federal, state, and territory governments and parliamentary processes through evidence-based, neutral, independent, and impartial briefings, submissions, advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "advocacy_and_policy_engagement",
+          "statement": "Australian Red Cross advocates for people and communities affected by conflict, disaster, and other vulnerabilities through evidence-based briefings, submissions to government and parliamentary inquiries, and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "public_authority_engagement_and_advocacy",
+          "statement": "Australian Red Cross engages with public authorities and other stakeholders through evidence-based, neutral, independent, and impartial briefings, advocacy, submissions to government and parliamentary inquiries, and participation in advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-001",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross acts as an evidence-based, neutral, independent, and impartial humanitarian advocate and adviser for people and communities affected by conflict, disaster, and other vulnerabilities, engaging with public authorities, governments, parliamentary inquiries, and humanitarian advisory groups."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "advocacy_and_engagement",
+          "statement": "Australian Red Cross maintained evidence-based, neutral, independent, and impartial engagement with public authorities and advocated for people and communities affected by conflict, disaster, and other vulnerabilities through government and parliamentary submissions and participation in humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "policy_influence_and_advisory_engagement",
+          "statement": "During FY24, Australian Red Cross provided evidence-based, neutral, independent, and impartial briefings to government bodies, made submissions to government and parliamentary inquiries on humanitarian and related issues, and contributed to humanitarian advisory groups, roundtables, and consultations."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "humanitarian_advocacy_and_external_engagement",
+          "statement": "Australian Red Cross advocates for people and communities impacted by conflict, disaster, and other vulnerabilities, including through submissions to government and parliamentary inquiries and participation in humanitarian advisory groups, roundtables, and consultations."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 8,
+      "atom_key": "s15v1e-010:8",
+      "proposition": "Australian Red Cross delivered an International Law and Humanitarian Action course in collaboration with the Australian Defence Force Indo-Pacific Centre for Military Law during the reported year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The course was described as an annual course."
+      ],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-003",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_activity",
+          "statement": "Australian Red Cross advances awareness and understanding of international humanitarian law through public resources, professional education, military-law collaboration, social media, university training, and legal education initiatives."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "program_delivery",
+          "statement": "Australian Red Cross implemented international humanitarian law education and awareness activities through a military law course, a social media campaign on the laws of war, training for university program participants, and co-hosting an international humanitarian law moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 9,
+      "atom_key": "s15v1e-010:9",
+      "proposition": "Australian Red Cross launched a social media campaign about the laws of war and the work of the International Red Cross and Red Crescent Movement during the reported year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-003",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_activity",
+          "statement": "Australian Red Cross advances awareness and understanding of international humanitarian law through public resources, professional education, military-law collaboration, social media, university training, and legal education initiatives."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "program_delivery",
+          "statement": "Australian Red Cross implemented international humanitarian law education and awareness activities through a military law course, a social media campaign on the laws of war, training for university program participants, and co-hosting an international humanitarian law moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-010",
+      "atom_index": 10,
+      "atom_key": "s15v1e-010:10",
+      "proposition": "Australian Red Cross provided training on international humanitarian law and the role of humanitarian personnel in armed conflict and other humanitarian crises to more than 150 participants in Macquarie University's Global Leadership Program during the reported year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 7,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-010:purpose_mandate_cause:candidate-003",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_activity",
+          "statement": "Australian Red Cross advances awareness and understanding of international humanitarian law through public resources, professional education, military-law collaboration, social media, university training, and legal education initiatives."
+        },
+        {
+          "candidate_id": "s15v1e-010:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional-development resources, courses, training, social-media outreach, and co-hosted legal competitions. Activities include an online compendium on responsible business in armed conflict, a continuing professional-development module for Australian lawyers, an International Law and Humanitarian Action course, a laws-of-war social-media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "public_awareness_and_education",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public dissemination, educational and professional training, online resources, social media, and collaboration with academic, legal, defence, and movement partners."
+        },
+        {
+          "candidate_id": "s15v1e-010:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promotes awareness and respect for international humanitarian law through public and stakeholder dissemination, educational courses and training, professional development resources, social media, and co-hosting the International Humanitarian Law Moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross promotes awareness of and respect for international humanitarian law through public and stakeholder dissemination, educational and professional development initiatives, legal resources, training, campaigns, and moot competitions."
+        },
+        {
+          "candidate_id": "s15v1e-010:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "program_delivery",
+          "statement": "Australian Red Cross implemented international humanitarian law education and awareness activities through a military law course, a social media campaign on the laws of war, training for university program participants, and co-hosting an international humanitarian law moot competition."
+        },
+        {
+          "candidate_id": "s15v1e-010:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_law_awareness_and_capacity_building",
+          "statement": "Australian Red Cross promoted awareness of and respect for international humanitarian law through public and stakeholder dissemination, an online resource compendium on responsible business in armed conflict, a continuing professional development module for Australian lawyers, an International Law and Humanitarian Action course, a social media campaign, training for more than 150 Macquarie University Global Leadership Program participants, and co-hosting the International Humanitarian Law Moot competition."
+        }
+      ]
+    }
+  ]
+}

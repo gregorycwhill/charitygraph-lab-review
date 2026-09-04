@@ -1,0 +1,27 @@
+{
+  "experiment_id": "section15-v1e-broad-lenses-review-core",
+  "source_campaign": "section15-v1e-broad-lenses",
+  "source_commit": "e5a3e38",
+  "historical_counts": {
+    "packets": 43,
+    "tasks": 344,
+    "candidates": 919,
+    "incomplete": 11,
+    "zero_candidate": 102,
+    "cost_usd": "0.229121"
+  },
+  "provider_calls_this_tranche": 0,
+  "generation": "deterministic/offline",
+  "files": [
+    "density-matrix.json",
+    "fanout-1-control.json",
+    "fanout-2-5-controls.json",
+    "fanout-6-sample.json",
+    "fanout-7-sample.json",
+    "fanout-8.json",
+    "fanout-summary.json",
+    "incomplete-tasks.json",
+    "mechanical-overlap-summary.json",
+    "zero-candidate-summary.json"
+  ]
+}

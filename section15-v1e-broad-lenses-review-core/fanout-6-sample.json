@@ -1,0 +1,1228 @@
+{
+  "atoms": [
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-001",
+      "atom_index": 0,
+      "atom_key": "s15v1e-001:0",
+      "proposition": "World Vision Australia reported 172,556 children, 217,958 supporters, $391.9 million raised, and 327 projects in 40 countries in its 2024 snapshot.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2024",
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-001:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "In its 2024 snapshot, World Vision Australia reported 327 projects in 40 countries, alongside 172,556 children, 217,958 supporters, and $391.9 million raised."
+        },
+        {
+          "candidate_id": "s15v1e-001:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising_and_supporter_base",
+          "statement": "World Vision Australia reported 217,958 supporters and $391.9 million raised in 2024."
+        },
+        {
+          "candidate_id": "s15v1e-001:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "program_reach_and_delivery",
+          "statement": "World Vision Australia reported supporting 172,556 children and delivering 327 projects in 40 countries in 2024."
+        },
+        {
+          "candidate_id": "s15v1e-001:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "In 2024, World Vision Australia reported raising $391.9 million and allocating 84% of total operating expenses to field programs and advocacy work."
+        },
+        {
+          "candidate_id": "s15v1e-001:finance_resource_flows:candidate-001",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_resource_flow",
+          "statement": "World Vision Australia reported raising $391.9 million in 2024."
+        },
+        {
+          "candidate_id": "s15v1e-001:governance_workforce_relationships:candidate-003",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "operating_scale_and_resource_relationships",
+          "statement": "In 2024, World Vision Australia reported 217,958 supporters, $391.9 million raised, 327 projects in 40 countries, and 84% of total operating expenses directed to field programs and advocacy work; it also reported that its Australian sponsors and donors fund relief and development projects implemented by World Vision field offices with technical support from World Vision Australia."
+        },
+        {
+          "candidate_id": "s15v1e-001:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "scale_and_resource_allocation",
+          "statement": "In its 2024 snapshot, World Vision Australia reported 327 projects in 40 countries, $391.9 million raised, and that 84% of total operating expenses were used for field programs and advocacy work."
+        },
+        {
+          "candidate_id": "s15v1e-001:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "reach",
+          "statement": "World Vision Australia reported that its 327 projects in 40 countries reached 7,554,870 people during 2024."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-001",
+      "atom_index": 5,
+      "atom_key": "s15v1e-001:5",
+      "proposition": "World Vision Australia reported that its work includes transformational development, emergency relief, promoting justice, and engaging Australians to support vulnerable children.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "Organisation self-description."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-001:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_and_activities",
+          "statement": "World Vision Australia described itself as a Christian charity dedicated to empowering everyday Australians to help vulnerable children around the world live life to the fullest, through transformational development, emergency relief, promoting justice, and engaging Australians to support vulnerable children."
+        },
+        {
+          "candidate_id": "s15v1e-001:programs_populations_geography:candidate-006",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "World Vision Australia reported that its work includes transformational development, emergency relief, promoting justice, and engaging Australians to support vulnerable children."
+        },
+        {
+          "candidate_id": "s15v1e-001:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "organisational_purpose_and_operating_model",
+          "statement": "World Vision Australia described itself as a Christian charity that empowers Australians to support vulnerable children globally through transformational development, emergency relief, justice promotion, and engagement of Australians."
+        },
+        {
+          "candidate_id": "s15v1e-001:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "identity_purpose",
+          "statement": "World Vision Australia describes itself as a Christian charity dedicated to empowering everyday Australians to help vulnerable children around the world live life to the fullest, through transformational development, emergency relief, promoting justice, and engaging Australians to support vulnerable children."
+        },
+        {
+          "candidate_id": "s15v1e-001:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "mission_and_operating_commitments",
+          "statement": "World Vision Australia describes itself as a Christian charity dedicated to empowering Australians to help vulnerable children, with work spanning transformational development, emergency relief, promoting justice, and public engagement."
+        },
+        {
+          "candidate_id": "s15v1e-001:outcomes_impact_evaluation:candidate-003",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "delivery_model",
+          "statement": "World Vision Australia reported that its work includes transformational development and emergency relief, with Australian sponsors and donors funding relief and development projects operated by World Vision field offices with technical support from the World Vision Australia team."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-001",
+      "atom_index": 10,
+      "atom_key": "s15v1e-001:10",
+      "proposition": "World Vision Australia reported working directly with First Nations communities in Australia to run activities and ensure those communities drive their own development.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "Organisation self-report."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-001:purpose_mandate_cause:candidate-002",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "First_Nations_partnership_commitment",
+          "statement": "World Vision Australia reported working directly with First Nations communities in Australia so that those communities drive their own development, and stated its commitment to respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:programs_populations_geography:candidate-004",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "World Vision Australia reported working directly with First Nations communities in Australia to run activities and ensure those communities drive their own development."
+        },
+        {
+          "candidate_id": "s15v1e-001:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "stakeholder_and_community_relationships",
+          "statement": "World Vision Australia reported serving people regardless of religion, race, ethnicity, or gender; collaborating across faiths and shared values; working directly with First Nations communities so they drive their own development; and committing to respectful partnerships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "partnership_and_respect",
+          "statement": "World Vision Australia reports working directly with First Nations communities in Australia so those communities drive their own development, and states its commitment to respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "inclusion_and_partnership_commitments",
+          "statement": "World Vision Australia reports serving people regardless of religion, race, ethnicity, or gender; collaborating across faiths and shared values; working directly with First Nations communities so they drive their own development; and maintaining respectful partnerships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:outcomes_impact_evaluation:candidate-004",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "community_partnership",
+          "statement": "World Vision Australia reported working directly with First Nations communities in Australia so those communities drive their own development, and stated its commitment to maintaining and strengthening respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-001",
+      "atom_index": 11,
+      "atom_key": "s15v1e-001:11",
+      "proposition": "World Vision Australia stated that it is committed to working with Aboriginal and Torres Strait Islander peoples and to maintaining and strengthening respectful partnerships and relationships with Australian First Nations peoples.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "Statement in the organisation's acknowledgment of country."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-001:purpose_mandate_cause:candidate-002",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "First_Nations_partnership_commitment",
+          "statement": "World Vision Australia reported working directly with First Nations communities in Australia so that those communities drive their own development, and stated its commitment to respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:programs_populations_geography:candidate-005",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "World Vision Australia stated that it is committed to working with Aboriginal and Torres Strait Islander peoples and to maintaining and strengthening respectful partnerships and relationships with Australian First Nations peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "stakeholder_and_community_relationships",
+          "statement": "World Vision Australia reported serving people regardless of religion, race, ethnicity, or gender; collaborating across faiths and shared values; working directly with First Nations communities so they drive their own development; and committing to respectful partnerships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "partnership_and_respect",
+          "statement": "World Vision Australia reports working directly with First Nations communities in Australia so those communities drive their own development, and states its commitment to respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "inclusion_and_partnership_commitments",
+          "statement": "World Vision Australia reports serving people regardless of religion, race, ethnicity, or gender; collaborating across faiths and shared values; working directly with First Nations communities so they drive their own development; and maintaining respectful partnerships with Aboriginal and Torres Strait Islander peoples."
+        },
+        {
+          "candidate_id": "s15v1e-001:outcomes_impact_evaluation:candidate-004",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "community_partnership",
+          "statement": "World Vision Australia reported working directly with First Nations communities in Australia so those communities drive their own development, and stated its commitment to maintaining and strengthening respectful partnerships and relationships with Aboriginal and Torres Strait Islander peoples."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-002",
+      "atom_index": 0,
+      "atom_key": "s15v1e-002:0",
+      "proposition": "In FY24, World Vision Australia worked with partners in 40 countries across 327 projects, and everyday Australians reached 7.5 million people through supporting its work.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-002:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate",
+          "statement": "World Vision Australia works with partners and supports community development programming across multiple countries and projects, including Area Programs and the Australian NGO Cooperation Program."
+        },
+        {
+          "candidate_id": "s15v1e-002:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "geographic_program_reach",
+          "statement": "In FY24, World Vision Australia worked with partners in 40 countries across 327 projects, reaching 7.5 million people through the support of everyday Australians."
+        },
+        {
+          "candidate_id": "s15v1e-002:participation_fundraising:candidate-000",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_reach",
+          "statement": "In FY24, everyday Australians reached 7.5 million people through supporting World Vision Australia's work."
+        },
+        {
+          "candidate_id": "s15v1e-002:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "partnership_reach",
+          "statement": "In FY24, World Vision Australia worked with partners across 40 countries and 327 projects. Its Area Programs undertook 226 projects across 21 countries, while 319,706 people participated in its Australian NGO Cooperation Program across 32 projects in 20 countries. Everyday Australians reached 7.5 million people through supporting its work."
+        },
+        {
+          "candidate_id": "s15v1e-002:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "organizational_reach",
+          "statement": "In FY24, World Vision Australia expressed its identity through broad, partner-based international engagement, working across multiple countries, projects and sectors and reaching millions of people, including through participation by everyday Australians."
+        },
+        {
+          "candidate_id": "s15v1e-002:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "reach_and_scale",
+          "statement": "In FY24, World Vision Australia worked with partners across 40 countries and 327 projects, including 92 Area Programs with 226 projects across 21 countries. Its sector portfolio reached millions of people across livelihoods, health and nutrition, education, water and sanitation, and child protection; 319,706 people participated in its Australian NGO Cooperation Program across 32 projects in 20 countries."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-002",
+      "atom_index": 2,
+      "atom_key": "s15v1e-002:2",
+      "proposition": "In FY24, 319,706 people participated in World Vision Australia's Australian NGO Cooperation Program across 32 projects in 20 countries.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-002:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate",
+          "statement": "World Vision Australia works with partners and supports community development programming across multiple countries and projects, including Area Programs and the Australian NGO Cooperation Program."
+        },
+        {
+          "candidate_id": "s15v1e-002:programs_populations_geography:candidate-002",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "program_population_geography",
+          "statement": "In FY24, 319,706 people participated in World Vision Australia's Australian NGO Cooperation Program across 32 projects in 20 countries."
+        },
+        {
+          "candidate_id": "s15v1e-002:participation_fundraising:candidate-001",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "program_participation",
+          "statement": "In FY24, 319,706 people participated in World Vision Australia's Australian NGO Cooperation Program across 32 projects in 20 countries."
+        },
+        {
+          "candidate_id": "s15v1e-002:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "partnership_reach",
+          "statement": "In FY24, World Vision Australia worked with partners across 40 countries and 327 projects. Its Area Programs undertook 226 projects across 21 countries, while 319,706 people participated in its Australian NGO Cooperation Program across 32 projects in 20 countries. Everyday Australians reached 7.5 million people through supporting its work."
+        },
+        {
+          "candidate_id": "s15v1e-002:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "organizational_reach",
+          "statement": "In FY24, World Vision Australia expressed its identity through broad, partner-based international engagement, working across multiple countries, projects and sectors and reaching millions of people, including through participation by everyday Australians."
+        },
+        {
+          "candidate_id": "s15v1e-002:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "reach_and_scale",
+          "statement": "In FY24, World Vision Australia worked with partners across 40 countries and 327 projects, including 92 Area Programs with 226 projects across 21 countries. Its sector portfolio reached millions of people across livelihoods, health and nutrition, education, water and sanitation, and child protection; 319,706 people participated in its Australian NGO Cooperation Program across 32 projects in 20 countries."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-004",
+      "atom_index": 7,
+      "atom_key": "s15v1e-004:7",
+      "proposition": "World Vision Australia’s accounts are audited annually by Grant Thornton, and its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-004:participation_fundraising:candidate-003",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "financial_accountability",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, and its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:finance_resource_flows:candidate-003",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_governance_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website, and its directors declared on 22 November 2024 that the company could pay debts as they became due. The independent auditor reported that the summary financial statements for the year ended 30 September 2024 were materially consistent with the audited financial report and complied materially with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "accountability_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, with audited Annual Financial Statements lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "accountability_and_stewardship",
+          "statement": "World Vision Australia demonstrates stewardship and accountability through its reserve and banking practices, controlled transfer of overseas project funds, annual independent audits, regulatory and sector reporting, published audited financial statements, and a director-declared capacity to meet debts as they fell due. For the year ended 30 September 2024, its summary financial statements were reported as materially consistent with the audited financial report and compliant with the relevant ACFID Code of Conduct requirements."
+        },
+        {
+          "candidate_id": "s15v1e-004:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "financial_accountability_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, with audited financial statements lodged with ACNC and ACFID and made available on its website; its summary financial statements for the year ended 30 September 2024 were reported by the independent auditor as materially consistent with the audited financial report and compliant with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:outcomes_impact_evaluation:candidate-003",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "accountability_assurance",
+          "statement": "World Vision Australia reported that its accounts are audited annually by Grant Thornton and that its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-004",
+      "atom_index": 8,
+      "atom_key": "s15v1e-004:8",
+      "proposition": "World Vision Australia’s directors declared on 22 November 2024 that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2024-11-22",
+      "effective_to": "2024-11-22",
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-004:participation_fundraising:candidate-004",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "solvency",
+          "statement": "On 22 November 2024, World Vision Australia’s directors declared that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable."
+        },
+        {
+          "candidate_id": "s15v1e-004:finance_resource_flows:candidate-003",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_governance_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website, and its directors declared on 22 November 2024 that the company could pay debts as they became due. The independent auditor reported that the summary financial statements for the year ended 30 September 2024 were materially consistent with the audited financial report and complied materially with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:governance_workforce_relationships:candidate-002",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "solvency_and_director_oversight",
+          "statement": "On 22 November 2024, World Vision Australia’s directors declared that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable."
+        },
+        {
+          "candidate_id": "s15v1e-004:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "accountability_and_stewardship",
+          "statement": "World Vision Australia demonstrates stewardship and accountability through its reserve and banking practices, controlled transfer of overseas project funds, annual independent audits, regulatory and sector reporting, published audited financial statements, and a director-declared capacity to meet debts as they fell due. For the year ended 30 September 2024, its summary financial statements were reported as materially consistent with the audited financial report and compliant with the relevant ACFID Code of Conduct requirements."
+        },
+        {
+          "candidate_id": "s15v1e-004:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "solvency_commitment",
+          "statement": "On 22 November 2024, World Vision Australia’s directors declared that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable."
+        },
+        {
+          "candidate_id": "s15v1e-004:outcomes_impact_evaluation:candidate-004",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "solvency",
+          "statement": "On 22 November 2024, World Vision Australia’s directors declared that there were reasonable grounds to believe the company would be able to pay all debts as they became due and payable."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-004",
+      "atom_index": 9,
+      "atom_key": "s15v1e-004:9",
+      "proposition": "The independent auditor reported that World Vision Australia’s summary financial statements for the year ended 30 September 2024 were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-09-30",
+      "reporting_period": "Year ended 30 September 2024",
+      "qualifications": [
+        "The auditor’s report was dated 22 November 2024."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "governance_workforce_relationships",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-004:participation_fundraising:candidate-003",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "financial_accountability",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, and its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:finance_resource_flows:candidate-003",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_governance_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website, and its directors declared on 22 November 2024 that the company could pay debts as they became due. The independent auditor reported that the summary financial statements for the year ended 30 September 2024 were materially consistent with the audited financial report and complied materially with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "accountability_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, with audited Annual Financial Statements lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "accountability_and_stewardship",
+          "statement": "World Vision Australia demonstrates stewardship and accountability through its reserve and banking practices, controlled transfer of overseas project funds, annual independent audits, regulatory and sector reporting, published audited financial statements, and a director-declared capacity to meet debts as they fell due. For the year ended 30 September 2024, its summary financial statements were reported as materially consistent with the audited financial report and compliant with the relevant ACFID Code of Conduct requirements."
+        },
+        {
+          "candidate_id": "s15v1e-004:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "financial_accountability_and_assurance",
+          "statement": "World Vision Australia’s accounts are audited annually by Grant Thornton, with audited financial statements lodged with ACNC and ACFID and made available on its website; its summary financial statements for the year ended 30 September 2024 were reported by the independent auditor as materially consistent with the audited financial report and compliant with Section 8.3.2 of the ACFID Code of Conduct."
+        },
+        {
+          "candidate_id": "s15v1e-004:outcomes_impact_evaluation:candidate-003",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "accountability_assurance",
+          "statement": "World Vision Australia reported that its accounts are audited annually by Grant Thornton and that its audited Annual Financial Statements are lodged with ACNC and ACFID and made available on its website. For the year ended 30 September 2024, the independent auditor reported that the summary financial statements were consistent in all material respects with the audited financial report and complied in all material respects with Section 8.3.2 of the ACFID Code of Conduct."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 15,
+      "atom_key": "s15v1e-006:15",
+      "proposition": "Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets during the 2023–24 financial year.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Australian Red Cross Lifeblood",
+      "effective_from": "2023-07-01",
+      "effective_to": "2024-06-30",
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:programs_populations_geography:candidate-004",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "program_or_service_activity",
+          "statement": "Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:participation_fundraising:candidate-002",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising",
+          "statement": "Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets from 559,000 Australians during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:finance_resource_flows:candidate-001",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "resource_inflow",
+          "statement": "Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "humanitarian_mission_in_action",
+          "statement": "Australian Red Cross acts for humanity through disaster response, migration support and blood, plasma and platelet donation services."
+        },
+        {
+          "candidate_id": "s15v1e-006:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "service_delivery_implementation",
+          "statement": "During the 2023–24 financial year, Australian Red Cross Society implemented its humanitarian and blood-service commitments by providing $79.2 million in donations and philanthropic gifts to support humanitarian work, supporting 213,000 people before, during and after disasters, conducting 70 emergency activations, providing migration support to more than 23,600 people from 129 countries in Australia, and through Australian Red Cross Lifeblood receiving 1.6 million individual donations from 559,000 Australians."
+        },
+        {
+          "candidate_id": "s15v1e-006:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "service_delivery_output",
+          "statement": "During the 2023–24 financial year, Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets from 559,000 Australians."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 16,
+      "atom_key": "s15v1e-006:16",
+      "proposition": "Australian Red Cross Lifeblood received donations from 559,000 Australians during the 2023–24 financial year.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Australian Red Cross Lifeblood",
+      "effective_from": "2023-07-01",
+      "effective_to": "2024-06-30",
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "finance_resource_flows",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:programs_populations_geography:candidate-005",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "population_or_participant_count",
+          "statement": "Australian Red Cross Lifeblood received donations from 559,000 Australians during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:participation_fundraising:candidate-002",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "fundraising",
+          "statement": "Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets from 559,000 Australians during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:finance_resource_flows:candidate-002",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "resource_inflow",
+          "statement": "Australian Red Cross Lifeblood received donations from 559,000 Australians during the 2023–24 financial year."
+        },
+        {
+          "candidate_id": "s15v1e-006:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "humanitarian_mission_in_action",
+          "statement": "Australian Red Cross acts for humanity through disaster response, migration support and blood, plasma and platelet donation services."
+        },
+        {
+          "candidate_id": "s15v1e-006:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "service_delivery_implementation",
+          "statement": "During the 2023–24 financial year, Australian Red Cross Society implemented its humanitarian and blood-service commitments by providing $79.2 million in donations and philanthropic gifts to support humanitarian work, supporting 213,000 people before, during and after disasters, conducting 70 emergency activations, providing migration support to more than 23,600 people from 129 countries in Australia, and through Australian Red Cross Lifeblood receiving 1.6 million individual donations from 559,000 Australians."
+        },
+        {
+          "candidate_id": "s15v1e-006:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "service_delivery_output",
+          "statement": "During the 2023–24 financial year, Australian Red Cross Lifeblood received 1.6 million individual donations of blood, plasma and platelets from 559,000 Australians."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 0,
+      "atom_key": "s15v1e-009:0",
+      "proposition": "Australian Red Cross supported nine National Societies to prepare for, respond to, and recover from disasters.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported nine National Societies to prepare for, respond to, and recover from disasters, including disaster response capabilities in Fiji, Indonesia, Myanmar, Mongolia, Papua New Guinea, Solomon Islands, Timor-Leste, Tonga, and Vanuatu, with support from DFAT and other partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation_support",
+          "statement": "Australian Red Cross supported disaster preparedness, response and recovery across National Societies and international operations, including through specialist and training delegates and support to disaster response capabilities in nine countries."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_disaster_response_and_capacity_support",
+          "statement": "Australian Red Cross supported nine National Societies and 22 international disaster and crisis response operations, deploying 43 Australian international aid workers and 43 specialist delegates plus 10 training delegates across multiple areas of expertise and countries."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 1,
+      "atom_key": "s15v1e-009:1",
+      "proposition": "Australian Red Cross supported 22 international disaster and crisis response operations.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported 22 international disaster and crisis response operations, deploying 43 Australian international aid workers across 13 areas of expertise to 22 countries, including 43 specialist delegates and 10 training delegates."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation_support",
+          "statement": "Australian Red Cross supported disaster preparedness, response and recovery across National Societies and international operations, including through specialist and training delegates and support to disaster response capabilities in nine countries."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_disaster_response_and_capacity_support",
+          "statement": "Australian Red Cross supported nine National Societies and 22 international disaster and crisis response operations, deploying 43 Australian international aid workers and 43 specialist delegates plus 10 training delegates across multiple areas of expertise and countries."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 2,
+      "atom_key": "s15v1e-009:2",
+      "proposition": "Australian Red Cross deployed 43 Australian international aid workers across 13 areas of expertise to 22 countries.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported 22 international disaster and crisis response operations, deploying 43 Australian international aid workers across 13 areas of expertise to 22 countries, including 43 specialist delegates and 10 training delegates."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation_support",
+          "statement": "Australian Red Cross supported disaster preparedness, response and recovery across National Societies and international operations, including through specialist and training delegates and support to disaster response capabilities in nine countries."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_disaster_response_and_capacity_support",
+          "statement": "Australian Red Cross supported nine National Societies and 22 international disaster and crisis response operations, deploying 43 Australian international aid workers and 43 specialist delegates plus 10 training delegates across multiple areas of expertise and countries."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 4,
+      "atom_key": "s15v1e-009:4",
+      "proposition": "Australian Red Cross deployed almost 20 tonnes of humanitarian relief supplies across the Pacific.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-002",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies, including Ukraine and Israel and the Occupied Palestinian Territories, and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "resource_mobilisation_and_relief_delivery",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-001",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_humanitarian_resource_mobilisation",
+          "statement": "Australian Red Cross mobilised $20 million in humanitarian funding for international emergencies and deployed almost 20 tonnes of humanitarian relief supplies across the Pacific."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 5,
+      "atom_key": "s15v1e-009:5",
+      "proposition": "Australian Red Cross deployed 43 specialist delegates and 10 training delegates with expertise including protection, water, engineering, emergency operations coordination, and clinical health.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported 22 international disaster and crisis response operations, deploying 43 Australian international aid workers across 13 areas of expertise to 22 countries, including 43 specialist delegates and 10 training delegates."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation_support",
+          "statement": "Australian Red Cross supported disaster preparedness, response and recovery across National Societies and international operations, including through specialist and training delegates and support to disaster response capabilities in nine countries."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_disaster_response_and_capacity_support",
+          "statement": "Australian Red Cross supported nine National Societies and 22 international disaster and crisis response operations, deploying 43 Australian international aid workers and 43 specialist delegates plus 10 training delegates across multiple areas of expertise and countries."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 6,
+      "atom_key": "s15v1e-009:6",
+      "proposition": "Australian Red Cross supported disaster response capabilities in Fiji, Indonesia, Myanmar, Mongolia, Papua New Guinea, Solomon Islands, Timor-Leste, Tonga, and Vanuatu, with support from DFAT and other partners.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-000",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross supports National Societies and communities to prepare for, respond to, and recover from disasters and crises, including through specialist personnel, humanitarian funding, relief supplies, and disaster-response capability support."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-000",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "Australian Red Cross supported nine National Societies to prepare for, respond to, and recover from disasters, including disaster response capabilities in Fiji, Indonesia, Myanmar, Mongolia, Papua New Guinea, Solomon Islands, Timor-Leste, Tonga, and Vanuatu, with support from DFAT and other partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "implementation_support",
+          "statement": "Australian Red Cross supported disaster preparedness, response and recovery across National Societies and international operations, including through specialist and training delegates and support to disaster response capabilities in nine countries."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-000",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "international_disaster_response_and_capacity_support",
+          "statement": "Australian Red Cross supported nine National Societies and 22 international disaster and crisis response operations, deploying 43 Australian international aid workers and 43 specialist delegates plus 10 training delegates across multiple areas of expertise and countries."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 7,
+      "atom_key": "s15v1e-009:7",
+      "proposition": "Australian Red Cross provided support to people in Australia and on the ground in Israel and the Occupied Palestinian Territories in response to the conflict escalation in October 2023.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-10-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [
+        "The source specifies October 2023 but not an exact day."
+      ],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-003",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross provided support to people in Australia and on the ground in Israel and the Occupied Palestinian Territories; supported repatriation to New South Wales and Western Australia; provided cash assistance to people from Israel and the Occupied Palestinian Territories on temporary visas experiencing financial hardship; mobilised over $4 million for ICRC and IFRC work in Israel, the Occupied Palestinian Territories, Egypt, and Lebanon; deployed 12 delegates; and helped establish and staff a 60-bed ICRC field hospital in Rafah, Gaza."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "conflict_response_commitment",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation and cash support, mobilised over $4 million for ICRC and IFRC operations, deployed 12 delegates, and engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "conflict_response_and_humanitarian_assistance",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation, provided cash assistance, mobilised over $4 million in donor funds, deployed 12 delegates, and contributed delegates to the ICRC field hospital that opened in Rafah, Gaza, on 9 May 2024; it also engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 8,
+      "atom_key": "s15v1e-009:8",
+      "proposition": "Australian Red Cross supported the repatriation of Australian citizens and family members returning from Israel and the Occupied Palestinian Territories to New South Wales and Western Australia.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-003",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross provided support to people in Australia and on the ground in Israel and the Occupied Palestinian Territories; supported repatriation to New South Wales and Western Australia; provided cash assistance to people from Israel and the Occupied Palestinian Territories on temporary visas experiencing financial hardship; mobilised over $4 million for ICRC and IFRC work in Israel, the Occupied Palestinian Territories, Egypt, and Lebanon; deployed 12 delegates; and helped establish and staff a 60-bed ICRC field hospital in Rafah, Gaza."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "conflict_response_commitment",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation and cash support, mobilised over $4 million for ICRC and IFRC operations, deployed 12 delegates, and engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "conflict_response_and_humanitarian_assistance",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation, provided cash assistance, mobilised over $4 million in donor funds, deployed 12 delegates, and contributed delegates to the ICRC field hospital that opened in Rafah, Gaza, on 9 May 2024; it also engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-009",
+      "atom_index": 9,
+      "atom_key": "s15v1e-009:9",
+      "proposition": "Australian Red Cross provided cash assistance to people from Israel and the Occupied Palestinian Territories who had recently arrived in Australia on temporary visas and were experiencing financial hardship.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 6,
+      "lens_families": [
+        "ethos_identity",
+        "outcomes_impact_evaluation",
+        "participation_fundraising",
+        "positions_commitments_implementation",
+        "programs_populations_geography",
+        "purpose_mandate_cause"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-009:purpose_mandate_cause:candidate-001",
+          "lens_family": "purpose_mandate_cause",
+          "semantic_type": "purpose_mandate_cause",
+          "statement": "Australian Red Cross provides humanitarian assistance to people affected by international conflicts and disasters, in Australia and overseas, and supports partner Red Cross and Red Crescent National Societies through funding, technical expertise, delegate deployments, relief supplies, and advocacy for international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:programs_populations_geography:candidate-003",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "programs_populations_geography",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross provided support to people in Australia and on the ground in Israel and the Occupied Palestinian Territories; supported repatriation to New South Wales and Western Australia; provided cash assistance to people from Israel and the Occupied Palestinian Territories on temporary visas experiencing financial hardship; mobilised over $4 million for ICRC and IFRC work in Israel, the Occupied Palestinian Territories, Egypt, and Lebanon; deployed 12 delegates; and helped establish and staff a 60-bed ICRC field hospital in Rafah, Gaza."
+        },
+        {
+          "candidate_id": "s15v1e-009:participation_fundraising:candidate-005",
+          "lens_family": "participation_fundraising",
+          "semantic_type": "participation_in_humanitarian_response",
+          "statement": "Australian Red Cross supported disaster preparedness, response, and recovery through National Society support, international operations, aid-worker and delegate deployments, humanitarian relief supplies, cash assistance, repatriation support, technical assistance, and engagement with governments and humanitarian partners."
+        },
+        {
+          "candidate_id": "s15v1e-009:ethos_identity:candidate-000",
+          "lens_family": "ethos_identity",
+          "semantic_type": "ethos_identity",
+          "statement": "Australian Red Cross demonstrates an ethos of humanitarian solidarity and practical service by supporting National Societies, responding to international disasters and crises, deploying specialist personnel and relief supplies, mobilising humanitarian funding, assisting affected people in Australia and overseas, and engaging on the humanitarian impact of conflict and the importance of international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "conflict_response_commitment",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation and cash support, mobilised over $4 million for ICRC and IFRC operations, deployed 12 delegates, and engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        },
+        {
+          "candidate_id": "s15v1e-009:outcomes_impact_evaluation:candidate-002",
+          "lens_family": "outcomes_impact_evaluation",
+          "semantic_type": "conflict_response_and_humanitarian_assistance",
+          "statement": "In response to the conflict escalation in October 2023, Australian Red Cross supported people in Australia and on the ground in Israel and the Occupied Palestinian Territories, assisted repatriation, provided cash assistance, mobilised over $4 million in donor funds, deployed 12 delegates, and contributed delegates to the ICRC field hospital that opened in Rafah, Gaza, on 9 May 2024; it also engaged in confidential dialogue with the Australian Government on humanitarian impacts and international humanitarian law."
+        }
+      ]
+    }
+  ]
+}

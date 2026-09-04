@@ -1,0 +1,772 @@
+{
+  "atoms": [
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 1,
+      "atom_key": "s15v1e-005:1",
+      "proposition": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": "1969-06-19",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "governance_legal_and_external_accountability",
+          "statement": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969; it is registered as a charity with the Australian Charities and Not-for-profits Commission, fully accredited by the Australian Government through the Department of Foreign Affairs and Trade, a member of the Australian Council for International Development adhering to the ACFID Code of Conduct, and endorsed by the Australian Taxation Office for specified charity tax concessions and related statuses."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 2,
+      "atom_key": "s15v1e-005:2",
+      "proposition": "World Vision Australia is a registered charity with the Australian Charities and Not-for-profits Commission.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "governance_legal_and_external_accountability",
+          "statement": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969; it is registered as a charity with the Australian Charities and Not-for-profits Commission, fully accredited by the Australian Government through the Department of Foreign Affairs and Trade, a member of the Australian Council for International Development adhering to the ACFID Code of Conduct, and endorsed by the Australian Taxation Office for specified charity tax concessions and related statuses."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 5,
+      "atom_key": "s15v1e-005:5",
+      "proposition": "World Vision Australia is endorsed by the Australian Taxation Office for charity tax concessions and as a Deductible Gift Recipient, a Public Benevolent Institution, and for operation of an Overseas Aid Fund.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:governance_workforce_relationships:candidate-000",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "governance_legal_and_external_accountability",
+          "statement": "World Vision Australia is a public company limited by guarantee under the Corporations Act 2001 (Cth), registered from 19 June 1969; it is registered as a charity with the Australian Charities and Not-for-profits Commission, fully accredited by the Australian Government through the Department of Foreign Affairs and Trade, a member of the Australian Council for International Development adhering to the ACFID Code of Conduct, and endorsed by the Australian Taxation Office for specified charity tax concessions and related statuses."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 8,
+      "atom_key": "s15v1e-005:8",
+      "proposition": "For the year ended 30 September 2024, World Vision Australia reported total assets of $95.892 million, total liabilities of $38.771 million, and net assets of $57.121 million.",
+      "scope_kind": "reporting_group",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_position",
+          "statement": "For the year ended 30 September 2024, World Vision Australia reported total assets of $95.892 million, total liabilities of $38.771 million, and net assets of $57.121 million."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 9,
+      "atom_key": "s15v1e-005:9",
+      "proposition": "For the year ended 30 September 2024, World Vision Australia reported a deficit of income over expenditure of $27.349 million and total comprehensive loss of $39.696 million.",
+      "scope_kind": "reporting_group",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": "2024-09-30",
+      "reporting_period": "FY24",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:finance_resource_flows:candidate-001",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_performance",
+          "statement": "For the year ended 30 September 2024, World Vision Australia reported a deficit of income over expenditure of $27.349 million and total comprehensive loss of $39.696 million."
+        }
+      ]
+    },
+    {
+      "charity": "World Vision Australia",
+      "packet_id": "s15v1e-005",
+      "atom_index": 10,
+      "atom_key": "s15v1e-005:10",
+      "proposition": "World Vision Australia’s head office is at 1 Vision Drive, Burwood East, Victoria 3151.",
+      "scope_kind": "subject",
+      "scope_label": "World Vision Australia",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-005:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "geographic_presence",
+          "statement": "World Vision Australia’s head office is at 1 Vision Drive, Burwood East, Victoria 3151."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 1,
+      "atom_key": "s15v1e-006:1",
+      "proposition": "Australian Red Cross Society is incorporated by Royal Charter.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "ethos_identity"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "institutional_identity_and_accountability",
+          "statement": "Australian Red Cross is incorporated by Royal Charter, registered with the Australian Charities and Not-for-profit Commission, and is a signatory to the Australian Council for International Development Code of Conduct."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 2,
+      "atom_key": "s15v1e-006:2",
+      "proposition": "Australian Red Cross Society is registered with the Australian Charities and Not-for-profit Commission.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "ethos_identity"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:ethos_identity:candidate-002",
+          "lens_family": "ethos_identity",
+          "semantic_type": "institutional_identity_and_accountability",
+          "statement": "Australian Red Cross is incorporated by Royal Charter, registered with the Australian Charities and Not-for-profit Commission, and is a signatory to the Australian Council for International Development Code of Conduct."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 6,
+      "atom_key": "s15v1e-006:6",
+      "proposition": "Australian Red Cross Society’s Annual Financial Statements are externally audited, and more than 60 individual programs are separately audited and acquitted to funders each year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:positions_commitments_implementation:candidate-000",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "governance_and_assurance_implementation",
+          "statement": "Australian Red Cross Society implements assurance over its operations through externally audited annual financial statements and the separate audit and funder acquittal of more than 60 individual programs each year."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 17,
+      "atom_key": "s15v1e-006:17",
+      "proposition": "Andrew Colvin AO APM commenced as Chief Executive Officer of Australian Red Cross on 1 July 2024.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2024-07-01",
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:governance_workforce_relationships:candidate-002",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "executive_leadership_transition",
+          "statement": "Australian Red Cross’s chief executive leadership transitioned from Kym Pfitzner, who died in October 2023, to Penny Harrison as Interim Chief Executive Officer, followed by Andrew Colvin AO APM commencing as Chief Executive Officer on 1 July 2024."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 18,
+      "atom_key": "s15v1e-006:18",
+      "proposition": "Kym Pfitzner was the former Chief Executive Officer of Australian Red Cross and died in October 2023.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2023-10-31",
+      "reporting_period": null,
+      "qualifications": [
+        "The evidence specifies October 2023 but not the exact date."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:governance_workforce_relationships:candidate-002",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "executive_leadership_transition",
+          "statement": "Australian Red Cross’s chief executive leadership transitioned from Kym Pfitzner, who died in October 2023, to Penny Harrison as Interim Chief Executive Officer, followed by Andrew Colvin AO APM commencing as Chief Executive Officer on 1 July 2024."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 19,
+      "atom_key": "s15v1e-006:19",
+      "proposition": "Penny Harrison served as Interim Chief Executive Officer of Australian Red Cross following Kym Pfitzner’s death.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-10-01",
+      "effective_to": "2024-06-30",
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [
+        "The evidence does not specify exact start and end dates."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:governance_workforce_relationships:candidate-002",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "executive_leadership_transition",
+          "statement": "Australian Red Cross’s chief executive leadership transitioned from Kym Pfitzner, who died in October 2023, to Penny Harrison as Interim Chief Executive Officer, followed by Andrew Colvin AO APM commencing as Chief Executive Officer on 1 July 2024."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 20,
+      "atom_key": "s15v1e-006:20",
+      "proposition": "Australian Red Cross celebrated 110 years of service in the 2023–24 financial year.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-07-01",
+      "effective_to": "2024-06-30",
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "ethos_identity"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:ethos_identity:candidate-003",
+          "lens_family": "ethos_identity",
+          "semantic_type": "heritage_and_continuity",
+          "statement": "Australian Red Cross celebrated 110 years of service during the 2023–24 financial year."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-006",
+      "atom_index": 21,
+      "atom_key": "s15v1e-006:21",
+      "proposition": "The key principles of Australian Red Cross’s new governance structure were approved at its Annual General Meeting in December 2023.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": "2023-12-01",
+      "effective_to": "2023-12-31",
+      "reporting_period": "2023–24 financial year",
+      "qualifications": [
+        "The evidence specifies December 2023 but not the exact meeting date."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-006:governance_workforce_relationships:candidate-001",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "governance_structure_change",
+          "statement": "The key principles of Australian Red Cross’s new governance structure were approved at its Annual General Meeting in December 2023."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-015",
+      "atom_index": 7,
+      "atom_key": "s15v1e-015:7",
+      "proposition": "Australian Red Cross Society Board members during the year ending 30 June 2024 were listed in the organisation's report.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "year ending 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "governance_workforce_relationships"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-015:governance_workforce_relationships:candidate-005",
+          "lens_family": "governance_workforce_relationships",
+          "semantic_type": "governance_disclosure",
+          "statement": "Australian Red Cross Society Board members during the year ending 30 June 2024 were listed in the organisation's report."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-019",
+      "atom_index": 0,
+      "atom_key": "s15v1e-019:0",
+      "proposition": "Australian Red Cross Society's financial statements incorporate the Australian Red Cross Humanitarian Services and Australian Red Cross Lifeblood operating divisions.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "FY24 (year ended 30 June 2024)",
+      "qualifications": [
+        "The divisions operate separately and cannot cross-subsidise each other under the funding agreements."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "ethos_identity"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-019:ethos_identity:candidate-001",
+          "lens_family": "ethos_identity",
+          "semantic_type": "organisational_structure",
+          "statement": "Australian Red Cross Society operates through the Australian Red Cross Humanitarian Services and Australian Red Cross Lifeblood operating divisions, which operate separately and cannot cross-subsidise each other under the funding agreements."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-020",
+      "atom_index": 3,
+      "atom_key": "s15v1e-020:3",
+      "proposition": "Australian Red Cross Society is domiciled in Australia, with its registered office and principal place of business at 23–47 Villiers Street, North Melbourne, Victoria 3051.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": null,
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "programs_populations_geography"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-020:programs_populations_geography:candidate-001",
+          "lens_family": "programs_populations_geography",
+          "semantic_type": "domicile_and_principal_place_of_business",
+          "statement": "Australian Red Cross Society is domiciled in Australia, with its registered office and principal place of business at 23–47 Villiers Street, North Melbourne, Victoria 3051."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-020",
+      "atom_index": 5,
+      "atom_key": "s15v1e-020:5",
+      "proposition": "For the year ended 30 June 2024, Australian Red Cross Society recorded total revenue of $1,090.174 million.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-020:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_performance",
+          "statement": "For the year ended 30 June 2024, Australian Red Cross Society recorded total revenue of $1,090.174 million, total expenditure of $1,141.520 million, and a net deficit of $51.346 million."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-020",
+      "atom_index": 6,
+      "atom_key": "s15v1e-020:6",
+      "proposition": "For the year ended 30 June 2024, Australian Red Cross Society recorded total expenditure of $1,141.520 million.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-020:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_performance",
+          "statement": "For the year ended 30 June 2024, Australian Red Cross Society recorded total revenue of $1,090.174 million, total expenditure of $1,141.520 million, and a net deficit of $51.346 million."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-020",
+      "atom_index": 7,
+      "atom_key": "s15v1e-020:7",
+      "proposition": "For the year ended 30 June 2024, Australian Red Cross Society recorded a net deficit of $51.346 million.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-020:finance_resource_flows:candidate-000",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "financial_performance",
+          "statement": "For the year ended 30 June 2024, Australian Red Cross Society recorded total revenue of $1,090.174 million, total expenditure of $1,141.520 million, and a net deficit of $51.346 million."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-020",
+      "atom_index": 8,
+      "atom_key": "s15v1e-020:8",
+      "proposition": "For the year ended 30 June 2024, Australian Red Cross Society received total government funding of $914.531 million.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "finance_resource_flows"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-020:finance_resource_flows:candidate-001",
+          "lens_family": "finance_resource_flows",
+          "semantic_type": "government_funding",
+          "statement": "For the year ended 30 June 2024, Australian Red Cross Society received total government funding of $914.531 million."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-022",
+      "atom_index": 5,
+      "atom_key": "s15v1e-022:5",
+      "proposition": "The Society is exempt from income tax under subsection 50-5 of the Income Tax Assessment Act 1997.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": null,
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [
+        "The financial statements describe the Society as a public benevolent institution."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "ethos_identity"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-022:ethos_identity:candidate-003",
+          "lens_family": "ethos_identity",
+          "semantic_type": "charitable_status",
+          "statement": "The Society is described as a public benevolent institution, is exempt from income tax under subsection 50-5 of the Income Tax Assessment Act 1997, and is registered as a deductible gift recipient for tax purposes."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 0,
+      "atom_key": "s15v1e-023:0",
+      "proposition": "For the reporting period ending 30 June 2024, the Australian Red Cross Society measured inventories held for sale at the lower of cost and net realisable value.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "inventory_and_donated_goods_implementation",
+          "statement": "For the year ended 30 June 2024, the Australian Red Cross Society measured inventories held for sale at the lower of cost and net realisable value, and inventories held for distribution at no or nominal consideration at the lower of cost and current replacement cost. It recognised no amounts for donated goods, predominantly clothing, based on an individual-item materiality assessment."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 1,
+      "atom_key": "s15v1e-023:1",
+      "proposition": "For the reporting period ending 30 June 2024, the Australian Red Cross Society measured inventories held for distribution at no or nominal consideration at the lower of cost and current replacement cost.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "inventory_and_donated_goods_implementation",
+          "statement": "For the year ended 30 June 2024, the Australian Red Cross Society measured inventories held for sale at the lower of cost and net realisable value, and inventories held for distribution at no or nominal consideration at the lower of cost and current replacement cost. It recognised no amounts for donated goods, predominantly clothing, based on an individual-item materiality assessment."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 2,
+      "atom_key": "s15v1e-023:2",
+      "proposition": "For the reporting period ending 30 June 2024, the Australian Red Cross Society recognised no amounts in its financial statements for donated goods, predominantly clothing, based on an individual-item materiality assessment.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-002",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "inventory_and_donated_goods_implementation",
+          "statement": "For the year ended 30 June 2024, the Australian Red Cross Society measured inventories held for sale at the lower of cost and net realisable value, and inventories held for distribution at no or nominal consideration at the lower of cost and current replacement cost. It recognised no amounts for donated goods, predominantly clothing, based on an individual-item materiality assessment."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 3,
+      "atom_key": "s15v1e-023:3",
+      "proposition": "For the reporting period ending 30 June 2024, Lifeblood provided products and services under a deed with the National Blood Authority, including blood collection, testing, processing, inventory management and distribution.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Lifeblood",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [
+        "Lifeblood is described within the Australian Red Cross Society financial statements."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "Lifeblood_inventory_and_recognition_implementation",
+          "statement": "For the year ended 30 June 2024, Lifeblood provided blood-related products and services under a deed with the National Blood Authority. Certain blood and blood products recognised as current assets were measured at the lower of cost and current replacement cost, with cost comprising direct materials, direct labour and divisional overheads incurred in collection, processing and testing. Lifeblood did not recognise specified plasma and fractionated products where control and risk were retained by other parties and future economic benefit was absent under output-based funding arrangements."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 4,
+      "atom_key": "s15v1e-023:4",
+      "proposition": "For the reporting period ending 30 June 2024, Lifeblood measured certain categories of blood and blood products recognised as current assets at the lower of cost and current replacement cost.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Lifeblood",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [
+        "Cost comprises direct materials, direct labour and divisional overheads incurred in blood collection, processing and testing."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "Lifeblood_inventory_and_recognition_implementation",
+          "statement": "For the year ended 30 June 2024, Lifeblood provided blood-related products and services under a deed with the National Blood Authority. Certain blood and blood products recognised as current assets were measured at the lower of cost and current replacement cost, with cost comprising direct materials, direct labour and divisional overheads incurred in collection, processing and testing. Lifeblood did not recognise specified plasma and fractionated products where control and risk were retained by other parties and future economic benefit was absent under output-based funding arrangements."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 5,
+      "atom_key": "s15v1e-023:5",
+      "proposition": "For the reporting period ending 30 June 2024, Lifeblood did not recognise plasma supplied to CSL Behring (Australia) Pty Ltd for fractionation, fractionated product held at CSL, or fractionated product held by Lifeblood for distribution.",
+      "scope_kind": "named_program_or_service",
+      "scope_label": "Lifeblood",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [
+        "The stated basis was retention of control and risk by parties other than Lifeblood and absence of future economic benefit under output-based funding arrangements."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-003",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "Lifeblood_inventory_and_recognition_implementation",
+          "statement": "For the year ended 30 June 2024, Lifeblood provided blood-related products and services under a deed with the National Blood Authority. Certain blood and blood products recognised as current assets were measured at the lower of cost and current replacement cost, with cost comprising direct materials, direct labour and divisional overheads incurred in collection, processing and testing. Lifeblood did not recognise specified plasma and fractionated products where control and risk were retained by other parties and future economic benefit was absent under output-based funding arrangements."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 6,
+      "atom_key": "s15v1e-023:6",
+      "proposition": "For the reporting period ending 30 June 2024, the Australian Red Cross Society measured property, plant and equipment at historical cost less applicable accumulated depreciation and accumulated impairment losses.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [
+        "Grant-funded assets are depreciated in accordance with the terms of the funding agreement."
+      ],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "property_plant_equipment_measurement",
+          "statement": "For the year ended 30 June 2024, the Australian Red Cross Society measured property, plant and equipment at historical cost less applicable accumulated depreciation and accumulated impairment losses. Land was not depreciated, while other property, plant and equipment was depreciated over estimated useful lives from the time assets were available for use."
+        }
+      ]
+    },
+    {
+      "charity": "Australian Red Cross Society",
+      "packet_id": "s15v1e-023",
+      "atom_index": 7,
+      "atom_key": "s15v1e-023:7",
+      "proposition": "For the reporting period ending 30 June 2024, the Australian Red Cross Society did not depreciate land and depreciated other property, plant and equipment over estimated useful lives from the time assets were available for use.",
+      "scope_kind": "subject",
+      "scope_label": "Australian Red Cross Society",
+      "effective_from": null,
+      "effective_to": "2024-06-30",
+      "reporting_period": "year ended 30 June 2024",
+      "qualifications": [],
+      "fanout_count": 1,
+      "lens_families": [
+        "positions_commitments_implementation"
+      ],
+      "candidates": [
+        {
+          "candidate_id": "s15v1e-023:positions_commitments_implementation:candidate-001",
+          "lens_family": "positions_commitments_implementation",
+          "semantic_type": "property_plant_equipment_measurement",
+          "statement": "For the year ended 30 June 2024, the Australian Red Cross Society measured property, plant and equipment at historical cost less applicable accumulated depreciation and accumulated impairment losses. Land was not depreciated, while other property, plant and equipment was depreciated over estimated useful lives from the time assets were available for use."
+        }
+      ]
+    }
+  ]
+}

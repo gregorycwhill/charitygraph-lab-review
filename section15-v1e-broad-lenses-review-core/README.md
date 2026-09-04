@@ -1,0 +1,1 @@
+Mechanical review projection of frozen V1E broad-lens results. Candidate wording, IDs and provenance are unchanged; no semantic correction or inference occurred. Samples use stable packet/atom ordering. Bounded review material only; source representations and raw provider traffic remain private. Provider calls: 0.
