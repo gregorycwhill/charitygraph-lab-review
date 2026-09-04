@@ -1,0 +1,18 @@
+{
+  "observations_tested": 54,
+  "zero_concept": 37,
+  "one_concept": 16,
+  "multi_concept": 1,
+  "concepts_reused_on_held_out": [
+    "cg-native:fundraising-channel",
+    "cg-native:grant-and-sponsorship-funding-process",
+    "cg-native:philanthropic-giving-enablement",
+    "cg-native:program-delivery-output-reporting",
+    "cg-native:regional-capability-development",
+    "cg-native:stated-purpose-or-vision"
+  ],
+  "concepts_never_reused_outside_induction_support": [
+    "cg-native:monitoring-and-evaluation-practice"
+  ],
+  "missing_concept_suggestions": 37
+}

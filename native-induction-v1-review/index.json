@@ -1,0 +1,14 @@
+{
+  "experiment_id": "native-induction-v1",
+  "provider_calls": 0,
+  "source_acquisition": 0,
+  "files": [
+    "README.md",
+    "aggregate-diagnostics.json",
+    "breadth-matrices.json",
+    "concept-overlap.json",
+    "concept-reuse.json",
+    "review-sample.json",
+    "transfer.json"
+  ]
+}

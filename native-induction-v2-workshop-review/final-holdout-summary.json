@@ -1,0 +1,138 @@
+{
+  "counts": {
+    "observations": 58,
+    "zero": 9,
+    "one": 35,
+    "multi": 14
+  },
+  "missing_concept_suggestions": [
+    {
+      "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+      "concept_ids": [],
+      "support_rationale": "Reports official registration status and ABN; no catalogue concept specifically covers this status record.",
+      "missing_concept_suggestion": "Official entity registration status",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+      "concept_ids": [],
+      "support_rationale": "Describes internal income receipt, expenditure responsibility and branch accounting arrangements; no frozen concept directly captures this organisational accounting arrangement.",
+      "missing_concept_suggestion": "Organisational income and expenditure administration arrangement",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+      "concept_ids": [],
+      "support_rationale": "Reports a qualified absence of specified environmental-regulation applicability or known breaches, which is not covered by the catalogue’s narrower enforcement or compliance concepts.",
+      "missing_concept_suggestion": "Environmental regulation applicability or breach absence",
+      "ambiguity_note": "The statement is a directors’ representation, not an independently verified absence."
+    },
+    {
+      "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898,",
+      "concept_ids": [],
+      "support_rationale": "Reports the entity’s establishment date; no catalogue concept covers organisational establishment history.",
+      "missing_concept_suggestion": "Organisation establishment date",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+      "concept_ids": [],
+      "support_rationale": "Reports non-entitlement to receive tax-deductible gifts; no catalogue concept covers deductible-gift-recipient status.",
+      "missing_concept_suggestion": "Deductible gift recipient status",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+      "concept_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ],
+      "support_rationale": "Reports a substantial grant supporting the Foundation’s work over two years; this is funding support, though not an application or disbursement process.",
+      "missing_concept_suggestion": "External grant support relationship",
+      "ambiguity_note": "The matched funding-process concept is only an approximate fit because the observation concerns receipt and management of a grant, not grant administration."
+    },
+    {
+      "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+      "concept_ids": [],
+      "support_rationale": "Reports historical founding information from an external editorial source; no catalogue concept covers organisation founding history.",
+      "missing_concept_suggestion": "Organisation founding history",
+      "ambiguity_note": "The source is external Wikipedia context rather than a regulator or first-party organisational record."
+    },
+    {
+      "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+      "concept_ids": [],
+      "support_rationale": "Reports absence of group-head and parent-account fields, but the catalogue has no sufficiently precise concept for this organisational-form status absence.",
+      "missing_concept_suggestion": "Reported organisational group-head and parent-account status",
+      "ambiguity_note": "Not treated as an official organisational classification because the observation reports absence of fields rather than a classification value."
+    },
+    {
+      "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+      "concept_ids": [],
+      "support_rationale": "Reports unpaid directors and reimbursable expenses, but no catalogue concept specifically covers unpaid governance personnel compensation arrangements.",
+      "missing_concept_suggestion": "Unpaid governance personnel and expense reimbursement arrangement",
+      "ambiguity_note": "Not attached to voluntary advisory governance participation because the observation concerns directors, not an advisory committee."
+    },
+    {
+      "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+      "concept_ids": [],
+      "support_rationale": "Reports a registered address, for which no catalogue concept is available without overextending program location or organisational scope concepts.",
+      "missing_concept_suggestion": "Registered office or organisational address record",
+      "ambiguity_note": "Not attached to program-location registration because the address is administrative, not a program location."
+    }
+  ],
+  "concepts_never_attached_to_holdout": [
+    "cg-native:administrative-status-absence",
+    "cg-native:advisory-committee-governance-rule",
+    "cg-native:advocacy-activity",
+    "cg-native:auditor-professional-conduct-absence",
+    "cg-native:board-committee-oversight-structure",
+    "cg-native:built-or-equipped-facility-output",
+    "cg-native:commitment-to-standards-or-conduct",
+    "cg-native:community-led-program-implementation-approach",
+    "cg-native:consolidated-reporting-group-statement",
+    "cg-native:external-auditor-appointment",
+    "cg-native:external-entity-identity-binding",
+    "cg-native:financial-risk-management-implementation",
+    "cg-native:fund-registration-status",
+    "cg-native:funded-role-continuation-support",
+    "cg-native:funding-eligibility-exclusion",
+    "cg-native:fundraising-and-resource-mobilisation-channel",
+    "cg-native:fundraising-registration-coverage",
+    "cg-native:funds-held-in-trust-and-administration-arrangement",
+    "cg-native:governance-committee-structure",
+    "cg-native:governance-meeting-activity-report",
+    "cg-native:governance-quorum-and-voting-rule",
+    "cg-native:inclusive-conduct-guidance-requirement",
+    "cg-native:independent-audit-opinion",
+    "cg-native:international-funds-distribution-network",
+    "cg-native:named-program-classification-statement",
+    "cg-native:network-geographic-expansion-history",
+    "cg-native:official-charity-form-classification",
+    "cg-native:official-entity-identifier-record",
+    "cg-native:organisation-membership-and-conduct-commitment",
+    "cg-native:organisational-asset-and-facility-arrangement",
+    "cg-native:organisational-diversity-and-inclusion-value",
+    "cg-native:organisational-membership-or-compliance-statement",
+    "cg-native:organisational-scale-or-community-description",
+    "cg-native:planned-workshop-and-summit-activity",
+    "cg-native:principal-activity-statement",
+    "cg-native:program-classification-and-beneficiary-scope",
+    "cg-native:program-contingent-liability-absence",
+    "cg-native:program-governance-oversight-responsibility",
+    "cg-native:program-location-registration",
+    "cg-native:program-or-project-disbursement-expenditure",
+    "cg-native:program-participation-output",
+    "cg-native:program-purpose-or-intended-change",
+    "cg-native:program-workshop-session-delivery",
+    "cg-native:regional-economic-future-event",
+    "cg-native:reported-financial-resource-change",
+    "cg-native:reported-zero-revenue-category",
+    "cg-native:responsible-investment-commitment",
+    "cg-native:sponsorship-support-relationship",
+    "cg-native:stakeholder-participation-in-program-design",
+    "cg-native:strategy-impact-aim",
+    "cg-native:strategy-localisation-statement",
+    "cg-native:trustee-operator-role",
+    "cg-native:workforce-and-volunteer-profile",
+    "cg-native:workshop-series-delivery-output"
+  ]
+}

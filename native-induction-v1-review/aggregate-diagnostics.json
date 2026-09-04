@@ -1,0 +1,84 @@
+{
+  "experiment_id": "native-induction-v1",
+  "corpus_organisations": [
+    "Australian Communities Foundation",
+    "Local Buying Foundation (WA)",
+    "The Fred Hollows Foundation",
+    "Tweed Regional Gallery Foundation Limited",
+    "World Vision Australia"
+  ],
+  "eligible_observations": 263,
+  "induction_observations": 208,
+  "holdout_observations": 55,
+  "provider_calls": 3,
+  "complete_calls": 2,
+  "incomplete_calls": 0,
+  "input_tokens": 54884,
+  "output_tokens": 6587,
+  "cost_usd": "0.018882",
+  "concept_count": 7,
+  "concepts_supported_2plus_orgs": 4,
+  "concepts_supported_3plus_orgs": 3,
+  "stage_b_tested": 54,
+  "stage_b_zero": 37,
+  "stage_b_one": 16,
+  "stage_b_multi": 1,
+  "missing_concept_suggestions": 37,
+  "provider_config": {
+    "model": "gpt-5.6-luna",
+    "reasoning": "none",
+    "max_output_tokens": 6000,
+    "retries": 0
+  },
+  "production_native_persistence": false,
+  "successful_provider_outputs": 2,
+  "mechanical_provider_rejections": 1,
+  "mechanical_provider_rejection_detail": "Stage A strict-schema validation rejected missing required parent_concept_candidate before model output; corrected schema then completed Stage A/B",
+  "preflight": {
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "The Fred Hollows Foundation",
+      "Tweed Regional Gallery Foundation Limited",
+      "World Vision Australia"
+    ],
+    "eligible_observations": 263,
+    "induction_observations": 208,
+    "holdout_observations": 55,
+    "sections": {
+      "1": 26,
+      "2": 11,
+      "3": 33,
+      "4": 8,
+      "5": 11,
+      "6": 10,
+      "7": 12,
+      "8": 21,
+      "9": 15,
+      "10": 7,
+      "11": 12,
+      "12": 16,
+      "13": 8,
+      "14": 8,
+      "15": 11,
+      "16": 9,
+      "17": 8,
+      "18": 9,
+      "19": 9,
+      "20": 19
+    },
+    "scope_kinds": {
+      "subject": 183,
+      "named_program_or_service": 51,
+      "reporting_group": 29
+    },
+    "observations_per_organisation": {
+      "Australian Communities Foundation": 45,
+      "Local Buying Foundation (WA)": 99,
+      "The Fred Hollows Foundation": 36,
+      "Tweed Regional Gallery Foundation Limited": 12,
+      "World Vision Australia": 71
+    },
+    "partition_rule": "per organisation, stable observation-id order; every fifth observation held out for Stage B"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "cases": [
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:8cebc2a39cd7448e00e4f0e68a3c1038b4a44154170e57a4",
+      "concept_ids": [],
+      "support_rationale": "Describes legal and charity registration status; no catalogue concept specifically covers this combination.",
+      "missing_concept_suggestion": "Charity registration and legal-entity status statement",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:bbb6a0036a19c437fb4d62765e1c566386a164658c744b38",
+      "concept_ids": [],
+      "support_rationale": "Concerns director biographies and religious background, with an explicit qualification that this does not establish organisational ethos.",
+      "missing_concept_suggestion": "Governance personnel biographical attribute statement",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b",
+      "concept_ids": [],
+      "support_rationale": "Reports only a country field in a register record; no catalogue concept specifically covers this administrative geographic attribute.",
+      "missing_concept_suggestion": "Official entity country or jurisdiction record",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4",
+      "concept_ids": [],
+      "support_rationale": "Reports charity registration status, which is not covered by a sufficiently specific frozen concept.",
+      "missing_concept_suggestion": "Charity registration status",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:8e0f4691fc7754087ef408a172070b61712b10819a5cbde6",
+      "concept_ids": [],
+      "support_rationale": "Reports empty OtherNames fields, an administrative absence not represented by a specific catalogue concept.",
+      "missing_concept_suggestion": "Official alternate-name field absence",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:881a6e41266d38c7db33763f6fc0859735e5638c17751ce3",
+      "concept_ids": [],
+      "support_rationale": "Reports charity registration status, but the catalogue has no general charity-registration-status concept.",
+      "missing_concept_suggestion": "Charity registration status",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:b10cac076524debdeaf6f3e323951495ed236dab80b039cb",
+      "concept_ids": [],
+      "support_rationale": "Reports null incorporation and regulator fields and a false incorporated-association flag; no matching administrative-status concept is supplied for these specific fields.",
+      "missing_concept_suggestion": "Official incorporation and regulator status record",
+      "ambiguity_note": "Could be treated as an evidence-field absence rather than substantive legal status."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:f9edc7d57dffff42338edd0f3a622d7e711ca0ffdb21b3e9",
+      "concept_ids": [],
+      "support_rationale": "Reports official ABN, entity type, charity registration and location facts; no exact catalogue concept covers this combined registration profile for World Vision.",
+      "missing_concept_suggestion": "Official entity registration and charity-status profile",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede",
+      "concept_ids": [],
+      "support_rationale": "Reports historical delivery in partnership, but the catalogue requires a current or explicit reusable delivery relationship and the evidence is qualified as third-party and historical.",
+      "missing_concept_suggestion": "Historical program delivery partnership",
+      "ambiguity_note": "Could fit program delivery partnership, but the source and historical qualification limit attribution."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:58811bc14ef95a892a08d1dc0b69b3dc650e35f1899e1377",
+      "concept_ids": [],
+      "support_rationale": "Reports an auditor’s qualified absence of professional-conduct contraventions; the catalogue concept is limited to the Australian Communities Foundation observation.",
+      "missing_concept_suggestion": "Auditor professional conduct absence",
+      "ambiguity_note": "Semantically matches the existing narrow concept, but its catalogue support is organisation-specific."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:49557e4861dcaba0779d3f6f15ec8ea34c0ed87f1a723c57",
+      "concept_ids": [],
+      "support_rationale": "Reports legal entity form and domicile; no exact catalogue concept covers this organisation-level legal-form statement.",
+      "missing_concept_suggestion": "Official legal entity form and domicile statement",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:9dfd5c6f4e4e78fa40de942c36f8cc1c7743dcdfa06b7dc6",
+      "concept_ids": [],
+      "support_rationale": "Reports an operating-state field, but no catalogue concept specifically covers official operating-state registration.",
+      "missing_concept_suggestion": "Official operating-state registration",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5",
+      "concept_ids": [],
+      "support_rationale": "Registered office address only; no catalogue concept covers administrative location facts.",
+      "missing_concept_suggestion": "Registered office or administrative location",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:3ab5e43e40bf67a948742d08ffa754f94a63d15ad616b691",
+      "concept_ids": [],
+      "support_rationale": "Establishment date only; no catalogue concept covers establishment-date facts.",
+      "missing_concept_suggestion": "Organisation establishment or incorporation date",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:aeadd26721c682cb9b4b5d7ccb4d448e9effffe03f69f78b",
+      "concept_ids": [],
+      "support_rationale": "Deductible-gift-recipient and income-tax status are not represented in the catalogue.",
+      "missing_concept_suggestion": "Tax or deductible-gift-recipient status",
+      "ambiguity_note": "The observation conflicts with another record, but the conflict does not change the missing concept type."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:c267ea1d8e8ebeb091b7514eb4b77a28b7e5d53b9de408f3",
+      "concept_ids": [],
+      "support_rationale": "A register extraction timestamp alone is not covered by an existing concept.",
+      "missing_concept_suggestion": "Official record last-reported timestamp",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:2ae051c39793c2c4d657d68a9b99a56901f63239194b2e54",
+      "concept_ids": [],
+      "support_rationale": "GST registration status is not represented by the frozen catalogue.",
+      "missing_concept_suggestion": "Tax registration status",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:8cf7d0846f245411c9faffee126ed83f5c991d777bba3198",
+      "concept_ids": [],
+      "support_rationale": "Reports historical organisational events but no frozen concept directly covers this history.",
+      "missing_concept_suggestion": "Historical organisational restructuring and internationalisation statement",
+      "ambiguity_note": "The evidence concerns World Vision International and an Australian branch representative, not necessarily an Australian organisational activity."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:c407bf6cc417d1bbc6dc6b8422ef449c3100e8b5aace7c8e",
+      "concept_ids": [],
+      "support_rationale": "Reports registration and tax-status facts, for which no exact frozen concept is supplied.",
+      "missing_concept_suggestion": "Official charity and tax concession status",
+      "ambiguity_note": "Entity registration profile is related but does not explicitly cover these tax and charity statuses."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:88633559db10cb4902049aff22425bb41f1148b608e247ad",
+      "concept_ids": [],
+      "support_rationale": "Describes the contents of an annual summary, but no frozen concept precisely captures an annual-summary content description.",
+      "missing_concept_suggestion": "Annual summary content description",
+      "ambiguity_note": "Underlying outcomes and funding evidence are not supplied."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:9f95aea7048f89e59f7a2d725a09f4c66663051e415cf450",
+      "concept_ids": [],
+      "support_rationale": "Reports DGR endorsement status, for which no matching frozen concept is supplied.",
+      "missing_concept_suggestion": "Consider a concept for reported tax-deductible-gift-recipient or charitable endorsement status.",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:d20b1222afb08cebb2828a57327c63221ae2e7918c9371c6",
+      "concept_ids": [],
+      "support_rationale": "Reports non-entitlement to receive tax-deductible gifts, with no exact frozen catalogue match.",
+      "missing_concept_suggestion": "Consider a concept for tax-deductibility or gift-receipt eligibility status.",
+      "ambiguity_note": "This is an eligibility/status statement, not a funding process."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:52dc7c6d287a61fc76380ab44e2b4c6e73f17258875920f4",
+      "concept_ids": [],
+      "support_rationale": "Lists published policies and a charter without evidencing a specific catalogue concept.",
+      "missing_concept_suggestion": "Consider a concept for published organisational policy or governance-document availability.",
+      "ambiguity_note": "Publication of policies does not establish implementation or compliance."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+      "concept_ids": [],
+      "support_rationale": "Reports executive employment and appointment facts; no frozen concept specifically covers executive personnel transitions.",
+      "missing_concept_suggestion": "Executive leadership appointment or employment arrangement",
+      "ambiguity_note": "Could overlap with governance personnel, but the observation concerns executive employment rather than governance-office assignment."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:d415681529809bc072eb2c92c82c6b71cdd618a58c8264bf4",
+      "concept_ids": [],
+      "support_rationale": "Reports intercompany unsecured loans advanced; no catalogue concept specifically covers related-party lending arrangements.",
+      "missing_concept_suggestion": "Intercompany loan arrangement",
+      "ambiguity_note": "Financial reporting is possible at a broad level, but the proposition is specifically about a loan relationship and amount advanced."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:77fe3bb0ee30fed99d43f4c27fc4097dac23946ad5b89ffa",
+      "concept_ids": [],
+      "support_rationale": "Reports a third-party religious characterisation, not an organisation-stated ethos or purpose.",
+      "missing_concept_suggestion": "Third-party organisational characterisation",
+      "ambiguity_note": "Organisational ethos is not attached because the statement is explicitly third-party attributed."
+    },
+    {
+      "kind": "workshop_no_suitable_concept",
+      "observation_id": "nativeobs:93645d62fd0b59fe1924f41d17ca7818a4134dbbeccaaf64",
+      "concept_ids": [],
+      "support_rationale": "Reports a registered charity address only; the catalogue excludes administrative location from program reach concepts.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+      "concept_ids": [],
+      "support_rationale": "Reports official registration status and ABN; no catalogue concept specifically covers this status record.",
+      "missing_concept_suggestion": "Official entity registration status",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+      "concept_ids": [],
+      "support_rationale": "Describes internal income receipt, expenditure responsibility and branch accounting arrangements; no frozen concept directly captures this organisational accounting arrangement.",
+      "missing_concept_suggestion": "Organisational income and expenditure administration arrangement",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+      "concept_ids": [],
+      "support_rationale": "Reports a qualified absence of specified environmental-regulation applicability or known breaches, which is not covered by the catalogue’s narrower enforcement or compliance concepts.",
+      "missing_concept_suggestion": "Environmental regulation applicability or breach absence",
+      "ambiguity_note": "The statement is a directors’ representation, not an independently verified absence."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898,",
+      "concept_ids": [],
+      "support_rationale": "Reports the entity’s establishment date; no catalogue concept covers organisational establishment history.",
+      "missing_concept_suggestion": "Organisation establishment date",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+      "concept_ids": [],
+      "support_rationale": "Reports non-entitlement to receive tax-deductible gifts; no catalogue concept covers deductible-gift-recipient status.",
+      "missing_concept_suggestion": "Deductible gift recipient status",
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+      "concept_ids": [
+        "cg-native:program-beneficiary-or-service-reach",
+        "cg-native:program-service-reach-statement"
+      ],
+      "support_rationale": "Reports the named program’s geographic locations and therefore its program scope or coverage.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The filed location list includes locations broader than the program’s source-native name, so geographic scope may reflect administrative reporting rather than actual delivery reach."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+      "concept_ids": [],
+      "support_rationale": "Reports historical founding information from an external editorial source; no catalogue concept covers organisation founding history.",
+      "missing_concept_suggestion": "Organisation founding history",
+      "ambiguity_note": "The source is external Wikipedia context rather than a regulator or first-party organisational record."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+      "concept_ids": [
+        "cg-native:program-service-delivery-activity",
+        "cg-native:regional-capability-development"
+      ],
+      "support_rationale": "Describes a role transition with a stronger capability-building and on-ground support focus for small businesses.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The observation describes a role and program change, but does not clearly establish completed delivery outputs."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+      "concept_ids": [
+        "cg-native:fundraising-proceeds-report",
+        "cg-native:organisational-financial-reporting"
+      ],
+      "support_rationale": "Reports a monetary amount of donations and bequests for a specified reporting period.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The amount is a fundraising receipt category; it is not necessarily gross fundraising proceeds in the narrower sense."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+      "concept_ids": [],
+      "support_rationale": "Reports absence of group-head and parent-account fields, but the catalogue has no sufficiently precise concept for this organisational-form status absence.",
+      "missing_concept_suggestion": "Reported organisational group-head and parent-account status",
+      "ambiguity_note": "Not treated as an official organisational classification because the observation reports absence of fields rather than a classification value."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+      "concept_ids": [
+        "cg-native:named-program-classification-and-geographic-scope",
+        "cg-native:program-beneficiary-demographic-scope"
+      ],
+      "support_rationale": "Identifies a named program, its non-online mode, classification, countries and beneficiary groups.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The source includes a malformed final country entry; attachment relies on the bounded source record."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+      "concept_ids": [],
+      "support_rationale": "Reports unpaid directors and reimbursable expenses, but no catalogue concept specifically covers unpaid governance personnel compensation arrangements.",
+      "missing_concept_suggestion": "Unpaid governance personnel and expense reimbursement arrangement",
+      "ambiguity_note": "Not attached to voluntary advisory governance participation because the observation concerns directors, not an advisory committee."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+      "concept_ids": [
+        "cg-native:organisation-network-affiliation",
+        "cg-native:program-implementation-support-network"
+      ],
+      "support_rationale": "States partnership affiliation with World Vision International and identifies donor-to-field-office funding plus technical support.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "Technical support is explicit, but the observation does not fully describe an implementation-support network."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+      "concept_ids": [
+        "cg-native:named-program-classification-and-geographic-scope",
+        "cg-native:program-identity-statement"
+      ],
+      "support_rationale": "Identifies a named program, its Australian location and non-online operating status.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "No substantive service classification is supplied beyond identity, location and online status."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:58b0fa72634e9ca3fb50beaca70de82e41470e4e4bd4d774",
+      "concept_ids": [
+        "cg-native:organisational-financial-reporting",
+        "cg-native:reported-net-assets-and-liabilities"
+      ],
+      "support_rationale": "Reports assets, liabilities and net assets for a specified reporting date.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": null
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+      "concept_ids": [
+        "cg-native:organisational-financial-reporting",
+        "cg-native:philanthropic-giving-enablement"
+      ],
+      "support_rationale": "Reports administration and investment fees and receivables relating to named funds, evidencing financial reporting and giving-administration activity.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The fee arrangement is not necessarily a fundraising channel or grantmaking process."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+      "concept_ids": [
+        "cg-native:program-identity-statement",
+        "cg-native:program-beneficiary-population-scope"
+      ],
+      "support_rationale": "Names a program and identifies Eritrea as its program country.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "A country location is not necessarily a beneficiary population; the second attachment is conservative reach/scope matching."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+      "concept_ids": [
+        "cg-native:program-outcome-effectiveness-claim",
+        "cg-native:monitoring-and-evaluation-practice"
+      ],
+      "support_rationale": "Reports that a named program achieved milestones and impact targets at the end of its planned cycle.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The statement is self-reported; it does not establish independent effectiveness."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+      "concept_ids": [
+        "cg-native:stated-purpose-or-vision",
+        "cg-native:regional-capability-development"
+      ],
+      "support_rationale": "States the Foundation’s aim to enhance regional economic sustainability, matching an organisation-level aim and regional capability object.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The proposition is purpose-level rather than evidence of achieved economic improvement."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+      "concept_ids": [
+        "cg-native:regional-business-networking-activity",
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "support_rationale": "Reports a hosted regional business network event and its recurrence schedule.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The observation establishes an event occurrence, not a quantified output."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+      "concept_ids": [],
+      "support_rationale": "Reports a registered address, for which no catalogue concept is available without overextending program location or organisational scope concepts.",
+      "missing_concept_suggestion": "Registered office or organisational address record",
+      "ambiguity_note": "Not attached to program-location registration because the address is administrative, not a program location."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+      "concept_ids": [
+        "cg-native:grant-and-sponsorship-funding-process",
+        "cg-native:governance-approval-responsibility"
+      ],
+      "support_rationale": "Describes online funding applications and advisory-committee assessment, evidencing an organised funding process and assessment responsibility.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "The observation does not specify approval or disbursement authority beyond assessment."
+    },
+    {
+      "kind": "final_holdout",
+      "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+      "concept_ids": [
+        "cg-native:project-partnership-support",
+        "cg-native:program-delivery-partnership",
+        "cg-native:program-delivery-operator"
+      ],
+      "support_rationale": "Names project partners and explicitly identifies Indigenous Business Builders as the delivery entity.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "Joint delivery is not stated; the partnership concept is attached only for the explicit project partnership."
+    }
+  ]
+}

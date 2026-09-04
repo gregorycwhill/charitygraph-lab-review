@@ -1,0 +1,369 @@
+{
+  "concepts": [
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "preferred_label": "Monitoring and evaluation practice",
+      "definition": "An organisation’s stated or documented practice of reviewing activities or projects against plans, identifying what is working, and assessing outcomes or impact.",
+      "inclusion_boundary": "Includes monitoring, evaluation points in project lifecycles, performance review, milestone assessment and impact-target assessment.",
+      "exclusion_boundary": "Excludes the underlying activity or output being evaluated and does not imply that evaluation findings establish effectiveness.",
+      "supporting_observation_ids": [
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+        "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)",
+        "World Vision Australia"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: evaluation or milestone-review practice recurs, while effectiveness is not inferred."
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "preferred_label": "Fundraising channel",
+      "definition": "A distinct mechanism or pathway used to solicit or receive donations, sponsorships, bequests or other fundraising support.",
+      "inclusion_boundary": "Includes regular giving, public events, direct mail, corporate or trust donations, online fundraising, sponsorship and gifts in wills.",
+      "exclusion_boundary": "Excludes expenditure of raised funds, grantmaking from funds, and general donor-support services unless a solicitation mechanism is specified.",
+      "supporting_observation_ids": [
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5",
+        "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225",
+        "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+        "nativeobs:82ce6990e89cdf738777ed50846fd33f4345ecc6ca6e60c0",
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb"
+      ],
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: multiple organisations describe recurring fundraising mechanisms."
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "preferred_label": "Stated purpose or vision",
+      "definition": "A formally or publicly expressed description of the change an organisation seeks to pursue or the future condition it aspires to support.",
+      "inclusion_boundary": "Includes purpose, vision, long-term objectives and strategic aims stated by the organisation.",
+      "exclusion_boundary": "Excludes activities, delivered outputs and independently verified outcomes or impact.",
+      "supporting_observation_ids": [
+        "nativeobs:579c378054bd2772172251af900e7fcbe851f81f6f9587b8",
+        "nativeobs:4aad2694815911c0bac9ef4e773bc7818560c0cbc61c853b",
+        "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "nativeobs:9c8b1c252550f84078ffcdc0b4818bfeb17907984eb918ff"
+      ],
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)",
+        "World Vision Australia"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: purpose, vision and strategic-aim statements recur across organisations."
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "preferred_label": "Program delivery output reporting",
+      "definition": "Reporting of delivered activities or immediate outputs, such as people trained, people screened, operations performed, events held or sessions delivered.",
+      "inclusion_boundary": "Includes counts and descriptions of completed services, events, training, screening, operations and workshops.",
+      "exclusion_boundary": "Excludes intended purposes, implementation plans, longer-term outcomes and impact claims.",
+      "supporting_observation_ids": [
+        "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+        "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "nativeobs:5b54b006bc0f12c3b4186a6c63bbc8f5a012e54b91c21da7",
+        "nativeobs:8f75727b71e127d42b6a68164ba4bf42e07579df6aa1403b",
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: repeated observations concern delivered activities and quantified immediate outputs."
+    },
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "preferred_label": "Philanthropic giving enablement",
+      "definition": "Activities and services that help people or organisations structure, contribute to, administer or access giving and funding pathways.",
+      "inclusion_boundary": "Includes donor-advised funds, named funds, collective or workplace giving, grantmaking administration, fundraising infrastructure and related professional support.",
+      "exclusion_boundary": "Excludes the charitable purpose pursued by funded projects, fundraising receipts themselves, and verified outcomes of funded work.",
+      "supporting_observation_ids": [
+        "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: the same service object recurs across multiple observations."
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "preferred_label": "Regional capability development",
+      "definition": "Activities intended to strengthen skills, leadership, business capability, networks, innovation or productive capacity within regional communities or economies.",
+      "inclusion_boundary": "Includes mentoring, workshops, business networking, leadership development, innovation initiatives and support for regional businesses or industries.",
+      "exclusion_boundary": "Excludes general grant administration, standalone fundraising, and claims of improved economic conditions unless separately evidenced as outcomes.",
+      "supporting_observation_ids": [
+        "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:3d598e6193e3c8e4d73ad583369f18e5abbddc304e302f08",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:639f5b802409ceacc9b2e9ff9d8978ffa945c278f7a48c9c",
+        "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+        "nativeobs:f50ec0fd928bb82a0066e370261250f02774701da4ea717f"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: recurring program and purpose descriptions share a regional capability-building object."
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "preferred_label": "Grant and sponsorship funding process",
+      "definition": "The organised process through which funding applications are received, assessed, approved, administered or disbursed for projects or programs.",
+      "inclusion_boundary": "Includes funding rounds, online applications, advisory assessment, grants-management platforms, sponsorship processes and fund disbursement governance.",
+      "exclusion_boundary": "Excludes fundraising by donors, the funded project’s delivery activities, and financial expenditure after funding is disbursed.",
+      "supporting_observation_ids": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "nativeobs:faa74436c9963479876645e29e8e3d768683d96fe209ca49"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "parent_concept_candidate": null,
+      "confidence_statement": "High confidence: the same application, assessment and administration process recurs."
+    }
+  ],
+  "held_out_multiple": [
+    {
+      "observation_id": "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172",
+      "concept_ids": [
+        "cg-native:regional-capability-development",
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "support_rationale": "The workshop series delivered cybersecurity capability-building for businesses, matching regional capability development; its six-part delivered series is also an immediate program-delivery output.",
+      "missing_concept_suggestion": null,
+      "ambiguity_note": "Regional scope is implied by the program context but not explicitly stated in the proposition itself."
+    }
+  ],
+  "held_out_no_suitable_concept": [
+    {
+      "observation_id": "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Trustee and fiduciary administration",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Governance meeting and attendance reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:2f61b4b97df3e5edb58aa6dfa8411ffe2478845744dd7fe1",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Source-reported classification or program taxonomy status",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:67d1005d5015584b9a1ade915aeda05b3f4b788333451d1b",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory enforcement-status reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:74a7c8830ac0c845a317c832312482d65a2ab45794c52a11",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Workforce and volunteer profile reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:b234401422af3c45fbe8e66a4f5ee43d2af66d0aa80c52d3",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Organisational registration and legal identity",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:d5460431722edc353f8192604bc6665aca7173093ba6606a",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Financial audit and compliance assurance",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory reporting dates",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Source-reported charity size and beneficiary classification",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:41b70582c08aa04d0bd60b7f4ca6e1a7e78bf4c76f928103",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Governance diversity, equity and inclusion practice",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:730a55aa58f7c0ff06c6c92afba0cf9c9f41c04cc3bb28a2",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Strategic risk management and compliance governance",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:87dc588341f9aa18bbe9924957a2823029e0c020686f1528",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory organisational classification reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:8d294684f416514f71e077a7b197d899bdcba240755e6d27",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Advisory committee composition and representation",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:9bf8e9f47cb58834b458f820bfe125cb9bfacacf9819998c",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Financial expenditure reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:a59fc30544450a17f96e206c371ff3ad9f375a5f9d065149",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Financial asset reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:d41356e3e92bd09d1794988e3b252f3a9801e949c9319a94",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Financial income and receipts reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Legal entity and trust structure",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:f6cb843d54cec7270d71b52836e23186d5019f5e66a7ec21",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory enforcement-status reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Organisational identity and operating characteristics",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:49557e4861dcaba0779d3f6f15ec8ea34c0ed87f1a723c57",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Legal entity and incorporation status",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Program inventory and geographic scope",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "External membership and code-compliance commitment",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Program inventory and geographic scope",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Organisational history and founding",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:ffda9770180854936c5386b52aac74c8f2343ab939823faf",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Financial expenditure reporting",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory reporting dates",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:749b8e475f5919139a458084b76896216527b67d8d05a997",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Source-reported entity classification",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:c267ea1d8e8ebeb091b7514eb4b77a28b7e5d53b9de408f3",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Regulatory reporting dates",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "Charitable purpose classification",
+      "ambiguity_note": null
+    },
+    {
+      "observation_id": "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+      "concept_ids": [],
+      "support_rationale": "",
+      "missing_concept_suggestion": "External code compliance and financial reporting practice",
+      "ambiguity_note": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "v1_seed_concepts": 7,
+  "snapshots": [
+    {
+      "stage": "discovery-01",
+      "concept_count": 14
+    },
+    {
+      "stage": "discovery-02",
+      "concept_count": 24
+    },
+    {
+      "stage": "discovery-03",
+      "concept_count": 31
+    },
+    {
+      "stage": "tending-A",
+      "concept_count": 31
+    },
+    {
+      "stage": "discovery-04",
+      "concept_count": 42
+    },
+    {
+      "stage": "discovery-05",
+      "concept_count": 64
+    },
+    {
+      "stage": "discovery-06",
+      "concept_count": 89
+    },
+    {
+      "stage": "discovery-07",
+      "concept_count": 93
+    },
+    {
+      "stage": "tending-B",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-01",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-02",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-03",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-04",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-05",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-06",
+      "concept_count": 93
+    },
+    {
+      "stage": "residual-gap-01",
+      "concept_count": 93
+    },
+    {
+      "stage": "boundary-tending",
+      "concept_count": 93
+    }
+  ],
+  "tending_recommendation_count": 162
+}

@@ -1,0 +1,1188 @@
+{
+  "snapshots": [
+    {
+      "stage": "discovery-01",
+      "concept_count": 14
+    },
+    {
+      "stage": "discovery-02",
+      "concept_count": 24
+    },
+    {
+      "stage": "discovery-03",
+      "concept_count": 31
+    },
+    {
+      "stage": "tending-A",
+      "concept_count": 31
+    },
+    {
+      "stage": "discovery-04",
+      "concept_count": 42
+    },
+    {
+      "stage": "discovery-05",
+      "concept_count": 64
+    },
+    {
+      "stage": "discovery-06",
+      "concept_count": 89
+    },
+    {
+      "stage": "discovery-07",
+      "concept_count": 93
+    },
+    {
+      "stage": "tending-B",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-01",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-02",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-03",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-04",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-05",
+      "concept_count": 93
+    },
+    {
+      "stage": "workshop-attach-06",
+      "concept_count": 93
+    },
+    {
+      "stage": "residual-gap-01",
+      "concept_count": 93
+    },
+    {
+      "stage": "boundary-tending",
+      "concept_count": 93
+    }
+  ],
+  "recommendations": [
+    "Keep all supplied observations not listed as supporting_observation_ids unassigned.",
+    "Do not attach organisational status, addresses, geography, beneficiaries, expenditure, loans, remuneration, reporting submission status or audit declarations to activity, purpose, outcome, impact, ethos or role concepts without directly supporting propositions.",
+    "Retain explicit distinctions between delivery, partnership, funding and support; do not infer that a funder or named organisation operated a project.",
+    "Treat requirements and stated commitments separately from implementation evidence and achieved outcomes.",
+    "Attach only the listed observations to the concepts shown; leave all other supplied observations unassigned.",
+    "Retain existing catalogue concepts where they directly match, especially purpose, output reporting, fundraising, monitoring and evaluation, and regional capability development.",
+    "Do not infer outcomes, impacts, implementation, delivery, funding or partnership roles from descriptive context alone.",
+    "Keep financial amounts separate from fundraising channels and grant or sponsorship processes.",
+    "Retain the inherited distinctions between activity, output, outcome and impact; do not attach reach or project-count observations as delivery outputs without explicit completed delivery.",
+    "Retain separate role concepts for operator, implementation support, governance oversight and stakeholder design participation; do not infer delivery, funding or partnership from generic support language.",
+    "Treat standards adherence and inclusive-conduct guidance as commitment or requirement statements unless implementation is explicitly evidenced.",
+    "Keep financial reporting separate from fundraising channels and funding processes; the supplied cash-flow and surplus observations should remain unassigned to those concepts unless the relevant financial object is explicitly present.",
+    "Do not assign administrative address, registration, tax endorsement, source-native classifications, historical organisational facts or standalone organisational descriptors without a directly supported reusable native concept.",
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:philanthropic-giving-enablement. The supplied Australian Communities Foundation evidence consistently supports giving administration, donor-advised funds, collective giving, grantmaking administration and related professional services, with a clear boundary from fundraising receipts and funded outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:regional-capability-development. The Local Buying Foundation observations repeatedly support regional skills, leadership, business capability, networks, innovation and productive-capacity activities."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:grant-and-sponsorship-funding-process. Funding applications, assessment, grant administration, sponsorship processes and disbursement governance recur explicitly and remain distinct from delivery and fundraising."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-delivery-output-reporting. The supplied screening, operations, training, events and workshop counts are immediate delivered-output reports, distinct from activities, reach and outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:monitoring-and-evaluation-practice. The evidence explicitly describes lifecycle monitoring and evaluation practice without establishing effectiveness."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:fundraising-channel. Recurring mechanisms include regular giving, events, direct mail, sponsorship, online fundraising, bequests and donations; these remain separate from financial amounts and enablement services."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:stated-purpose-or-vision. Organisational purpose, vision and strategic aims recur across the supplied organisations and are distinct from program intentions and outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-delivery-operator. Explicit delivery attribution is useful and must remain separate from funding, support or participation."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-delivery-partnership. The Decarbonisation Accelerated evidence explicitly identifies joint delivery and partnership, supporting a separate relationship concept."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:regional-business-networking-activity as a child of cg-native:regional-capability-development. The Newman event explicitly concerns business connection, conversation and collaboration and is narrower than general capability development."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:workshop-series-delivery-output"
+      ],
+      "successor_ids": [
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "rationale": "Merge cg-native:workshop-series-delivery-output into cg-native:program-delivery-output-reporting. A completed workshop series is a subtype of delivered output; the packet does not establish a stable need for a separate workshop-series output concept."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:strategic-risk-management-requirement. The Charter explicitly states risk-management domains and review requirements, while implementation and results are excluded."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:voluntary-advisory-governance-participation. Voluntary Advisory Committee membership is explicitly evidenced and is distinct from activities performed by members."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:organisational-ethos-statement. The Australian Communities Foundation self-description supports an organisational orientation statement, but not a complete or inferred ethos."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-purpose-or-intended-change as a child of cg-native:stated-purpose-or-vision. Program-level intended change is explicitly distinguished from organisation-wide purpose and from measured outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-service-delivery-activity. Screening, mentoring, project work and other delivery actions are distinct from their quantified output reporting."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-beneficiary-or-service-reach. Named beneficiary groups, geographic scope and program participation are supported and remain distinct from activities, outputs and outcomes."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:program-service-reach-statement"
+      ],
+      "successor_ids": [
+        "cg-native:program-beneficiary-or-service-reach"
+      ],
+      "rationale": "Merge cg-native:program-service-reach-statement into cg-native:program-beneficiary-or-service-reach. Both represent program- or service-scoped reach and coverage statements; the distinction between beneficiary/reach identity and reported reach counts is not sufficiently material here."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:sponsorship-support-relationship. The Business After Hours evidence explicitly identifies sponsorship of a named event, which is distinct from generic funding, delivery or sponsorship channels."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:project-partnership-support. The Tourism and Events Queensland example explicitly describes a project leveraging partnership, without establishing sponsorship or joint delivery."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:trustee-operator-role. Australian Communities Foundation is explicitly identified as trustee for named structures; this role should not be collapsed into general governance or giving enablement."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:governance-approval-responsibility. The Charter assigns Trustees approval authority over membership, funding recommendations, strategic documents and compliance requirements."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:organisational-financial-reporting. Recurring revenue, expenditure, assets, liabilities, surplus and related financial-position observations are clearly supported and must remain separate from channels and funding processes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:organisational-membership-or-compliance-statement. The Fred Hollows Foundation evidence explicitly combines membership and compliance as an organisational statement; no broader inference is required."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:external-auditor-appointment. The appointment of Grant Thornton for a specified reporting period is a distinct formal appointment object, not financial reporting or audit findings."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-governance-oversight-responsibility, but reparent it from cg-native:monitoring-and-evaluation-practice to no parent. Its evidence covers assigned strategic leadership, coordination, oversight, governance, reporting and monitoring responsibilities, broader than evaluation practice alone."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-implementation-support-network. World Vision Australia explicitly describes a national-office network, shared management, expertise and strategy support used for implementation; this is not generic partnership or direct operation."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:commitment-to-standards-or-conduct. The World Vision evidence supports stated adherence and reporting implementation while expressly not establishing comprehensive implementation or independent verification."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:stakeholder-participation-in-program-design. The SA Trading Tracks pilot explicitly identifies a reference group contributing to program design, distinct from delivery, consultation or governance."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename cg-native:inclusive-conduct-guidance-requirement to “Inclusive conduct guidance or requirement”. The evidence includes strong encouragement as well as requirements; the current label is too narrow, while the definition already covers both forms."
+    },
+    {
+      "action": "reparent",
+      "predecessor_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement"
+      ],
+      "successor_ids": [
+        "cg-native:commitment-to-standards-or-conduct"
+      ],
+      "rationale": "Reparent cg-native:inclusive-conduct-guidance-requirement under cg-native:commitment-to-standards-or-conduct rather than cg-native:strategic-risk-management-requirement. Its evidence concerns conduct guidance and expectations, not risk identification or risk review."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:program-outcome-effectiveness-claim"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename cg-native:program-outcome-effectiveness-claim to “Program outcome claim”. The cited evidence supports an attributed claim about improved capability, participation or performance, but does not establish effectiveness; retaining “effectiveness” in the preferred label overstates the evidence."
+    },
+    {
+      "action": "reparent",
+      "predecessor_ids": [
+        "cg-native:program-outcome-effectiveness-claim"
+      ],
+      "successor_ids": [
+        "cg-native:program-purpose-or-intended-change"
+      ],
+      "rationale": "Reparent cg-native:program-outcome-effectiveness-claim under cg-native:program-purpose-or-intended-change only as a broader program-change branch, while preserving its reported-claim boundary. It should not be treated as a purpose or verified outcome, but its subject is program-level intended change rather than evaluation practice."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain all remaining concepts without mutation: their supplied evidence supports distinct native objects, roles, relationships, requirements or reporting statements, and the packet does not justify further merges or splits."
+    },
+    "Attach only the listed observations to the concepts above; leave all other supplied observations unassigned because they describe registration, location, legal status, administrative timestamps, unclassified program records, assets, advisory functions, enforcement-field absence or other objects not directly represented by a reusable concept in the current catalogue.",
+    "Retain existing catalogue concepts without reattaching observations merely because a broader semantic association is plausible.",
+    "Preserve reported participation, disbursement, financial change, commitment and implementation claims as distinct from verified outcomes or impact.",
+    "Attach only the observations listed for each concept; leave all other observations unassigned.",
+    "Keep strategy aims separate from verified outcomes or impact.",
+    "Keep fundraising/resource channels separate from fundraising proceeds and organisational financial reporting.",
+    "Keep governance structures, assigned responsibilities and actual implementation as separate objects.",
+    "Keep program identity, classification, activity, output, reach and outcome claims distinct.",
+    "Attach only the listed supporting observations; leave all other supplied observations unassigned.",
+    "Preserve reported, intended, implemented, output, outcome and impact status separately; do not convert classifications or absence records into purpose, compliance or effectiveness claims.",
+    "Keep operator, deliverer, funder, sponsor, partner, auspice, network and support relationships distinct unless the observation explicitly states the relation.",
+    "Keep fundraising channels and proceeds, funding processes and disbursement expenditure as separate objects.",
+    "Keep the World Vision Australia program classification, geographic scope and beneficiary groups attached to a program-scope concept; do not infer delivery, outcomes or impact.",
+    "Keep funding support for the Newman role distinct from operation or delivery by the Foundation.",
+    "Keep the historical Martu statement distinct from current program records and preserve the named partnership.",
+    "Treat all financial amounts as reported financial information; do not infer financial health or program effectiveness.",
+    "Retain explicit_absence observations only as qualified absences in the supplied record or report.",
+    "Preserve the distinction between stated conduct requirements and implementation evidence.",
+    "Do not attach observations to concepts requiring information not stated, including fundraising proceeds, expenditure, audit opinions, outcomes or impact.",
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:philanthropic-giving-enablement"
+      ],
+      "successor_ids": [],
+      "rationale": "Recurring administration, trustee and giving-support services are directly evidenced across multiple observations."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:regional-capability-development"
+      ],
+      "successor_ids": [],
+      "rationale": "Repeated regional business, skills, innovation and capability-building activities support this broad activity concept."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Grant and sponsorship funding administration” because the evidence concerns application, assessment, governance and disbursement administration rather than a generic process."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "successor_ids": [],
+      "rationale": "Repeated reported counts of screening, training, operations, workshops and facilities are immediate-output evidence."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:monitoring-and-evaluation-practice"
+      ],
+      "successor_ids": [],
+      "rationale": "The supplied evidence explicitly describes monitoring and evaluation practice without asserting effectiveness."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:fundraising-channel",
+        "cg-native:fundraising-and-resource-mobilisation-channel"
+      ],
+      "successor_ids": [
+        "cg-native:fundraising-channel"
+      ],
+      "rationale": "The latter duplicates the established fundraising-channel concept; retain the broader existing concept and include non-monetary support channels within its definition if required."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ],
+      "successor_ids": [],
+      "rationale": "Organisation-level purpose, vision and strategic aims recur across organisations."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:program-delivery-operator"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Explicit program delivery operator” to preserve the required explicit attribution boundary."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-delivery-partnership"
+      ],
+      "successor_ids": [],
+      "rationale": "The observed joint-delivery relationship is explicit, though reuse remains provisional."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:regional-business-networking-activity"
+      ],
+      "successor_ids": [
+        "cg-native:regional-capability-development"
+      ],
+      "rationale": "The activity is a valid narrower child of regional capability development."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:workshop-series-delivery-output",
+        "cg-native:program-participation-output"
+      ],
+      "successor_ids": [
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "rationale": "Both are narrow reported-output specialisations and are better represented under the established output-reporting concept; retain them only as facets if the catalogue supports facets."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:strategic-risk-management-requirement"
+      ],
+      "successor_ids": [],
+      "rationale": "The Charter explicitly states a risk-management requirement and distinguishes it from implementation."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:voluntary-advisory-governance-participation"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Voluntary advisory committee membership” because the evidence establishes voluntary membership, not participation activities."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:organisational-ethos-statement"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Organisational self-description” to avoid implying a comprehensive ethos from a single self-description."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-purpose-or-intended-change"
+      ],
+      "successor_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ],
+      "rationale": "Program-level intended change is distinct from organisation-level purpose and is correctly subordinate to the broader purpose/vision class."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-service-delivery-activity"
+      ],
+      "successor_ids": [],
+      "rationale": "Explicit screening, mentoring and project-delivery activities support this activity concept."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:program-beneficiary-or-service-reach",
+        "cg-native:program-service-reach-statement",
+        "cg-native:program-beneficiary-demographic-scope",
+        "cg-native:program-beneficiary-population-scope"
+      ],
+      "successor_ids": [
+        "cg-native:program-beneficiary-or-service-reach"
+      ],
+      "rationale": "These concepts substantially overlap in reported program reach, beneficiary and demographic scope; retain one broad concept with scope qualifiers."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:sponsorship-support-relationship"
+      ],
+      "successor_ids": [],
+      "rationale": "Explicit sponsorship of a named event is distinct from a fundraising channel or joint delivery."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:project-partnership-support",
+        "cg-native:program-delivery-partnership"
+      ],
+      "successor_ids": [
+        "cg-native:program-delivery-partnership"
+      ],
+      "rationale": "The project-partnership evidence does not establish joint delivery; retain the delivery-partnership concept only for explicit implementation relationships and deprecate the weaker generic relation."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:trustee-operator-role"
+      ],
+      "successor_ids": [
+        "cg-native:philanthropic-giving-enablement"
+      ],
+      "rationale": "Trustee action is explicitly evidenced and is a specialised giving-administration role."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:governance-approval-responsibility"
+      ],
+      "successor_ids": [],
+      "rationale": "Approval authority is explicitly assigned to trustees or governance bodies."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:organisational-financial-reporting",
+        "cg-native:program-or-project-disbursement-expenditure",
+        "cg-native:reported-financial-resource-change",
+        "cg-native:reported-zero-revenue-category",
+        "cg-native:reported-net-assets-and-liabilities",
+        "cg-native:program-contingent-liability-absence",
+        "cg-native:fundraising-proceeds-report"
+      ],
+      "successor_ids": [
+        "cg-native:organisational-financial-reporting"
+      ],
+      "rationale": "All are reported financial statement facts or qualified financial changes; retain one parent concept and represent amount type, period, scope and absence as attributes."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:organisational-membership-or-compliance-statement",
+        "cg-native:organisation-membership-and-conduct-commitment"
+      ],
+      "successor_ids": [
+        "cg-native:commitment-to-standards-or-conduct"
+      ],
+      "rationale": "Membership, signatory and conduct-code adherence statements overlap; retain the standards/conduct concept with membership as a relation or facet."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:external-auditor-appointment"
+      ],
+      "successor_ids": [],
+      "rationale": "Formal appointment is distinct from audit opinion."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Governance oversight responsibility” because the evidence includes organisational governance and is not limited to programs."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:board-committee-oversight-structure",
+        "cg-native:governance-committee-structure"
+      ],
+      "successor_ids": [
+        "cg-native:governance-committee-structure"
+      ],
+      "rationale": "Both describe named committees and reporting relationships to a board; retain the less over-specific structure concept."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:stakeholder-participation-in-program-design"
+      ],
+      "successor_ids": [],
+      "rationale": "Explicit stakeholder contribution to program design is sufficiently distinct from delivery, partnership and consultation."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to “Inclusive conduct guidance” because the evidence includes encouragement and guidance, not necessarily a binding requirement."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-outcome-effectiveness-claim"
+      ],
+      "successor_ids": [
+        "cg-native:program-purpose-or-intended-change"
+      ],
+      "rationale": "Self-reported outcome/effectiveness claims are distinct from intended change but appropriately related to it; preserve their qualified epistemic status."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:principal-activity-statement"
+      ],
+      "successor_ids": [],
+      "rationale": "Organisation-level reported principal activities are distinct from purpose and individual program activities."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:named-program-classification-statement",
+        "cg-native:program-classification-and-beneficiary-scope",
+        "cg-native:named-program-classification-and-geographic-scope"
+      ],
+      "successor_ids": [
+        "cg-native:named-program-classification-statement"
+      ],
+      "rationale": "All describe source-reported named-program classification and scope fields; retain one concept with beneficiary, geographic and operating-mode attributes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:community-led-program-implementation-approach"
+      ],
+      "successor_ids": [
+        "cg-native:program-service-delivery-activity"
+      ],
+      "rationale": "The implementation approach is explicitly described and is appropriately related to program delivery activity without being reduced to delivery identity."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:responsible-investment-commitment"
+      ],
+      "successor_ids": [
+        "cg-native:commitment-to-standards-or-conduct"
+      ],
+      "rationale": "The evidence supports a distinct responsible-investment commitment and not implementation or outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:regional-economic-future-event"
+      ],
+      "successor_ids": [
+        "cg-native:regional-capability-development"
+      ],
+      "rationale": "The event is a narrower regional capability/economic-development activity."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:program-workshop-session-delivery"
+      ],
+      "successor_ids": [
+        "cg-native:program-service-delivery-activity"
+      ],
+      "rationale": "Explicit workshop-session delivery is a valid narrower delivery activity; keep separate from output counts."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:strategy-localisation-statement",
+        "cg-native:strategy-impact-aim"
+      ],
+      "successor_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ],
+      "rationale": "Both are statement-level strategic-purpose variants with insufficient recurrence to justify separate reusable concepts."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:governance-quorum-and-voting-rule",
+        "cg-native:advisory-committee-governance-rule"
+      ],
+      "successor_ids": [
+        "cg-native:governance-approval-responsibility"
+      ],
+      "rationale": "These are narrow rule facets of governance authority, not robust standalone concepts in this packet."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:organisational-scale-or-community-description"
+      ],
+      "successor_ids": [
+        "cg-native:program-beneficiary-or-service-reach"
+      ],
+      "rationale": "The concept is a single organisation-level self-reported reach/scale claim and is too narrow for a reusable concept."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:organisational-asset-and-facility-arrangement"
+      ],
+      "successor_ids": [],
+      "rationale": "Leasing and facility arrangements are explicit organisational resource facts, distinct from financial reporting generally."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:fund-registration-status",
+        "cg-native:fundraising-registration-coverage"
+      ],
+      "successor_ids": [
+        "cg-native:entity-registration-profile"
+      ],
+      "rationale": "These are source-specific registration-status or coverage fields and should be represented as attributes of registration profiles rather than separate concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:advocacy-activity"
+      ],
+      "successor_ids": [],
+      "rationale": "Advocacy is explicitly evidenced, with attribution qualification preserved."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:entity-registration-profile"
+      ],
+      "successor_ids": [],
+      "rationale": "Official entity type, identifiers and active status recur as a coherent registration-profile object."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:governance-personnel-role-statement"
+      ],
+      "successor_ids": [],
+      "rationale": "Named governance-role assignments are explicit and distinct from committee structures."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:independent-audit-opinion"
+      ],
+      "successor_ids": [
+        "cg-native:external-auditor-appointment"
+      ],
+      "rationale": "The audit opinion is distinct from appointment but related to the external-audit evidence chain."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:financial-reporting-scope-statement",
+        "cg-native:consolidated-reporting-group-statement"
+      ],
+      "successor_ids": [
+        "cg-native:financial-reporting-scope-statement"
+      ],
+      "rationale": "Both describe the entity or group scope of financial reporting; retain one scope concept with consolidated/non-consolidated values."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:program-identity-statement"
+      ],
+      "successor_ids": [
+        "cg-native:named-program-classification-statement"
+      ],
+      "rationale": "Bare program naming is too weak as a standalone concept and is naturally represented within named-program records."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:workforce-and-volunteer-profile"
+      ],
+      "successor_ids": [],
+      "rationale": "Reported employee, volunteer and FTE composition is a coherent recurring profile object."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:official-reporting-deadline-status",
+        "cg-native:temporal-source-scope-mismatch",
+        "cg-native:financial-source-content-limitation",
+        "cg-native:administrative-status-absence",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:regulatory-enforcement-record-absence",
+        "cg-native:auditor-professional-conduct-absence"
+      ],
+      "successor_ids": [],
+      "rationale": "These are evidence metadata, source limitations, qualified absences or identity-binding conditions rather than substantive catalogue concepts; retain them as evidence annotations."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:funding-eligibility-exclusion",
+        "cg-native:funded-role-continuation-support",
+        "cg-native:planned-workshop-and-summit-activity",
+        "cg-native:network-geographic-expansion-history",
+        "cg-native:initiative-launch-history",
+        "cg-native:organisational-network-affiliation",
+        "cg-native:program-location-registration"
+      ],
+      "successor_ids": [
+        "cg-native:grant-and-sponsorship-funding-process",
+        "cg-native:regional-capability-development",
+        "cg-native:program-service-reach-statement"
+      ],
+      "rationale": "These are single-observation policy, funding-purpose, planned-activity, historical or location facets better represented as attributes or evidence qualifiers under broader established concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [
+        "cg-native:funds-held-in-trust-and-administration-arrangement"
+      ],
+      "successor_ids": [
+        "cg-native:philanthropic-giving-enablement"
+      ],
+      "rationale": "The trust-holding and administrative-support arrangement is explicit and is a useful specialised child of giving enablement."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:philanthropic-giving-enablement. The supplied observations directly support recurring administration, trustee services, donor-advised funds, collective giving, workplace giving and related giving pathways."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:regional-capability-development. The supplied observations support recurring regional mentoring, workshops, networking, leadership, innovation and business-capability activities."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:grant-and-sponsorship-funding-process. The application, assessment, approval, administration and disbursement process is explicitly evidenced."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-delivery-output-reporting. The concept cleanly captures reported immediate outputs without inferring outcomes."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:monitoring-and-evaluation-practice. The evidence supports a stated review and evaluation practice, not effectiveness."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:fundraising-channel. Multiple organisations report distinct solicitation and giving mechanisms."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:stated-purpose-or-vision. Organisation-level purpose and vision statements recur and are clearly separated from activities and outcomes."
+    },
+    {
+      "action": "rename",
+      "predecessor_ids": [
+        "cg-native:program-delivery-operator"
+      ],
+      "successor_ids": [],
+      "rationale": "Rename to 'Program delivery entity or operator'. The definition covers entities, not only organisations, and the evidence explicitly distinguishes delivery from funding or support."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-delivery-partnership. Although recurrence is limited, the jointly delivering relationship is explicit and materially distinct from general partnership."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:regional-business-networking-activity as a narrow child of cg-native:regional-capability-development; the networking component is explicitly evidenced."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:workshop-series-delivery-output",
+        "cg-native:program-participation-output",
+        "cg-native:built-or-equipped-facility-output"
+      ],
+      "successor_ids": [
+        "cg-native:program-delivery-output-reporting"
+      ],
+      "rationale": "Merge these narrower output concepts into cg-native:program-delivery-output-reporting. They are all reported immediate-output subtypes, and the packet does not establish sufficient recurrence or a need for separate top-level concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:strategic-risk-management-requirement. The requirement-versus-implementation boundary is explicit and useful."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:voluntary-advisory-governance-participation. The unpaid advisory/governance participation distinction is directly supported."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:organisational-ethos-statement",
+        "cg-native:organisational-diversity-and-inclusion-value"
+      ],
+      "successor_ids": [
+        "cg-native:organisational-ethos-statement"
+      ],
+      "rationale": "Merge the narrower diversity-and-inclusion value statement into organisational ethos statement. Both concern organisation-level self-described values or orientation, and the narrower concept has one observation."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-purpose-or-intended-change as a child of cg-native:stated-purpose-or-vision. The program-level scope is clearly distinguished from organisation-wide purpose."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-service-delivery-activity. It captures delivered activities and remains distinct from quantified output reporting."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:program-beneficiary-or-service-reach",
+        "cg-native:program-service-reach-statement",
+        "cg-native:program-beneficiary-demographic-scope",
+        "cg-native:program-beneficiary-population-scope",
+        "cg-native:named-program-classification-statement",
+        "cg-native:program-classification-and-beneficiary-scope",
+        "cg-native:named-program-classification-and-geographic-scope"
+      ],
+      "successor_ids": [
+        "cg-native:program-beneficiary-or-service-reach"
+      ],
+      "rationale": "Merge these overlapping program scope, classification, location and beneficiary concepts into cg-native:program-beneficiary-or-service-reach. Their distinctions are attributes of the same program-scope evidence object, while the narrower concepts are mostly single-observation variants."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:sponsorship-support-relationship",
+        "cg-native:project-partnership-support"
+      ],
+      "successor_ids": [
+        "cg-native:program-delivery-partnership"
+      ],
+      "rationale": "Merge into cg-native:program-delivery-partnership only if the relationship is explicitly joint delivery or implementation; otherwise deprecate as unsupported relationship subtypes. The supplied evidence distinguishes sponsorship and support from delivery, so they should not remain as equivalent concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:trustee-operator-role and cg-native:funds-held-in-trust-and-administration-arrangement, but keep the latter as a narrower arrangement under cg-native:philanthropic-giving-enablement; trustee role and combined trust-administration arrangement are not identical."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:governance-approval-responsibility. Explicit approval authority is distinct from implementation, committee structure and advisory participation."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:governance-quorum-and-voting-rule",
+        "cg-native:advisory-committee-governance-rule"
+      ],
+      "successor_ids": [
+        "cg-native:governance-approval-responsibility"
+      ],
+      "rationale": "Merge the two governance-rule concepts into governance-approval-responsibility. They overlap substantially, are supported by the same observation, and are rule attributes rather than robustly recurring concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:organisational-financial-reporting. Financial totals and position recur across all four organisations."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:program-or-project-disbursement-expenditure",
+        "cg-native:reported-financial-resource-change",
+        "cg-native:reported-zero-revenue-category",
+        "cg-native:reported-net-assets-and-liabilities",
+        "cg-native:program-contingent-liability-absence",
+        "cg-native:fundraising-proceeds-report"
+      ],
+      "successor_ids": [
+        "cg-native:organisational-financial-reporting"
+      ],
+      "rationale": "Merge these narrow financial-reporting concepts into cg-native:organisational-financial-reporting. They are reported financial line-item, change or absence variants and do not demonstrate sufficient recurrence for separate catalogue concepts."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:organisational-membership-or-compliance-statement",
+        "cg-native:organisation-membership-and-conduct-commitment",
+        "cg-native:commitment-to-standards-or-conduct"
+      ],
+      "successor_ids": [
+        "cg-native:commitment-to-standards-or-conduct"
+      ],
+      "rationale": "Merge membership/compliance and conduct-commitment variants into cg-native:commitment-to-standards-or-conduct, while preserving membership and signatory status as evidence attributes. The concepts substantially overlap and differ mainly in wording and source qualification."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:external-auditor-appointment and cg-native:independent-audit-opinion as separate concepts. Appointment and opinion are distinct audit events and are explicitly separated by the evidence."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:auditor-professional-conduct-absence"
+      ],
+      "successor_ids": [
+        "cg-native:independent-audit-opinion"
+      ],
+      "rationale": "Deprecate the auditor professional-conduct absence concept as an isolated negative assertion with one observation. Preserve the narrowly scoped absence as an evidence qualification on the audit record rather than a reusable catalogue concept."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:financial-reporting-scope-statement",
+        "cg-native:consolidated-reporting-group-statement"
+      ],
+      "successor_ids": [
+        "cg-native:financial-reporting-scope-statement"
+      ],
+      "rationale": "Merge consolidated reporting group statement into financial reporting scope statement. Consolidation is a subtype of reporting scope, and the two concepts are supported by isolated observations."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-implementation-support-network. Shared management, expertise, technical support and international distribution are explicitly described as implementation-support arrangements."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-governance-oversight-responsibility, but do not parent it under monitoring-and-evaluation-practice. It is an assigned governance responsibility that may include monitoring and evaluation, not the practice itself."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:stakeholder-participation-in-program-design. Explicit design contribution is materially distinct from delivery, consultation and partnership."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement",
+        "cg-native:traditional-custodian-recognition-statement"
+      ],
+      "successor_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement"
+      ],
+      "rationale": "Merge Traditional Custodian recognition statement into inclusive-conduct-guidance-requirement. Recognition is a specific form of stated inclusive or culturally attentive guidance, and the narrower concept has one observation."
+    },
+    {
+      "action": "redefine",
+      "predecessor_ids": [
+        "cg-native:program-outcome-effectiveness-claim"
+      ],
+      "successor_ids": [],
+      "rationale": "Redefine as 'Reported program outcome or effectiveness claim' and explicitly retain the self-reported, attributed and non-verified status. The evidence supports claims, not outcomes established as fact."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:principal-activity-statement. Organisation-level principal activities are distinct from purpose, program activities and outputs."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:organisational-asset-and-facility-arrangement as a narrowly scoped reported arrangement, but do not treat it as evidence of organisational capacity or outcomes."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:fund-registration-status",
+        "cg-native:fundraising-registration-coverage"
+      ],
+      "successor_ids": [
+        "cg-native:entity-registration-profile"
+      ],
+      "rationale": "Deprecate the two narrow registration concepts as separate reusable concepts and preserve their fund- or jurisdiction-specific details as attributes of official registration records. The observations concern administrative status fields rather than a recurring semantic object."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:community-led-program-implementation-approach as a reported approach, not as evidence of successful community-led outcomes."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:board-committee-oversight-structure",
+        "cg-native:governance-committee-structure"
+      ],
+      "successor_ids": [
+        "cg-native:governance-committee-structure"
+      ],
+      "rationale": "Merge the board-committee structure variant into governance-committee-structure. Both describe named committees and their relationship to a board or governing body."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:responsible-investment-commitment as a stated commitment, separate from general conduct standards because its object is investment decision-making."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:regional-economic-future-event",
+        "cg-native:planned-workshop-and-summit-activity"
+      ],
+      "successor_ids": [
+        "cg-native:regional-capability-development"
+      ],
+      "rationale": "Merge these event and planned-activity concepts into regional-capability-development as activity subtypes. Their one-off event or planned status does not justify separate reusable concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:advocacy-activity, but preserve the qualification that the observed advocacy is attributed to the World Vision International Partnership rather than necessarily World Vision Australia alone."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:entity-registration-profile",
+        "cg-native:official-entity-identifier-record",
+        "cg-native:official-organisational-classification",
+        "cg-native:official-charity-form-classification",
+        "cg-native:reported-regulatory-purpose-classification"
+      ],
+      "successor_ids": [
+        "cg-native:entity-registration-profile"
+      ],
+      "rationale": "Merge official identifier, form, classification and regulatory-purpose variants into entity-registration-profile, with identifier, legal form, classification and regulatory-purpose fields retained as attributes. These are source-reported official-record properties of an entity."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:governance-personnel-role-statement. Named officer-role assignment is distinct from committee structure, meeting activity and voluntary participation."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:program-identity-statement only as a low-level record concept; do not infer activities, purpose, beneficiaries or outcomes from it."
+    },
+    {
+      "action": "merge",
+      "predecessor_ids": [
+        "cg-native:workforce-and-volunteer-profile"
+      ],
+      "successor_ids": [
+        "cg-native:organisational-financial-reporting"
+      ],
+      "rationale": "Do not merge semantically with financial reporting; instead retain only if workforce metrics are needed as an organisational profile facet. The supplied evidence supports a distinct recurring workforce object, but its current single-observation status warrants cautious retention rather than proliferation."
+    },
+    {
+      "action": "deprecate",
+      "predecessor_ids": [
+        "cg-native:official-reporting-deadline-status",
+        "cg-native:temporal-source-scope-mismatch",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:financial-source-content-limitation",
+        "cg-native:administrative-status-absence",
+        "cg-native:regulatory-enforcement-record-absence"
+      ],
+      "successor_ids": [],
+      "rationale": "Deprecate these evidence-management, source-coverage, identity-binding and explicit-absence conditions as catalogue concepts. They describe provenance, extraction limitations or evidentiary scope, and should remain attached as metadata or qualifications rather than semantic catalogue concepts."
+    },
+    {
+      "action": "retain",
+      "predecessor_ids": [],
+      "successor_ids": [],
+      "rationale": "Retain cg-native:network-geographic-expansion-history and cg-native:initiative-launch-history only as historical statements if historical facts are in scope; otherwise deprecate them as one-off temporal attributes. The supplied evidence does not support broader reusable activity concepts."
+    }
+  ]
+}

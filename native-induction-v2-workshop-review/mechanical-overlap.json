@@ -1,0 +1,13 @@
+{
+  "exact_duplicate_labels": [],
+  "normalized_duplicate_labels": [],
+  "identical_support_sets": [
+    [
+      "cg-native:governance-quorum-and-voting-rule",
+      "cg-native:advisory-committee-governance-rule"
+    ]
+  ],
+  "parent_cycles": 0,
+  "orphan_parent_references": 0,
+  "high_support_overlap": "not used to merge concepts"
+}

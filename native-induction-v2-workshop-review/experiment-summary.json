@@ -1,0 +1,49 @@
+{
+  "experiment_id": "native-induction-v2-workshop",
+  "eligible_observations": 263,
+  "workshop_observations": 205,
+  "holdout_observations": 58,
+  "provider_transmissions": 19,
+  "completed_calls": 19,
+  "mechanically_rejected_or_failed": 0,
+  "input_tokens": 467096,
+  "output_tokens": 56998,
+  "actual_cost_usd": "0.161816",
+  "v1_seed_concepts": 7,
+  "concepts_after_discovery": 93,
+  "concepts_after_tending_A": 31,
+  "concepts_after_tending_B": 93,
+  "final_catalogue_concepts": 93,
+  "lineage_counts": {
+    "inherited_v1_seed": 7,
+    "newly_induced": 86,
+    "renamed": 0,
+    "redefined": 0,
+    "merged": 0,
+    "split": 0,
+    "reparented": 0,
+    "deprecated": 0
+  },
+  "final_concepts_2plus_orgs": 8,
+  "final_concepts_3plus_orgs": 4,
+  "workshop_attachment_counts": {
+    "observations": 205,
+    "zero": 27,
+    "one": 119,
+    "multi": 59
+  },
+  "final_holdout_attachment_counts": {
+    "observations": 58,
+    "zero": 9,
+    "one": 35,
+    "multi": 14
+  },
+  "final_holdout_missing_concept_suggestions": 10,
+  "provider_config": {
+    "model": "gpt-5.6-luna",
+    "reasoning": "none",
+    "max_output_tokens": 6000,
+    "retries": 0
+  },
+  "production_persistence": false
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "native-induction-v2-workshop",
+  "provider_calls": 0,
+  "experiment_provider_transmissions": 19,
+  "source_acquisition": 0,
+  "review_case_count": 143,
+  "files": [
+    "README.md",
+    "attachment-diagnostics.json",
+    "catalogue-evolution.json",
+    "concept-lineage.json",
+    "experiment-summary.json",
+    "final-catalogue.json",
+    "final-holdout-summary.json",
+    "index.json",
+    "mechanical-overlap.json",
+    "partition-summary.json",
+    "reuse-diagnostics.json",
+    "review-cases-01.json",
+    "review-cases-concepts.json"
+  ]
+}

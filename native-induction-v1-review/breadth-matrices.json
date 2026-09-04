@@ -1,0 +1,34 @@
+{
+  "concept_x_organisation": {
+    "Philanthropic giving enablement": {
+      "Australian Communities Foundation": 1
+    },
+    "Regional capability development": {
+      "Local Buying Foundation (WA)": 1
+    },
+    "Grant and sponsorship funding process": {
+      "Local Buying Foundation (WA)": 1
+    },
+    "Program delivery output reporting": {
+      "The Fred Hollows Foundation": 1,
+      "Local Buying Foundation (WA)": 1
+    },
+    "Monitoring and evaluation practice": {
+      "The Fred Hollows Foundation": 1,
+      "Local Buying Foundation (WA)": 1,
+      "World Vision Australia": 1
+    },
+    "Fundraising channel": {
+      "Australian Communities Foundation": 1,
+      "The Fred Hollows Foundation": 1,
+      "World Vision Australia": 1
+    },
+    "Stated purpose or vision": {
+      "Australian Communities Foundation": 1,
+      "The Fred Hollows Foundation": 1,
+      "Local Buying Foundation (WA)": 1,
+      "World Vision Australia": 1
+    }
+  },
+  "concept_x_north_star_section": "not computed from model output without semantic inference"
+}

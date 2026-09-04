@@ -1,0 +1,1180 @@
+{
+  "concepts": [
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "preferred_label": "Philanthropic giving enablement",
+      "supporting_observation_count": 4,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5"
+      ]
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "preferred_label": "Regional capability development",
+      "supporting_observation_count": 7,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:3d598e6193e3c8e4d73ad583369f18e5abbddc304e302f08",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:639f5b802409ceacc9b2e9ff9d8978ffa945c278f7a48c9c",
+        "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+        "nativeobs:f50ec0fd928bb82a0066e370261250f02774701da4ea717f"
+      ]
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "preferred_label": "Grant and sponsorship funding process",
+      "supporting_observation_count": 3,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "nativeobs:faa74436c9963479876645e29e8e3d768683d96fe209ca49"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "preferred_label": "Program delivery output reporting",
+      "supporting_observation_count": 6,
+      "organisation_count": 2,
+      "organisations": [
+        "Local Buying Foundation (WA)",
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+        "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "nativeobs:5b54b006bc0f12c3b4186a6c63bbc8f5a012e54b91c21da7",
+        "nativeobs:8f75727b71e127d42b6a68164ba4bf42e07579df6aa1403b",
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "preferred_label": "Monitoring and evaluation practice",
+      "supporting_observation_count": 3,
+      "organisation_count": 3,
+      "organisations": [
+        "Local Buying Foundation (WA)",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "preferred_label": "Fundraising channel",
+      "supporting_observation_count": 5,
+      "organisation_count": 3,
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5",
+        "nativeobs:82ce6990e89cdf738777ed50846fd33f4345ecc6ca6e60c0",
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+        "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225"
+      ]
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "preferred_label": "Stated purpose or vision",
+      "supporting_observation_count": 7,
+      "organisation_count": 4,
+      "organisations": [
+        "Australian Communities Foundation",
+        "Local Buying Foundation (WA)",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:4aad2694815911c0bac9ef4e773bc7818560c0cbc61c853b",
+        "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "nativeobs:579c378054bd2772172251af900e7fcbe851f81f6f9587b8",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "nativeobs:9c8b1c252550f84078ffcdc0b4818bfeb17907984eb918ff"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-delivery-operator",
+      "preferred_label": "Program delivery operator",
+      "supporting_observation_count": 2,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172",
+        "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-delivery-partnership",
+      "preferred_label": "Program delivery partnership",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+      ]
+    },
+    {
+      "concept_id": "cg-native:regional-business-networking-activity",
+      "preferred_label": "Regional business networking activity",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f50ec0fd928bb82a0066e370261250f02774701da4ea717f"
+      ]
+    },
+    {
+      "concept_id": "cg-native:workshop-series-delivery-output",
+      "preferred_label": "Workshop series delivery output",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172"
+      ]
+    },
+    {
+      "concept_id": "cg-native:strategic-risk-management-requirement",
+      "preferred_label": "Strategic risk management requirement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:730a55aa58f7c0ff06c6c92afba0cf9c9f41c04cc3bb28a2"
+      ]
+    },
+    {
+      "concept_id": "cg-native:voluntary-advisory-governance-participation",
+      "preferred_label": "Voluntary advisory governance participation",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:a09db84c3223d1447e1c7683122ff3bc896b31872d7dc093"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-ethos-statement",
+      "preferred_label": "Organisational ethos statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:48bcc097d5446697552b035e914a521e5a48f4e11a9c8792"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-purpose-or-intended-change",
+      "preferred_label": "Program purpose or intended change",
+      "supporting_observation_count": 3,
+      "organisation_count": 2,
+      "organisations": [
+        "Local Buying Foundation (WA)",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7",
+        "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+        "nativeobs:8e8fb228b5a71a3a1fc4c2db3301c5359ea565ea8e71e94d"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-service-delivery-activity",
+      "preferred_label": "Program or service delivery activity",
+      "supporting_observation_count": 2,
+      "organisation_count": 2,
+      "organisations": [
+        "Local Buying Foundation (WA)",
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954",
+        "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "preferred_label": "Program beneficiary or service reach",
+      "supporting_observation_count": 2,
+      "organisation_count": 2,
+      "organisations": [
+        "Australian Communities Foundation",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:49dcd625d9337d45d6b5cb7e406a1df8ae937e66ab3f2841",
+        "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+      ]
+    },
+    {
+      "concept_id": "cg-native:sponsorship-support-relationship",
+      "preferred_label": "Sponsorship support relationship",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8"
+      ]
+    },
+    {
+      "concept_id": "cg-native:project-partnership-support",
+      "preferred_label": "Project partnership support",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540"
+      ]
+    },
+    {
+      "concept_id": "cg-native:trustee-operator-role",
+      "preferred_label": "Trustee operator role",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3"
+      ]
+    },
+    {
+      "concept_id": "cg-native:governance-approval-responsibility",
+      "preferred_label": "Governance approval responsibility",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:df60b1b6aa7f8e5be59d959e4d3a19c9feebc2183c3173b9"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-financial-reporting",
+      "preferred_label": "Organisational financial reporting",
+      "supporting_observation_count": 4,
+      "organisation_count": 4,
+      "organisations": [
+        "Australian Communities Foundation",
+        "Local Buying Foundation (WA)",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171c066016",
+        "nativeobs:35c73756704b25a849c489f2def8bb9bd00c9d16208d759f",
+        "nativeobs:ac1ae463c73fc0c727e8eabfd767bcbc7353d1d3fccbfca6",
+        "nativeobs:e8642af1e4471aaa73780e19fde20389fa8460560b9c77ba"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "preferred_label": "Organisational membership or compliance statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06"
+      ]
+    },
+    {
+      "concept_id": "cg-native:external-auditor-appointment",
+      "preferred_label": "External auditor appointment",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-service-reach-statement",
+      "preferred_label": "Program or service reach statement",
+      "supporting_observation_count": 3,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+        "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2",
+        "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-implementation-support-network",
+      "preferred_label": "Program implementation support network",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:a61fb5f357ee4ee1ce263f510e9cdeab866e27f001c82097"
+      ]
+    },
+    {
+      "concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "preferred_label": "Commitment to standards or conduct",
+      "supporting_observation_count": 2,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+        "nativeobs:80c38933a05c7d084d076edffaccce53399424dcaa2c6f2db4eb03eef2eca247d21fd"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-governance-oversight-responsibility",
+      "preferred_label": "Program governance oversight responsibility",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+      ]
+    },
+    {
+      "concept_id": "cg-native:stakeholder-participation-in-program-design",
+      "preferred_label": "Stakeholder participation in program design",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:90a8e86e8b5631cf99af912002181e7bd8924b79dfcb86e0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "preferred_label": "Inclusive conduct guidance requirement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:69ff2402f4ddb1bdfe628e7f4a43c191f8a553b761e6fc9c"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-outcome-effectiveness-claim",
+      "preferred_label": "Program outcome or effectiveness claim",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d"
+      ]
+    },
+    {
+      "concept_id": "cg-native:principal-activity-statement",
+      "preferred_label": "Principal activity statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:905dbce980432b9bcf885fe7746f252bba2b79f071858704"
+      ]
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-statement",
+      "preferred_label": "Named program classification statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-participation-output",
+      "preferred_label": "Program participation output",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:cab71375f0f894b4c01c8a97728172695f896c770e4bf087"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+      "preferred_label": "Program or project disbursement expenditure",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:9fd9f1a96d244c9f3815787addeb7377dba139521984da93"
+      ]
+    },
+    {
+      "concept_id": "cg-native:reported-financial-resource-change",
+      "preferred_label": "Reported financial or resource change",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:574f3a9293a4cd888a6b1c5764dd7cf8ca3782a86394c1f4"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+      "preferred_label": "Organisation membership and conduct commitment",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632"
+      ]
+    },
+    {
+      "concept_id": "cg-native:community-led-program-implementation-approach",
+      "preferred_label": "Community-led program implementation approach",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e"
+      ]
+    },
+    {
+      "concept_id": "cg-native:board-committee-oversight-structure",
+      "preferred_label": "Board committee oversight structure",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+      ]
+    },
+    {
+      "concept_id": "cg-native:responsible-investment-commitment",
+      "preferred_label": "Responsible investment commitment",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:db38348b7bf609da4aaac50ee3e040d95c12988a6c3ebd86"
+      ]
+    },
+    {
+      "concept_id": "cg-native:regional-economic-future-event",
+      "preferred_label": "Regional economic future event",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:6b9a7b7429e9ea03f7c003c67a2d00b1c9aba3c1a94c770f"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-workshop-session-delivery",
+      "preferred_label": "Program workshop session delivery",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:strategy-localisation-statement",
+      "preferred_label": "Strategy localisation statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:e418755ae4f4522574c23d3797aeb3e7f3cec00bc681e9c3"
+      ]
+    },
+    {
+      "concept_id": "cg-native:strategy-impact-aim",
+      "preferred_label": "Strategy impact aim",
+      "supporting_observation_count": 2,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:9c8b1c252550f84078ffcdc0b4818bfeb17907984eb918ff",
+        "nativeobs:e418755ae4f4522574c23d3797aeb3e7f3cec00bc681e9c3"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+      "preferred_label": "Fundraising and resource mobilisation channel",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323"
+      ]
+    },
+    {
+      "concept_id": "cg-native:governance-committee-structure",
+      "preferred_label": "Governance committee structure",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:aa186ec309b892f57c9b43ec955a5fc0e31285e0da0e7fff"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-classification-and-beneficiary-scope",
+      "preferred_label": "Program classification and beneficiary scope",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+      "preferred_label": "Organisational asset and facility arrangement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:368f144319c0266b358758ccaad9163a40e9a3b78dd79e1d"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fund-registration-status",
+      "preferred_label": "Fund registration status",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:ae8fce30ddf922d2454f0616f2f65b6e02fe702e4613f75e"
+      ]
+    },
+    {
+      "concept_id": "cg-native:advocacy-activity",
+      "preferred_label": "Advocacy activity",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:7e0a32bedb9605add3eac8c5ddf4563713996f913c833ad2"
+      ]
+    },
+    {
+      "concept_id": "cg-native:entity-registration-profile",
+      "preferred_label": "Entity registration profile",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-scale-or-community-description",
+      "preferred_label": "Organisational scale or community description",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+      ]
+    },
+    {
+      "concept_id": "cg-native:governance-personnel-role-statement",
+      "preferred_label": "Governance personnel role statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46"
+      ]
+    },
+    {
+      "concept_id": "cg-native:independent-audit-opinion",
+      "preferred_label": "Independent audit opinion",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:d5460431722edc353f8192604bc6665aca7173093ba6606a"
+      ]
+    },
+    {
+      "concept_id": "cg-native:financial-reporting-scope-statement",
+      "preferred_label": "Financial reporting scope statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:6d3692acac613dd3efee2782eda0b81cc7074f6bc55fe196"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-identity-statement",
+      "preferred_label": "Program identity statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:7228726768b04f0e86555e6bfdd510fdcc8412e513011609"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fundraising-proceeds-report",
+      "preferred_label": "Fundraising proceeds report",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:82ce6990e89cdf738777ed50846fd33f4345ecc6ca6e60c0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:workforce-and-volunteer-profile",
+      "preferred_label": "Workforce and volunteer profile",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:4ae0b55f9625e851d0bdab558c4006fb98c8c1e217f64b38"
+      ]
+    },
+    {
+      "concept_id": "cg-native:consolidated-reporting-group-statement",
+      "preferred_label": "Consolidated reporting group statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f73d0402fc57a7c22881d1cd203b397f0f6ef1e3b06a080b"
+      ]
+    },
+    {
+      "concept_id": "cg-native:official-reporting-deadline-status",
+      "preferred_label": "Official reporting deadline status",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f131b6bcfe697ed8a6dd77ecd4c6153380bad1daa24eae1c"
+      ]
+    },
+    {
+      "concept_id": "cg-native:funding-eligibility-exclusion",
+      "preferred_label": "Funding eligibility exclusion",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:traditional-custodian-recognition-statement",
+      "preferred_label": "Traditional Custodian recognition statement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:52b5c6fa58aa796841d2fdb742097d1c4057a44e518b0689"
+      ]
+    },
+    {
+      "concept_id": "cg-native:network-geographic-expansion-history",
+      "preferred_label": "Network geographic expansion history",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:430466768ac8c0f7db9807f03c1245a71b08fd7d2e573e84"
+      ]
+    },
+    {
+      "concept_id": "cg-native:official-organisational-classification",
+      "preferred_label": "Official organisational classification",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7"
+      ]
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "preferred_label": "Named program classification and geographic scope",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f0757150364f5cb6f45235130b3497c1a1a60d9d28e02cd4"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-demographic-scope",
+      "preferred_label": "Program beneficiary demographic scope",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fundraising-registration-coverage",
+      "preferred_label": "Fundraising registration coverage",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738"
+      ]
+    },
+    {
+      "concept_id": "cg-native:financial-risk-management-implementation",
+      "preferred_label": "Financial risk management implementation",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+      ]
+    },
+    {
+      "concept_id": "cg-native:international-funds-distribution-network",
+      "preferred_label": "International funds distribution network",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:3f20c71e7b1a5590d8c4b43f5bca05a13d13389b17e4a2e1"
+      ]
+    },
+    {
+      "concept_id": "cg-native:reported-regulatory-purpose-classification",
+      "preferred_label": "Reported regulatory purpose classification",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c"
+      ]
+    },
+    {
+      "concept_id": "cg-native:regulatory-enforcement-record-absence",
+      "preferred_label": "Regulatory enforcement record absence",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-population-scope",
+      "preferred_label": "Program beneficiary population scope",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02"
+      ]
+    },
+    {
+      "concept_id": "cg-native:built-or-equipped-facility-output",
+      "preferred_label": "Built or equipped facility output",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4"
+      ]
+    },
+    {
+      "concept_id": "cg-native:governance-quorum-and-voting-rule",
+      "preferred_label": "Governance quorum and voting rule",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+      "preferred_label": "Organisational diversity and inclusion value",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:41b70582c08aa04d0bd60b7f4ca6e1a7e78bf4c76f928103"
+      ]
+    },
+    {
+      "concept_id": "cg-native:funded-role-continuation-support",
+      "preferred_label": "Funded role continuation support",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:8a0630d1cbae900354cca90ae3e8547708b488104d54c34a"
+      ]
+    },
+    {
+      "concept_id": "cg-native:planned-workshop-and-summit-activity",
+      "preferred_label": "Planned workshop and summit activity",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:6632c80f327e2bb23f3023c88c7669cf491f7efdb1b89e45"
+      ]
+    },
+    {
+      "concept_id": "cg-native:organisation-network-affiliation",
+      "preferred_label": "Organisation network affiliation",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:93a53660b8bda127f11a486820f424a38b8103e654686d9c"
+      ]
+    },
+    {
+      "concept_id": "cg-native:initiative-launch-history",
+      "preferred_label": "Initiative launch history",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:471767e276e2d0317290edbfbeaa8956b4c5cb026d280c18"
+      ]
+    },
+    {
+      "concept_id": "cg-native:official-charity-form-classification",
+      "preferred_label": "Official charity form classification",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-location-registration",
+      "preferred_label": "Program location registration",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17"
+      ]
+    },
+    {
+      "concept_id": "cg-native:reported-zero-revenue-category",
+      "preferred_label": "Reported zero revenue category",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:d41356e3e92bd09d1794988e3b252f3a9801e949c9319a94"
+      ]
+    },
+    {
+      "concept_id": "cg-native:reported-net-assets-and-liabilities",
+      "preferred_label": "Reported net assets and liabilities",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:3692eacb8fa5ef6a0e7a817a85cbcb1eed57d63bd0268312"
+      ]
+    },
+    {
+      "concept_id": "cg-native:advisory-committee-governance-rule",
+      "preferred_label": "Advisory committee governance rule",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+      ]
+    },
+    {
+      "concept_id": "cg-native:governance-meeting-activity-report",
+      "preferred_label": "Governance meeting activity report",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea"
+      ]
+    },
+    {
+      "concept_id": "cg-native:auditor-professional-conduct-absence",
+      "preferred_label": "Auditor professional conduct absence",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:4deda13493c359e952472adb9134c35c645602eda26d7cca"
+      ]
+    },
+    {
+      "concept_id": "cg-native:temporal-source-scope-mismatch",
+      "preferred_label": "Temporal source scope mismatch",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894"
+      ]
+    },
+    {
+      "concept_id": "cg-native:official-entity-identifier-record",
+      "preferred_label": "Official entity identifier record",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:91ab9e0403a002a4ebc58171df9690621684492aa487229"
+      ]
+    },
+    {
+      "concept_id": "cg-native:financial-source-content-limitation",
+      "preferred_label": "Financial source content limitation",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-contingent-liability-absence",
+      "preferred_label": "Program or organisation contingent-liability absence",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:49190fafe39704f5251f95ae43739c182f2751a6318e1d7a"
+      ]
+    },
+    {
+      "concept_id": "cg-native:external-entity-identity-binding",
+      "preferred_label": "External entity identity binding",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+      ]
+    },
+    {
+      "concept_id": "cg-native:administrative-status-absence",
+      "preferred_label": "Administrative status absence",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205"
+      ]
+    },
+    {
+      "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+      "preferred_label": "Funds-held-in-trust and administration arrangement",
+      "supporting_observation_count": 1,
+      "organisation_count": 1,
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "supporting_observation_ids": [
+        "nativeobs:72bde82b2dd803b307651886fa0e15d8a907797a0d51ad5f"
+      ]
+    }
+  ],
+  "concepts_by_organisation_count": {
+    "1": 85,
+    "2": 4,
+    "3": 2,
+    "4": 2
+  }
+}

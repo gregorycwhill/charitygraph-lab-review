@@ -1,0 +1,28 @@
+{
+  "salt": "native-v2-workshop-20260904",
+  "rule": "sha256(salt + observation_id) mod 10 < 2 => final holdout",
+  "eligible": 263,
+  "workshop": 205,
+  "holdout": 58,
+  "organisations": [
+    "Australian Communities Foundation",
+    "Local Buying Foundation (WA)",
+    "The Fred Hollows Foundation",
+    "Tweed Regional Gallery Foundation Limited",
+    "World Vision Australia"
+  ],
+  "workshop_by_org": {
+    "World Vision Australia": 59,
+    "Australian Communities Foundation": 31,
+    "The Fred Hollows Foundation": 27,
+    "Tweed Regional Gallery Foundation Limited": 9,
+    "Local Buying Foundation (WA)": 79
+  },
+  "holdout_by_org": {
+    "World Vision Australia": 12,
+    "Australian Communities Foundation": 14,
+    "The Fred Hollows Foundation": 9,
+    "Tweed Regional Gallery Foundation Limited": 3,
+    "Local Buying Foundation (WA)": 20
+  }
+}
