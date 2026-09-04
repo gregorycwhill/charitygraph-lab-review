@@ -1,0 +1,46 @@
+{
+  "luna_gardener": {
+    "calls": 5,
+    "input_tokens": 309369,
+    "output_tokens": 11422,
+    "cost_usd": "0.075580"
+  },
+  "luna_L_attachments": {
+    "calls": 21,
+    "input_tokens": 647491,
+    "output_tokens": 41530,
+    "cost_usd": "0.179334"
+  },
+  "luna_T_attachments": {
+    "calls": 21,
+    "input_tokens": 795289,
+    "output_tokens": 40085,
+    "cost_usd": "0.207160"
+  },
+  "terra_gardener": {
+    "calls": 5,
+    "input_tokens": 334708,
+    "output_tokens": 30000,
+    "cost_usd": "1.029416"
+  },
+  "aux_luna": {
+    "calls": 3,
+    "input_tokens": 12820,
+    "output_tokens": 4478,
+    "cost_usd": "0.007938"
+  },
+  "aux_terra": {
+    "calls": 3,
+    "input_tokens": 12820,
+    "output_tokens": 12093,
+    "cost_usd": "0.170756"
+  },
+  "aggregate": {
+    "cost_usd": "1.670184",
+    "retained_aggregate": "1.670184",
+    "incomplete_terra_cost_usd": "1.029416",
+    "incomplete_terra_percent_of_terra": 100.0,
+    "incomplete_terra_percent_of_total": 61.635,
+    "user_observed_account_balance_movement": "approximately USD 2.00 (not reconciled by runtime ledger)"
+  }
+}

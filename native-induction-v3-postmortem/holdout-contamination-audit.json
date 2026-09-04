@@ -1,0 +1,111 @@
+{
+  "holdout_count": 58,
+  "affected_concept_count": 7,
+  "affected_concept_ids": [
+    "cg-native:philanthropic-giving-enablement",
+    "cg-native:regional-capability-development",
+    "cg-native:grant-and-sponsorship-funding-process",
+    "cg-native:program-delivery-output-reporting",
+    "cg-native:monitoring-and-evaluation-practice",
+    "cg-native:fundraising-channel",
+    "cg-native:stated-purpose-or-vision"
+  ],
+  "affected": [
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae"
+      ]
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b"
+      ],
+      "exposed_as_representative_during_tending": [],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b"
+      ]
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f"
+      ]
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98"
+      ]
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+      ]
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb"
+      ]
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "origin": "V2 discovery/retained base",
+      "holdout_observation_ids": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b"
+      ],
+      "exposed_as_representative_during_tending": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b"
+      ],
+      "exposed_in_holdout_attachment_packet": [
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b"
+      ]
+    }
+  ],
+  "narrow_conclusion": "shared comparison/review set; not a clean out-of-sample generalisation estimate"
+}

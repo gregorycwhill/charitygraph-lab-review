@@ -1,0 +1,234 @@
+{
+  "expected_records_per_sweep": 205,
+  "accepted_records_first": 203,
+  "accepted_records_second": 182,
+  "invalid_or_duplicate_records": 3,
+  "valid_intersection": 180,
+  "exact_set_agreement": 147,
+  "exact_set_agreement_rate": 0.8166666666666667,
+  "both_zero": 14,
+  "transitions": {
+    "one->one": 103,
+    "multi->multi": 46,
+    "zero->zero": 14,
+    "one->multi": 9,
+    "one->zero": 5,
+    "zero->one": 3
+  },
+  "jaccard": {
+    "count": 166,
+    "mean": 0.8569277108433735,
+    "median": 1.0,
+    "min": 0.0,
+    "max": 1.0,
+    "exact_1_count": 133,
+    "zero_overlap_count": 14
+  },
+  "largest_absolute_deltas": [
+    {
+      "concept_id": "cg-native:entity-registration-profile",
+      "first_count": 8,
+      "second_count": 4,
+      "delta": -4,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-demographic-scope",
+      "first_count": 8,
+      "second_count": 4,
+      "delta": -4,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:program-service-reach-statement",
+      "first_count": 12,
+      "second_count": 9,
+      "delta": -3,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "first_count": 12,
+      "second_count": 9,
+      "delta": -3,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:organisational-financial-reporting",
+      "first_count": 16,
+      "second_count": 18,
+      "delta": 2,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "first_count": 2,
+      "second_count": 4,
+      "delta": 2,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "first_count": 8,
+      "second_count": 10,
+      "delta": 2,
+      "organisation_count_delta": 2
+    },
+    {
+      "concept_id": "cg-native:advisory-committee-governance-rule",
+      "first_count": 4,
+      "second_count": 3,
+      "delta": -1,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:board-committee-oversight-structure",
+      "first_count": 1,
+      "second_count": 0,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:community-led-program-implementation-approach",
+      "first_count": 1,
+      "second_count": 0,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:external-auditor-appointment",
+      "first_count": 1,
+      "second_count": 0,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:external-entity-identity-binding",
+      "first_count": 2,
+      "second_count": 1,
+      "delta": -1,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "first_count": 4,
+      "second_count": 3,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:governance-approval-responsibility",
+      "first_count": 2,
+      "second_count": 1,
+      "delta": -1,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:governance-committee-structure",
+      "first_count": 2,
+      "second_count": 1,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:governance-personnel-role-statement",
+      "first_count": 3,
+      "second_count": 2,
+      "delta": -1,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "first_count": 4,
+      "second_count": 5,
+      "delta": 1,
+      "organisation_count_delta": 0
+    },
+    {
+      "concept_id": "cg-native:independent-audit-opinion",
+      "first_count": 1,
+      "second_count": 0,
+      "delta": -1,
+      "organisation_count_delta": -1
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "first_count": 1,
+      "second_count": 2,
+      "delta": 1,
+      "organisation_count_delta": 1
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "first_count": 7,
+      "second_count": 6,
+      "delta": -1,
+      "organisation_count_delta": 0
+    }
+  ],
+  "batch_stability": [
+    {
+      "batch": 1,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 1,
+      "exact_match_rate": 0.0
+    },
+    {
+      "batch": 2,
+      "expected_observations": 23,
+      "accepted_first": 22,
+      "accepted_second": 22,
+      "exact_match_rate": 0.8095238095238095
+    },
+    {
+      "batch": 3,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 23,
+      "exact_match_rate": 0.8695652173913043
+    },
+    {
+      "batch": 4,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 23,
+      "exact_match_rate": 0.9565217391304348
+    },
+    {
+      "batch": 5,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 23,
+      "exact_match_rate": 0.9130434782608695
+    },
+    {
+      "batch": 6,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 23,
+      "exact_match_rate": 0.782608695652174
+    },
+    {
+      "batch": 7,
+      "expected_observations": 23,
+      "accepted_first": 23,
+      "accepted_second": 23,
+      "exact_match_rate": 0.6086956521739131
+    },
+    {
+      "batch": 8,
+      "expected_observations": 22,
+      "accepted_first": 21,
+      "accepted_second": 22,
+      "exact_match_rate": 0.8095238095238095
+    },
+    {
+      "batch": 9,
+      "expected_observations": 22,
+      "accepted_first": 22,
+      "accepted_second": 22,
+      "exact_match_rate": 0.8181818181818182
+    }
+  ]
+}

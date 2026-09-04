@@ -1,0 +1,83 @@
+{
+  "cases": [
+    {
+      "stage": "1-structural",
+      "concept_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "emitted_action": "merge",
+      "new_parent": null,
+      "rationale": "The concepts are related but not semantically identical: monitoring and evaluation is a practice, while governance oversight is an assigned role. Retain both as distinct concepts and remove the misleading parent relation that treats the role as a subtype of the practice.",
+      "outcome": "emitted_but_unrepresentable_by_operation_grammar",
+      "final_parent_by_concept": {
+        "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "concept_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "emitted_action": "redefine",
+      "new_parent": null,
+      "rationale": "The concept is governance-role semantics, but its current parent monitoring-and-evaluation practice makes a role assignment appear to be a practice. Remove that parent to preserve relationship-role distinctions.",
+      "outcome": "fully_represented_and_applied",
+      "final_parent_by_concept": {
+        "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "concept_ids": [
+        "cg-native:inclusive-conduct-guidance-requirement"
+      ],
+      "emitted_action": "redefine",
+      "new_parent": null,
+      "rationale": "The concept concerns guidance or conduct requirements, not strategic risk management. Remove the risk-management parent to avoid conflating policy requirements with risk governance.",
+      "outcome": "fully_represented_and_applied",
+      "final_parent_by_concept": {
+        "cg-native:inclusive-conduct-guidance-requirement": "cg-native:strategic-risk-management-requirement"
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "concept_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "emitted_action": "retain",
+      "new_parent": null,
+      "rationale": "The concept captures assigned oversight, coordination, monitoring, evaluation and reporting responsibilities and is distinct from delivery and approval authority.",
+      "outcome": "fully_represented_and_applied",
+      "final_parent_by_concept": {
+        "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
+      }
+    },
+    {
+      "stage": "4-residual",
+      "concept_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "emitted_action": "reparent",
+      "new_parent": null,
+      "rationale": "Governance oversight is an assigned responsibility, not a subtype of monitoring-and-evaluation practice. Remove the misleading parent relation while retaining both concepts and their role/practice distinction.",
+      "outcome": "emitted_but_unrepresentable_by_operation_grammar",
+      "final_parent_by_concept": {
+        "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
+      }
+    },
+    {
+      "stage": "5-final",
+      "concept_ids": [
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "emitted_action": "reparent",
+      "new_parent": null,
+      "rationale": "Oversight responsibility is a governance role distinction, not a subtype of monitoring and evaluation practice. Move it to the governance layer while retaining monitoring/evaluation as a supported responsibility component.",
+      "outcome": "emitted_but_unrepresentable_by_operation_grammar",
+      "final_parent_by_concept": {
+        "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
+      }
+    }
+  ],
+  "mechanical_note": "The operation grammar requires a non-null parent for reparent; requested parent removal is not representable by that operation shape where emitted."
+}

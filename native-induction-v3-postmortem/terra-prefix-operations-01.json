@@ -1,0 +1,453 @@
+{
+  "operations": [
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:advisory-committee-governance-rule"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "rationale": "Both concepts are supported by the same observation and describe the same quorum and casting-vote rule. Retain the rule-level concept without duplicating an advisory-committee variant.",
+        "new_preferred_label": "Governance quorum and voting rule",
+        "new_definition": "A stated governance rule specifying attendance required for quorum and any casting-vote authority for an identified governance or advisory body.",
+        "new_inclusion_boundary": "Includes explicit quorum thresholds and chairperson casting-vote provisions for an advisory or governance body.",
+        "new_exclusion_boundary": "Excludes committee membership, meeting attendance records, approval responsibility and governance outcomes.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:board-committee-oversight-structure"
+        ],
+        "successor_concept_ids": [
+          "cg-native:board-committee-oversight-structure"
+        ],
+        "rationale": "A board-committee oversight structure is a specific form of governance committee structure; the existing direction reverses the general-to-specific relationship.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": "cg-native:governance-committee-structure",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:governance-meeting-activity-report"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-meeting-activity-report"
+        ],
+        "rationale": "Meeting counts and attendance are governance activity records, not a subtype of program governance oversight responsibility.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "Assigned oversight, coordination and reporting responsibilities can include monitoring and evaluation but are not themselves a subtype of monitoring and evaluation practice.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "successor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "rationale": "Implemented financial risk-management arrangements are distinct from a requirement that risks be managed; implementation should not be nested beneath a requirement concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:administrative-status-absence"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "The concept models absence of fields in a supplied extract rather than an entity, activity, relationship, purpose, output, outcome or administrative status. It is source/evidence-coverage metadata and should not be retained as a semantic concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "The concept represents readability and extraction limitations of supplied financial-source content, rather than a financial-reporting semantic. It is source/evidence metadata.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864",
+          "nativeobs:56c13bb3c5461908d0ef21d140b1d06c89106748bf9436e6"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:external-entity-identity-binding"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "The concept records matching identifiers across supplied source records. That is record-linkage provenance, not an organisational or program semantic concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Mixed reporting dates, extraction dates and website dates describe packet interpretation conditions, not a semantic characteristic of an organisation or program.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894",
+          "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:advisory-committee-governance-rule",
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "rationale": "Both concepts are supported by the same observation and describe the same quorum threshold and casting-vote rule. A single rule concept avoids duplicate classification of one governance proposition.",
+        "new_preferred_label": "Governance quorum and voting rule",
+        "new_definition": "A stated rule specifying the attendance threshold required for quorum and any voting or casting-vote authority for a governance or advisory body.",
+        "new_inclusion_boundary": "Includes explicit quorum thresholds and chairperson or presiding-member casting-vote provisions.",
+        "new_exclusion_boundary": "Excludes committee membership, meeting attendance records, approval responsibilities, committee structures and governance outcomes.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:administrative-status-absence"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Recommend deprecation because this concept models absence of entity-specific fields in a supplied extract rather than an organisation, program, role, activity, output, outcome, or relationship. It is evidence-coverage metadata.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:external-entity-identity-binding"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Recommend deprecation because matching source records is source/evidence metadata, not a semantic organisation or relationship concept. Official identifiers remain separately representable without modelling record linkage.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Recommend deprecation because unreadable or unavailable financial line items describe supplied-source coverage rather than financial reporting or an organisational attribute.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:administrative-status-absence"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Deprecate because the concept represents extract-level evidence coverage rather than an organisational, programmatic, administrative, or relational concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:external-entity-identity-binding"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Deprecate because source-record matching is provenance and identity-resolution metadata, not a CharityGraph semantic concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Deprecate because readable-content limitations describe supplied-source accessibility rather than financial reporting or an organisational attribute.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "Deprecate because mixed dates across supplied records are evidence-interpretation metadata, not an entity or program concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:organisation-membership-and-conduct-commitment",
+          "cg-native:organisational-membership-or-compliance-statement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:organisation-membership-or-compliance-statement"
+        ],
+        "rationale": "Merge substantially overlapping statement concepts while retaining the distinction between stated membership, signatory status, adherence, commitment, and compliance within the successor definition.",
+        "new_preferred_label": "Organisation membership, signatory, or compliance statement",
+        "new_definition": "A reported statement that an organisation is a member or signatory of a named body, code or standard, or states adherence, commitment, or compliance with a named requirement.",
+        "new_inclusion_boundary": "Includes attributed membership, signatory, adherence, commitment and compliance statements, preserving the particular relationship or claim stated.",
+        "new_exclusion_boundary": "Excludes inferred compliance, audit findings, policy implementation beyond the stated claim, general ethos and unrelated professional memberships.",
+        "new_parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632",
+          "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06",
+          "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20"
+        ]
+      },
+      "mechanically_valid": false
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:named-program-classification-and-geographic-scope",
+          "cg-native:program-classification-and-beneficiary-scope"
+        ],
+        "successor_concept_ids": [
+          "cg-native:named-program-classification-statement"
+        ],
+        "rationale": "Consolidate two overlapping composite program-record concepts into one while leaving distinct beneficiary, demographic, and reach concepts available for separately asserted scope propositions.",
+        "new_preferred_label": "Named program classification and scope statement",
+        "new_definition": "A source-reported statement identifying a named program together with its reported classification, operating mode, geographic scope, beneficiary scope, or a combination of those record fields.",
+        "new_inclusion_boundary": "Includes named-program records that combine a source-reported classification or operating mode with geographic or beneficiary scope.",
+        "new_exclusion_boundary": "Excludes inferred classifications, standalone beneficiary or reach statements without a program classification record, delivery activities, outputs, outcomes and impact claims.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+          "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:f0757150364f5cb6f45235130b3497c1a1a60d9d28e02cd4"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:advisory-committee-governance-rule"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "rationale": "Merge duplicate quorum and casting-vote rule concepts into the more explicitly delimited governance-rule concept.",
+        "new_preferred_label": "Governance quorum and voting rule",
+        "new_definition": "A stated governance rule specifying attendance required for quorum, voting arrangements, or casting-vote authority for an identified governance or advisory body.",
+        "new_inclusion_boundary": "Includes explicit quorum thresholds and chairperson casting-vote provisions for advisory committees and other identified governance bodies.",
+        "new_exclusion_boundary": "Excludes committee membership, meeting attendance records, approval responsibility, committee structure and governance outcomes.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+        ]
+      },
+      "mechanically_valid": true
+    }
+  ],
+  "label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+}

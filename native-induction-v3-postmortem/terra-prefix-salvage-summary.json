@@ -1,0 +1,142 @@
+{
+  "label": "prefix-only, output-order-biased, incomplete Terra tending evidence",
+  "stages": [
+    {
+      "stage": "1-structural",
+      "output_status": "incomplete",
+      "complete_prefix_operations": 5,
+      "valid_complete_prefix_operations": 5,
+      "invalid_complete_prefix_operations": 0,
+      "actions": {
+        "merge": 1,
+        "reparent": 4
+      },
+      "base_concepts_addressed": [
+        "cg-native:advisory-committee-governance-rule",
+        "cg-native:board-committee-oversight-structure",
+        "cg-native:financial-risk-management-implementation",
+        "cg-native:governance-meeting-activity-report",
+        "cg-native:program-governance-oversight-responsibility"
+      ],
+      "invalid_operations": [],
+      "truncation_while_operation_in_progress": true,
+      "salvage_label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "output_status": "incomplete",
+      "complete_prefix_operations": 5,
+      "valid_complete_prefix_operations": 5,
+      "invalid_complete_prefix_operations": 0,
+      "actions": {
+        "deprecate": 4,
+        "merge": 1
+      },
+      "base_concepts_addressed": [
+        "cg-native:administrative-status-absence",
+        "cg-native:advisory-committee-governance-rule",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:financial-source-content-limitation",
+        "cg-native:governance-quorum-and-voting-rule",
+        "cg-native:temporal-source-scope-mismatch"
+      ],
+      "invalid_operations": [],
+      "truncation_while_operation_in_progress": true,
+      "salvage_label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+    },
+    {
+      "stage": "3-relationship-role",
+      "output_status": "incomplete",
+      "complete_prefix_operations": 3,
+      "valid_complete_prefix_operations": 3,
+      "invalid_complete_prefix_operations": 0,
+      "actions": {
+        "deprecate": 3
+      },
+      "base_concepts_addressed": [
+        "cg-native:administrative-status-absence",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:financial-source-content-limitation"
+      ],
+      "invalid_operations": [],
+      "truncation_while_operation_in_progress": true,
+      "salvage_label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+    },
+    {
+      "stage": "4-residual",
+      "output_status": "incomplete",
+      "complete_prefix_operations": 10,
+      "valid_complete_prefix_operations": 9,
+      "invalid_complete_prefix_operations": 1,
+      "actions": {
+        "deprecate": 4,
+        "merge": 3,
+        "rename": 2,
+        "reparent": 1
+      },
+      "base_concepts_addressed": [
+        "cg-native:administrative-status-absence",
+        "cg-native:advisory-committee-governance-rule",
+        "cg-native:auditor-professional-conduct-absence",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:financial-source-content-limitation",
+        "cg-native:named-program-classification-and-geographic-scope",
+        "cg-native:organisation-membership-and-conduct-commitment",
+        "cg-native:organisational-membership-or-compliance-statement",
+        "cg-native:program-classification-and-beneficiary-scope",
+        "cg-native:program-outcome-effectiveness-claim",
+        "cg-native:program-purpose-or-intended-change",
+        "cg-native:temporal-source-scope-mismatch"
+      ],
+      "invalid_operations": [
+        {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:organisation-membership-and-conduct-commitment",
+            "cg-native:organisational-membership-or-compliance-statement"
+          ],
+          "successor_concept_ids": [
+            "cg-native:organisation-membership-or-compliance-statement"
+          ],
+          "rationale": "Merge substantially overlapping statement concepts while retaining the distinction between stated membership, signatory status, adherence, commitment, and compliance within the successor definition.",
+          "new_preferred_label": "Organisation membership, signatory, or compliance statement",
+          "new_definition": "A reported statement that an organisation is a member or signatory of a named body, code or standard, or states adherence, commitment, or compliance with a named requirement.",
+          "new_inclusion_boundary": "Includes attributed membership, signatory, adherence, commitment and compliance statements, preserving the particular relationship or claim stated.",
+          "new_exclusion_boundary": "Excludes inferred compliance, audit findings, policy implementation beyond the stated claim, general ethos and unrelated professional memberships.",
+          "new_parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632",
+            "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06",
+            "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20"
+          ]
+        }
+      ],
+      "truncation_while_operation_in_progress": true,
+      "salvage_label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+    },
+    {
+      "stage": "5-final",
+      "output_status": "incomplete",
+      "complete_prefix_operations": 4,
+      "valid_complete_prefix_operations": 4,
+      "invalid_complete_prefix_operations": 0,
+      "actions": {
+        "deprecate": 1,
+        "merge": 3
+      },
+      "base_concepts_addressed": [
+        "cg-native:administrative-status-absence",
+        "cg-native:advisory-committee-governance-rule",
+        "cg-native:external-entity-identity-binding",
+        "cg-native:financial-source-content-limitation",
+        "cg-native:governance-committee-structure",
+        "cg-native:organisation-membership-and-conduct-commitment",
+        "cg-native:temporal-source-scope-mismatch"
+      ],
+      "invalid_operations": [],
+      "truncation_while_operation_in_progress": true,
+      "salvage_label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+    }
+  ]
+}

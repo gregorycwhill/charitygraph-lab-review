@@ -1,0 +1,42 @@
+{
+  "counts": {
+    "operation_application:invalid_complete_prefix_operation": 1,
+    "attachment_validation:invalid_observation_id": 14,
+    "attachment_validation:unknown_concept_id": 3
+  },
+  "affected_stage_counts": {
+    "L-workshop-first-05:invalid_observation_id": 1,
+    "L-workshop-first-06:invalid_observation_id": 1,
+    "L-workshop-first-08:invalid_observation_id": 1,
+    "L-workshop-second-02:unknown_concept_id": 1,
+    "L-workshop-second-03:unknown_concept_id": 1,
+    "L-workshop-second-03:invalid_observation_id": 4,
+    "L-workshop-second-04:invalid_observation_id": 1,
+    "L-workshop-second-06:invalid_observation_id": 4,
+    "T-workshop-first-02:unknown_concept_id": 1,
+    "T-workshop-first-08:invalid_observation_id": 1,
+    "T-workshop-second-02:invalid_observation_id": 1
+  },
+  "provider_call_quarantines": [
+    {
+      "label": "T-1-structural",
+      "reason": "noncompleted_response"
+    },
+    {
+      "label": "T-2-epistemic-grain",
+      "reason": "noncompleted_response"
+    },
+    {
+      "label": "T-3-relationship-role",
+      "reason": "noncompleted_response"
+    },
+    {
+      "label": "T-4-residual",
+      "reason": "noncompleted_response"
+    },
+    {
+      "label": "T-5-final",
+      "reason": "noncompleted_response"
+    }
+  ]
+}

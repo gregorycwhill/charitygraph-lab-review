@@ -1,0 +1,176 @@
+{
+  "operations": [
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "rename",
+        "predecessor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "rationale": "Broaden the label narrowly enough to cover both named-program intentions and intentions stated for a defined portfolio of organisational activities, without absorbing organisation-wide purpose or vision.",
+        "new_preferred_label": "Activity or program intended-change statement",
+        "new_definition": "A stated description of what a named program, project, initiative, or identified portfolio of activities is intended to address, support, or change.",
+        "new_inclusion_boundary": "Includes program-, project-, initiative-, and activity-portfolio-level aims and intended conditions when distinct from organisation-wide purpose or vision.",
+        "new_exclusion_boundary": "Excludes organisation-wide purpose or vision, completed activities or outputs, measured outcomes, impact claims and financial expenditure.",
+        "new_parent_concept_id": "cg-native:stated-purpose-or-vision",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+          "nativeobs:8e8fb228b5a71a3a1fc4c2db3301c5359ea565ea8e71e94d",
+          "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "rename",
+        "predecessor_concept_ids": [
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "rationale": "Clarify that reported milestone and target attainment is an attributed outcome claim, distinct from monitoring practice, delivered outputs, and independently verified impact.",
+        "new_preferred_label": "Program reported outcome, effectiveness, or target-achievement claim",
+        "new_definition": "A reported claim that program activities or outputs contribute to intended change, improve conditions or performance, or achieve stated milestones, outcome targets, or impact targets.",
+        "new_inclusion_boundary": "Includes attributed claims linking support or activities to change, and reported claims that named milestones or targets were achieved, while preserving their reported status.",
+        "new_exclusion_boundary": "Excludes purposes, plans, delivery activities, output counts, reach statements, monitoring practice itself and independently verified impact findings.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+          "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:auditor-professional-conduct-absence"
+        ],
+        "successor_concept_ids": [
+          "cg-native:auditor-professional-conduct-absence"
+        ],
+        "rationale": "Separate an auditor-limited absence declaration from organisational membership or compliance statements.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4deda13493c359e952472adb9134c35c645602eda26d7cca"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:administrative-status-absence",
+          "cg-native:external-entity-identity-binding",
+          "cg-native:financial-source-content-limitation",
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "These concepts model supplied-extract coverage, source linkage, extraction readability, or mixed source timing rather than organisation, program, relationship, activity, output, outcome, claim, or administrative-status semantics. They should remain observation/evidence qualifications rather than ontology concepts.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205",
+          "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178",
+          "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864",
+          "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:advisory-committee-governance-rule"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "rationale": "Both concepts are supported by the same advisory-committee quorum and casting-vote observation. The surviving concept can expressly cover governance and advisory bodies without duplicating the same rule type.",
+        "new_preferred_label": "Governance quorum and voting rule",
+        "new_definition": "A stated rule specifying quorum, voting, or casting-vote authority for a governance or advisory body.",
+        "new_inclusion_boundary": "Includes explicit quorum thresholds and chairperson or comparable casting-vote provisions for governance and advisory committees.",
+        "new_exclusion_boundary": "Excludes committee membership or representative composition, meeting attendance, approval responsibility, delivery activity, and governance outcomes.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:governance-committee-structure"
+        ],
+        "successor_concept_ids": [
+          "cg-native:board-committee-oversight-structure"
+        ],
+        "rationale": "Both concepts represent named governance committees and their relationship to a board or governing body. The apparent difference between structure and oversight is a property of the same reported committee arrangement, not a distinct semantic category.",
+        "new_preferred_label": "Governance committee oversight structure",
+        "new_definition": "A reported structure in which named committees operate within, support, report to, or provide oversight for a board or other governing body.",
+        "new_inclusion_boundary": "Includes named governance committees and stated reporting, support, or oversight relationships to a board or governing body.",
+        "new_exclusion_boundary": "Excludes committee activities, individual membership, quorum rules, approval powers, and program delivery unless separately stated.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a",
+          "nativeobs:aa186ec309b892f57c9b43ec955a5fc0e31285e0da0e7fff"
+        ]
+      },
+      "mechanically_valid": true
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:organisation-membership-and-conduct-commitment"
+        ],
+        "successor_concept_ids": [
+          "cg-native:organisational-membership-or-compliance-statement"
+        ],
+        "rationale": "The two concepts have materially identical inclusion boundaries for stated membership, signatory status, adherence, or compliance with a named code or body. A single concept preserves the claim-level distinction without duplicate classifications.",
+        "new_preferred_label": "Organisation membership or conduct commitment",
+        "new_definition": "A stated organisational membership, signatory status, adherence, commitment, or compliance statement concerning a named body, code, standard, or requirement.",
+        "new_inclusion_boundary": "Includes explicit membership or signatory statements and stated adherence, commitment, or compliance attributed to the organisation.",
+        "new_exclusion_boundary": "Excludes inferred compliance, independent verification, audit appointments, and implementation beyond the stated scope.",
+        "new_parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06",
+          "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632",
+          "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7"
+        ]
+      },
+      "mechanically_valid": true
+    }
+  ],
+  "label": "prefix-only, output-order-biased, incomplete Terra tending evidence"
+}

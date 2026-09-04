@@ -1,0 +1,19 @@
+{
+  "experiment_id": "native-induction-v3-postmortem",
+  "provider_calls": 0,
+  "files": [
+    "README.md",
+    "auxiliary-discovery-mechanics.json",
+    "concept-mechanical-strata.json",
+    "cost-decomposition.json",
+    "holdout-contamination-audit.json",
+    "index.json",
+    "interpretation-ledger.json",
+    "operation-language-loss.json",
+    "quarantine-taxonomy.json",
+    "t-arm-repeatability-summary.json",
+    "terra-prefix-operations-01.json",
+    "terra-prefix-operations-02.json",
+    "terra-prefix-salvage-summary.json"
+  ]
+}

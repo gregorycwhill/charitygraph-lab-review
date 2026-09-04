@@ -1,0 +1,9 @@
+{
+  "main_luna_gardener_completed": true,
+  "main_terra_gardener_completed": false,
+  "terra_final_is_untended_base": true,
+  "reported_47_action_disagreements_are_not_gardener_disagreements": true,
+  "attachment_comparison": "tended Luna catalogue versus untended base",
+  "better_gardener_conclusion_supported": false,
+  "auxiliary_discovery_preserved": true
+}
