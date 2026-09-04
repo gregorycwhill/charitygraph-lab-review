@@ -1,0 +1,566 @@
+{
+  "snapshots": [
+    {
+      "stage": "1-structural",
+      "operations": {
+        "merge": 6,
+        "reparent": 1,
+        "deprecate": 2
+      },
+      "quarantined": 3,
+      "active_concepts": 76,
+      "inactive_concepts": 17
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operations": {
+        "merge": 1,
+        "redefine": 6
+      },
+      "quarantined": 1,
+      "active_concepts": 74,
+      "inactive_concepts": 19
+    },
+    {
+      "stage": "3-relationship-role",
+      "operations": {
+        "retain": 16
+      },
+      "quarantined": 0,
+      "active_concepts": 74,
+      "inactive_concepts": 19
+    },
+    {
+      "stage": "4-residual",
+      "operations": {
+        "redefine": 2,
+        "split": 1
+      },
+      "quarantined": 1,
+      "active_concepts": 75,
+      "inactive_concepts": 20
+    },
+    {
+      "stage": "5-final",
+      "operations": {
+        "merge": 1,
+        "reparent": 1,
+        "redefine": 1,
+        "retain": 3,
+        "deprecate": 1
+      },
+      "quarantined": 4,
+      "active_concepts": 72,
+      "inactive_concepts": 23
+    }
+  ],
+  "quarantined_operations": [
+    {
+      "stage": "L-1-structural",
+      "ordinal": 2,
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "Both concepts represent demographic or population groups served by a named program. Their boundaries and supporting observations substantially overlap, and the existing parent concept directly captures this shared meaning.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups listed as beneficiaries or served populations of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      },
+      "reason": "successor_collision"
+    },
+    {
+      "stage": "L-1-structural",
+      "ordinal": 3,
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-location-registration",
+          "cg-native:organisational-scale-or-community-description"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "rationale": "Both concepts are geographic or coverage statements rather than distinct semantic relations. The first records program locations and the second reports organisational geographic reach; the existing reach-statement concept accommodates reported places and coverage while excluding administrative locations.",
+        "new_preferred_label": "Program or service reach statement",
+        "new_definition": "A reported statement describing the people, places, programs, projects or partners reached, covered or geographically located within an organisation’s program or service activity.",
+        "new_inclusion_boundary": "Includes reported program locations, geographic coverage, organisational service reach and community or audience coverage when attached to a program, service or organisational activity.",
+        "new_exclusion_boundary": "Excludes registered-office or other purely administrative locations, geographic expansion history, financial amounts and unverified claims of benefit or impact.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17",
+          "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+          "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b"
+        ]
+      },
+      "reason": "successor_collision"
+    },
+    {
+      "stage": "L-1-structural",
+      "ordinal": 7,
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility",
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "successor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "The concepts are related but not semantically identical: monitoring and evaluation is a practice, while governance oversight is an assigned role. Retain both as distinct concepts and remove the misleading parent relation that treats the role as a subtype of the practice.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+          "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+        ]
+      },
+      "reason": "merge_cardinality"
+    },
+    {
+      "stage": "L-2-epistemic-grain",
+      "ordinal": 1,
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "The two concepts overlap as program-scoped identification of demographic or population beneficiary groups. The broader existing concept preserves beneficiary, geographic and service-reach distinctions without collapsing them into outcomes.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries or recipients of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02"
+        ]
+      },
+      "reason": "successor_collision"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting"
+        ],
+        "support_rationale": "The observation reports a count of cataract operations as a program or organisational delivery result.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting"
+        ],
+        "support_rationale": "The observation reports a quantified training result, but no supplied child concept specifically covers training-person output.",
+        "missing_concept_suggestion": "Training delivery output count",
+        "ambiguity_note": "The catalogue contains participation output and facility output concepts, but this is a count of people trained and is not expressly framed as participation."
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5,",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The observation identifies a named program and records Bangladesh as its program country.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The supplied concept for program location registration is defined around recorded program locations; Bangladesh is treated as the supplied program location here."
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5,",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "The observation reports group-head and parent-account classifications from an official register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a1",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "support_rationale": "It explicitly describes monitoring and evaluation practice across project lifecycles.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "L-4-residual",
+      "ordinal": 2,
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "Governance oversight is an assigned responsibility, not a subtype of monitoring-and-evaluation practice. Remove the misleading parent relation while retaining both concepts and their role/practice distinction.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+          "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+        ]
+      },
+      "reason": "reparent_requires_parent"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting"
+        ],
+        "support_rationale": "The observation reports a quantified program result, namely people screened.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:80438d8f912a697c918bbf579dc4d86d8801521dc29d5026,",
+        "concept_ids": [
+          "cg-native:program-purpose-or-intended-change",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "Describes a named program’s support purpose and its mentoring and business-development activity for Indigenous businesses and entrepreneurs.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0,",
+        "concept_ids": [],
+        "support_rationale": "The catalogue has no concept for quorum rules or casting-vote provisions.",
+        "missing_concept_suggestion": "Governance quorum and voting rule",
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619,",
+        "concept_ids": [
+          "cg-native:program-delivery-operator",
+          "cg-native:program-delivery-partnership"
+        ],
+        "support_rationale": "Explicitly identifies RCOE as deliverer and Greater Whitsunday Alliance as its delivery partner.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7,",
+        "concept_ids": [
+          "cg-native:official-organisational-classification"
+        ],
+        "support_rationale": "Reports official ACNC organisational classification fields.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:80438d8f912a697c918bbf579dc4d86d8801521dc29d5026",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:c407bf6cc417d1bbc6dc6b8422ef449c3100e8b5aace7c8",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports official registration and tax-status records for the subject.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:c407bf6cc417d1bbc6dc6b8422ef449c3100e8b5aace7c8e",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:ec0c139200f76636640deba90bc4d054290890bd3952efb4,",
+        "concept_ids": [
+          "cg-native:organisational-scale-or-community-description"
+        ],
+        "support_rationale": "Reports a first-party description of a community of givers numbering in the thousands.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5,",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "Reports group-head and parent-account classifications from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:ee1ac72a1e20453367b15bb1f98d3510b60efd16c9720a5b,",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "Identifies a chairperson and directors in an official register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:b58fe40427e432840677e709cd835eec527091fe29fbce0a,",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "Reports funding categories covering business support, training, workforce development, facilities and related initiatives.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation lists funding categories but does not itself describe the application, assessment or disbursement process."
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:b58fe40427e432840677e709cd835eec527091fe29fbce0a",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:ec0c139200f76636640deba90bc4d054290890bd3952efb4",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:ee1ac72a1e20453367b15bb1f98d3510b60efd16c9720a5b",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "L-5-final",
+      "ordinal": 0,
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope",
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "The three concepts substantially overlap in identifying demographic or population groups served by named programs. Preserve program scope and beneficiary/service-reach semantics while eliminating fragmentation.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries, served populations or recipients of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      },
+      "reason": "impossible_support_observation_id"
+    },
+    {
+      "stage": "L-5-final",
+      "ordinal": 2,
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "Beneficiary and service-reach statements are more coherent as a child of the program/service reach family rather than as a root-level category, while retaining their distinct beneficiary scope.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": "cg-native:program-service-reach-statement",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      },
+      "reason": "impossible_support_observation_id"
+    },
+    {
+      "stage": "L-5-final",
+      "ordinal": 5,
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "Oversight responsibility is a governance role distinction, not a subtype of monitoring and evaluation practice. Move it to the governance layer while retaining monitoring/evaluation as a supported responsibility component.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+        ]
+      },
+      "reason": "reparent_requires_parent"
+    },
+    {
+      "stage": "L-5-final",
+      "ordinal": 6,
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "successor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "rationale": "Implementation of financial risk management is not a subtype of a stated risk requirement. Separate the implemented arrangement from the requirement concept by removing the misleading parent.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+        ]
+      },
+      "reason": "reparent_requires_parent"
+    }
+  ]
+}

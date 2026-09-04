@@ -1,0 +1,1547 @@
+{
+  "base_concept_action_disagreements": [
+    {
+      "base_concept_id": "cg-native:administrative-status-absence",
+      "luna_actions": [
+        "deprecate"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:advisory-committee-governance-rule",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:board-committee-oversight-structure",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:built-or-equipped-facility-output",
+      "luna_actions": [
+        "split"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:financial-source-content-limitation",
+      "luna_actions": [
+        "deprecate"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:funded-role-continuation-support",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:funding-eligibility-exclusion",
+      "luna_actions": [
+        "reparent"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:fundraising-channel",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:fundraising-registration-coverage",
+      "luna_actions": [
+        "redefine"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:governance-approval-responsibility",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:governance-committee-structure",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:governance-quorum-and-voting-rule",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "luna_actions": [
+        "redefine"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:international-funds-distribution-network",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "luna_actions": [
+        "retain",
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:named-program-classification-statement",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:official-entity-identifier-record",
+      "luna_actions": [
+        "deprecate"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:official-reporting-deadline-status",
+      "luna_actions": [
+        "deprecate"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:organisation-network-affiliation",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:organisational-scale-or-community-description",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:philanthropic-giving-enablement",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "luna_actions": [
+        "redefine"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-classification-and-beneficiary-scope",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-contingent-liability-absence",
+      "luna_actions": [
+        "redefine"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-delivery-operator",
+      "luna_actions": [
+        "retain",
+        "redefine"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-delivery-output-reporting",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-delivery-partnership",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-governance-oversight-responsibility",
+      "luna_actions": [
+        "redefine",
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-identity-statement",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-implementation-support-network",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-purpose-or-intended-change",
+      "luna_actions": [
+        "redefine",
+        "reparent"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-service-delivery-activity",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-service-reach-statement",
+      "luna_actions": [
+        "redefine",
+        "redefine",
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:program-workshop-session-delivery",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:project-partnership-support",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:sponsorship-support-relationship",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:stakeholder-participation-in-program-design",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:temporal-source-scope-mismatch",
+      "luna_actions": [
+        "deprecate"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:trustee-operator-role",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:voluntary-advisory-governance-participation",
+      "luna_actions": [
+        "retain"
+      ],
+      "terra_actions": []
+    },
+    {
+      "base_concept_id": "cg-native:workshop-series-delivery-output",
+      "luna_actions": [
+        "merge"
+      ],
+      "terra_actions": []
+    }
+  ],
+  "luna_operations": [
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:fundraising-channel",
+          "cg-native:fundraising-and-resource-mobilisation-channel"
+        ],
+        "successor_concept_ids": [
+          "cg-native:fundraising-channel"
+        ],
+        "rationale": "The two concepts describe the same semantic object: mechanisms or pathways for soliciting or receiving fundraising support. The broader catalogue concept already covers pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods.",
+        "new_preferred_label": "Fundraising channel",
+        "new_definition": "A distinct mechanism or pathway used to solicit or receive donations, sponsorships, bequests, grants or other monetary or non-monetary fundraising support.",
+        "new_inclusion_boundary": "Includes regular giving, pledge programs, public events, direct mail, corporate or trust donations, online fundraising, sponsorship, gifts in wills, grants and donated goods or assets.",
+        "new_exclusion_boundary": "Excludes fundraising proceeds, expenditure, grantmaking from raised funds, grant administration and general donor-support services without a specified solicitation or receipt mechanism.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5",
+          "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225",
+          "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+          "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule",
+          "cg-native:advisory-committee-governance-rule"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-quorum-and-voting-rule"
+        ],
+        "rationale": "The advisory-committee concept is a narrower duplicate of the quorum-and-voting concept: its sole observation concerns quorum and casting-vote rules, already covered by the latter concept.",
+        "new_preferred_label": "Governance quorum and voting rule",
+        "new_definition": "A stated governance rule specifying attendance required for quorum and any voting or casting-vote authority for an advisory or governance body.",
+        "new_inclusion_boundary": "Includes explicit quorum thresholds, voting rules and chairperson casting-vote provisions for an advisory committee or other governance body.",
+        "new_exclusion_boundary": "Excludes committee membership, meeting attendance records, approval responsibility and governance outcomes.",
+        "new_parent_concept_id": "cg-native:governance-approval-responsibility",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "Both concepts represent demographic or population groups served by a named program. Their boundaries and supporting observations substantially overlap, and the existing parent concept directly captures this shared meaning.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups listed as beneficiaries or served populations of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-location-registration",
+          "cg-native:organisational-scale-or-community-description"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "rationale": "Both concepts are geographic or coverage statements rather than distinct semantic relations. The first records program locations and the second reports organisational geographic reach; the existing reach-statement concept accommodates reported places and coverage while excluding administrative locations.",
+        "new_preferred_label": "Program or service reach statement",
+        "new_definition": "A reported statement describing the people, places, programs, projects or partners reached, covered or geographically located within an organisation’s program or service activity.",
+        "new_inclusion_boundary": "Includes reported program locations, geographic coverage, organisational service reach and community or audience coverage when attached to a program, service or organisational activity.",
+        "new_exclusion_boundary": "Excludes registered-office or other purely administrative locations, geographic expansion history, financial amounts and unverified claims of benefit or impact.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17",
+          "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+          "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-classification-and-beneficiary-scope",
+          "cg-native:named-program-classification-and-geographic-scope",
+          "cg-native:named-program-classification-statement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:named-program-classification-statement"
+        ],
+        "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes.",
+        "new_preferred_label": "Named program classification statement",
+        "new_definition": "A reported description of a named program’s source-reported classification, operating mode, geographic scope, target groups or service type.",
+        "new_inclusion_boundary": "Includes named program records identifying source-reported classification, online or non-online mode, participant or beneficiary groups, locations and countries served.",
+        "new_exclusion_boundary": "Excludes inferred activity concepts, measured reach, delivered outputs, outcomes and impact claims, and classifications assigned from external taxonomies.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:f0757150364f5cb6f45235130b3497c1a1a60d9d28e02cd4",
+          "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+          "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-service-delivery-activity",
+          "cg-native:program-workshop-session-delivery"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-delivery-activity"
+        ],
+        "rationale": "Workshop session delivery is explicitly a subtype of program or service delivery activity, and its sole observation is already represented as a delivered activity. The distinction between activity and output is preserved because completed workshop counts remain under output-reporting concepts.",
+        "new_preferred_label": "Program or service delivery activity",
+        "new_definition": "An activity carried out as part of delivering a named program, project or service, including instructional or information sessions.",
+        "new_inclusion_boundary": "Includes screening, mentoring, project work, workshops and other explicitly described delivery activities.",
+        "new_exclusion_boundary": "Excludes stated purposes, intended activities not yet delivered, quantified output reporting and claimed outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954",
+          "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-delivery-output-reporting",
+          "cg-native:workshop-series-delivery-output"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-delivery-output-reporting"
+        ],
+        "rationale": "Workshop series delivery output is a specific form of the existing program delivery output reporting concept. The broader concept already includes sessions and workshops and preserves the activity/output distinction.",
+        "new_preferred_label": "Program delivery output reporting",
+        "new_definition": "Reporting of delivered activities or immediate outputs, such as people trained, people screened, operations performed, events held, sessions delivered or completed workshop series.",
+        "new_inclusion_boundary": "Includes counts and descriptions of completed services, events, training, screening, operations, workshops and workshop series.",
+        "new_exclusion_boundary": "Excludes intended purposes, implementation plans, planned activities, longer-term outcomes and impact claims.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0",
+          "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172",
+          "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility",
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "successor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "The concepts are related but not semantically identical: monitoring and evaluation is a practice, while governance oversight is an assigned role. Retain both as distinct concepts and remove the misleading parent relation that treats the role as a subtype of the practice.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+          "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:governance-committee-structure",
+          "cg-native:board-committee-oversight-structure"
+        ],
+        "successor_concept_ids": [
+          "cg-native:board-committee-oversight-structure"
+        ],
+        "rationale": "Governance committee structure is a narrower duplicate of board committee oversight structure: both describe named committees and their relationship to a governing body. The broader concept preserves structure without inferring committee activities or approval powers.",
+        "new_preferred_label": "Board committee oversight structure",
+        "new_definition": "A reported governance structure in which named committees are established to support, advise or report to a board or governing body.",
+        "new_inclusion_boundary": "Includes named board or governance committees and explicit reporting or oversight relationships to the board or governing body.",
+        "new_exclusion_boundary": "Excludes committee activities not stated, advisory participation alone, program delivery, approval responsibility unless separately evidenced, and outcomes of oversight.",
+        "new_parent_concept_id": "cg-native:program-governance-oversight-responsibility",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:aa186ec309b892f57c9b43ec955a5fc0e31285e0da0e7fff",
+          "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:funding-eligibility-exclusion"
+        ],
+        "successor_concept_ids": [
+          "cg-native:funding-eligibility-exclusion"
+        ],
+        "rationale": "The concept is a rule governing a funding process, not a subtype of grant-and-sponsorship funding as an activity. Reparent it under the process concept while preserving the exclusion-rule role.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": "cg-native:grant-and-sponsorship-funding-process",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+        ]
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:official-entity-identifier-record"
+        ],
+        "successor_concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "rationale": "The catalogue entry has no supporting observations and its content is already covered as an attribute of entity registration profile. It should not remain as an unpopulated semantic object.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": []
+      }
+    },
+    {
+      "stage": "1-structural",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:administrative-status-absence",
+          "cg-native:financial-source-content-limitation",
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "These concepts describe evidence coverage, extraction limitations or temporal metadata rather than the organisation, activity, output, outcome, purpose or relationship semantics represented in the ontology. They should remain provenance or quality annotations, not ontology concepts.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205",
+          "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864",
+          "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:organisational-membership-or-compliance-statement",
+          "cg-native:organisation-membership-and-conduct-commitment"
+        ],
+        "successor_concept_ids": [
+          "cg-native:organisation-membership-and-conduct-commitment"
+        ],
+        "rationale": "The narrower concept duplicates the broader concept’s stated membership, signatory and conduct-code commitment semantics; retain the more descriptive preferred label and definition.",
+        "new_preferred_label": "Organisation membership and conduct commitment",
+        "new_definition": "A stated organisational membership, signatory status or commitment to, or reported adherence with, a named conduct code or standard.",
+        "new_inclusion_boundary": "Includes explicit statements of membership, signatory status, adherence or commitment to a named code or standard.",
+        "new_exclusion_boundary": "Excludes inferred compliance, independent verification, general ethos, audit appointments and implementation beyond what is stated.",
+        "new_parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+          "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "The two concepts overlap as program-scoped identification of demographic or population beneficiary groups. The broader existing concept preserves beneficiary, geographic and service-reach distinctions without collapsing them into outcomes.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries or recipients of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-contingent-liability-absence"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-contingent-liability-absence"
+        ],
+        "rationale": "The current label and definition say “program or organisation” although the supporting observation is organisation-level financial reporting. Remove the misleading program scope while preserving the absence-status distinction.",
+        "new_preferred_label": "Contingent-liability or guarantee absence",
+        "new_definition": "A reported absence of contingent liabilities or outstanding guarantees for an organisation at a specified date.",
+        "new_inclusion_boundary": "Includes explicit financial-report statements that contingent liabilities or guarantees are absent.",
+        "new_exclusion_boundary": "Excludes general solvency conclusions, financial performance, enforcement records and program outcomes.",
+        "new_parent_concept_id": "cg-native:organisational-financial-reporting",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:49190fafe39704f5251f95ae43739c182f2751a6318e1d7a"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "The concept is governance-role semantics, but its current parent monitoring-and-evaluation practice makes a role assignment appear to be a practice. Remove that parent to preserve relationship-role distinctions.",
+        "new_preferred_label": "Program governance oversight responsibility",
+        "new_definition": "An assigned role or responsibility for strategic oversight, coordination, monitoring, evaluation or reporting concerning programs or organisational activities.",
+        "new_inclusion_boundary": "Includes explicit governance role descriptions covering oversight, decision-making, monitoring and evaluation, coordination or reporting.",
+        "new_exclusion_boundary": "Excludes program delivery, funding, sponsorship, advisory participation without assigned responsibility, and risk requirements unless oversight responsibility is explicit.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:inclusive-conduct-guidance-requirement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:inclusive-conduct-guidance-requirement"
+        ],
+        "rationale": "The concept concerns guidance or conduct requirements, not strategic risk management. Remove the risk-management parent to avoid conflating policy requirements with risk governance.",
+        "new_preferred_label": "Inclusive conduct guidance requirement",
+        "new_definition": "A stated requirement or encouragement concerning respectful, inclusive or culturally attentive conduct in funded or supported activities.",
+        "new_inclusion_boundary": "Includes explicit guidance about acknowledgements, respectful language and related conduct expectations for funded organisations.",
+        "new_exclusion_boundary": "Excludes evidence that guidance was implemented, general organisational ethos, program outcomes, and conduct requirements unrelated to supported activities.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:69ff2402f4ddb1bdfe628e7f4a43c191f8a553b761e6fc9c"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "rationale": "The current definition correctly separates intended change from achieved outcomes, but the supporting observations include a sponsored event described as an event type rather than an explicit purpose. Clarify that the concept requires an intended condition or objective, preserving activity distinctions.",
+        "new_preferred_label": "Program purpose or intended change",
+        "new_definition": "A stated description of the condition, issue or objective that a named program or project is intended to address, support or change.",
+        "new_inclusion_boundary": "Includes program- or project-level purposes, aims and intended conditions when distinct from organisational purpose.",
+        "new_exclusion_boundary": "Excludes event or activity identity without an explicit intended change, completed activities or outputs, measured outcomes, impacts and organisation-wide purpose statements.",
+        "new_parent_concept_id": "cg-native:stated-purpose-or-vision",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+          "nativeobs:8e8fb228b5a71a3a1fc4c2db3301c5359ea565ea8e71e94d",
+          "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "rationale": "The concept mixes organisation-level portfolio coverage with program/service reach. Make the boundary explicit so organisation-wide counts remain reach statements without being treated as named-program beneficiary scope.",
+        "new_preferred_label": "Program, service or portfolio reach statement",
+        "new_definition": "A reported statement describing the people, places, programs, projects, partners or portfolio coverage reached or covered by an organisation’s program or service activity.",
+        "new_inclusion_boundary": "Includes reported counts or geographic, program and portfolio coverage attached to a named program, service or organisational activity portfolio.",
+        "new_exclusion_boundary": "Excludes registered-office or other administrative locations, delivery activities without reach or coverage, financial amounts, and unverified claims of benefit or impact.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+          "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2",
+          "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf"
+        ]
+      }
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:fundraising-registration-coverage"
+        ],
+        "successor_concept_ids": [
+          "cg-native:fundraising-registration-coverage"
+        ],
+        "rationale": "Registration coverage is an administrative status record, not a fundraising method or activity. Clarify the definition and remove the parent link to fund registration status, which could imply that this is a named-fund status.",
+        "new_preferred_label": "Fundraising authority or registration coverage",
+        "new_definition": "A reported set of jurisdictions or channels in which an organisation holds fundraising authority or registration entries.",
+        "new_inclusion_boundary": "Includes jurisdiction-specific and online fundraising authority or registration records, preserving the source’s current or qualified status.",
+        "new_exclusion_boundary": "Excludes fundraising methods, fundraising proceeds, general entity or fund registration, and inferred legal compliance.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:program-delivery-operator"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-delivery-operator"
+        ],
+        "rationale": "The supplied observations explicitly distinguish entities that deliver or carry out a named program from funders, sponsors, partners and support providers. Preserve this operator role without broadening it.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619",
+          "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:program-delivery-partnership"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-delivery-partnership"
+        ],
+        "rationale": "The concept captures an explicit joint delivery relationship and is distinct from general partnership, funding or sponsorship.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:sponsorship-support-relationship"
+        ],
+        "successor_concept_ids": [
+          "cg-native:sponsorship-support-relationship"
+        ],
+        "rationale": "The concept preserves sponsorship as a separate relationship role rather than conflating it with delivery, funding or partnership.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:project-partnership-support"
+        ],
+        "successor_concept_ids": [
+          "cg-native:project-partnership-support"
+        ],
+        "rationale": "The concept captures a project-linked partnership-support relation and correctly excludes sponsorship, funding and joint delivery unless separately stated.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:program-implementation-support-network"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-implementation-support-network"
+        ],
+        "rationale": "The concept appropriately captures shared management, expertise, technical specialists and strategy support used to implement programs without asserting that the support network is the operator.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a61fb5f357ee4ee1ce263f510e9cdeab866e27f001c82097"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:international-funds-distribution-network"
+        ],
+        "successor_concept_ids": [
+          "cg-native:international-funds-distribution-network"
+        ],
+        "rationale": "Funds distribution through named entities and treasury coordination is a distinct operational relationship and should not be merged with program delivery or implementation support.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:3f20c71e7b1a5590d8c4b43f5bca05a13d13389b17e4a2e1"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:trustee-operator-role"
+        ],
+        "successor_concept_ids": [
+          "cg-native:trustee-operator-role"
+        ],
+        "rationale": "Trustee action is a distinct legal or structural role and must not be inferred from funding, administration, partnership or governance participation.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:funds-held-in-trust-and-administration-arrangement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:funds-held-in-trust-and-administration-arrangement"
+        ],
+        "rationale": "The concept preserves the combined trust-holding and administrative-support arrangement and should remain distinct from the trustee operator role and grantmaking process.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:72bde82b2dd803b307651886fa0e15d8a907797a0d51ad5f"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:organisation-network-affiliation"
+        ],
+        "successor_concept_ids": [
+          "cg-native:organisation-network-affiliation"
+        ],
+        "rationale": "Network affiliation is weaker and semantically different from delivery, partnership, sponsorship or implementation support; retain the distinction.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:93a53660b8bda127f11a486820f424a38b8103e654686d9c"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:stakeholder-participation-in-program-design"
+        ],
+        "successor_concept_ids": [
+          "cg-native:stakeholder-participation-in-program-design"
+        ],
+        "rationale": "Participation in program design is distinct from delivery, partnership, governance approval and advisory representation without design contribution.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:90a8e86e8b5631cf99af912002181e7bd8924b79dfcb86e0"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:governance-approval-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:governance-approval-responsibility"
+        ],
+        "rationale": "Approval authority is a governance responsibility and should not be merged with implementation, advisory participation or funding provision.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:df60b1b6aa7f8e5be59d959e4d3a19c9feebc2183c3173b9"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "The concept captures assigned oversight, coordination, monitoring, evaluation and reporting responsibilities and is distinct from delivery and approval authority.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:voluntary-advisory-governance-participation"
+        ],
+        "successor_concept_ids": [
+          "cg-native:voluntary-advisory-governance-participation"
+        ],
+        "rationale": "Unpaid advisory participation is a participation-role distinction and should not be collapsed into governance personnel, approval responsibility or program delivery.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a09db84c3223d1447e1c7683122ff3bc896b31872d7dc093"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "successor_concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "rationale": "The concept represents the funding-process role and explicitly excludes funded-project delivery, donor fundraising and post-disbursement expenditure.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:faa74436c9963479876645e29e8e3d768683d96fe209ca49",
+          "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:funded-role-continuation-support"
+        ],
+        "successor_concept_ids": [
+          "cg-native:funded-role-continuation-support"
+        ],
+        "rationale": "Funding a recipient’s continuing or expanding role is a funding-support relation and does not establish that the funder operates or delivers that role.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:8a0630d1cbae900354cca90ae3e8547708b488104d54c34a"
+        ]
+      }
+    },
+    {
+      "stage": "3-relationship-role",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "successor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "rationale": "Monitoring and evaluation practice must remain separate from the activities, outputs, outcomes and impact claims that it reviews.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a"
+        ]
+      }
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "Absorb the overlapping demographic and population concepts into the existing broader beneficiary-or-service-reach concept while preserving program scope and excluding activities, outputs, outcomes and impacts.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries, served populations or recipients of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      }
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "rationale": "Broaden the existing reach statement to cover reported program locations and organisational activity coverage without absorbing administrative addresses or historical expansion.",
+        "new_preferred_label": "Program or service reach statement",
+        "new_definition": "A reported statement describing the people, places, programs, projects, partners or portfolio coverage reached or covered by an organisation’s program or service activity.",
+        "new_inclusion_boundary": "Includes reported program locations, geographic coverage, organisational service reach and community or audience coverage when attached to a program, service or organisational activity portfolio.",
+        "new_exclusion_boundary": "Excludes registered-office or other purely administrative locations, geographic expansion history, financial amounts, and unverified claims of benefit or impact.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17",
+          "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+          "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2"
+        ]
+      }
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "Governance oversight is an assigned responsibility, not a subtype of monitoring-and-evaluation practice. Remove the misleading parent relation while retaining both concepts and their role/practice distinction.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+          "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+        ]
+      }
+    },
+    {
+      "stage": "4-residual",
+      "operation": {
+        "action": "split",
+        "predecessor_concept_ids": [
+          "cg-native:built-or-equipped-facility-output"
+        ],
+        "successor_concept_ids": [
+          "cg-native:built-or-equipped-facility-output",
+          "cg-native:training-delivery-output-count",
+          "cg-native:clinical-operation-output-count"
+        ],
+        "rationale": "The zero-observation workshop identifies two distinct quantified delivery outputs not covered by the catalogue: people trained and cataract operations. Preserve output status and avoid conflating participation, training delivery and clinical operations.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [
+          {
+            "concept_id": "cg-native:training-delivery-output-count",
+            "preferred_label": "Training delivery output count",
+            "definition": "A reported count of people trained by a program or organisation.",
+            "inclusion_boundary": "Includes explicit counts of people receiving training, including professional or community training, when reported as a delivered output.",
+            "exclusion_boundary": "Excludes participation counts not framed as training, training activities without a count, workforce profiles, outcomes and impact.",
+            "parent_concept_id": "cg-native:program-delivery-output-reporting",
+            "supporting_observation_ids": [
+              "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3"
+            ]
+          },
+          {
+            "concept_id": "cg-native:clinical-operation-output-count",
+            "preferred_label": "Clinical operation output count",
+            "definition": "A reported count of clinical or medical operations performed by a program or organisation.",
+            "inclusion_boundary": "Includes explicit counts of cataract operations or comparable clinical procedures delivered.",
+            "exclusion_boundary": "Excludes facilities, people screened, people trained, intended procedures, clinical outcomes and impact.",
+            "parent_concept_id": "cg-native:program-delivery-output-reporting",
+            "supporting_observation_ids": [
+              "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2"
+            ]
+          }
+        ],
+        "supporting_observation_ids": [
+          "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-population-scope",
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "The three concepts substantially overlap in identifying demographic or population groups served by named programs. Preserve program scope and beneficiary/service-reach semantics while eliminating fragmentation.",
+        "new_preferred_label": "Program beneficiary or service reach",
+        "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+        "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries, served populations or recipients of a named program or service.",
+        "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+          "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+          "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "merge",
+        "predecessor_concept_ids": [
+          "cg-native:program-service-reach-statement",
+          "cg-native:organisational-scale-or-community-description"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-service-reach-statement"
+        ],
+        "rationale": "Both concepts represent reported geographic, community or portfolio reach. The successor should retain the narrower distinction between operational/service reach and general first-party scale claims through its inclusion boundary.",
+        "new_preferred_label": "Program or organisational service reach statement",
+        "new_definition": "A reported statement describing the people, places, programs, projects, partners or portfolio coverage reached or covered by an organisation’s program or service activity, including first-party descriptions of organisational or community reach.",
+        "new_inclusion_boundary": "Includes program locations, geographic coverage, organisational service reach, community or audience coverage, and first-party claims of national or comparable reach when attached to an organisation’s service or activity portfolio.",
+        "new_exclusion_boundary": "Excludes registered-office or purely administrative locations, geographic expansion history, financial amounts, beneficiary outcomes, and independently verified scale claims.",
+        "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2",
+          "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf",
+          "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+          "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "rationale": "Beneficiary and service-reach statements are more coherent as a child of the program/service reach family rather than as a root-level category, while retaining their distinct beneficiary scope.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": "cg-native:program-service-reach-statement",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+          "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-purpose-or-intended-change"
+        ],
+        "rationale": "Program purpose is correctly distinct from organisational purpose but should remain explicitly subordinate to stated purpose/vision to preserve purpose-versus-activity and purpose-versus-outcome distinctions.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": "cg-native:stated-purpose-or-vision",
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8",
+          "nativeobs:8e8fb228b5a71a3a1fc4c2db3301c5359ea565ea8e71e94d",
+          "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "redefine",
+        "predecessor_concept_ids": [
+          "cg-native:program-delivery-operator"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-delivery-operator"
+        ],
+        "rationale": "The concept is semantically useful, but its current evidence includes a workshop output with no named operator. Tighten the boundary so it applies only when the delivering entity is explicitly identified, preserving relationship-role distinction.",
+        "new_preferred_label": "Named program delivery operator",
+        "new_definition": "An organisation or entity explicitly identified as carrying out or delivering a named program, initiative, event, workshop or service.",
+        "new_inclusion_boundary": "Includes explicit statements naming the entity that delivered, operated or carried out the named program or initiative.",
+        "new_exclusion_boundary": "Excludes unnamed delivery activity, funders, sponsors, partners, auspice bodies and organisations merely described as supporting or participating unless delivery is also explicitly stated.",
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-governance-oversight-responsibility"
+        ],
+        "rationale": "Oversight responsibility is a governance role distinction, not a subtype of monitoring and evaluation practice. Move it to the governance layer while retaining monitoring/evaluation as a supported responsibility component.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "reparent",
+        "predecessor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "successor_concept_ids": [
+          "cg-native:financial-risk-management-implementation"
+        ],
+        "rationale": "Implementation of financial risk management is not a subtype of a stated risk requirement. Separate the implemented arrangement from the requirement concept by removing the misleading parent.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "rationale": "The concept has multiple observations and provides an appropriate activity-level category for giving infrastructure and services. Do not merge it with funding processes or fundraising proceeds, which preserve distinct activity, process and financial-reporting semantics.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+          "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+          "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:program-identity-statement"
+        ],
+        "successor_concept_ids": [
+          "cg-native:program-identity-statement"
+        ],
+        "rationale": "This is a necessary low-level identity concept for named programs and should not be absorbed into purpose, activity, reach or classification concepts.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:7228726768b04f0e86555e6bfdd510fdcc8412e513011609"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "retain",
+        "predecessor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "successor_concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "rationale": "The concept has direct practice-level evidence and remains distinct from outcome/effectiveness claims and governance assignment of oversight responsibility.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a"
+        ]
+      }
+    },
+    {
+      "stage": "5-final",
+      "operation": {
+        "action": "deprecate",
+        "predecessor_concept_ids": [
+          "cg-native:official-reporting-deadline-status"
+        ],
+        "successor_concept_ids": [],
+        "rationale": "The supplied attachments repeatedly apply this concept to last-reported timestamps, filing status and reporting-period metadata that are not deadlines. Deprecate rather than broaden it, because the observations do not establish a coherent semantic category for those metadata fields and source/evidence metadata must not be treated as a semantic concept.",
+        "new_preferred_label": null,
+        "new_definition": null,
+        "new_inclusion_boundary": null,
+        "new_exclusion_boundary": null,
+        "new_parent_concept_id": null,
+        "successor_concept_specs": [],
+        "supporting_observation_ids": [
+          "nativeobs:81e8e38310bffb03dbbe1109977a473f9cb89fb5f5d3c9af",
+          "nativeobs:c267ea1d8e8ebeb091b7514eb4b77a28b7e5d53b9de408f3",
+          "nativeobs:3b8dce91fbac21292aca5af109abef7854ad35e018dce66e",
+          "nativeobs:f131b6bcfe697ed8a6dd77ecd4c6153380bad1daa24eae1c"
+        ]
+      }
+    }
+  ],
+  "terra_operations": []
+}

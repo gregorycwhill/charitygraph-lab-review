@@ -1,0 +1,201 @@
+{
+  "snapshots": [
+    {
+      "stage": "1-structural",
+      "operations": {},
+      "quarantined": 0,
+      "active_concepts": 93
+    },
+    {
+      "stage": "2-epistemic-grain",
+      "operations": {},
+      "quarantined": 0,
+      "active_concepts": 93
+    },
+    {
+      "stage": "3-relationship-role",
+      "operations": {},
+      "quarantined": 0,
+      "active_concepts": 93
+    },
+    {
+      "stage": "4-residual",
+      "operations": {},
+      "quarantined": 0,
+      "active_concepts": 93
+    },
+    {
+      "stage": "5-final",
+      "operations": {},
+      "quarantined": 0,
+      "active_concepts": 93
+    }
+  ],
+  "quarantined_operations": [
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+        "concept_ids": [
+          "cg-native:commitment-to-standards-or-conduct",
+          "cg-native:organisation-membership-or-compliance-statement"
+        ],
+        "support_rationale": "The organisation reports adherence to a named conduct code.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-first",
+      "item": {
+        "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a1",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice"
+        ],
+        "support_rationale": "The observation explicitly describes monitoring and evaluation at project lifecycle points against plans and intended impact.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-first",
+      "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:35aac0e1e039561a8fcfd8e0c596e3e8cf7e42960b8639e1",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:47e43e02de7dcda8e53cf2b97e7e3a5c910e90203b04cf1c",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:730a55aa58f7c0ff06c6c92afba0cf9c9f41c04cc3bb28a2",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:881a6e41266d38c7db33763f6fc0859735e5638c17751ce3",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:91ab9e0403a002a4ebc58171df9690621684492eaa487229",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:93a53660b8bda127f11a486820f424a38b8103e654686d9c",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:93e327ab489adedb891ce153a16bbff60476901da0473bff",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:ac1ae463c73fc0c727e8eabfd767bcbc7353d1d3fccbfca6",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:ce0929f195dc38796c599c5501e4aa6587cbfd7377ec10ed",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:d2fa8f4fae9f2f14c6a2785b0a0ce97a5337d02159b48b73",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:d5460431722edc353f8192604bc6665aca7173093ba6606a",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:eed15d93f54a96373c7adaef2524b5782f2e7e941dc197a8",
+      "reason": "missing_attachment_record"
+    },
+    {
+      "stage": "workshop-second",
+      "item": {
+        "observation_id": "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e,",
+        "concept_ids": [
+          "cg-native:advisory-committee-governance-rule"
+        ],
+        "support_rationale": "The observation states a required meeting frequency for an Advisory Committee and permits sub-committees for funding assessment.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns meeting frequency and possible sub-committees, whereas the catalogue’s closest concept focuses on advisory committee governance rules."
+      },
+      "reason": "invalid_observation_or_concept_reference"
+    },
+    {
+      "stage": "workshop-second",
+      "observation_id": "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e",
+      "reason": "missing_attachment_record"
+    }
+  ]
+}

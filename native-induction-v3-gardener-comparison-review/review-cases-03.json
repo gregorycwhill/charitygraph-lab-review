@@ -1,0 +1,927 @@
+{
+  "cases": [
+    {
+      "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+      "observation": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC activity summary states that the Foundation supports projects and programs facilitating workforce development, innovation and the productive capacity of business and industry to grow regional economies.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0041-L0047",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "concept_ids": [
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The activity summary explicitly describes workforce development, innovation and productive-capacity support for regional economies.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "concept_ids": [
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The activity summary explicitly describes workforce development, innovation and productive capacity supporting regional economies.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-capability-development"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+      "observation": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Western Australia page states that the WA Foundation aims to enhance the economic sustainability of regions within the operational footprint of BHP Minerals Australia assets and BHP Operation Services in Western Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S009",
+            "locator": "L0029-L0032",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation states an organisational aim to enhance regional economic sustainability and therefore expresses both a purpose/aim and a regional capability-development orientation.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation states an organisational aim concerning regional economic sustainability, fitting both a stated aim and regional capability development.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-capability-development",
+        "cg-native:stated-purpose-or-vision"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+      "observation": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Continuing a Connection to Business, Industry and Region"
+        },
+        "proposition": "The project transitioned an Industry Engagement Officer role into an Industry Stakeholder Lead role with a stronger capability-building and on-ground support focus for small businesses.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "24 February 2026"
+        },
+        "evidence": [
+          {
+            "source": "S016",
+            "locator": "L0057-L0063",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "National network page."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "concept_ids": [
+          "cg-native:funded-role-continuation-support",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation describes transition of a named Industry Engagement Officer role into a capability-building and on-ground support role, matching role-continuation support and regional capability development.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The proposition describes a project role transition but does not explicitly state funding; the funded-role concept is therefore a borderline match."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "concept_ids": [
+          "cg-native:funded-role-continuation-support",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The project transitioned and expanded a named industry-support role with a capability-building focus for small businesses.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:funded-role-continuation-support",
+        "cg-native:regional-capability-development"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+      "observation": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "The Launch of Yarnz Network"
+        },
+        "proposition": "The inaugural Yarnz Network hosted by Queensland Trading Tracks took place on 20 February 2025 and is stated to recur monthly.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "20 February 2025; recurring monthly as stated"
+        },
+        "evidence": [
+          {
+            "source": "S015",
+            "locator": "L0071-L0077",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Official website project story."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "concept_ids": [
+          "cg-native:regional-business-networking-activity",
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation identifies a hosted network activity and reports its inaugural date and recurrence, supporting both regional business networking and initiative launch history.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting",
+          "cg-native:regional-business-networking-activity"
+        ],
+        "support_rationale": "The observation reports a completed inaugural networking event and its stated recurring schedule.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The event is described as hosted by Queensland Trading Tracks; the observation does not explicitly establish Local Buying Foundation (WA) as delivery operator."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-business-networking-activity"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+      "observation": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 4,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Local Buying Foundation Funding"
+        },
+        "proposition": "The ACNC program record identifies beneficiaries as current and emerging industries in local footprints where BHP Minerals Australia operates in Western Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0364-L0369",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "support_rationale": "The observation identifies current and emerging industries in specified local footprints as beneficiaries of the named program.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "support_rationale": "The named funding program is reported as serving current and emerging industries in specified local footprints.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-beneficiary-or-service-reach",
+        "cg-native:program-beneficiary-population-scope"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+      "observation": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 5,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The subject is registered with an address in Mackay, Queensland, Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-28"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0017-L0024",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official registration address and jurisdiction for the subject.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports a registered entity and its recorded address.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue does not provide a distinct registered-office-location concept."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+      "observation": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The 2025 annual information statement reports donations and bequests of $714,199.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2024-07-01 to 2025-06-30"
+        },
+        "evidence": [
+          {
+            "source": "S002",
+            "locator": "L0130-L0135",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "concept_ids": [
+          "cg-native:fundraising-proceeds-report"
+        ],
+        "support_rationale": "The observation reports donations and bequests received during a specified reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "concept_ids": [
+          "cg-native:fundraising-proceeds-report",
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports a specified amount of donations and bequests during a reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The fundraising-proceeds concept is a close fit, although the reported category is donations and bequests rather than a described fundraising appeal."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:fundraising-proceeds-report"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+      "observation": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "Funding applications are submitted online and assessed by a Local Buying Foundation Advisory Committee.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S013",
+            "locator": "L0026-L0030",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation describes online funding applications and assessment by an advisory committee, both components of an organised funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation describes online application submission and assessment by an advisory committee within a funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+      "observation": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The Foundation publishes state-specific funding rounds and accepts out-of-round enquiries by email.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2026 funding rounds"
+        },
+        "evidence": [
+          {
+            "source": "S013",
+            "locator": "L0031-L0047",
+            "role": "supporting"
+          },
+          {
+            "source": "S014",
+            "locator": "L0039-L0056",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "Publishing funding rounds and accepting funding enquiries are explicit elements of an organised grant funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The Foundation publishes funding rounds and accepts funding enquiries, which are elements of an organised funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+      "observation": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 8,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "For the 2024-25 reporting period, total receipts were reported as $1,300,002, comprising $714,199 revenue and $585,803 classified as other income.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2024-07-01 to 2025-06-30"
+        },
+        "evidence": [
+          {
+            "source": "S002",
+            "locator": "L0130-L0138",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total receipts and their revenue and other-income components for a specified period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total receipts and their revenue and other-income components for a specified period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-financial-reporting"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+      "observation": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Charter provides online meeting options for Advisory Committee members unable to travel.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "Charter Version 3, released January 2026"
+        },
+        "evidence": [
+          {
+            "source": "S010",
+            "locator": "L0117-L0121",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns meeting-access arrangements for advisory committee members, which do not match a frozen concept's meeting-count, governance-role or voluntary-participation boundaries."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept precisely covers a provision for online attendance at advisory committee meetings.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+      "observation": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 12,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Trading Tracks"
+        },
+        "proposition": "Trading Tracks is stated to have been developed in partnership with the Local Buying Foundation, BMA and BHP and delivered by Indigenous Business Builders.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "reported 7 August 2022"
+        },
+        "evidence": [
+          {
+            "source": "S015",
+            "locator": "L0099-L0104",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Official website project story."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "concept_ids": [
+          "cg-native:project-partnership-support",
+          "cg-native:program-delivery-partnership"
+        ],
+        "support_rationale": "The named project is explicitly described as developed in partnership with named entities and delivered by a named entity.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The statement supports project-linked partnership and identifies a delivery relationship, but does not state that all named partners jointly delivered the project."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "concept_ids": [
+          "cg-native:project-partnership-support"
+        ],
+        "support_rationale": "The named project is explicitly stated to have been developed in partnership with multiple named entities.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:project-partnership-support"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+      "observation": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 14,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The Foundation acknowledges Traditional Owners and pays respects to Elders past, present and emerging.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S005",
+            "locator": "L0081-L0085",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The observation explicitly acknowledges Traditional Owners and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The Foundation explicitly acknowledges Traditional Owners and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:traditional-custodian-recognition-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+      "observation": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 15,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Charter requires conflicts of interest to be declared and provides for abstention, removal from proceedings and maintenance of an interests and conflicts register.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "Charter Version 3, released January 2026"
+        },
+        "evidence": [
+          {
+            "source": "S010",
+            "locator": "L0211-L0227",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Policy requirement; the packet does not establish implementation in a particular case."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "concept_ids": [
+          "cg-native:strategic-risk-management-requirement"
+        ],
+        "support_rationale": "The Charter requires identification and management of conflicts of interest, including declaration, abstention, removal and a conflicts register; this is an explicit governance risk-control requirement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is broad strategic risk management, while this observation is specifically about conflicts of interest."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "concept_ids": [
+          "cg-native:strategic-risk-management-requirement"
+        ],
+        "support_rationale": "The Charter states requirements for declaring and managing conflicts of interest, including abstention, removal and a register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue's strategic-risk concept is the closest available governance requirement, although the observation specifically concerns conflicts of interest."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:strategic-risk-management-requirement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+      "observation": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 17,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The official website states that the Foundation was established in 2012 in connection with BHP's commitment to regional economic development.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "2012"
+        },
+        "evidence": [
+          {
+            "source": "S011",
+            "locator": "L0026-L0027",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "National network history."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was established in 2012, providing a historical launch or establishment statement for the initiative.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is framed around a named initiative’s launch, while the observation concerns the Foundation’s establishment."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was established in 2012 in connection with a stated regional-development commitment.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The available launch-history concept is defined for named initiatives rather than organisations, so the match is approximate."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:initiative-launch-history"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+      "observation": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 19,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC source-reported charity subtype is Advancing social or public welfare.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "from 2020-05-31; no end date recorded"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0315-L0321",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Source-reported classification only; no external taxonomy assignment is made."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reports a charity subtype from the ACNC source and preserves its source-reported status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The ACNC source reports a charity subtype classification and preserves its stated effective date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:reported-regulatory-purpose-classification"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+      "observation": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC register records the latest reported date as 28 January 2026 and the next report due date as 31 January 2027.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-28"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0005-L0012",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation reports regulatory reporting dates, but no frozen concept specifically covers reporting due-date or filing-timetable status."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "concept_ids": [
+          "cg-native:official-reporting-deadline-status"
+        ],
+        "support_rationale": "The observation reports the latest reported date and next report due date in an ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The latest reported date is not itself a deadline, but the next report due date directly matches the concept."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+      "observation": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The supplied representation of the 2025 financial report is predominantly garbled or non-textual and does not provide reliably readable financial-report propositions beyond the structured ACNC AIS data.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0001-L0018",
+            "role": "supporting"
+          },
+          {
+            "source": "S003",
+            "locator": "L0040-L0055",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This is a packet representation limitation, not a statement that the underlying financial report lacks information."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "concept_ids": [],
+        "support_rationale": "The observation is a packet representation limitation and does not itself state a catalogue-classifiable organisational, financial, program or operational proposition.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "It explicitly concerns unreadable supplied material rather than absence of the underlying information."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "support_rationale": "The observation explicitly states that the supplied financial report representation is garbled or non-textual and does not expose reliably readable financial propositions.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    }
+  ]
+}

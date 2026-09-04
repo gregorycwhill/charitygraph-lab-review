@@ -1,0 +1,2310 @@
+{
+  "luna": [
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-5-final",
+          "action": "retain",
+          "successors": [
+            "cg-native:philanthropic-giving-enablement"
+          ],
+          "rationale": "The concept has multiple observations and provides an appropriate activity-level category for giving infrastructure and services. Do not merge it with funding processes or fundraising proceeds, which preserve distinct activity, process and financial-reporting semantics."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:grant-and-sponsorship-funding-process"
+          ],
+          "rationale": "The concept represents the funding-process role and explicitly excludes funded-project delivery, donor fundraising and post-disbursement expenditure."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-delivery-output-reporting"
+          ],
+          "rationale": "Workshop series delivery output is a specific form of the existing program delivery output reporting concept. The broader concept already includes sessions and workshops and preserves the activity/output distinction."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:monitoring-and-evaluation-practice"
+          ],
+          "rationale": "Monitoring and evaluation practice must remain separate from the activities, outputs, outcomes and impact claims that it reviews."
+        },
+        {
+          "stage": "L-5-final",
+          "action": "retain",
+          "successors": [
+            "cg-native:monitoring-and-evaluation-practice"
+          ],
+          "rationale": "The concept has direct practice-level evidence and remains distinct from outcome/effectiveness claims and governance assignment of oversight responsibility."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:fundraising-channel"
+          ],
+          "rationale": "The two concepts describe the same semantic object: mechanisms or pathways for soliciting or receiving fundraising support. The broader catalogue concept already covers pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-operator",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:program-delivery-operator"
+          ],
+          "rationale": "The supplied observations explicitly distinguish entities that deliver or carry out a named program from funders, sponsors, partners and support providers. Preserve this operator role without broadening it."
+        },
+        {
+          "stage": "L-5-final",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-delivery-operator"
+          ],
+          "rationale": "The concept is semantically useful, but its current evidence includes a workshop output with no named operator. Tighten the boundary so it applies only when the delivering entity is explicitly identified, preserving relationship-role distinction."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-partnership",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:program-delivery-partnership"
+          ],
+          "rationale": "The concept captures an explicit joint delivery relationship and is distinct from general partnership, funding or sponsorship."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-business-networking-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:workshop-series-delivery-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-delivery-output-reporting"
+          ],
+          "rationale": "Workshop series delivery output is a specific form of the existing program delivery output reporting concept. The broader concept already includes sessions and workshops and preserves the activity/output distinction."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:strategic-risk-management-requirement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:voluntary-advisory-governance-participation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:voluntary-advisory-governance-participation"
+          ],
+          "rationale": "Unpaid advisory participation is a participation-role distinction and should not be collapsed into governance personnel, approval responsibility or program delivery."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-ethos-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-purpose-or-intended-change",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-purpose-or-intended-change"
+          ],
+          "rationale": "The current definition correctly separates intended change from achieved outcomes, but the supporting observations include a sponsored event described as an event type rather than an explicit purpose. Clarify that the concept requires an intended condition or objective, preserving activity distinctions."
+        },
+        {
+          "stage": "L-5-final",
+          "action": "reparent",
+          "successors": [
+            "cg-native:program-purpose-or-intended-change"
+          ],
+          "rationale": "Program purpose is correctly distinct from organisational purpose but should remain explicitly subordinate to stated purpose/vision to preserve purpose-versus-activity and purpose-versus-outcome distinctions."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-service-delivery-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-service-delivery-activity"
+          ],
+          "rationale": "Workshop session delivery is explicitly a subtype of program or service delivery activity, and its sole observation is already represented as a delivered activity. The distinction between activity and output is preserved because completed workshop counts remain under output-reporting concepts."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-4-residual",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "rationale": "Absorb the overlapping demographic and population concepts into the existing broader beneficiary-or-service-reach concept while preserving program scope and excluding activities, outputs, outcomes and impacts."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:sponsorship-support-relationship",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:sponsorship-support-relationship"
+          ],
+          "rationale": "The concept preserves sponsorship as a separate relationship role rather than conflating it with delivery, funding or partnership."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:project-partnership-support",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:project-partnership-support"
+          ],
+          "rationale": "The concept captures a project-linked partnership-support relation and correctly excludes sponsorship, funding and joint delivery unless separately stated."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:trustee-operator-role",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:trustee-operator-role"
+          ],
+          "rationale": "Trustee action is a distinct legal or structural role and must not be inferred from funding, administration, partnership or governance participation."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-approval-responsibility",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:governance-approval-responsibility"
+          ],
+          "rationale": "Approval authority is a governance responsibility and should not be merged with implementation, advisory participation or funding provision."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-financial-reporting",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "merge",
+          "successors": [
+            "cg-native:organisation-membership-and-conduct-commitment"
+          ],
+          "rationale": "The narrower concept duplicates the broader concept’s stated membership, signatory and conduct-code commitment semantics; retain the more descriptive preferred label and definition."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:external-auditor-appointment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-service-reach-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-service-reach-statement"
+          ],
+          "rationale": "The concept mixes organisation-level portfolio coverage with program/service reach. Make the boundary explicit so organisation-wide counts remain reach statements without being treated as named-program beneficiary scope."
+        },
+        {
+          "stage": "L-4-residual",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-service-reach-statement"
+          ],
+          "rationale": "Broaden the existing reach statement to cover reported program locations and organisational activity coverage without absorbing administrative addresses or historical expansion."
+        },
+        {
+          "stage": "L-5-final",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-service-reach-statement"
+          ],
+          "rationale": "Both concepts represent reported geographic, community or portfolio reach. The successor should retain the narrower distinction between operational/service reach and general first-party scale claims through its inclusion boundary."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-implementation-support-network",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:program-implementation-support-network"
+          ],
+          "rationale": "The concept appropriately captures shared management, expertise, technical specialists and strategy support used to implement programs without asserting that the support network is the operator."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-governance-oversight-responsibility",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "rationale": "The concept is governance-role semantics, but its current parent monitoring-and-evaluation practice makes a role assignment appear to be a practice. Remove that parent to preserve relationship-role distinctions."
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "rationale": "The concept captures assigned oversight, coordination, monitoring, evaluation and reporting responsibilities and is distinct from delivery and approval authority."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:stakeholder-participation-in-program-design",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:stakeholder-participation-in-program-design"
+          ],
+          "rationale": "Participation in program design is distinct from delivery, partnership, governance approval and advisory representation without design contribution."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:inclusive-conduct-guidance-requirement"
+          ],
+          "rationale": "The concept concerns guidance or conduct requirements, not strategic risk management. Remove the risk-management parent to avoid conflating policy requirements with risk governance."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-outcome-effectiveness-claim",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:principal-activity-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:named-program-classification-statement"
+          ],
+          "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-participation-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-financial-resource-change",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "merge",
+          "successors": [
+            "cg-native:organisation-membership-and-conduct-commitment"
+          ],
+          "rationale": "The narrower concept duplicates the broader concept’s stated membership, signatory and conduct-code commitment semantics; retain the more descriptive preferred label and definition."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:community-led-program-implementation-approach",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:board-committee-oversight-structure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:board-committee-oversight-structure"
+          ],
+          "rationale": "Governance committee structure is a narrower duplicate of board committee oversight structure: both describe named committees and their relationship to a governing body. The broader concept preserves structure without inferring committee activities or approval powers."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:responsible-investment-commitment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-economic-future-event",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-workshop-session-delivery",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-service-delivery-activity"
+          ],
+          "rationale": "Workshop session delivery is explicitly a subtype of program or service delivery activity, and its sole observation is already represented as a delivered activity. The distinction between activity and output is preserved because completed workshop counts remain under output-reporting concepts."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:strategy-localisation-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:strategy-impact-aim",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:fundraising-channel"
+          ],
+          "rationale": "The two concepts describe the same semantic object: mechanisms or pathways for soliciting or receiving fundraising support. The broader catalogue concept already covers pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:governance-committee-structure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:board-committee-oversight-structure"
+          ],
+          "rationale": "Governance committee structure is a narrower duplicate of board committee oversight structure: both describe named committees and their relationship to a governing body. The broader concept preserves structure without inferring committee activities or approval powers."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-classification-and-beneficiary-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:named-program-classification-statement"
+          ],
+          "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fund-registration-status",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:advocacy-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:entity-registration-profile",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-scale-or-community-description",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-5-final",
+          "action": "merge",
+          "successors": [
+            "cg-native:program-service-reach-statement"
+          ],
+          "rationale": "Both concepts represent reported geographic, community or portfolio reach. The successor should retain the narrower distinction between operational/service reach and general first-party scale claims through its inclusion boundary."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:governance-personnel-role-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:independent-audit-opinion",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:financial-reporting-scope-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-identity-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-5-final",
+          "action": "retain",
+          "successors": [
+            "cg-native:program-identity-statement"
+          ],
+          "rationale": "This is a necessary low-level identity concept for named programs and should not be absorbed into purpose, activity, reach or classification concepts."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-proceeds-report",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:workforce-and-volunteer-profile",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:consolidated-reporting-group-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-reporting-deadline-status",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-5-final",
+          "action": "deprecate",
+          "successors": [],
+          "rationale": "The supplied attachments repeatedly apply this concept to last-reported timestamps, filing status and reporting-period metadata that are not deadlines. Deprecate rather than broaden it, because the observations do not establish a coherent semantic category for those metadata fields and source/evidence metadata must not be treated as a semantic concept."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:funding-eligibility-exclusion",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "reparent",
+          "successors": [
+            "cg-native:funding-eligibility-exclusion"
+          ],
+          "rationale": "The concept is a rule governing a funding process, not a subtype of grant-and-sponsorship funding as an activity. Reparent it under the process concept while preserving the exclusion-rule role."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:traditional-custodian-recognition-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:network-geographic-expansion-history",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-organisational-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:named-program-classification-statement"
+          ],
+          "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-demographic-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-registration-coverage",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:fundraising-registration-coverage"
+          ],
+          "rationale": "Registration coverage is an administrative status record, not a fundraising method or activity. Clarify the definition and remove the parent link to fund registration status, which could imply that this is a named-fund status."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:financial-risk-management-implementation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:international-funds-distribution-network",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:international-funds-distribution-network"
+          ],
+          "rationale": "Funds distribution through named entities and treasury coordination is a distinct operational relationship and should not be merged with program delivery or implementation support."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-regulatory-purpose-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regulatory-enforcement-record-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-population-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:built-or-equipped-facility-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-4-residual",
+          "action": "split",
+          "successors": [
+            "cg-native:built-or-equipped-facility-output",
+            "cg-native:training-delivery-output-count",
+            "cg-native:clinical-operation-output-count"
+          ],
+          "rationale": "The zero-observation workshop identifies two distinct quantified delivery outputs not covered by the catalogue: people trained and cataract operations. Preserve output status and avoid conflating participation, training delivery and clinical operations."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:governance-quorum-and-voting-rule",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:governance-quorum-and-voting-rule"
+          ],
+          "rationale": "The advisory-committee concept is a narrower duplicate of the quorum-and-voting concept: its sole observation concerns quorum and casting-vote rules, already covered by the latter concept."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:funded-role-continuation-support",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:funded-role-continuation-support"
+          ],
+          "rationale": "Funding a recipient’s continuing or expanding role is a funding-support relation and does not establish that the funder operates or delivers that role."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:planned-workshop-and-summit-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisation-network-affiliation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:organisation-network-affiliation"
+          ],
+          "rationale": "Network affiliation is weaker and semantically different from delivery, partnership, sponsorship or implementation support; retain the distinction."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:initiative-launch-history",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-charity-form-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-location-registration",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-zero-revenue-category",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-net-assets-and-liabilities",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:advisory-committee-governance-rule",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "merge",
+          "successors": [
+            "cg-native:governance-quorum-and-voting-rule"
+          ],
+          "rationale": "The advisory-committee concept is a narrower duplicate of the quorum-and-voting concept: its sole observation concerns quorum and casting-vote rules, already covered by the latter concept."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:governance-meeting-activity-report",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:auditor-professional-conduct-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:temporal-source-scope-mismatch",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "deprecate",
+          "successors": [],
+          "rationale": "These concepts describe evidence coverage, extraction limitations or temporal metadata rather than the organisation, activity, output, outcome, purpose or relationship semantics represented in the ontology. They should remain provenance or quality annotations, not ontology concepts."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:official-entity-identifier-record",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "deprecate",
+          "successors": [
+            "cg-native:entity-registration-profile"
+          ],
+          "rationale": "The catalogue entry has no supporting observations and its content is already covered as an attribute of entity registration profile. It should not remain as an unpopulated semantic object."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:financial-source-content-limitation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "deprecate",
+          "successors": [],
+          "rationale": "These concepts describe evidence coverage, extraction limitations or temporal metadata rather than the organisation, activity, output, outcome, purpose or relationship semantics represented in the ontology. They should remain provenance or quality annotations, not ontology concepts."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:program-contingent-liability-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-2-epistemic-grain",
+          "action": "redefine",
+          "successors": [
+            "cg-native:program-contingent-liability-absence"
+          ],
+          "rationale": "The current label and definition say “program or organisation” although the supporting observation is organisation-level financial reporting. Remove the misleading program scope while preserving the absence-status distinction."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:external-entity-identity-binding",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:administrative-status-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-1-structural",
+          "action": "deprecate",
+          "successors": [],
+          "rationale": "These concepts describe evidence coverage, extraction limitations or temporal metadata rather than the organisation, activity, output, outcome, purpose or relationship semantics represented in the ontology. They should remain provenance or quality annotations, not ontology concepts."
+        }
+      ],
+      "active": false
+    },
+    {
+      "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        },
+        {
+          "stage": "L-3-relationship-role",
+          "action": "retain",
+          "successors": [
+            "cg-native:funds-held-in-trust-and-administration-arrangement"
+          ],
+          "rationale": "The concept preserves the combined trust-holding and administrative-support arrangement and should remain distinct from the trustee operator role and grantmaking process."
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:training-delivery-output-count",
+      "lineage": [
+        {
+          "stage": "L-4-residual",
+          "action": "split",
+          "predecessors": [
+            "cg-native:built-or-equipped-facility-output"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:clinical-operation-output-count",
+      "lineage": [
+        {
+          "stage": "L-4-residual",
+          "action": "split",
+          "predecessors": [
+            "cg-native:built-or-equipped-facility-output"
+          ]
+        }
+      ],
+      "active": true
+    }
+  ],
+  "terra": [
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-operator",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-delivery-partnership",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-business-networking-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:workshop-series-delivery-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:strategic-risk-management-requirement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:voluntary-advisory-governance-participation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-ethos-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-purpose-or-intended-change",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-service-delivery-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:sponsorship-support-relationship",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:project-partnership-support",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:trustee-operator-role",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-approval-responsibility",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-financial-reporting",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:external-auditor-appointment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-service-reach-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-implementation-support-network",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-governance-oversight-responsibility",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:stakeholder-participation-in-program-design",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-outcome-effectiveness-claim",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:principal-activity-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-participation-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-financial-resource-change",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:community-led-program-implementation-approach",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:board-committee-oversight-structure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:responsible-investment-commitment",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regional-economic-future-event",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-workshop-session-delivery",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:strategy-localisation-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:strategy-impact-aim",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-committee-structure",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-classification-and-beneficiary-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fund-registration-status",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:advocacy-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:entity-registration-profile",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-scale-or-community-description",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-personnel-role-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:independent-audit-opinion",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:financial-reporting-scope-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-identity-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-proceeds-report",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:workforce-and-volunteer-profile",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:consolidated-reporting-group-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-reporting-deadline-status",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:funding-eligibility-exclusion",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:traditional-custodian-recognition-statement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:network-geographic-expansion-history",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-organisational-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-demographic-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:fundraising-registration-coverage",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:financial-risk-management-implementation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:international-funds-distribution-network",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-regulatory-purpose-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:regulatory-enforcement-record-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-population-scope",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:built-or-equipped-facility-output",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-quorum-and-voting-rule",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:funded-role-continuation-support",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:planned-workshop-and-summit-activity",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:organisation-network-affiliation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:initiative-launch-history",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-charity-form-classification",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-location-registration",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-zero-revenue-category",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:reported-net-assets-and-liabilities",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:advisory-committee-governance-rule",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:governance-meeting-activity-report",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:auditor-professional-conduct-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:temporal-source-scope-mismatch",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:official-entity-identifier-record",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:financial-source-content-limitation",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:program-contingent-liability-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:external-entity-identity-binding",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:administrative-status-absence",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    },
+    {
+      "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,1071 @@
+{
+  "cases": [
+    {
+      "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+      "observation": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "subject": "Australian Communities Foundation",
+        "section_id": 13,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "ABN Lookup states that the entity is not entitled to receive tax deductible gifts.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0101]",
+            "role": "supporting",
+            "excerpt": "Deductible gift recipient status"
+          },
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0103]",
+            "role": "supporting",
+            "excerpt": "Not entitled to receive tax deductible gifts"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns deductible-gift-recipient tax status, for which no frozen catalogue concept is provided."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept precisely covers an entity's deductible-gift-recipient ineligibility status.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+      "observation": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "subject": "Australian Communities Foundation",
+        "section_id": 14,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation presents itself as a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0196]",
+            "role": "supporting",
+            "excerpt": "Australian Communities Foundation is a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality."
+          }
+        ],
+        "qualifications": [
+          "This is an official website statement about institutional identity."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "concept_ids": [
+          "cg-native:organisational-ethos-statement"
+        ],
+        "support_rationale": "The organisation explicitly describes itself as inclusive and as an ally of LGBTQIA+ communities, expressing institutional identity and values.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "concept_ids": [
+          "cg-native:organisational-ethos-statement",
+          "cg-native:organisational-diversity-and-inclusion-value"
+        ],
+        "support_rationale": "The organisation describes itself as inclusive and an ally of LGBTQIA+ communities and equality.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-ethos-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+      "observation": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "subject": "Australian Communities Foundation",
+        "section_id": 15,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation's website acknowledges Aboriginal and Torres Strait Islander peoples as the first inhabitants and Traditional Custodians of the lands on which it operates, and states that it pays respects to Elders past and present.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0195]",
+            "role": "supporting",
+            "excerpt": "We acknowledge Aboriginal and Torres Strait Islander peoples as the first inhabitants and Traditional Custodians of the lands on which we live, learn and work."
+          }
+        ],
+        "qualifications": [
+          "This evidences a public website statement or commitment; the packet does not independently evaluate implementation."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The observation explicitly recognises Aboriginal and Torres Strait Islander peoples as Traditional Custodians and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The organisation explicitly acknowledges Aboriginal and Torres Strait Islander peoples as Traditional Custodians and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:traditional-custodian-recognition-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+      "observation": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The packet contains conflicting tax-status statements: ABN Lookup says the entity is not entitled to receive tax deductible gifts, while the 2025 financial report says it is a deductible gift recipient.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "ABN Lookup current record and year ended 30 June 2025 financial report"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0103]",
+            "role": "supporting",
+            "excerpt": "Not entitled to receive tax deductible gifts"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0390]",
+            "role": "supporting",
+            "excerpt": "The Company is a deductible gift recipient."
+          }
+        ],
+        "qualifications": [
+          "The packet does not resolve which statement reflects the applicable status."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns conflicting deductible-gift-recipient tax-status statements, for which no frozen catalogue concept is provided."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "support_rationale": "The observation explicitly identifies conflicting tax-status statements from different sources and temporal contexts.",
+        "missing_concept_suggestion": "A concept for conflicting administrative or tax-status statements would provide a more precise match.",
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+      "observation": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The packet contains a beneficiary-data discrepancy: the register and Program 1 record list “Other charities”, while the 2025 AIS BeneficiaryOtherCharities field is false.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "register/program record and 2025 AIS"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0030]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Other charities\""
+          },
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0687]",
+            "role": "supporting",
+            "excerpt": "\"Other charities\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0080]",
+            "role": "supporting",
+            "excerpt": "\"BeneficiaryOtherCharities\": false"
+          }
+        ],
+        "qualifications": [
+          "The packet does not reconcile the differing record structures or reporting times."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "support_rationale": "The observation reports the beneficiary category “Other charities” for the register and program record, while separately reporting a conflicting AIS boolean.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The concepts capture the beneficiary-scope content; the discrepancy itself is not represented by a dedicated catalogue concept."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "support_rationale": "The observation explicitly reports a discrepancy across register, program and 2025 AIS records with mixed reporting positions.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+      "observation": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The financial-report text extraction identifies representation gaps at pages 5 and 21.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 June 2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0097]",
+            "role": "supporting",
+            "excerpt": "Page 5:"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0555]",
+            "role": "supporting",
+            "excerpt": "Page 21:"
+          }
+        ],
+        "qualifications": [
+          "This is a packet representation limitation, not a claim that the underlying pages contain no information."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for source or packet representation gaps is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "support_rationale": "The observation explicitly identifies representation gaps in the supplied financial-report extraction.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+      "observation": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The Foundation states its vision is a world in which no person is needlessly blind or vision impaired.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0121]-[S003:L0124]",
+            "role": "supporting",
+            "excerpt": "\"A world in which no person is needlessly blind or vision impaired.\""
+          }
+        ],
+        "qualifications": [
+          "This is the Foundation's stated vision."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation explicitly states the Foundation's vision.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation reports the Foundation's stated vision.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+      "observation": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Eritrea Trachoma Elimination Project"
+        },
+        "proposition": "The 2025 AIS identifies the Eritrea Trachoma Elimination Project as a program in Eritrea.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:052bbdadc0e167c0f38974f576ee481924c22cfa04b84442135b58579279d29d",
+            "packet_locator": "[S002:L0296]-[S002:L0316]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Eritrea Trachoma Elimination Project\""
+          }
+        ],
+        "qualifications": [
+          "The filed program record lists Eritrea as the program country."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The observation identifies a named program and states that it is located in Eritrea.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed record names the program and records Eritrea as its program country.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-identity-statement",
+        "cg-native:program-location-registration"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+      "observation": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 5,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory"
+        },
+        "proposition": "The filed program record specifies locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:052bbdadc0e167c0f38974f576ee481924c22cfa04b84442135b58579279d29d",
+            "packet_locator": "[S002:L0339]-[S002:L0380]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Northern Territory\""
+          }
+        ],
+        "qualifications": [
+          "The program's source-native name refers to the Top End of the Northern Territory, while its filed location list also includes New South Wales, Western Australia and Queensland."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "concept_ids": [
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed program record explicitly lists the named program's recorded locations.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "concept_ids": [
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed program record explicitly lists the program locations.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-location-registration"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+      "observation": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 9,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "Jane Madden was Chair of the Board as at 25 March 2026.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": "2026-03-25"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0017]-[S003:L0029]",
+            "role": "supporting",
+            "excerpt": "\"Current Directors Jane Madden (Chair) as at 25 March 2026\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The observation identifies Jane Madden as Chair of the Board at a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The observation identifies Jane Madden as Chair of the Board at a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:governance-personnel-role-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+      "observation": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 12,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "The Foundation and its subsidiaries"
+        },
+        "proposition": "During 2025, Bloomberg Philanthropies provided a USD 15.5 million grant, managed by the US team, to support the Foundation's work over two years.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0129]-[S003:L0133]",
+            "role": "supporting",
+            "excerpt": "\"grant of USD 15.5 million (AUD 23.2 million) over two years\""
+          }
+        ],
+        "qualifications": [
+          "The financial report states that the grant was being managed by the US team."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation reports a grant supporting the Foundation’s work, but the catalogue has no dedicated grant-receipt or grant amount concept; the funding-process concept is the closest available match.",
+        "missing_concept_suggestion": "A concept for reported grant funding received, including grant amount and funding recipient, would represent this observation more precisely.",
+        "ambiguity_note": "The concept’s boundaries focus on organised grant administration rather than receipt of a grant by the subject, so this is an imperfect catalogue match."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation reports a grant supporting the Foundation’s work over two years, but does not describe a grant application or administration process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue has no precise concept for a received grant or grant support relationship; the process concept is only an approximate match."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+      "observation": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 16,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The ACNC register record contains no listed enforcement outcomes for the charity.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:240603fcd347ae3dad922030a6f255dd6d944c217ff9320cc444f1947b788da8",
+            "packet_locator": "[S001:L0693]-[S001:L0702]",
+            "role": "supporting",
+            "excerpt": "\"EnforcementOutcomes\": []"
+          }
+        ],
+        "qualifications": [
+          "This is limited to the enforcement-outcomes field in the supplied ACNC register record and is not evidence of absence of all adverse, compliance or conduct matters."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "concept_ids": [
+          "cg-native:regulatory-enforcement-record-absence"
+        ],
+        "support_rationale": "The observation explicitly reports an empty enforcement-outcomes field in the supplied ACNC record.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "concept_ids": [
+          "cg-native:regulatory-enforcement-record-absence"
+        ],
+        "support_rationale": "The supplied ACNC record contains an empty enforcement-outcomes field, which is an explicit absence in that source field.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regulatory-enforcement-record-absence"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+      "observation": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 17,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "An external Wikipedia article describes the Foundation as founded in 1992 by eye surgeon Fred Hollows.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "1992"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:2f9106c014d0efeb438ad1244947949d331d5e4498fb3533dd9d778b4cee2c77",
+            "packet_locator": "[S006:L0028]",
+            "role": "supporting",
+            "excerpt": "\"The Fred Hollows Foundation was founded on 3 September 1992 by Fred Hollows\""
+          }
+        ],
+        "qualifications": [
+          "This is external editorial context from Wikipedia, not a regulator record."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was founded in 1992, providing a historical launch statement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is framed around a named initiative launch, while this observation concerns organisational founding history."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports the Foundation's founding in 1992, including founder and date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is defined for named initiatives, while this observation concerns organisational founding."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:initiative-launch-history"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+      "observation": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 18,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Cameroon Cataract Bond"
+        },
+        "proposition": "The Foundation reports that the Cameroon Cataract Bond achieved its milestones, met its impact targets and reached the end of its planned cycle.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0951]-[S003:L0958]",
+            "role": "supporting",
+            "excerpt": "\"The Cameroon Cataract Bond has achieved its milestones, met its impact targets\""
+          }
+        ],
+        "qualifications": [
+          "This outcome statement is reported in the Foundation's financial report; the packet does not supply the underlying independent evaluation."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "support_rationale": "The observation reports that a named program achieved milestones and met impact targets, supporting an outcome/effectiveness claim and a reported evaluation or milestone-review practice.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The source-reported statement is not supplied as an independent evaluation, as noted in the qualification."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "support_rationale": "The report states that the named bond achieved milestones and met impact targets, while preserving the reported evaluation-related nature of the statement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:monitoring-and-evaluation-practice",
+        "cg-native:program-outcome-effectiveness-claim"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+      "observation": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 19,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "ABN Lookup reports the Foundation as a Health Promotion Charity for charity tax-concession purposes.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:16089e402c7d7b095ec9826464255b7bcb37b7ae923e2a6a7a60a2dcbf462336",
+            "packet_locator": "[S004:L0073]-[S004:L0078]",
+            "role": "supporting",
+            "excerpt": "\"is a Health Promotion Charity\""
+          }
+        ],
+        "qualifications": [
+          "This reproduces a source-reported tax-concession classification."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reproduces an official source-reported charity subtype or purpose classification.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "concept_ids": [
+          "cg-native:official-organisational-classification"
+        ],
+        "support_rationale": "ABN Lookup reports the Foundation’s charity tax-concession subtype as Health Promotion Charity.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+      "observation": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register records the organisation's legal name as TWEED REGIONAL GALLERY FOUNDATION LIMITED.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          },
+          {
+            "source": "S002",
+            "locator": "L0001",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports the organisation's official legal name from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports the organisation's legal name from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+      "observation": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register records the organisation's status as Registered.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This is a source-reported register status; no additional legal characterization is inferred."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official register status for the named organisation.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The ACNC register reports the organisation’s registered status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation gives status but no identifier or entity-type detail."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+      "observation": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register record reports NextReportDue as 2027-01-31T23:30:00.0000000Z.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-22T07:06:04.0000000Z"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "The proposition reports the register field without inferring whether the date changed subsequently."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for next-report-due or regulatory filing due-date status is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "concept_ids": [
+          "cg-native:official-reporting-deadline-status"
+        ],
+        "support_rationale": "The ACNC record reports a specific NextReportDue date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+      "observation": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "The Trustee for Local Buying Foundation (WA)"
+        },
+        "proposition": "The ATO ABN record characterises the entity as a Discretionary Investment Trust, active from 1 June 2020.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-08-31"
+        },
+        "evidence": [
+          {
+            "source": "S004",
+            "locator": "L0039-L0048",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official entity type, active status and effective date from an ATO ABN record.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "concept_ids": [
+          "cg-native:official-organisational-classification",
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The ATO record reports the entity's classification as a Discretionary Investment Trust and its active status from a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+      "observation": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC register records the charity subtype purpose as Advancing social or public welfare, beginning 31 May 2020 and with no recorded end date.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "from 2020-05-31; no end date recorded"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0315-L0321",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reports a charity subtype purpose classification and its recorded start and end-date status in an official register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The ACNC register reports a charity subtype purpose classification with a start date and no recorded end date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:reported-regulatory-purpose-classification"
+      ]
+    }
+  ]
+}

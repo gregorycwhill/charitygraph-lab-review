@@ -1,0 +1,2104 @@
+{
+  "concepts": [
+    {
+      "concept_id": "cg-native:philanthropic-giving-enablement",
+      "preferred_label": "Philanthropic giving enablement",
+      "definition": "Activities and services that help people or organisations structure, contribute to, administer or access giving and funding pathways.",
+      "inclusion_boundary": "Includes donor-advised funds, named funds, collective or workplace giving, grantmaking administration, fundraising infrastructure and related professional support.",
+      "exclusion_boundary": "Excludes the charitable purpose pursued by funded projects, fundraising receipts themselves, and verified outcomes of funded work.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:regional-capability-development",
+      "preferred_label": "Regional capability development",
+      "definition": "Activities intended to strengthen skills, leadership, business capability, networks, innovation or productive capacity within regional communities or economies.",
+      "inclusion_boundary": "Includes mentoring, workshops, business networking, leadership development, innovation initiatives and support for regional businesses or industries.",
+      "exclusion_boundary": "Excludes general grant administration, standalone fundraising, and claims of improved economic conditions unless separately evidenced as outcomes.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:3d598e6193e3c8e4d73ad583369f18e5abbddc304e302f08",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:639f5b802409ceacc9b2e9ff9d8978ffa945c278f7a48c9c",
+        "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+        "nativeobs:f50ec0fd928bb82a0066e370261250f02774701da4ea717f"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "preferred_label": "Grant and sponsorship funding process",
+      "definition": "The organised process through which funding applications are received, assessed, approved, administered or disbursed for projects or programs.",
+      "inclusion_boundary": "Includes funding rounds, online applications, advisory assessment, grants-management platforms, sponsorship processes and fund disbursement governance.",
+      "exclusion_boundary": "Excludes fundraising by donors, the funded project’s delivery activities, and financial expenditure after funding is disbursed.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "nativeobs:faa74436c9963479876645e29e8e3d768683d96fe209ca49"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-delivery-output-reporting",
+      "preferred_label": "Program delivery output reporting",
+      "definition": "Reporting of delivered activities or immediate outputs, such as people trained, people screened, operations performed, events held or sessions delivered.",
+      "inclusion_boundary": "Includes counts and descriptions of completed services, events, training, screening, operations and workshops.",
+      "exclusion_boundary": "Excludes intended purposes, implementation plans, longer-term outcomes and impact claims.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+        "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "nativeobs:5b54b006bc0f12c3b4186a6c63bbc8f5a012e54b91c21da7",
+        "nativeobs:8f75727b71e127d42b6a68164ba4bf42e07579df6aa1403b",
+        "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "preferred_label": "Monitoring and evaluation practice",
+      "definition": "An organisation’s stated or documented practice of reviewing activities or projects against plans, identifying what is working, and assessing outcomes or impact.",
+      "inclusion_boundary": "Includes monitoring, evaluation points in project lifecycles, performance review, milestone assessment and impact-target assessment.",
+      "exclusion_boundary": "Excludes the underlying activity or output being evaluated and does not imply that evaluation findings establish effectiveness.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+        "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)",
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:fundraising-channel",
+      "preferred_label": "Fundraising channel",
+      "definition": "A distinct mechanism or pathway used to solicit or receive donations, sponsorships, bequests or other fundraising support.",
+      "inclusion_boundary": "Includes regular giving, public events, direct mail, corporate or trust donations, online fundraising, sponsorship and gifts in wills.",
+      "exclusion_boundary": "Excludes expenditure of raised funds, grantmaking from funds, and general donor-support services unless a solicitation mechanism is specified.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:7782f088faf934c1957b702b0567772766fcb884513412e5",
+        "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225",
+        "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+        "nativeobs:82ce6990e89cdf738777ed50846fd33f4345ecc6ca6e60c0",
+        "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb"
+      ],
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:stated-purpose-or-vision",
+      "preferred_label": "Stated purpose or vision",
+      "definition": "A formally or publicly expressed description of the change an organisation seeks to pursue or the future condition it aspires to support.",
+      "inclusion_boundary": "Includes purpose, vision, long-term objectives and strategic aims stated by the organisation.",
+      "exclusion_boundary": "Excludes activities, delivered outputs and independently verified outcomes or impact.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:579c378054bd2772172251af900e7fcbe851f81f6f9587b8",
+        "nativeobs:4aad2694815911c0bac9ef4e773bc7818560c0cbc61c853b",
+        "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "nativeobs:5c483a789122e1e43984430346c30c0f48ea90b82a724a7d",
+        "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "nativeobs:9c8b1c252550f84078ffcdc0b4818bfeb17907984eb918ff"
+      ],
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)",
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-delivery-operator",
+      "preferred_label": "Program delivery operator",
+      "definition": "The organisation or entity explicitly identified as carrying out or delivering a named program, initiative, event, workshop or service.",
+      "inclusion_boundary": "Includes explicit statements that an organisation or entity delivered a program or initiative.",
+      "exclusion_boundary": "Excludes funders, sponsors, partners, auspice bodies or organisations merely described as supporting, funding or participating unless delivery is also explicitly stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172",
+        "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-delivery-partnership",
+      "preferred_label": "Program delivery partnership",
+      "definition": "An explicit relationship in which two or more named entities jointly deliver, operate or implement a program or initiative.",
+      "inclusion_boundary": "Includes named delivery partnerships where the source explicitly identifies the participating entities and delivery relationship.",
+      "exclusion_boundary": "Excludes general collaboration, funding, sponsorship, advisory membership or stakeholder representation without an explicit delivery or implementation relationship.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:regional-business-networking-activity",
+      "preferred_label": "Regional business networking activity",
+      "definition": "An activity organised to create connection, conversation, collaboration or networking opportunities among businesses or business-community participants in a regional setting.",
+      "inclusion_boundary": "Includes business networking events and activities explicitly described as connecting businesses or strengthening business networks.",
+      "exclusion_boundary": "Excludes general capability development without a networking component, formal partnerships, and claimed economic outcomes not separately evidenced.",
+      "parent_concept_id": "cg-native:regional-capability-development",
+      "supporting_observation_ids": [
+        "nativeobs:f50ec0fd928bb82a0066e370261250f02774701da4ea717f"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:workshop-series-delivery-output",
+      "preferred_label": "Workshop series delivery output",
+      "definition": "A completed sequence of workshops delivered as an immediate program output.",
+      "inclusion_boundary": "Includes a stated number or sequence of completed workshops, whether face-to-face or otherwise, when delivery is reported as completed.",
+      "exclusion_boundary": "Excludes workshop intentions, capability outcomes, attendance impacts and broader program purposes.",
+      "parent_concept_id": "cg-native:program-delivery-output-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:78ec0389690148e5f217533f021607b0442ec19396f6f172"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:strategic-risk-management-requirement",
+      "preferred_label": "Strategic risk management requirement",
+      "definition": "A stated governance requirement to identify, manage and review organisational risks across specified domains.",
+      "inclusion_boundary": "Includes requirements covering reputation, financial management, compliance, stakeholder engagement or comparable risk areas, including scheduled review requirements.",
+      "exclusion_boundary": "Excludes evidence that the requirement was implemented, risk events, achieved risk reduction or general governance statements without a risk-management requirement.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:730a55aa58f7c0ff06c6c92afba0cf9c9f41c04cc3bb28a2"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:voluntary-advisory-governance-participation",
+      "preferred_label": "Voluntary advisory governance participation",
+      "definition": "Unpaid participation by appointed members in an advisory or governance body associated with an organisation.",
+      "inclusion_boundary": "Includes explicit statements that advisory committee membership is voluntary, together with the associated appointed-member role where evidenced.",
+      "exclusion_boundary": "Excludes paid personnel, general stakeholder representation, board remuneration, and voluntary program or community work outside an advisory or governance body.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:a09db84c3223d1447e1c7683122ff3bc896b31872d7dc093"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-ethos-statement",
+      "preferred_label": "Organisational ethos statement",
+      "definition": "An explicit organisational self-description expressing an organisation’s guiding ethos, identity or value orientation.",
+      "inclusion_boundary": "Includes organisational descriptions of guiding identity or values when stated at organisational level.",
+      "exclusion_boundary": "Excludes individual biographies, affiliations of directors or personnel, compliance declarations, and inferred institutional ethos.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:48bcc097d5446697552b035e914a521e5a48f4e11a9c8792"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-purpose-or-intended-change",
+      "preferred_label": "Program purpose or intended change",
+      "definition": "A stated description of what a named program or project is intended to address, support or change.",
+      "inclusion_boundary": "Includes program- or project-level intentions, aims and intended conditions when distinct from organisational purpose.",
+      "exclusion_boundary": "Excludes completed activities or outputs, measured outcomes, impacts and organisation-wide purpose statements.",
+      "parent_concept_id": "cg-native:stated-purpose-or-vision",
+      "supporting_observation_ids": [
+        "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7",
+        "nativeobs:8e8fb228b5a71a3a1fc4c2db3301c5359ea565ea8e71e94d",
+        "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8"
+      ],
+      "organisations": [
+        "World Vision Australia",
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-service-delivery-activity",
+      "preferred_label": "Program or service delivery activity",
+      "definition": "An activity carried out as part of delivering a named program, project or service.",
+      "inclusion_boundary": "Includes screening, mentoring, project work and other explicitly described delivery activities.",
+      "exclusion_boundary": "Excludes stated purposes, intended activities not yet delivered, quantified output reporting and claimed outcomes or impacts.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation",
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "preferred_label": "Program beneficiary or service reach",
+      "definition": "A statement identifying the people, groups, communities, organisations or places a named program or service serves or reaches.",
+      "inclusion_boundary": "Includes named beneficiary groups, geographic reach and reported participation or audience scope when attached to a program or service.",
+      "exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:49dcd625d9337d45d6b5cb7e406a1df8ae937e66ab3f2841",
+        "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+      ],
+      "organisations": [
+        "World Vision Australia",
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:sponsorship-support-relationship",
+      "preferred_label": "Sponsorship support relationship",
+      "definition": "An explicit relationship in which one named entity sponsors or provides sponsorship support to a named event, project or activity.",
+      "inclusion_boundary": "Includes explicit sponsorship of events or projects and identifies the supported object where stated.",
+      "exclusion_boundary": "Excludes general funding, grants, partnerships, delivery relationships and sponsorship mechanisms without an identified supported activity.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:6de71c57a63e3abc4d8630886761112c0f19ebc99d6322c8"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:project-partnership-support",
+      "preferred_label": "Project partnership support",
+      "definition": "An explicit relationship in which a named project leverages or relies on partnership with another named entity.",
+      "inclusion_boundary": "Includes project descriptions that explicitly identify partnerships supporting or contributing to project delivery or development.",
+      "exclusion_boundary": "Excludes sponsorship, funding, joint delivery, general collaboration and stakeholder mentions without a project-linked partnership statement.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:trustee-operator-role",
+      "preferred_label": "Trustee operator role",
+      "definition": "An explicit role in which an organisation acts as trustee for one or more named entities or structures.",
+      "inclusion_boundary": "Includes statements assigning trustee responsibility to an organisation for named entities or structures.",
+      "exclusion_boundary": "Excludes funder, sponsor, partner, auspice, network or governance roles unless trustee action is explicitly stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:governance-approval-responsibility",
+      "preferred_label": "Governance approval responsibility",
+      "definition": "An assigned governance responsibility to approve memberships, funding recommendations, strategic documents or compliance requirements.",
+      "inclusion_boundary": "Includes explicit allocation of approval authority to trustees or another governance body.",
+      "exclusion_boundary": "Excludes implementation of approved decisions, advisory participation, funding provision and general governance descriptions without an approval responsibility.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:df60b1b6aa7f8e5be59d959e4d3a19c9feebc2183c3173b9"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-financial-reporting",
+      "preferred_label": "Organisational financial reporting",
+      "definition": "Reported financial amounts describing an organisation’s revenue, expenditure, assets, liabilities, surplus or related financial position for a specified period.",
+      "inclusion_boundary": "Includes reported financial totals and components, including fundraising or grant-related amounts when explicitly identified as financial statement items.",
+      "exclusion_boundary": "Excludes fundraising channels, funding processes, financial plans, inferred financial health and claims about outcomes funded by expenditure.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:e8642af1e4471aaa73780e19fde20389fa8460560b9c77ba",
+        "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171c066016",
+        "nativeobs:35c73756704b25a849c489f2def8bb9bd00c9d16208d759f",
+        "nativeobs:ac1ae463c73fc0c727e8eabfd767bcbc7353d1d3fccbfca6"
+      ],
+      "organisations": [
+        "Australian Communities Foundation",
+        "The Fred Hollows Foundation",
+        "World Vision Australia",
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "preferred_label": "Organisational membership or compliance statement",
+      "definition": "A stated organisational membership in a named body or declaration of compliance with a named code or requirement.",
+      "inclusion_boundary": "Includes explicit membership and compliance statements attributed to the organisation.",
+      "exclusion_boundary": "Excludes general ethos, internal policies, audit appointments and independently verified compliance findings unless separately stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:92b69f11f8c40a46eb1d6fdced29bfeaceb5c3b9ad6d2b06"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:external-auditor-appointment",
+      "preferred_label": "External auditor appointment",
+      "definition": "The formal appointment of an external auditor for a specified reporting period.",
+      "inclusion_boundary": "Includes explicit appointment statements identifying the auditor and reporting period.",
+      "exclusion_boundary": "Excludes audit findings, compliance claims, internal review and general financial reporting.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-service-reach-statement",
+      "preferred_label": "Program or service reach statement",
+      "definition": "A reported statement describing the people, places, programs, projects or partners reached or covered by an organisation’s program or service activity.",
+      "inclusion_boundary": "Includes reported counts or geographic and program coverage attached to a named program, service or portfolio, including reported reach claims and program or project counts.",
+      "exclusion_boundary": "Excludes registered-office or other administrative locations, delivery activities without reach or coverage, financial amounts, and unverified claims of benefit or impact.",
+      "parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "supporting_observation_ids": [
+        "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+        "nativeobs:f1c3efe0bc2df65c2ca5ac2180888dc7df55c7d03624d5bf",
+        "nativeobs:5c549d209344779134be6380e000c21782889005d23787d2"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-implementation-support-network",
+      "preferred_label": "Program implementation support network",
+      "definition": "A network, shared capability arrangement or named set of entities and resources described as supporting implementation of programs.",
+      "inclusion_boundary": "Includes shared management, expertise, technical specialists, strategy support and named organisational networks explicitly connected to program implementation.",
+      "exclusion_boundary": "Excludes general partnerships, funding, sponsorship, delivery operators and broad affiliations without an implementation-support role.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:a61fb5f357ee4ee1ce263f510e9cdeab866e27f001c82097"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "preferred_label": "Commitment to standards or conduct",
+      "definition": "An organisation’s stated commitment or reported adherence to a named code, standard or conduct requirement.",
+      "inclusion_boundary": "Includes explicit adherence statements and associated reporting or presentation commitments where stated.",
+      "exclusion_boundary": "Excludes general ethos, formal membership alone, audit appointments, independent verification, and evidence of full implementation beyond the stated scope.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:80c38933a05c7d084d076edffaccce53399424dcaa2c6f2db4eb03eef2eca247d21fd",
+        "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-governance-oversight-responsibility",
+      "preferred_label": "Program governance oversight responsibility",
+      "definition": "An assigned role or responsibility for strategic oversight, coordination, monitoring, evaluation or reporting concerning programs or organisational activities.",
+      "inclusion_boundary": "Includes explicit governance role descriptions covering oversight, decision-making, monitoring and evaluation, coordination or reporting.",
+      "exclusion_boundary": "Excludes program delivery, funding, sponsorship, advisory participation without assigned responsibility, and risk requirements unless oversight responsibility is explicit.",
+      "parent_concept_id": "cg-native:monitoring-and-evaluation-practice",
+      "supporting_observation_ids": [
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:stakeholder-participation-in-program-design",
+      "preferred_label": "Stakeholder participation in program design",
+      "definition": "An explicit arrangement in which representatives of an identified stakeholder group contribute to designing a named program or pilot.",
+      "inclusion_boundary": "Includes named reference groups or comparable bodies whose members contributed to program design.",
+      "exclusion_boundary": "Excludes program delivery, consultation without design contribution, stakeholder engagement stated only as a governance duty, and general partnership or representation.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:90a8e86e8b5631cf99af912002181e7bd8924b79dfcb86e0"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "preferred_label": "Inclusive conduct guidance requirement",
+      "definition": "A stated requirement or encouragement concerning respectful, inclusive or culturally attentive conduct in funded or supported activities.",
+      "inclusion_boundary": "Includes explicit guidance about acknowledgements, respectful language and related conduct expectations for funded organisations.",
+      "exclusion_boundary": "Excludes evidence that guidance was implemented, general organisational ethos, program outcomes, and conduct requirements unrelated to supported activities.",
+      "parent_concept_id": "cg-native:strategic-risk-management-requirement",
+      "supporting_observation_ids": [
+        "nativeobs:69ff2402f4ddb1bdfe628e7f4a43c191f8a553b761e6fc9c"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-outcome-effectiveness-claim",
+      "preferred_label": "Program outcome or effectiveness claim",
+      "definition": "A stated claim that program activities or outputs contribute to improved conditions, participation, capability, performance or other intended change.",
+      "inclusion_boundary": "Includes attributed claims connecting program support or activities with outcomes or effectiveness, while preserving their reported status.",
+      "exclusion_boundary": "Excludes purposes, plans, delivered outputs, reach statements and independently verified impact findings.",
+      "parent_concept_id": "cg-native:program-purpose-or-intended-change",
+      "supporting_observation_ids": [
+        "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:principal-activity-statement",
+      "preferred_label": "Principal activity statement",
+      "definition": "A reported description of an organisation’s principal activities during a specified period.",
+      "inclusion_boundary": "Includes organisation-level statements identifying the main activities undertaken or reported for a period.",
+      "exclusion_boundary": "Excludes organisation purpose or vision, individual program activities, outputs, outcomes and financial amounts.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:905dbce980432b9bcf885fe7746f252bba2b79f071858704"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-statement",
+      "preferred_label": "Named program classification statement",
+      "definition": "A reported description of a named program’s classification, service type, target groups or geographic scope.",
+      "inclusion_boundary": "Includes program records identifying a named program and its reported classification, participant groups or countries served.",
+      "exclusion_boundary": "Excludes inferred activity concepts, measured reach, delivered outputs, outcomes and external or inferred taxonomy assignments.",
+      "parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "supporting_observation_ids": [
+        "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-participation-output",
+      "preferred_label": "Program participation output",
+      "definition": "A reported count of people participating in a named program or project.",
+      "inclusion_boundary": "Includes explicit participation counts attached to a named program or project, preserving the reported nature of the measure.",
+      "exclusion_boundary": "Excludes service reach without participation, activities delivered, training outputs unless framed as participation, outcomes and impact.",
+      "parent_concept_id": "cg-native:program-delivery-output-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:cab71375f0f894b4c01c8a97728172695f896c770e4bf087"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+      "preferred_label": "Program or project disbursement expenditure",
+      "definition": "Reported funds disbursed to programs or projects during a specified period, including geographic or project-group breakdowns.",
+      "inclusion_boundary": "Includes reported domestic or international project disbursements and their stated regional breakdowns.",
+      "exclusion_boundary": "Excludes organisational financial position, fundraising receipts, grant application processes, funding commitments not disbursed, and outcomes attributed to expenditure.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:9fd9f1a96d244c9f3815787addeb7377dba139521984da93"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:reported-financial-resource-change",
+      "preferred_label": "Reported financial or resource change",
+      "definition": "A reported change in income, operating cost, resource provision or comparable financial resource measure between periods.",
+      "inclusion_boundary": "Includes explicit increases or decreases in financial income, costs or resources, preserving the comparison and reporting context.",
+      "exclusion_boundary": "Excludes general financial totals, program expenditure, fundraising channels, inferred financial health, capacity conclusions and outcomes.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:574f3a9293a4cd888a6b1c5764dd7cf8ca3782a86394c1f4"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+      "preferred_label": "Organisation membership and conduct commitment",
+      "definition": "A stated organisational membership, signatory status or commitment to a named conduct code or standard.",
+      "inclusion_boundary": "Includes explicit statements of membership or signatory status and reported adherence or commitment to a named code or standard.",
+      "exclusion_boundary": "Excludes inferred compliance, independent verification, general ethos, audit appointments and implementation beyond what is stated.",
+      "parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "supporting_observation_ids": [
+        "nativeobs:f84cd25f5c1fe67cb685c4c2d8f5cd9974c27f9eac538632"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:community-led-program-implementation-approach",
+      "preferred_label": "Community-led program implementation approach",
+      "definition": "A reported implementation approach in which an organisation works directly with an identified community and states that the community drives or directs its own development.",
+      "inclusion_boundary": "Includes explicit descriptions of direct work with communities and community-led decision-making or development in program implementation.",
+      "exclusion_boundary": "Excludes general beneficiary descriptions, stakeholder consultation without implementation, delivery operator identity, outcomes and impact claims.",
+      "parent_concept_id": "cg-native:program-service-delivery-activity",
+      "supporting_observation_ids": [
+        "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:board-committee-oversight-structure",
+      "preferred_label": "Board committee oversight structure",
+      "definition": "A reported governance structure in which committees are established to support or report to a board.",
+      "inclusion_boundary": "Includes named board committees and explicit reporting or oversight relationships to the board.",
+      "exclusion_boundary": "Excludes committee activities not stated, advisory participation, program delivery, approval responsibility unless separately evidenced, and outcomes of oversight.",
+      "parent_concept_id": "cg-native:program-governance-oversight-responsibility",
+      "supporting_observation_ids": [
+        "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:responsible-investment-commitment",
+      "preferred_label": "Responsible investment commitment",
+      "definition": "A stated commitment to consider social, environmental or governance factors in investment decisions and ownership.",
+      "inclusion_boundary": "Includes explicit organisational commitments to socially responsible investment and consideration of such factors.",
+      "exclusion_boundary": "Excludes verified investment performance, completed implementation, general ethos, financial reporting and conduct-code membership.",
+      "parent_concept_id": "cg-native:commitment-to-standards-or-conduct",
+      "supporting_observation_ids": [
+        "nativeobs:db38348b7bf609da4aaac50ee3e040d95c12988a6c3ebd86"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:regional-economic-future-event",
+      "preferred_label": "Regional economic future event",
+      "definition": "An event focused on discussion or engagement concerning opportunities shaping a region’s future economic conditions.",
+      "inclusion_boundary": "Includes explicitly identified regional events focused on economic opportunities or future economic development.",
+      "exclusion_boundary": "Excludes general business networking, delivered workshop sessions, economic outcomes and funding processes.",
+      "parent_concept_id": "cg-native:regional-capability-development",
+      "supporting_observation_ids": [
+        "nativeobs:6b9a7b7429e9ea03f7c003c67a2d00b1c9aba3c1a94c770f"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-workshop-session-delivery",
+      "preferred_label": "Program workshop session delivery",
+      "definition": "Delivery of practical instructional or information sessions within a named initiative.",
+      "inclusion_boundary": "Includes reported delivery of sessions addressing specified practical topics, preserving delivery as an activity rather than an outcome.",
+      "exclusion_boundary": "Excludes intended workshops, workshop counts as outputs, capability outcomes, effectiveness claims and general program purposes.",
+      "parent_concept_id": "cg-native:program-service-delivery-activity",
+      "supporting_observation_ids": [
+        "nativeobs:d3f2dbc2ffde028f5bfd93cf6c48d05bee7bb3a9515a4ac0"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:strategy-localisation-statement",
+      "preferred_label": "Strategy localisation statement",
+      "definition": "A reported statement that an organisation’s strategy adapts, localises or implements a broader strategy for its own context.",
+      "inclusion_boundary": "Includes explicit descriptions of localising or applying a named broader strategy.",
+      "exclusion_boundary": "Excludes general purpose statements, program delivery, verified outcomes and impact claims.",
+      "parent_concept_id": "cg-native:stated-purpose-or-vision",
+      "supporting_observation_ids": [
+        "nativeobs:e418755ae4f4522574c23d3797aeb3e7f3cec00bc681e9c3"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:strategy-impact-aim",
+      "preferred_label": "Strategy impact aim",
+      "definition": "A stated strategic aim describing intended large-scale or sustained change for an identified population.",
+      "inclusion_boundary": "Includes strategic objectives framed as intended impact or sustained wellbeing.",
+      "exclusion_boundary": "Excludes independently verified outcomes, impact evidence, program activities and immediate outputs.",
+      "parent_concept_id": "cg-native:stated-purpose-or-vision",
+      "supporting_observation_ids": [
+        "nativeobs:e418755ae4f4522574c23d3797aeb3e7f3cec00bc681e9c3",
+        "nativeobs:9c8b1c252550f84078ffcdc0b4818bfeb17907984eb918ff"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+      "preferred_label": "Fundraising and resource mobilisation channel",
+      "definition": "A reported mechanism through which an organisation solicits or receives monetary or non-monetary support.",
+      "inclusion_boundary": "Includes pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods or assets.",
+      "exclusion_boundary": "Excludes reported fundraising amounts, expenditure, grant administration and general giving-enablement services without a channel.",
+      "parent_concept_id": "cg-native:fundraising-channel",
+      "supporting_observation_ids": [
+        "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:governance-committee-structure",
+      "preferred_label": "Governance committee structure",
+      "definition": "A reported structure of committees established within or alongside an organisation’s governing body.",
+      "inclusion_boundary": "Includes named committees and their reported relationship to a board or governing body.",
+      "exclusion_boundary": "Excludes committee activities, individual participation, approval powers and program delivery unless separately stated.",
+      "parent_concept_id": "cg-native:board-committee-oversight-structure",
+      "supporting_observation_ids": [
+        "nativeobs:aa186ec309b892f57c9b43ec955a5fc0e31285e0da0e7fff"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-classification-and-beneficiary-scope",
+      "preferred_label": "Program classification and beneficiary scope",
+      "definition": "A reported description of a named program’s service classification, location and identified beneficiary groups.",
+      "inclusion_boundary": "Includes named program records combining classification with geographic and beneficiary information.",
+      "exclusion_boundary": "Excludes delivered activities, participation outputs, outcomes, impact and inferred classification systems.",
+      "parent_concept_id": "cg-native:named-program-classification-statement",
+      "supporting_observation_ids": [
+        "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+      "preferred_label": "Organisational asset and facility arrangement",
+      "definition": "A reported arrangement concerning an organisation’s leased facilities, vehicles, equipment or related resource facilities.",
+      "inclusion_boundary": "Includes leasing arrangements and reported facilities or unused capacity attached to organisational assets.",
+      "exclusion_boundary": "Excludes financial position generally, program resources, staffing and outcomes inferred from assets.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:368f144319c0266b358758ccaad9163a40e9a3b78dd79e1d"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:fund-registration-status",
+      "preferred_label": "Fund registration status",
+      "definition": "A reported administrative or legal status of a named fund in an official record.",
+      "inclusion_boundary": "Includes stated current status and registration category for a named fund.",
+      "exclusion_boundary": "Excludes organisational purpose, fundraising channels, financial amounts and beneficiary outcomes.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:ae8fce30ddf922d2454f0616f2f65b6e02fe702e4613f75e"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:advocacy-activity",
+      "preferred_label": "Advocacy activity",
+      "definition": "An activity involving public or policy-oriented advocacy on identified issues or for identified groups.",
+      "inclusion_boundary": "Includes explicit statements that a named organisation, partnership or network undertakes advocacy.",
+      "exclusion_boundary": "Excludes program delivery, strategy aims, general awareness activity and advocacy attributed to an entity not clearly identical to the subject.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:7e0a32bedb9605add3eac8c5ddf4563713996f913c833ad2"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:entity-registration-profile",
+      "preferred_label": "Entity registration profile",
+      "definition": "A reported official registration description of an organisation, including entity type, identifiers or active status.",
+      "inclusion_boundary": "Includes official records stating entity type, registration identifiers and registration dates or status.",
+      "exclusion_boundary": "Excludes governance personnel, operating activities, purpose, financial reporting and program information.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-scale-or-community-description",
+      "preferred_label": "Organisational scale or community description",
+      "definition": "A first-party statement describing an organisation’s geographic scope, community composition or claimed distinctive scale.",
+      "inclusion_boundary": "Includes descriptions of national reach or a community of givers spanning locations.",
+      "exclusion_boundary": "Excludes independently verified scale, program reach, registration status and financial size.",
+      "parent_concept_id": "cg-native:program-service-reach-statement",
+      "supporting_observation_ids": [
+        "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:governance-personnel-role-statement",
+      "preferred_label": "Governance personnel role statement",
+      "definition": "A reported assignment of named individuals to organisational governance or officer roles.",
+      "inclusion_boundary": "Includes official statements identifying people as directors, chairpersons, secretaries or comparable responsible persons.",
+      "exclusion_boundary": "Excludes committee structures, voluntary participation, organisational ethos and approval responsibilities unless separately stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:independent-audit-opinion",
+      "preferred_label": "Independent audit opinion",
+      "definition": "An external auditor’s reported opinion about the presentation or compliance of a specified financial report.",
+      "inclusion_boundary": "Includes explicit audit opinions concerning fair presentation and stated reporting requirements.",
+      "exclusion_boundary": "Excludes financial totals, auditor appointment, operational compliance, absence of misconduct and broader effectiveness.",
+      "parent_concept_id": "cg-native:external-auditor-appointment",
+      "supporting_observation_ids": [
+        "nativeobs:d5460431722edc353f8192604bc6665aca7173093ba6606a"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:financial-reporting-scope-statement",
+      "preferred_label": "Financial reporting scope statement",
+      "definition": "A reported statement defining whether financial information covers a single entity or a wider group.",
+      "inclusion_boundary": "Includes explicit consolidation status and scope descriptions for financial reports.",
+      "exclusion_boundary": "Excludes financial amounts, audit opinions and organisational legal structure beyond reporting scope.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:6d3692acac613dd3efee2782eda0b81cc7074f6bc55fe196"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-identity-statement",
+      "preferred_label": "Program identity statement",
+      "definition": "A reported identification of a named program associated with an organisation.",
+      "inclusion_boundary": "Includes official records naming a program, without inferring its activities or outcomes.",
+      "exclusion_boundary": "Excludes program purpose, classification, delivery, reach and impact unless separately stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:7228726768b04f0e86555e6bfdd510fdcc8412e513011609"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:fundraising-proceeds-report",
+      "preferred_label": "Fundraising proceeds report",
+      "definition": "A reported amount of proceeds generated from fundraising during a specified period.",
+      "inclusion_boundary": "Includes gross proceeds from fundraising appeals or comparable reported fundraising receipts.",
+      "exclusion_boundary": "Excludes fundraising channels, expenditure, grantmaking and outcomes attributed to fundraising.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:82ce6990e89cdf738777ed50846fd33f4345ecc6ca6e60c0"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:workforce-and-volunteer-profile",
+      "preferred_label": "Workforce and volunteer profile",
+      "definition": "A reported count or composition of paid employees, volunteers or full-time-equivalent personnel.",
+      "inclusion_boundary": "Includes reported full-time, part-time, casual, volunteer and equivalent staffing figures.",
+      "exclusion_boundary": "Excludes governance roles, workforce activities, organisational capacity outcomes and financial expenditure.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:4ae0b55f9625e851d0bdab558c4006fb98c8c1e217f64b38"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:consolidated-reporting-group-statement",
+      "preferred_label": "Consolidated reporting group statement",
+      "definition": "A reported statement that financial statements cover a parent entity together with its subsidiaries or other included entities.",
+      "inclusion_boundary": "Includes explicit descriptions of consolidated reporting groups.",
+      "exclusion_boundary": "Excludes entity-level financial figures, consolidation policy in general and audit opinions.",
+      "parent_concept_id": "cg-native:financial-reporting-scope-statement",
+      "supporting_observation_ids": [
+        "nativeobs:f73d0402fc57a7c22881d1cd203b397f0f6ef1e3b06a080b"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:official-reporting-deadline-status",
+      "preferred_label": "Official reporting deadline status",
+      "definition": "A reported official-record field specifying a deadline or due date for an organisation’s reporting.",
+      "inclusion_boundary": "Includes dates recorded as reporting deadlines without interpreting compliance or operational significance.",
+      "exclusion_boundary": "Excludes late-reporting findings, compliance conclusions, audit appointments and reporting activity itself.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:f131b6bcfe697ed8a6dd77ecd4c6153380bad1daa24eae1c"
+      ],
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:funding-eligibility-exclusion",
+      "preferred_label": "Funding eligibility exclusion",
+      "definition": "A stated rule excluding specified applicants, entities, project timing or activity types from funding eligibility.",
+      "inclusion_boundary": "Includes explicit exclusions for commercial applicants, government bodies, schools or already completed projects.",
+      "exclusion_boundary": "Excludes funding assessment processes, general purpose statements, funding amounts and outcomes.",
+      "parent_concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "supporting_observation_ids": [
+        "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:traditional-custodian-recognition-statement",
+      "preferred_label": "Traditional Custodian recognition statement",
+      "definition": "A stated recognition of Traditional Custodians connected with places where an organisation works or lives, including extension of that recognition to funded organisations.",
+      "inclusion_boundary": "Includes explicit recognition statements in organisational or funding guidance.",
+      "exclusion_boundary": "Excludes general ethos, inclusive-conduct implementation, cultural outcomes and inferred relationships.",
+      "parent_concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+      "supporting_observation_ids": [
+        "nativeobs:52b5c6fa58aa796841d2fdb742097d1c4057a44e518b0689"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:network-geographic-expansion-history",
+      "preferred_label": "Network geographic expansion history",
+      "definition": "A reported historical account of a network extending operations into specified regions over time.",
+      "inclusion_boundary": "Includes dated or sequenced statements describing expansion into named regions.",
+      "exclusion_boundary": "Excludes current operating-state records, program reach, impact and general geographic scope claims.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:430466768ac8c0f7db9807f03c1245a71b08fd7d2e573e84"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:official-organisational-classification",
+      "preferred_label": "Official organisational classification",
+      "definition": "A reported classification assigned to an organisation in an official register.",
+      "inclusion_boundary": "Includes source-reported size, beneficiary or comparable organisational classification fields.",
+      "exclusion_boundary": "Excludes inferred organisational size, program classification, financial scale and operating capacity.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+      "preferred_label": "Named program classification and geographic scope",
+      "definition": "A reported description of a named program’s classification, operating mode and geographic scope.",
+      "inclusion_boundary": "Includes named program records stating whether the program operates online, its reported classification and the countries or places covered.",
+      "exclusion_boundary": "Excludes inferred classifications, delivery activities, participation outputs, beneficiary outcomes and impact.",
+      "parent_concept_id": "cg-native:named-program-classification-statement",
+      "supporting_observation_ids": [
+        "nativeobs:f0757150364f5cb6f45235130b3497c1a1a60d9d28e02cd4"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-demographic-scope",
+      "preferred_label": "Program beneficiary demographic scope",
+      "definition": "A reported identification of demographic groups served by a named program.",
+      "inclusion_boundary": "Includes named age groups, families, people with disabilities, females, Indigenous peoples and comparable demographic groups attached to a program.",
+      "exclusion_boundary": "Excludes program delivery activities, geographic scope without demographic information, participation outputs, outcomes and impact.",
+      "parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "supporting_observation_ids": [
+        "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:fundraising-registration-coverage",
+      "preferred_label": "Fundraising registration coverage",
+      "definition": "A reported set of jurisdictions or channels in which an organisation holds fundraising authority or registration entries.",
+      "inclusion_boundary": "Includes jurisdiction-specific and online fundraising registration records, preserving the source’s current or qualified status.",
+      "exclusion_boundary": "Excludes fundraising methods, fundraising proceeds, general entity registration and inferred legal compliance.",
+      "parent_concept_id": "cg-native:fund-registration-status",
+      "supporting_observation_ids": [
+        "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:financial-risk-management-implementation",
+      "preferred_label": "Financial risk management implementation",
+      "definition": "A reported organisational arrangement in which management carries out financial risk management under governance-approved policies.",
+      "inclusion_boundary": "Includes explicit assignment of financial risk management to management and stated governance approval of relevant policies.",
+      "exclusion_boundary": "Excludes risk-management requirements without implementation, financial results, risk outcomes and general governance statements.",
+      "parent_concept_id": "cg-native:strategic-risk-management-requirement",
+      "supporting_observation_ids": [
+        "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:international-funds-distribution-network",
+      "preferred_label": "International funds distribution network",
+      "definition": "A reported arrangement for distributing international funds through named entities and coordinated offices.",
+      "inclusion_boundary": "Includes transfers through an identified international entity and coordination by a treasury or comparable office across national offices.",
+      "exclusion_boundary": "Excludes general funding channels, program expenditure amounts, delivery operators and outcomes attributed to transfers.",
+      "parent_concept_id": "cg-native:program-implementation-support-network",
+      "supporting_observation_ids": [
+        "nativeobs:3f20c71e7b1a5590d8c4b43f5bca05a13d13389b17e4a2e1"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:reported-regulatory-purpose-classification",
+      "preferred_label": "Reported regulatory purpose classification",
+      "definition": "A source-reported set of continuing organisational purpose or subtype classifications in a regulatory record.",
+      "inclusion_boundary": "Includes classifications stated as continuing purposes or regulatory subtypes, preserving their source-reported status.",
+      "exclusion_boundary": "Excludes organisational self-stated purpose, program classification, inferred purpose and achieved outcomes.",
+      "parent_concept_id": "cg-native:official-organisational-classification",
+      "supporting_observation_ids": [
+        "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:regulatory-enforcement-record-absence",
+      "preferred_label": "Regulatory enforcement record absence",
+      "definition": "An explicit absence of entries in a supplied regulatory enforcement-record field.",
+      "inclusion_boundary": "Includes empty or absent enforcement-record arrays or equivalent source fields, without interpreting them as clean conduct.",
+      "exclusion_boundary": "Excludes findings of compliance, absence of misconduct, audit opinions and general organisational conduct claims.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-beneficiary-population-scope",
+      "preferred_label": "Program beneficiary population scope",
+      "definition": "A reported identification of population groups served by a named program.",
+      "inclusion_boundary": "Includes demographic and geographic population groups listed as beneficiaries of a named program.",
+      "exclusion_boundary": "Excludes delivery activities, outputs, organisational purpose and outcome or impact claims.",
+      "parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+      "supporting_observation_ids": [
+        "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:built-or-equipped-facility-output",
+      "preferred_label": "Built or equipped facility output",
+      "definition": "A reported count of facilities or institutions built, renovated or equipped by a program or organisation.",
+      "inclusion_boundary": "Includes reported counts of medical facilities, training centres, schools or comparable facilities completed, renovated or equipped.",
+      "exclusion_boundary": "Excludes intended construction, financial expenditure, beneficiary reach, outcomes and impact claims.",
+      "parent_concept_id": "cg-native:program-delivery-output-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4"
+      ],
+      "organisations": [
+        "The Fred Hollows Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:governance-quorum-and-voting-rule",
+      "preferred_label": "Governance quorum and voting rule",
+      "definition": "A stated governance rule specifying attendance required for quorum and any casting-vote authority.",
+      "inclusion_boundary": "Includes explicit quorum thresholds and chairperson casting-vote provisions for an advisory or governance body.",
+      "exclusion_boundary": "Excludes committee membership, meeting attendance records, approval responsibility and governance outcomes.",
+      "parent_concept_id": "cg-native:governance-approval-responsibility",
+      "supporting_observation_ids": [
+        "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+      "preferred_label": "Organisational diversity and inclusion value",
+      "definition": "A stated organisational value concerning diversity, equity or inclusion in governance membership or decision-making.",
+      "inclusion_boundary": "Includes explicit charter or governance statements valuing diversity, equity and inclusion in membership or decisions.",
+      "exclusion_boundary": "Excludes conduct implementation, demographic outcomes, general ethos without the specified value and compliance findings.",
+      "parent_concept_id": "cg-native:organisational-ethos-statement",
+      "supporting_observation_ids": [
+        "nativeobs:41b70582c08aa04d0bd60b7f4ca6e1a7e78bf4c76f928103"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:funded-role-continuation-support",
+      "preferred_label": "Funded role continuation support",
+      "definition": "Funding support directed to continuing or expanding a named role within a project or initiative.",
+      "inclusion_boundary": "Includes explicit funding for continuation or expansion of a named business, project or program role.",
+      "exclusion_boundary": "Excludes general grants, sponsorship, role delivery outcomes and organisational staffing profiles.",
+      "parent_concept_id": "cg-native:grant-and-sponsorship-funding-process",
+      "supporting_observation_ids": [
+        "nativeobs:8a0630d1cbae900354cca90ae3e8547708b488104d54c34a"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:planned-workshop-and-summit-activity",
+      "preferred_label": "Planned workshop and summit activity",
+      "definition": "A described future or intended sequence of workshops and a summit within a named initiative.",
+      "inclusion_boundary": "Includes explicit plans for AI workshops and a future summit, preserving planned status and named deliverer.",
+      "exclusion_boundary": "Excludes completed delivery outputs, delivered sessions, event outcomes and general regional capability claims.",
+      "parent_concept_id": "cg-native:regional-capability-development",
+      "supporting_observation_ids": [
+        "nativeobs:6632c80f327e2bb23f3023c88c7669cf491f7efdb1b89e45"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:organisation-network-affiliation",
+      "preferred_label": "Organisation network affiliation",
+      "definition": "A reported affiliation of an organisation with a named wider program, network or reporting group.",
+      "inclusion_boundary": "Includes explicit descriptions of an organisation as part of or integral to a named network or program structure.",
+      "exclusion_boundary": "Excludes partnership, sponsorship, joint delivery, funding and implementation support unless those relations are explicitly stated.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:93a53660b8bda127f11a486820f424a38b8103e654686d9c"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:initiative-launch-history",
+      "preferred_label": "Initiative launch history",
+      "definition": "A reported historical statement that a named initiative began in a specified place and period.",
+      "inclusion_boundary": "Includes launch location and date or period for a named initiative.",
+      "exclusion_boundary": "Excludes current operating scope, geographic expansion, delivery outputs and outcomes.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:471767e276e2d0317290edbfbeaa8956b4c5cb026d280c18"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:official-charity-form-classification",
+      "preferred_label": "Official charity form classification",
+      "definition": "A source-reported classification of an organisation’s legal or organisational form in an official record.",
+      "inclusion_boundary": "Includes reported group-head status, parent-account status and related official form fields.",
+      "exclusion_boundary": "Excludes financial position, program classification, operational activities and inferred organisational structure.",
+      "parent_concept_id": "cg-native:official-organisational-classification",
+      "supporting_observation_ids": [
+        "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-location-registration",
+      "preferred_label": "Program location registration",
+      "definition": "A reported set of locations registered or recorded as program locations for an organisation.",
+      "inclusion_boundary": "Includes named towns, regions or jurisdictions explicitly recorded as program locations.",
+      "exclusion_boundary": "Excludes program reach, geographic expansion history, registered office location and beneficiary outcomes.",
+      "parent_concept_id": "cg-native:program-service-reach-statement",
+      "supporting_observation_ids": [
+        "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:reported-zero-revenue-category",
+      "preferred_label": "Reported zero revenue category",
+      "definition": "A reported absence of receipts in specified financial revenue categories for a reporting period.",
+      "inclusion_boundary": "Includes explicit zero or no-receipt reporting for named categories such as government grants, goods and services or investment revenue.",
+      "exclusion_boundary": "Excludes claims that no funding of any kind was received, fundraising channels, expenditure and financial health conclusions.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:d41356e3e92bd09d1794988e3b252f3a9801e949c9319a94"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:reported-net-assets-and-liabilities",
+      "preferred_label": "Reported net assets and liabilities",
+      "definition": "A reported period-end amount for net assets or liabilities and specified non-current liabilities.",
+      "inclusion_boundary": "Includes stated net asset or liability totals and explicit absence or presence of non-current liabilities.",
+      "exclusion_boundary": "Excludes revenue, expenditure, program disbursements, inferred solvency and outcomes.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:3692eacb8fa5ef6a0e7a817a85cbcb1eed57d63bd0268312"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:advisory-committee-governance-rule",
+      "preferred_label": "Advisory committee governance rule",
+      "definition": "A stated rule governing the composition or decision-making of an advisory committee.",
+      "inclusion_boundary": "Includes quorum, voting and membership decision rules for an advisory committee.",
+      "exclusion_boundary": "Excludes advisory participation, committee structure alone, program delivery and implementation outcomes.",
+      "parent_concept_id": "cg-native:governance-approval-responsibility",
+      "supporting_observation_ids": [
+        "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:governance-meeting-activity-report",
+      "preferred_label": "Governance meeting activity report",
+      "definition": "A report of the number of governance meetings held and attendance by governance personnel during a specified period.",
+      "inclusion_boundary": "Includes meeting counts and individual attendance figures for directors or comparable governing members.",
+      "exclusion_boundary": "Excludes governance role assignment, committee structure, quorum rules and governance effectiveness.",
+      "parent_concept_id": "cg-native:program-governance-oversight-responsibility",
+      "supporting_observation_ids": [
+        "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:auditor-professional-conduct-absence",
+      "preferred_label": "Auditor professional conduct absence",
+      "definition": "An auditor’s explicit statement that no professional-conduct contraventions occurred in relation to a specified audit.",
+      "inclusion_boundary": "Includes qualified absence statements limited to the auditor’s professional conduct for the identified audit.",
+      "exclusion_boundary": "Excludes organisational compliance, audit opinion, enforcement records and general absence of misconduct.",
+      "parent_concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "supporting_observation_ids": [
+        "nativeobs:4deda13493c359e952472adb9134c35c645602eda26d7cca"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:temporal-source-scope-mismatch",
+      "preferred_label": "Temporal source scope mismatch",
+      "definition": "A reported condition in which supplied evidence combines different reporting periods, current dates or source extraction times.",
+      "inclusion_boundary": "Includes explicit descriptions of mixed temporal positions across annual reports, websites and official records.",
+      "exclusion_boundary": "Excludes ordinary reporting-period statements and inferred changes over time not explicitly described.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:6887b80e9042bfbe2716bb38b1ed9b4c24dcf06939162894"
+      ],
+      "organisations": [
+        "Australian Communities Foundation"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:official-entity-identifier-record",
+      "preferred_label": "Official entity identifier record",
+      "definition": "A reported official identifier for an organisation, corroborated across one or more supplied records.",
+      "inclusion_boundary": "Includes ABN or comparable official identifier records explicitly associated with the subject.",
+      "exclusion_boundary": "Excludes registration status, entity classification, financial information and governance roles.",
+      "parent_concept_id": "cg-native:entity-registration-profile",
+      "supporting_observation_ids": [
+        "nativeobs:91ab9e0403a002a4ebc58171df9690621684492aa487229"
+      ],
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:financial-source-content-limitation",
+      "preferred_label": "Financial source content limitation",
+      "definition": "An explicit limitation stating that supplied financial-source content does not expose readable financial line items.",
+      "inclusion_boundary": "Includes source-access or extraction limitations that prevent assigning revenue, expenditure, assets or liabilities.",
+      "exclusion_boundary": "Excludes actual financial reporting, financial absence claims and conclusions about financial position.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:665228ec3f27e99e9e0b21edef7f6d0e353611df4bb4d864"
+      ],
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:program-contingent-liability-absence",
+      "preferred_label": "Program or organisation contingent-liability absence",
+      "definition": "A reported absence of contingent liabilities or outstanding guarantees for an organisation at a specified date.",
+      "inclusion_boundary": "Includes explicit financial-report statements that contingent liabilities or guarantees are absent.",
+      "exclusion_boundary": "Excludes general solvency conclusions, financial performance, enforcement records and program outcomes.",
+      "parent_concept_id": "cg-native:organisational-financial-reporting",
+      "supporting_observation_ids": [
+        "nativeobs:49190fafe39704f5251f95ae43739c182f2751a6318e1d7a"
+      ],
+      "organisations": [
+        "World Vision Australia"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:external-entity-identity-binding",
+      "preferred_label": "External entity identity binding",
+      "definition": "A source-level linkage that connects records concerning the same named organisation through a matching identifier or record reference.",
+      "inclusion_boundary": "Includes explicit source identity matching across supplied records, without creating a new internal identifier.",
+      "exclusion_boundary": "Excludes semantic classification, registration status, legal form and operational relationships.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+      ],
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:administrative-status-absence",
+      "preferred_label": "Administrative status absence",
+      "definition": "An explicit absence of entity-specific administrative or classification information in the supplied source extract.",
+      "inclusion_boundary": "Includes source extracts exposing only generic metadata or otherwise lacking entity-specific status fields.",
+      "exclusion_boundary": "Excludes evidence that the entity lacks the status, registration or classification outside the supplied extract.",
+      "parent_concept_id": null,
+      "supporting_observation_ids": [
+        "nativeobs:4e4696b7a6402313002243baf7f549b9d8128448b482c205"
+      ],
+      "organisations": [
+        "Tweed Regional Gallery Foundation Limited"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    },
+    {
+      "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+      "preferred_label": "Funds-held-in-trust and administration arrangement",
+      "definition": "An explicit arrangement in which one entity holds funds in trust and provides administrative support for related entities or funds.",
+      "inclusion_boundary": "Includes trustee holding and administrative-support relationships stated together for named funds or entities.",
+      "exclusion_boundary": "Excludes grantmaking, fundraising channels, delivery activities and outcomes of administered funds.",
+      "parent_concept_id": "cg-native:philanthropic-giving-enablement",
+      "supporting_observation_ids": [
+        "nativeobs:72bde82b2dd803b307651886fa0e15d8a907797a0d51ad5f"
+      ],
+      "organisations": [
+        "Local Buying Foundation (WA)"
+      ],
+      "active": true,
+      "lineage": [
+        {
+          "stage": "native-v3-base-93",
+          "source": "native-v2-discovery"
+        }
+      ],
+      "deprecated_by": null
+    }
+  ]
+}

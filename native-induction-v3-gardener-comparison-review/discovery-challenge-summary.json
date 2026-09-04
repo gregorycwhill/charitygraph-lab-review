@@ -1,0 +1,1154 @@
+{
+  "batches": [
+    {
+      "batch": 1,
+      "model": "luna",
+      "observation_ids": [
+        "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5",
+        "nativeobs:3ab5e43e40bf67a948742d08ffa754f94a63d15ad616b691",
+        "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e",
+        "nativeobs:93645d62fd0b59fe1924f41d17ca7818a4134dbbeccaaf64",
+        "nativeobs:9dfd5c6f4e4e78fa40de942c36f8cc1c7743dcdfa06b7dc6",
+        "nativeobs:aeadd26721c682cb9b4b5d7ccb4d448e9effffe03f69f78b",
+        "nativeobs:bbb6a0036a19c437fb4d62765e1c566386a164658c744b38",
+        "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c",
+        "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738",
+        "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead",
+        "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4",
+        "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171c066016",
+        "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540",
+        "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+        "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46",
+        "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4",
+        "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532",
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+        "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+        "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d"
+      ],
+      "concepts": [
+        {
+          "concept_id": "nativeconcept:charity_registered_office_address",
+          "preferred_label": "Registered office address",
+          "definition": "The address identified as an organisation's registered office.",
+          "inclusion_boundary": "Include observations explicitly identifying a registered office address for the subject.",
+          "exclusion_boundary": "Exclude charity addresses that are not identified as registered offices, and exclude addresses of programs or activities.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_establishment_date",
+          "preferred_label": "Charity establishment date",
+          "definition": "The date on which a charity is reported to have been established.",
+          "inclusion_boundary": "Include source-reported establishment dates for a charity.",
+          "exclusion_boundary": "Exclude dates of registration, incorporation, reporting periods, or document authorisation unless explicitly identified as the establishment date.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3ab5e43e40bf67a948742d08ffa754f94a63d15ad616b691"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:operating_state",
+          "preferred_label": "Operating state",
+          "definition": "A state reported as the operating state of an organisation.",
+          "inclusion_boundary": "Include source-reported states in which the subject operates.",
+          "exclusion_boundary": "Exclude registered-office locations, program locations, fundraising jurisdictions, and beneficiary geography unless explicitly described as the operating state.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:9dfd5c6f4e4e78fa40de942c36f8cc1c7743dcdfa06b7dc6"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_fundraising_authority_registration",
+          "preferred_label": "Fundraising authority or registration entry",
+          "definition": "A jurisdictional or online authority or registration entry permitting or recording a charity's fundraising.",
+          "inclusion_boundary": "Include fundraising authority or registration records for named jurisdictions or online fundraising.",
+          "exclusion_boundary": "Exclude general fundraising methods, fundraising events, donations, and operating-state records without fundraising authority or registration context.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_regulatory_purpose_subtype",
+          "preferred_label": "Regulatory charity purpose subtype",
+          "definition": "A purpose subtype recorded by a regulator as applying to a charity.",
+          "inclusion_boundary": "Include source-reported regulatory subtype records such as advancing religion, promoting or protecting human rights, public benevolent institution, or advancing social or public welfare.",
+          "exclusion_boundary": "Exclude inferred organisational ethos, director beliefs, programs, and uncategorised mission descriptions.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_reporting_period_financial_authorisation",
+          "preferred_label": "Financial report period and authorisation",
+          "definition": "The reporting period covered by a financial report together with its authorisation or filing timing.",
+          "inclusion_boundary": "Include observations specifying a financial report's covered year or period and its authorisation or receipt date.",
+          "exclusion_boundary": "Exclude standalone financial amounts, establishment dates, and unrelated regulatory dates.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_program_location",
+          "preferred_label": "Program location",
+          "definition": "A location explicitly associated with a named charity program.",
+          "inclusion_boundary": "Include locations listed for a named program or service.",
+          "exclusion_boundary": "Exclude the organisation's office, operating state, fundraising jurisdiction, and general activity or beneficiary geography.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:program_partnership",
+          "preferred_label": "Program partnership",
+          "definition": "A partnership used or identified in delivering or advancing a named program or project.",
+          "inclusion_boundary": "Include explicit statements that a named project leverages or works with a named partner.",
+          "exclusion_boundary": "Exclude general stakeholder engagement, governance relationships, and unnamed collaborations.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:advisory_committee_meeting_frequency",
+          "preferred_label": "Advisory committee meeting frequency",
+          "definition": "The stated required or planned frequency of meetings of an advisory committee.",
+          "inclusion_boundary": "Include explicit meeting intervals or minimum frequencies for advisory committees.",
+          "exclusion_boundary": "Exclude board meetings, sub-committee formation alone, and general governance duties without a meeting frequency.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:governance_role_responsibilities",
+          "preferred_label": "Governance role responsibilities",
+          "definition": "Responsibilities assigned to a named governance role within an organisation or committee.",
+          "inclusion_boundary": "Include explicit duties such as leadership, oversight, compliance, stakeholder engagement, decision-making, monitoring, evaluation, and reporting assigned to a governance role.",
+          "exclusion_boundary": "Exclude individual names or titles without responsibilities and general organisational activities not assigned to a governance role.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:responsible_person_role",
+          "preferred_label": "Responsible person governance role",
+          "definition": "A named person's role as a responsible person, director, secretary, or chairperson of an organisation.",
+          "inclusion_boundary": "Include source-listed names paired with governance roles.",
+          "exclusion_boundary": "Exclude director biographies, unnamed officeholders, and general staff roles.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_legal_entity_status",
+          "preferred_label": "Legal entity status",
+          "definition": "A legal or corporate status recorded for an organisation.",
+          "inclusion_boundary": "Include statuses such as Australian Public Company when explicitly recorded for the entity.",
+          "exclusion_boundary": "Exclude charity registration status, tax status, ABN activity, and governance roles unless they are explicitly part of the legal entity status.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_registration_status",
+          "preferred_label": "Charity registration status",
+          "definition": "A status indicating whether an organisation is registered as a charity.",
+          "inclusion_boundary": "Include explicit regulator-reported statuses such as Registered.",
+          "exclusion_boundary": "Exclude corporate status, tax status, ABN status, and fundraising registration entries.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_tax_deductible_gift_recipient_status",
+          "preferred_label": "Deductible gift recipient status",
+          "definition": "A statement that an organisation is a deductible gift recipient.",
+          "inclusion_boundary": "Include explicit source statements identifying the entity as a deductible gift recipient.",
+          "exclusion_boundary": "Exclude general tax exemption statements, donation methods, and conflicting records not asserting this status.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:aeadd26721c682cb9b4b5d7ccb4d448e9effffe03f69f78b"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_fundraising_method",
+          "preferred_label": "Fundraising method",
+          "definition": "A method or channel used by a charity to raise funds.",
+          "inclusion_boundary": "Include regular giving, public fundraising events, public or corporate or trust donations, and direct mail when reported as fundraising appeals or methods.",
+          "exclusion_boundary": "Exclude fundraising authority registrations and financial outcomes.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:reported_program_delivery_output",
+          "preferred_label": "Reported program delivery output",
+          "definition": "A quantified output describing facilities, centres, schools, or similar items built, renovated, or equipped by a charity.",
+          "inclusion_boundary": "Include explicitly reported counts of built, renovated, or equipped facilities, training centres, schools, or comparable delivery outputs.",
+          "exclusion_boundary": "Exclude financial results, activities without quantified outputs, and intended targets not reported as achieved.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:consolidated_operating_surplus",
+          "preferred_label": "Consolidated operating surplus",
+          "definition": "An operating surplus reported for a consolidated charity group and its subsidiaries.",
+          "inclusion_boundary": "Include quantified operating surplus amounts explicitly reported for a consolidated group.",
+          "exclusion_boundary": "Exclude parent-only results, revenue, net assets, deficits, and non-financial outputs.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_self_description_secular_independent",
+          "preferred_label": "Self-described independent secular not-for-profit status",
+          "definition": "An organisation's own description of itself as independent, not-for-profit, politically unaligned, and secular.",
+          "inclusion_boundary": "Include explicit self-descriptions containing these characteristics.",
+          "exclusion_boundary": "Exclude inferred secular or independent status, director religious background, and regulatory purpose subtypes.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": 1,
+      "model": "terra",
+      "observation_ids": [
+        "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5",
+        "nativeobs:3ab5e43e40bf67a948742d08ffa754f94a63d15ad616b691",
+        "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e",
+        "nativeobs:93645d62fd0b59fe1924f41d17ca7818a4134dbbeccaaf64",
+        "nativeobs:9dfd5c6f4e4e78fa40de942c36f8cc1c7743dcdfa06b7dc6",
+        "nativeobs:aeadd26721c682cb9b4b5d7ccb4d448e9effffe03f69f78b",
+        "nativeobs:bbb6a0036a19c437fb4d62765e1c566386a164658c744b38",
+        "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c",
+        "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738",
+        "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead",
+        "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4",
+        "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171c066016",
+        "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540",
+        "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+        "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46",
+        "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4",
+        "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532",
+        "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+        "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2",
+        "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d"
+      ],
+      "concepts": [
+        {
+          "concept_id": "nativeconcept:registered_office_address",
+          "preferred_label": "Registered-office address",
+          "definition": "An address explicitly reported as an organisation's registered office.",
+          "inclusion_boundary": "Include only addresses expressly labelled as the registered office.",
+          "exclusion_boundary": "Exclude charity addresses, program locations, operating jurisdictions, and addresses not identified as a registered office.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0f50dca1821a9baefab391b8a74973392c8af6cd311654a5"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_address",
+          "preferred_label": "Charity address",
+          "definition": "An address reported in a charity information record as the charity's address.",
+          "inclusion_boundary": "Include addresses specifically labelled as a charity address in a reporting or registry record.",
+          "exclusion_boundary": "Exclude inferred activity geography, beneficiary geography, and registered-office addresses unless separately so labelled.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:93645d62fd0b59fe1924f41d17ca7818a4134dbbeccaaf64"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:reported_establishment_date",
+          "preferred_label": "Reported establishment date",
+          "definition": "A date reported by a registry as the date an organisation was established.",
+          "inclusion_boundary": "Include an establishment date when the source expressly identifies it as such.",
+          "exclusion_boundary": "Exclude business-registration activation dates, reporting-period dates, and dates inferred from other organisational events.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3ab5e43e40bf67a948742d08ffa754f94a63d15ad616b691"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:reported_operating_state",
+          "preferred_label": "Reported operating state",
+          "definition": "A state reported in a registry record as an organisation's operating state.",
+          "inclusion_boundary": "Include only jurisdictions expressly identified as operating states.",
+          "exclusion_boundary": "Exclude registered addresses, fundraising jurisdictions, program locations, and project locations.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:9dfd5c6f4e4e78fa40de942c36f8cc1c7743dcdfa06b7dc6"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:legal_entity_registry_profile",
+          "preferred_label": "Legal-entity registry profile",
+          "definition": "A registry-reported combination of an entity's legal type, identifying number, and registration or activation date.",
+          "inclusion_boundary": "Include legal-form classifications, entity identifiers, and expressly stated activation dates from an entity registry.",
+          "exclusion_boundary": "Exclude charity registration status, financial-report dates, and organisational establishment dates unless reported as part of the same legal-entity profile.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2b0337ad091f5f643cf69ba3f872569d8ad5704b396c8532"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:charity_registration_status",
+          "preferred_label": "Charity registration status",
+          "definition": "The registration status assigned to a charity in a charity-registry record.",
+          "inclusion_boundary": "Include an explicit charity-registry status such as Registered.",
+          "exclusion_boundary": "Exclude legal entity type, fundraising authority, tax treatment, and unverified claims of registration.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:source_reported_deductible_gift_recipient_status",
+          "preferred_label": "Source-reported deductible-gift-recipient status",
+          "definition": "An assertion in an organisation's own financial report that it is a deductible gift recipient.",
+          "inclusion_boundary": "Include only explicit deductible-gift-recipient statements and retain their source-report context.",
+          "exclusion_boundary": "Exclude independently verified tax status, tax-exemption statements without a deductible-gift-recipient statement, and claims contradicted or not addressed by the cited source.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:aeadd26721c682cb9b4b5d7ccb4d448e9effffe03f69f78b"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:regulatory_charity_subtype_or_purpose_record",
+          "preferred_label": "Regulatory charity subtype or purpose record",
+          "definition": "A charity-registry record identifying one or more subtypes or purpose categories for an organisation, including their reported effective period.",
+          "inclusion_boundary": "Include subtype or purpose labels expressly reported by the registry and any reported start or end dates.",
+          "exclusion_boundary": "Exclude broader characterisations of organisational ethos or mission that are not registry subtype or purpose records.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0268e45677a739a9e1ec149645663c79df762d7e2cd0ac2c"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:governance_arrangement",
+          "preferred_label": "Governance arrangement",
+          "definition": "A documented organisational arrangement allocating oversight, decision-making, meeting, committee, or responsible-person functions.",
+          "inclusion_boundary": "Include documented committee procedures, role remits, and named governance offices.",
+          "exclusion_boundary": "Exclude unsupported assumptions about management authority or governance practice.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e",
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+            "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:advisory_committee_meeting_and_subcommittee_arrangement",
+          "preferred_label": "Advisory-committee meeting and subcommittee arrangement",
+          "definition": "A documented requirement for advisory-committee meeting frequency and permission to establish subcommittees for funding assessment.",
+          "inclusion_boundary": "Include stated meeting cadence requirements and expressly authorised funding-assessment subcommittees.",
+          "exclusion_boundary": "Exclude actual meeting occurrence, committee membership, or subcommittee activity not documented by the arrangement.",
+          "parent_concept_id": "nativeconcept:governance_arrangement",
+          "supporting_observation_ids": [
+            "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:governance_chair_role_remit",
+          "preferred_label": "Governance chair role remit",
+          "definition": "A documented set of leadership, oversight, governance, stakeholder, decision, monitoring, or reporting responsibilities assigned to a chair role.",
+          "inclusion_boundary": "Include responsibilities expressly assigned to a named chair role in a governing document.",
+          "exclusion_boundary": "Exclude general organisational responsibilities not assigned to the chair and evidence of whether the responsibilities were performed.",
+          "parent_concept_id": "nativeconcept:governance_arrangement",
+          "supporting_observation_ids": [
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:responsible_person_office",
+          "preferred_label": "Responsible-person office",
+          "definition": "A named responsible person and the governance office or role recorded for that person.",
+          "inclusion_boundary": "Include named individuals expressly recorded as Secretary, Chairperson, Director, or another responsible-person role.",
+          "exclusion_boundary": "Exclude unnamed officeholders, staff roles not recorded as responsible-person roles, and inferred board membership.",
+          "parent_concept_id": "nativeconcept:governance_arrangement",
+          "supporting_observation_ids": [
+            "nativeobs:224c5145e43a16638094eedb5d59bdf41ada357772f21e46"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:fundraising_authority_or_registration_coverage",
+          "preferred_label": "Fundraising authority or registration coverage",
+          "definition": "A reported fundraising authority or registration entry associated with one or more jurisdictions or an online fundraising channel.",
+          "inclusion_boundary": "Include reported fundraising registrations or authorities, including entries without reference numbers where their jurisdiction is identified.",
+          "exclusion_boundary": "Exclude operating states, charity registration status, and fundraising methods that do not evidence an authority or registration entry.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0aee57f30a13e48e5630759632f9aa942486e8f63ccc8738"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:fundraising_appeal_method",
+          "preferred_label": "Fundraising appeal method",
+          "definition": "A fundraising appeal or channel reported as used by an organisation during a stated reporting period.",
+          "inclusion_boundary": "Include expressly reported appeal methods, such as regular giving, public events, donations, or direct mail.",
+          "exclusion_boundary": "Exclude fundraising regulatory registrations and methods inferred solely from donor or revenue information.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:30cf85bd0fd63c83165b99495ed6d67cb84f1939b70f21b2"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:financial_report_lifecycle_date",
+          "preferred_label": "Financial-report lifecycle date",
+          "definition": "A date associated with a financial report's reporting period, authorisation for issue, or receipt by a registry.",
+          "inclusion_boundary": "Include explicitly stated financial-year end, report-authorisation, and regulator-receipt dates.",
+          "exclusion_boundary": "Exclude organisation establishment dates, legal-entity activation dates, and dates unrelated to the identified financial report.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0edc28782d3dfda84745edf6803606b17e292d8279b25ead"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:reported_operating_surplus_or_deficit",
+          "preferred_label": "Reported operating surplus or deficit",
+          "definition": "An operating surplus or deficit amount reported for a specified entity or reporting group and reporting period.",
+          "inclusion_boundary": "Include an expressly reported operating surplus or deficit together with its monetary unit and entity or group scope.",
+          "exclusion_boundary": "Exclude revenue, net assets, cash movements, and amounts whose reporting scope or unit is not stated.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:15d49a366d4dac7acfa291df1edbac2db82f6a171c066016"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:program_location",
+          "preferred_label": "Program location",
+          "definition": "A geographic location expressly listed for a named organisational program or service.",
+          "inclusion_boundary": "Include locations directly attached to the named program or service in the source.",
+          "exclusion_boundary": "Exclude the organisation's address, operating state, fundraising jurisdiction, and project geography not attached to that program or service.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:project_partner",
+          "preferred_label": "Project partner",
+          "definition": "An external organisation or body that a named project is stated to leverage through partnership.",
+          "inclusion_boundary": "Include a partnership explicitly connected to the identified project.",
+          "exclusion_boundary": "Exclude general stakeholder engagement, funders, or organisations merely mentioned without an expressed project partnership.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1bde0043508e3f76c24bd30f4d61b0e657a658110c83b540"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:reported_facility_development_output",
+          "preferred_label": "Reported facility development output",
+          "definition": "A reported count of facilities, training centres, schools, or similar sites built, renovated, or equipped during a stated result period.",
+          "inclusion_boundary": "Include quantified outputs expressly described as built, renovated, or equipped sites.",
+          "exclusion_boundary": "Exclude unquantified activity descriptions, clinical services, training participants, and facilities not described as an output.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1117f178c8ada95b8ef3c3f7f8fe20149d7f1a1feebe1df4"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:organisation_self_description_of_independence_alignment_or_secularity",
+          "preferred_label": "Organisation self-description of independence, alignment, or secularity",
+          "definition": "An organisation's own statement describing its independence, profit orientation, political alignment, or secular character.",
+          "inclusion_boundary": "Include attributes expressly stated by the organisation in its own reported description.",
+          "exclusion_boundary": "Exclude external verification of those attributes, regulatory subtype records, and personal beliefs of directors or staff.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3497dea9217dd8b7ce8c035bc72fbeecebc5f06e5ecf599d"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:director_personal_faith_background",
+          "preferred_label": "Director personal faith background",
+          "definition": "A biographical statement identifying a director's personal faith background or religious role.",
+          "inclusion_boundary": "Include faith-background or clerical-role information expressly stated in an individual director biography.",
+          "exclusion_boundary": "Exclude conclusions about the organisation's institutional ethos, all directors' beliefs, or a director's governance role alone.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:bbb6a0036a19c437fb4d62765e1c566386a164658c744b38"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "model": "luna",
+      "observation_ids": [
+        "nativeobs:182de5cdf4041b9dae8740cc2198da89177cf67329262192",
+        "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+        "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a",
+        "nativeobs:9f95aea7048f89e59f7a2d725a09f4c66663051e415cf450",
+        "nativeobs:b10cac076524debdeaf6f3e323951495ed236dab80b039cb",
+        "nativeobs:d20b1222afb08cebb2828a57327c63221ae2e7918c9371c6",
+        "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3",
+        "nativeobs:0c11ed97838bd43fe6732b4f20c5d012b06d3493eaa7e627",
+        "nativeobs:10342a7d8b698de700edb8aa16c194d2426c2e221190f86c",
+        "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1",
+        "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954",
+        "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea",
+        "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+        "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+        "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81",
+        "nativeobs:2f61b4b97df3e5edb58aa6dfa8411ffe2478845744dd7fe1",
+        "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178",
+        "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+      ],
+      "concepts": [
+        {
+          "concept_id": "native:fundraising_and_resource_mobilisation_channels",
+          "preferred_label": "Fundraising and resource mobilisation channels",
+          "definition": "Organisational channels and source types used to raise funds or mobilise resources, including pledge programs, sponsorship, appeals, donations and gifts, emergency relief appeals, bequests and legacies, grants, online fundraising, and donated goods or assets.",
+          "inclusion_boundary": "Include reported fundraising, donation, grant, bequest, sponsorship, appeal, online, pledge, and in-kind resource channels.",
+          "exclusion_boundary": "Exclude specific fundraising amounts, individual donors, expenditure categories, and general claims about organisational impact unless they identify a resource mobilisation channel.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323"
+          ]
+        },
+        {
+          "concept_id": "native:board_committee_governance_structure",
+          "preferred_label": "Board committee governance structure",
+          "definition": "A governance arrangement in which committees are established by a board and report directly to it.",
+          "inclusion_boundary": "Include board-established committees and their direct reporting relationship to the board.",
+          "exclusion_boundary": "Exclude committee functions, membership, meeting attendance, and general board governance unless the observation identifies the committee reporting structure.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+          ]
+        },
+        {
+          "concept_id": "native:deductible_gift_recipient_endorsement",
+          "preferred_label": "Deductible Gift Recipient endorsement",
+          "definition": "An official endorsement recognising an organisation as entitled to deductible gift recipient status from a stated effective date.",
+          "inclusion_boundary": "Include observations expressly reporting DGR endorsement and its effective date.",
+          "exclusion_boundary": "Exclude general tax status, tax-deductibility claims without DGR endorsement, and entities expressly not entitled to receive tax-deductible gifts.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:9f95aea7048f89e59f7a2d725a09f4c66663051e415cf450"
+          ]
+        },
+        {
+          "concept_id": "native:trustee_role_for_related_foundations",
+          "preferred_label": "Trustee role for related foundations",
+          "definition": "An organisational role in which a company acts as trustee for one or more named foundations or foundation-related entities.",
+          "inclusion_boundary": "Include explicit statements that an organisation acts as trustee for named foundations, extension companies, or scholarship companies.",
+          "exclusion_boundary": "Exclude donations to, funding of, partnerships with, or general affiliation with foundations where no trustee role is stated.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3"
+          ]
+        },
+        {
+          "concept_id": "native:community_foundation_philanthropy_access",
+          "preferred_label": "Community foundation philanthropy access",
+          "definition": "An organisational description of making philanthropy or giving accessible and supporting effective giving through a community foundation model.",
+          "inclusion_boundary": "Include first-party statements describing accessible philanthropy, effective giving, or a broad community of givers associated with a community foundation.",
+          "exclusion_boundary": "Exclude independently verified effectiveness outcomes, quantified impact results, and generic fundraising activity without a philanthropy-access or giving-support claim.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1",
+            "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+          ]
+        },
+        {
+          "concept_id": "native:creative_enterprise_mentoring",
+          "preferred_label": "Creative enterprise mentoring",
+          "definition": "Mentoring support for emerging artists and makers aimed at developing creative practices into sustainable businesses through skills, confidence, and network building.",
+          "inclusion_boundary": "Include the described Port Hedland project and directly comparable mentoring that supports creative practitioners’ business development.",
+          "exclusion_boundary": "Exclude general arts funding, artistic production support, or business mentoring unrelated to emerging artists and makers.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+            "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954"
+          ]
+        },
+        {
+          "concept_id": "native:local_buying_foundation_funding_categories",
+          "preferred_label": "Local Buying Foundation funding categories",
+          "definition": "Funding categories reported for the Local Buying Foundation network: innovation, skills and business development; Indigenous economic development; and sponsorship.",
+          "inclusion_boundary": "Include funding framed under these three reported categories within the Local Buying Foundation national-network scope.",
+          "exclusion_boundary": "Exclude individual project activities, general grants, and funding categories not explicitly reported for this network.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0c11ed97838bd43fe6732b4f20c5d012b06d3493eaa7e627"
+          ]
+        },
+        {
+          "concept_id": "native:local_buying_program_spend_linked_contribution",
+          "preferred_label": "Local Buying Program spend-linked contribution",
+          "definition": "A contribution to the Foundation by BHP linked to every dollar spent through the BHP Local Buying Program.",
+          "inclusion_boundary": "Include the reported relationship between BHP contributions and spending through the BHP Local Buying Program.",
+          "exclusion_boundary": "Exclude general corporate giving, unrelated matching arrangements, and contributions lacking the stated spend linkage.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:10342a7d8b698de700edb8aa16c194d2426c2e221190f86c"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "model": "terra",
+      "observation_ids": [
+        "nativeobs:182de5cdf4041b9dae8740cc2198da89177cf67329262192",
+        "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+        "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a",
+        "nativeobs:9f95aea7048f89e59f7a2d725a09f4c66663051e415cf450",
+        "nativeobs:b10cac076524debdeaf6f3e323951495ed236dab80b039cb",
+        "nativeobs:d20b1222afb08cebb2828a57327c63221ae2e7918c9371c6",
+        "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3",
+        "nativeobs:0c11ed97838bd43fe6732b4f20c5d012b06d3493eaa7e627",
+        "nativeobs:10342a7d8b698de700edb8aa16c194d2426c2e221190f86c",
+        "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+        "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1",
+        "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954",
+        "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea",
+        "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+        "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7",
+        "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81",
+        "nativeobs:2f61b4b97df3e5edb58aa6dfa8411ffe2478845744dd7fe1",
+        "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178",
+        "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+      ],
+      "concepts": [
+        {
+          "concept_id": "native:key_management_personnel_remuneration_disclosure",
+          "preferred_label": "Key management personnel remuneration disclosure",
+          "definition": "A reported disclosure of the number of key management personnel and their aggregate remuneration, including identified redundancy-related costs where stated.",
+          "inclusion_boundary": "Includes financial-report disclosures specifying key management personnel counts, total remuneration, or components of that remuneration.",
+          "exclusion_boundary": "Excludes remuneration disclosures for staff generally, individual employee pay where not identified as key management personnel, and inferred remuneration amounts.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:182de5cdf4041b9dae8740cc2198da89177cf67329262192"
+          ]
+        },
+        {
+          "concept_id": "native:fundraising_and_resource_mobilisation_channels",
+          "preferred_label": "Fundraising and resource mobilisation channels",
+          "definition": "The channels through which an organisation reports obtaining financial or non-monetary resources, such as pledges, sponsorship, appeals, gifts, grants, online fundraising, bequests, or donated goods.",
+          "inclusion_boundary": "Includes stated fundraising, donation, grant, appeal, sponsorship, legacy, and in-kind resource channels.",
+          "exclusion_boundary": "Excludes the amount raised through a channel, a funder's motivations, and expenditure of resources after receipt.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323"
+          ]
+        },
+        {
+          "concept_id": "native:reported_people_screened_output",
+          "preferred_label": "Reported people screened output",
+          "definition": "A service-output measure reporting the number of people screened by an organisation or program.",
+          "inclusion_boundary": "Includes reported counts of people screened during a stated result or reporting period.",
+          "exclusion_boundary": "Excludes counts of diagnoses, treatments, procedures, outcomes, or independently verified effectiveness unless separately reported.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e"
+          ]
+        },
+        {
+          "concept_id": "native:board_committee_structure",
+          "preferred_label": "Board committee structure",
+          "definition": "Committees established by a board that report directly to that board.",
+          "inclusion_boundary": "Includes named board committees and a stated direct reporting relationship to the board.",
+          "exclusion_boundary": "Excludes management teams, advisory groups, committees not stated to be board-established, and committee performance assessments.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a"
+          ]
+        },
+        {
+          "concept_id": "native:tax_deductible_gift_status",
+          "preferred_label": "Tax-deductible gift status",
+          "definition": "An official record of an entity's endorsement or entitlement status regarding tax-deductible gifts.",
+          "inclusion_boundary": "Includes a stated deductible-gift endorsement, its effective date, or a stated absence of entitlement to receive tax-deductible gifts.",
+          "exclusion_boundary": "Excludes assumptions about the tax treatment of a particular donor, gift, or related entity not covered by the recorded status.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:9f95aea7048f89e59f7a2d725a09f4c66663051e415cf450",
+            "nativeobs:d20b1222afb08cebb2828a57327c63221ae2e7918c9371c6"
+          ]
+        },
+        {
+          "concept_id": "native:source_recorded_legal_status_fields",
+          "preferred_label": "Source-recorded legal status fields",
+          "definition": "Legal or regulatory status fields as recorded in a source, including incorporation status, incorporated-association status, and regulator entries.",
+          "inclusion_boundary": "Includes explicit source values, including null or false values, for legal-status and regulator fields.",
+          "exclusion_boundary": "Excludes conclusions about an entity's actual legal form or regulator where the source field is absent, null, or otherwise incomplete.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:b10cac076524debdeaf6f3e323951495ed236dab80b039cb"
+          ]
+        },
+        {
+          "concept_id": "native:trustee_relationship_for_named_entities",
+          "preferred_label": "Trustee relationship for named entities",
+          "definition": "A company or entity acting as trustee for one or more specifically named funds, foundations, companies, or other entities.",
+          "inclusion_boundary": "Includes an expressly reported trustee role and the named entities for which that role is held.",
+          "exclusion_boundary": "Excludes inferred control, ownership, beneficial interest, or trustee duties not stated in the observation.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:052ea22231787de9aec7c9372a26c30d747593bc4db22bf3"
+          ]
+        },
+        {
+          "concept_id": "native:foundation_funding_categories",
+          "preferred_label": "Foundation funding categories",
+          "definition": "Named categories or priority areas through which a foundation describes its funding activity.",
+          "inclusion_boundary": "Includes explicitly stated funding categories, such as innovation, skills and business development, Indigenous economic development, and sponsorship.",
+          "exclusion_boundary": "Excludes project-level activities unless they are stated as categories, and excludes categories inferred from grants or beneficiaries.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0c11ed97838bd43fe6732b4f20c5d012b06d3493eaa7e627"
+          ]
+        },
+        {
+          "concept_id": "native:transaction_linked_corporate_contribution",
+          "preferred_label": "Transaction-linked corporate contribution",
+          "definition": "A stated arrangement in which a corporate contributor contributes to a foundation in connection with spending or transactions through a named program.",
+          "inclusion_boundary": "Includes statements tying a corporate contribution to each dollar spent, or another stated transaction measure, through a specified program.",
+          "exclusion_boundary": "Excludes general sponsorship, grants, or donations for which no connection to program spending or transactions is stated.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:10342a7d8b698de700edb8aa16c194d2426c2e221190f86c"
+          ]
+        },
+        {
+          "concept_id": "native:creative_enterprise_mentoring_support",
+          "preferred_label": "Creative enterprise mentoring support",
+          "definition": "A program that supports emerging artists or makers to develop creative practice into sustainable businesses through mentoring focused on skills, confidence, and networks.",
+          "inclusion_boundary": "Includes stated mentoring support for creative enterprise development and first-party reports that participants are building skills, confidence, or networks.",
+          "exclusion_boundary": "Excludes independently verified business sustainability, income growth, or long-term participant outcomes unless separately evidenced.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:11b5afe5b757297feb20dab55b9cc8915ac4076fe487fa78",
+            "nativeobs:1cee43ceb4125c2d368ebe9cadb7078b40c731de36a11954"
+          ]
+        },
+        {
+          "concept_id": "native:philanthropy_facilitation_claim",
+          "preferred_label": "Philanthropy facilitation claim",
+          "definition": "A first-party claim that an organisation makes philanthropy or giving easier, more accessible, impactful, effective, rewarding, or otherwise supported.",
+          "inclusion_boundary": "Includes organisational statements describing support for giving or philanthropy in these terms.",
+          "exclusion_boundary": "Excludes independently established effectiveness, impact, or donor outcomes where the available evidence is only a first-party claim.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1774370f47d907671a4b176cfe6ad0656626ecf603414ea1"
+          ]
+        },
+        {
+          "concept_id": "native:directors_meeting_attendance_disclosure",
+          "preferred_label": "Directors' meeting attendance disclosure",
+          "definition": "A directors' report disclosure of the number of directors' meetings held and attendance figures for individual directors.",
+          "inclusion_boundary": "Includes meeting counts and director-by-director attendance information for a stated reporting period.",
+          "exclusion_boundary": "Excludes informal board interactions, committee attendance, and assessments of director effectiveness.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:1ff2a53296a4d210066ca6130c0bba68d425cb47f0b080ea"
+          ]
+        },
+        {
+          "concept_id": "native:source_reported_charity_classifications",
+          "preferred_label": "Source-reported charity classifications",
+          "definition": "Classification values assigned by a source record to an organisation, including size and beneficiary classification.",
+          "inclusion_boundary": "Includes explicitly source-reported classification labels such as charity size and beneficiary category.",
+          "exclusion_boundary": "Excludes reclassification, interpretation of a label's meaning, or assignment of a classification not present in the source.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7"
+          ]
+        },
+        {
+          "concept_id": "native:voluntary_code_financial_reporting_alignment",
+          "preferred_label": "Voluntary code financial reporting alignment",
+          "definition": "An organisation's stated adherence to a voluntary code and presentation of financial statements in accordance with that code's presentation and disclosure requirements.",
+          "inclusion_boundary": "Includes reported commitments to a named code and stated application of its presentation or disclosure requirements in financial reporting.",
+          "exclusion_boundary": "Excludes evidence of complete implementation of the code across all organisational activities unless specifically supported.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:23de8b7c91e7bb2510c26b71b79783261648d47bd0762ed7"
+          ]
+        },
+        {
+          "concept_id": "native:external_auditor_appointment",
+          "preferred_label": "External auditor appointment",
+          "definition": "The appointment of a named external auditor for a specified reporting year.",
+          "inclusion_boundary": "Includes a stated auditor appointment and the period to which the appointment applies.",
+          "exclusion_boundary": "Excludes audit findings, auditor independence conclusions, and appointments for periods not stated.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81"
+          ]
+        },
+        {
+          "concept_id": "native:source_reported_program_classification",
+          "preferred_label": "Source-reported program classification",
+          "definition": "A classification label and identifier assigned to a named program by a source record.",
+          "inclusion_boundary": "Includes the source's program classification text and associated classification identifier, including an unknown or unclassified value.",
+          "exclusion_boundary": "Excludes inferred program purpose, replacement classification schemes, and classification assignments not present in the source record.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2f61b4b97df3e5edb58aa6dfa8411ffe2478845744dd7fe1"
+          ]
+        },
+        {
+          "concept_id": "native:source_native_record_identity_binding",
+          "preferred_label": "Source-native record identity binding",
+          "definition": "A source-level linkage between records, such as an annual information statement and a charity record, based on a matching source-native identifier.",
+          "inclusion_boundary": "Includes explicit linkage of source records through a matching identifier native to those sources.",
+          "exclusion_boundary": "Excludes creation of a new cross-catalogue identifier or any identity resolution beyond the stated source-level binding.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:32e755d630152a9f11492c191d6a94706f2759c97a117178"
+          ]
+        },
+        {
+          "concept_id": "native:self_described_national_community_foundation",
+          "preferred_label": "Self-described national community foundation",
+          "definition": "A first-party organisational description claiming national community-foundation status and a geographically distributed community of givers.",
+          "inclusion_boundary": "Includes stated claims of being a national community foundation and having givers from across a country.",
+          "exclusion_boundary": "Excludes independent verification of national status, uniqueness, membership size, or geographic reach.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "model": "luna",
+      "observation_ids": [
+        "nativeobs:2ae051c39793c2c4d657d68a9b99a56901f63239194b2e54",
+        "nativeobs:52dc7c6d287a61fc76380ab44e2b4c6e73f17258875920f4",
+        "nativeobs:88633559db10cb4902049aff22425bb41f1148b608e247ad",
+        "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+        "nativeobs:a77f4f2e494fc9424571db8eac9078172fd23bb1018eb069",
+        "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b",
+        "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+        "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+        "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683",
+        "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "nativeobs:134cc64d2a5e0d5b003d5af290cb7f2b5d817b585052f965",
+        "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+        "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+        "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+        "nativeobs:22fe76690bc5fab966f097b58b1d99f3b6d5eb39c4d4b00e",
+        "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede",
+        "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd",
+        "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7",
+        "nativeobs:32f8ac6380e08ebaa7252734cf9ee24fd91101c74347ae73",
+        "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+      ],
+      "concepts": [
+        {
+          "concept_id": "nativeconcept:grantmaking_and_funding_support",
+          "preferred_label": "Grantmaking and funding support",
+          "definition": "Provision of funding or grant support for community, regional, organisational or project purposes, including support for dedicated personnel or local initiatives.",
+          "inclusion_boundary": "Include observations describing funding, grants, funding regions, eligible recipients or funded roles and projects.",
+          "exclusion_boundary": "Exclude operation of the recipient's work, general charitable intent without funding evidence, and funding exclusions considered alone.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+            "nativeobs:32f8ac6380e08ebaa7252734cf9ee24fd91101c74347ae73",
+            "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:community_foundation_administration_and_trustee_services",
+          "preferred_label": "Community foundation administration and trustee services",
+          "definition": "Administration, trustee and related professional services provided for community foundation funds, scholarship funds, donors and customers.",
+          "inclusion_boundary": "Include explicit descriptions of administration, trustee or professional services for named foundation funds or donors.",
+          "exclusion_boundary": "Exclude general expertise claims that do not identify delivered administration or trustee services, and exclude charitable programs unrelated to such services.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:community_foundation_giving_expertise",
+          "preferred_label": "Community foundation giving expertise",
+          "definition": "Stated organisational expertise spanning strategic grantmaking and structured giving arrangements, including donor-advised, ancillary, collective, workplace and family-oriented giving.",
+          "inclusion_boundary": "Include official descriptions that enumerate giving, grantmaking or donor-service expertise.",
+          "exclusion_boundary": "Exclude a single funding activity, generic charitable purpose, or services not framed as giving or grantmaking expertise.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:regional_stakeholder_advisory_governance",
+          "preferred_label": "Regional stakeholder advisory governance",
+          "definition": "A representative regional stakeholder body that provides guidance and intelligence for investment, fund disbursement and governance.",
+          "inclusion_boundary": "Include explicit representative advisory bodies with investment, disbursement or governance guidance functions.",
+          "exclusion_boundary": "Exclude ordinary consultation, funded recipient activities, and governance policies without a regional stakeholder advisory body.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:22fe76690bc5fab966f097b58b1d99f3b6d5eb39c4d4b00e"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:child_and_community_wellbeing_programming",
+          "preferred_label": "Child and community wellbeing programming",
+          "definition": "Development, relief or advocacy programming intended to address child wellbeing, emergency needs, justice, public awareness and informed involvement, including named programs serving children, families and communities.",
+          "inclusion_boundary": "Include explicit organisational activity areas or named programs addressing child wellbeing, emergency support, justice, awareness or participation.",
+          "exclusion_boundary": "Exclude isolated beneficiary categories, administrative services, and programs whose supplied description does not support a wellbeing, relief or advocacy purpose.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7",
+            "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+            "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede"
+          ]
+        },
+        {
+          "concept_id": "nativeconcept:international_sector_program_delivery",
+          "preferred_label": "International sector program delivery",
+          "definition": "Named non-online programs delivered across reported overseas countries or communities in sectors such as food security, health, education or child protection.",
+          "inclusion_boundary": "Include program records explicitly identifying a sector, overseas locations or communities and program beneficiaries.",
+          "exclusion_boundary": "Exclude domestic-only programs, general international presence, and beneficiary lists without a named program and sector.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+            "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "model": "terra",
+      "observation_ids": [
+        "nativeobs:2ae051c39793c2c4d657d68a9b99a56901f63239194b2e54",
+        "nativeobs:52dc7c6d287a61fc76380ab44e2b4c6e73f17258875920f4",
+        "nativeobs:88633559db10cb4902049aff22425bb41f1148b608e247ad",
+        "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2",
+        "nativeobs:a77f4f2e494fc9424571db8eac9078172fd23bb1018eb069",
+        "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b",
+        "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca",
+        "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+        "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683",
+        "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "nativeobs:134cc64d2a5e0d5b003d5af290cb7f2b5d817b585052f965",
+        "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+        "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+        "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34",
+        "nativeobs:22fe76690bc5fab966f097b58b1d99f3b6d5eb39c4d4b00e",
+        "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede",
+        "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd",
+        "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7",
+        "nativeobs:32f8ac6380e08ebaa7252734cf9ee24fd91101c74347ae73",
+        "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+      ],
+      "concepts": [
+        {
+          "concept_id": "native:gst-registration-effective-date",
+          "preferred_label": "GST registration with effective date",
+          "definition": "A record of an entity's GST registration that identifies the date from which the registration applies.",
+          "inclusion_boundary": "Include only explicit GST-registration status and a stated commencement or effective date.",
+          "exclusion_boundary": "Exclude GST concessions, income-tax exemptions, FBT rebates, and other tax endorsements that do not state GST registration.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2ae051c39793c2c4d657d68a9b99a56901f63239194b2e54"
+          ]
+        },
+        {
+          "concept_id": "native:tax-concession-endorsement",
+          "preferred_label": "Tax concession or exemption endorsement",
+          "definition": "A reported endorsement for a tax concession, income-tax exemption, or FBT rebate, optionally with an effective date.",
+          "inclusion_boundary": "Include expressly reported concession, exemption, or rebate endorsements.",
+          "exclusion_boundary": "Exclude ordinary GST registration and unsupported conclusions about an entity's full tax position.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:a77f4f2e494fc9424571db8eac9078172fd23bb1018eb069"
+          ]
+        },
+        {
+          "concept_id": "native:registered-country",
+          "preferred_label": "Registered country",
+          "definition": "A country recorded for an organisation in a register record.",
+          "inclusion_boundary": "Include a country expressly listed in the supplied register data for the organisation.",
+          "exclusion_boundary": "Exclude countries inferred from office addresses, program locations, beneficiary locations, or legal jurisdiction unless recorded as the organisation's country.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b"
+          ]
+        },
+        {
+          "concept_id": "native:public-policy-and-charter-publication",
+          "preferred_label": "Publication of organisational charter and policies",
+          "definition": "An organisation or network makes a charter and policy documents publicly available through its website.",
+          "inclusion_boundary": "Include expressly published charter, complaints or grievance, privacy, and comparable organisational policy documents.",
+          "exclusion_boundary": "Exclude policies merely mentioned without publication evidence, and exclude the contents or effectiveness of the documents.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:52dc7c6d287a61fc76380ab44e2b4c6e73f17258875920f4"
+          ]
+        },
+        {
+          "concept_id": "native:self-reported-annual-outcomes-summary",
+          "preferred_label": "Self-reported annual outcomes summary",
+          "definition": "A published annual summary described as presenting organisational or community outcomes, funding highlights, project stories, or people involved.",
+          "inclusion_boundary": "Include descriptions of an annual publication's claimed outcome-related coverage.",
+          "exclusion_boundary": "Exclude independent verification of the reported outcomes or claims that the underlying evidence has been supplied.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:88633559db10cb4902049aff22425bb41f1148b608e247ad"
+          ]
+        },
+        {
+          "concept_id": "native:interim-to-formal-ceo-transition",
+          "preferred_label": "Interim-to-formal CEO transition",
+          "definition": "A reported leadership transition in which an interim CEO arrangement precedes the effective appointment of a formal CEO.",
+          "inclusion_boundary": "Include explicit interim leadership arrangements and a stated effective date for a formal CEO appointment.",
+          "exclusion_boundary": "Exclude assumptions that an interim leader is directly employed by the appointing organisation or that any executive change constitutes a CEO appointment.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:965df12b5fa99a8fcaf62858e634594e56340b5b75446cb2"
+          ]
+        },
+        {
+          "concept_id": "native:external-recipient-staffing-funding",
+          "preferred_label": "Funding for recipient staffing capacity",
+          "definition": "Funding provided to support a staffing role within an external recipient organisation.",
+          "inclusion_boundary": "Include funding explicitly stated to support a dedicated officer, employee, or comparable capacity role at the recipient.",
+          "exclusion_boundary": "Exclude evidence that the funder operates, employs, or controls the recipient's staff or activities.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0184596e7b074b35c3316921405589703832816cf33771ca"
+          ]
+        },
+        {
+          "concept_id": "native:reported-program-classification-beneficiary-and-geography-profile",
+          "preferred_label": "Reported program classification, beneficiary and geography profile",
+          "definition": "A named program record that reports a program classification together with beneficiary groups and one or more reported locations or countries.",
+          "inclusion_boundary": "Include program-level records that expressly identify a named program and report its classification, beneficiaries, and geographic coverage.",
+          "exclusion_boundary": "Exclude organisation-wide beneficiary lists, unsupported delivery claims, and countries not identified as reported program locations.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:09b85dcfcb8bff5e203cbcbffcdab2465059ee64040e7b32",
+            "nativeobs:19f9ff32317c8d922d8fac5d64a45d76415a31e8915e7ce4",
+            "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab"
+          ]
+        },
+        {
+          "concept_id": "native:historical-program-delivery-partnership",
+          "preferred_label": "Historical program delivery partnership",
+          "definition": "A historical source reports that a named program was delivered in partnership with another organisation or group.",
+          "inclusion_boundary": "Include explicit historical reporting of program delivery in partnership with a named partner.",
+          "exclusion_boundary": "Exclude claims that the partnership is current, continuing, or independently verified where the evidence is only historical or third-party reporting.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:298be001e213591813bf67b0f7588ef2232209dbef8abede"
+          ]
+        },
+        {
+          "concept_id": "native:reported-organisation-beneficiary-cohorts",
+          "preferred_label": "Reported organisation-wide beneficiary cohorts",
+          "definition": "A register or organisational record identifies groups of people, communities, or environmental interests as beneficiaries of the organisation.",
+          "inclusion_boundary": "Include beneficiary cohorts expressly listed at the organisation level.",
+          "exclusion_boundary": "Exclude a conclusion that every listed group receives every program or that an uncategorised entry has a defined beneficiary meaning.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:2ce7ab316411aa38e8f6848949bc3cfd0cd5f9d2ecf7bdcd"
+          ]
+        },
+        {
+          "concept_id": "native:stated-development-relief-and-advocacy-outcomes",
+          "preferred_label": "Stated development, relief and advocacy outcomes",
+          "definition": "An organisation states that its development, relief, or advocacy activities are intended to address identified wellbeing, emergency, justice, awareness, or involvement outcomes.",
+          "inclusion_boundary": "Include explicit statements of intended outcomes or purpose for these activities.",
+          "exclusion_boundary": "Exclude proof that the stated outcomes were achieved or that activities produced a specified impact.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:3054e9f90d0b3b9fe9e7fdfdab1a354742a4518918c57ac7"
+          ]
+        },
+        {
+          "concept_id": "native:empty-register-enforcement-outcomes",
+          "preferred_label": "No entries in reported enforcement-outcomes field",
+          "definition": "A supplied register record contains an empty enforcement-outcomes field or array for an organisation.",
+          "inclusion_boundary": "Include only explicit absence of entries in the specified reported register field at the stated point in time.",
+          "exclusion_boundary": "Exclude any conclusion that the organisation has no enforcement history, no misconduct, or clean conduct generally.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:0e03ae9a0c4786eada565ae4fa06f33303505a611ac1b683"
+          ]
+        },
+        {
+          "concept_id": "native:philanthropic-fund-and-donor-services",
+          "preferred_label": "Philanthropic fund, trustee and donor services",
+          "definition": "Services or expertise concerning grantmaking, giving arrangements, fund administration, trustee services, or services to donors and customers.",
+          "inclusion_boundary": "Include stated offerings or principal activities involving strategic grantmaking, giving structures, fund administration, trustee services, or donor-facing professional services.",
+          "exclusion_boundary": "Exclude an inference that every service is provided by every related entity or that stated expertise establishes delivery outcomes.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+            "nativeobs:202b190ab2ecdae1531a2635e4da491ff0804f2148e2bd34"
+          ]
+        },
+        {
+          "concept_id": "native:leased-office-right-of-use-asset",
+          "preferred_label": "Leased office and reported right-of-use asset",
+          "definition": "An entity leases identified office premises under a stated term and reports a related right-of-use asset at a reporting date.",
+          "inclusion_boundary": "Include explicit office lease details and the corresponding reported right-of-use asset amount.",
+          "exclusion_boundary": "Exclude ownership of the premises, unreported lease liabilities, or valuations other than the stated right-of-use asset.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:134cc64d2a5e0d5b003d5af290cb7f2b5d817b585052f965"
+          ]
+        },
+        {
+          "concept_id": "native:regional-advisory-body-for-investment-governance",
+          "preferred_label": "Regional advisory body for investment governance",
+          "definition": "A representative regional stakeholder body that provides guidance and intelligence for investment, fund disbursement, or governance.",
+          "inclusion_boundary": "Include an expressly described advisory committee or body with these guidance functions.",
+          "exclusion_boundary": "Exclude assumptions that the body makes final funding decisions or has legal governance authority beyond the reported role.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:22fe76690bc5fab966f097b58b1d99f3b6d5eb39c4d4b00e"
+          ]
+        },
+        {
+          "concept_id": "native:funding-region-eligibility",
+          "preferred_label": "Funding-region eligibility",
+          "definition": "A funding scheme identifies geographic regions or local-government areas in which funding is available.",
+          "inclusion_boundary": "Include regions expressly identified as funding regions or eligible areas.",
+          "exclusion_boundary": "Exclude claims that all activities in the region are eligible, or that the geographic listing applies outside the stated network or scheme scope.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:32f8ac6380e08ebaa7252734cf9ee24fd91101c74347ae73"
+          ]
+        },
+        {
+          "concept_id": "native:funding-ineligibility-criteria",
+          "preferred_label": "Funding ineligibility criteria",
+          "definition": "A funding scheme expressly excludes specified applicant types, grant purposes, or already-completed projects.",
+          "inclusion_boundary": "Include explicit exclusions from funding eligibility.",
+          "exclusion_boundary": "Exclude unstated eligibility requirements or assumptions that excluded applicants cannot participate in other funding schemes.",
+          "parent_concept_id": null,
+          "supporting_observation_ids": [
+            "nativeobs:35897eb5c712b605ffd21d52bc74c2f8ca138cd73ae56ed0"
+          ]
+        }
+      ]
+    }
+  ]
+}

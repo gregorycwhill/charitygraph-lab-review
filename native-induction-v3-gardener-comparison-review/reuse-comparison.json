@@ -1,0 +1,1179 @@
+{
+  "luna": {
+    "concepts_used_by_1_organisation": 47,
+    "concepts_used_by_2plus_organisations": 25,
+    "concepts_used_by_3plus_organisations": 12,
+    "concepts_used_by_4plus_organisations": 5,
+    "concepts_spanning_multiple_scopes": 10,
+    "concepts_spanning_multiple_sections": 22,
+    "unused_concepts": 0,
+    "per_concept": [
+      {
+        "concept_id": "cg-native:philanthropic-giving-enablement",
+        "attachment_count": 5,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 4
+      },
+      {
+        "concept_id": "cg-native:regional-capability-development",
+        "attachment_count": 9,
+        "organisation_count": 1,
+        "scope_count": 2,
+        "section_count": 3
+      },
+      {
+        "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:monitoring-and-evaluation-practice",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:stated-purpose-or-vision",
+        "attachment_count": 5,
+        "organisation_count": 4,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-delivery-operator",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-delivery-partnership",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:regional-business-networking-activity",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:strategic-risk-management-requirement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:voluntary-advisory-governance-participation",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-ethos-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-purpose-or-intended-change",
+        "attachment_count": 5,
+        "organisation_count": 2,
+        "scope_count": 3,
+        "section_count": 3
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "attachment_count": 6,
+        "organisation_count": 4,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:sponsorship-support-relationship",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:project-partnership-support",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:trustee-operator-role",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:governance-approval-responsibility",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-financial-reporting",
+        "attachment_count": 15,
+        "organisation_count": 4,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:external-auditor-appointment",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-implementation-support-network",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:commitment-to-standards-or-conduct",
+        "attachment_count": 5,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-governance-oversight-responsibility",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:stakeholder-participation-in-program-design",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+        "attachment_count": 3,
+        "organisation_count": 1,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-outcome-effectiveness-claim",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:principal-activity-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-participation-output",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:reported-financial-resource-change",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:community-led-program-implementation-approach",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:responsible-investment-commitment",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:regional-economic-future-event",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:strategy-localisation-statement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:strategy-impact-aim",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:fund-registration-status",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:advocacy-activity",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:entity-registration-profile",
+        "attachment_count": 6,
+        "organisation_count": 4,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:governance-personnel-role-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:independent-audit-opinion",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:financial-reporting-scope-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-identity-statement",
+        "attachment_count": 8,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-proceeds-report",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:workforce-and-volunteer-profile",
+        "attachment_count": 4,
+        "organisation_count": 4,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:consolidated-reporting-group-statement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:funding-eligibility-exclusion",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:traditional-custodian-recognition-statement",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:network-geographic-expansion-history",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-organisational-classification",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-demographic-scope",
+        "attachment_count": 9,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-registration-coverage",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:financial-risk-management-implementation",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:international-funds-distribution-network",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:reported-regulatory-purpose-classification",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:regulatory-enforcement-record-absence",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-population-scope",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:funded-role-continuation-support",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:planned-workshop-and-summit-activity",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisation-network-affiliation",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:initiative-launch-history",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-charity-form-classification",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-location-registration",
+        "attachment_count": 5,
+        "organisation_count": 3,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:reported-zero-revenue-category",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:reported-net-assets-and-liabilities",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:governance-meeting-activity-report",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:auditor-professional-conduct-absence",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-contingent-liability-absence",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:external-entity-identity-binding",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:training-delivery-output-count",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:clinical-operation-output-count",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      }
+    ]
+  },
+  "terra": {
+    "concepts_used_by_1_organisation": 49,
+    "concepts_used_by_2plus_organisations": 37,
+    "concepts_used_by_3plus_organisations": 13,
+    "concepts_used_by_4plus_organisations": 5,
+    "concepts_spanning_multiple_scopes": 15,
+    "concepts_spanning_multiple_sections": 33,
+    "unused_concepts": 7,
+    "per_concept": [
+      {
+        "concept_id": "cg-native:philanthropic-giving-enablement",
+        "attachment_count": 4,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 4
+      },
+      {
+        "concept_id": "cg-native:regional-capability-development",
+        "attachment_count": 9,
+        "organisation_count": 1,
+        "scope_count": 3,
+        "section_count": 6
+      },
+      {
+        "concept_id": "cg-native:grant-and-sponsorship-funding-process",
+        "attachment_count": 5,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-delivery-output-reporting",
+        "attachment_count": 8,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 4
+      },
+      {
+        "concept_id": "cg-native:monitoring-and-evaluation-practice",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-channel",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:stated-purpose-or-vision",
+        "attachment_count": 5,
+        "organisation_count": 4,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-delivery-operator",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-delivery-partnership",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:regional-business-networking-activity",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:workshop-series-delivery-output",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:strategic-risk-management-requirement",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:voluntary-advisory-governance-participation",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-ethos-statement",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-purpose-or-intended-change",
+        "attachment_count": 8,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-service-delivery-activity",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 3
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-or-service-reach",
+        "attachment_count": 10,
+        "organisation_count": 4,
+        "scope_count": 3,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:sponsorship-support-relationship",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:project-partnership-support",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:trustee-operator-role",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:governance-approval-responsibility",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-financial-reporting",
+        "attachment_count": 18,
+        "organisation_count": 4,
+        "scope_count": 2,
+        "section_count": 3
+      },
+      {
+        "concept_id": "cg-native:organisational-membership-or-compliance-statement",
+        "attachment_count": 4,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:external-auditor-appointment",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:program-service-reach-statement",
+        "attachment_count": 9,
+        "organisation_count": 4,
+        "scope_count": 3,
+        "section_count": 4
+      },
+      {
+        "concept_id": "cg-native:program-implementation-support-network",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:commitment-to-standards-or-conduct",
+        "attachment_count": 5,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-governance-oversight-responsibility",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:stakeholder-participation-in-program-design",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:inclusive-conduct-guidance-requirement",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-outcome-effectiveness-claim",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:principal-activity-statement",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 3
+      },
+      {
+        "concept_id": "cg-native:named-program-classification-statement",
+        "attachment_count": 5,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-participation-output",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-or-project-disbursement-expenditure",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:reported-financial-resource-change",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:community-led-program-implementation-approach",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:board-committee-oversight-structure",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:responsible-investment-commitment",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:regional-economic-future-event",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-workshop-session-delivery",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:strategy-localisation-statement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:strategy-impact-aim",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-and-resource-mobilisation-channel",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:governance-committee-structure",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-classification-and-beneficiary-scope",
+        "attachment_count": 4,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-asset-and-facility-arrangement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:fund-registration-status",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:advocacy-activity",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:entity-registration-profile",
+        "attachment_count": 4,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-scale-or-community-description",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:governance-personnel-role-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:independent-audit-opinion",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:financial-reporting-scope-statement",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-identity-statement",
+        "attachment_count": 3,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:fundraising-proceeds-report",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:workforce-and-volunteer-profile",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:consolidated-reporting-group-statement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-reporting-deadline-status",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:funding-eligibility-exclusion",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:traditional-custodian-recognition-statement",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:network-geographic-expansion-history",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-organisational-classification",
+        "attachment_count": 5,
+        "organisation_count": 4,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:named-program-classification-and-geographic-scope",
+        "attachment_count": 6,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-demographic-scope",
+        "attachment_count": 4,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-registration-coverage",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:financial-risk-management-implementation",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:international-funds-distribution-network",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:reported-regulatory-purpose-classification",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:regulatory-enforcement-record-absence",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-beneficiary-population-scope",
+        "attachment_count": 3,
+        "organisation_count": 3,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:built-or-equipped-facility-output",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:governance-quorum-and-voting-rule",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:funded-role-continuation-support",
+        "attachment_count": 2,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:planned-workshop-and-summit-activity",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:organisation-network-affiliation",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
+        "concept_id": "cg-native:initiative-launch-history",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-charity-form-classification",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:program-location-registration",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:reported-zero-revenue-category",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:reported-net-assets-and-liabilities",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:advisory-committee-governance-rule",
+        "attachment_count": 3,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:governance-meeting-activity-report",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:auditor-professional-conduct-absence",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:temporal-source-scope-mismatch",
+        "attachment_count": 4,
+        "organisation_count": 3,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:official-entity-identifier-record",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:financial-source-content-limitation",
+        "attachment_count": 2,
+        "organisation_count": 2,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-contingent-liability-absence",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:external-entity-identity-binding",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:administrative-status-absence",
+        "attachment_count": 3,
+        "organisation_count": 2,
+        "scope_count": 2,
+        "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:funds-held-in-trust-and-administration-arrangement",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,3095 @@
+{
+  "luna_counts": {
+    "records": 58,
+    "zero": 11,
+    "one": 35,
+    "multi": 12,
+    "missing_concept_suggestions": 5
+  },
+  "terra_counts": {
+    "records": 58,
+    "zero": 6,
+    "one": 37,
+    "multi": 15,
+    "missing_concept_suggestions": 7
+  },
+  "cases": [
+    {
+      "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+      "observation": {
+        "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+        "subject": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation is World Vision Australia, ABN 28 004 778 081, and the ACNC register reports its status as Registered.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-03-24"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0005-L0014",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an organisation name, ABN and registered status in an official register, matching the entity registration profile concept.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ebe480efea80c59bd0ca9a58936734f1de8de21cf2b4bb81",
+        "concept_ids": [
+          "cg-native:official-entity-identifier-record",
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official ABN and a registered status from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+      "observation": {
+        "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+        "subject": "World Vision Australia",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The ACNC register reports no group-head flag and no parent account or parent ABN for World Vision Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-03-24"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0870-L0875",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This concerns the ACNC register fields and does not by itself address partnership affiliation."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "The observation reports ACNC group-head and parent-account status fields, which are official organisational form classifications.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:d58605ccb0102b376ab56dea12ebe2bdb26ef81ce25e898c",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "The observation reports official ACNC fields indicating no group-head flag and no parent account or parent ABN.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:official-charity-form-classification"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+      "observation": {
+        "observation_id": "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "subject": "World Vision Australia",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The stated long-term objectives include community-based sustainable transformational development focused especially on children; emergency relief for people affected by conflict or disaster; promotion of justice addressing unjust structures affecting poor communities; and public awareness leading to informed understanding, giving, involvement and prayer.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": "reported in FY25 Directors’ Report"
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0215-L0222",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "These are company-reported objectives."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation reports World Vision Australia's stated long-term objectives, which are organisational aims and intended future changes.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:63fbe1dd282404e5a60db2b449a35fcec4ad6b2b462da20b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation reports World Vision Australia's stated long-term objectives, which are organisational aims and intended changes.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+      "observation": {
+        "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+        "subject": "World Vision Australia",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Humanitarian and Emergency Affairs"
+        },
+        "proposition": "Humanitarian and Emergency Affairs is a named non-online program classified as Disasters and emergency management (ID 699), serving children, young people, adults, families, disaster victims and overseas communities or charities in the reported countries including Afghanistan, Bangladesh, Burundi, Democratic Republic of the Congo, Ethiopia, Kenya, Laos, Lebanon, Malawi, Mozambique, Myanmar, Nepal, Philippines, Somalia, South Sudan, Sri Lanka, Sudan, Syria, Turkiye, Uganda, Ukraine, Vanuatu and12",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source": "S002",
+            "locator": "L0440-L0483",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "The final country name is recorded in the source as Zimbabwe; the proposition’s country list is bounded by the source record."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "support_rationale": "The observation identifies a named program, its source-reported classification, and the demographic and geographic groups it serves.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The proposition contains a malformed final country-list fragment, but the qualification preserves the source-bounded list."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:5fa5d76586ee825b0c1d7538b4357fa2dffe8f5019844595",
+        "concept_ids": [
+          "cg-native:named-program-classification-and-geographic-scope",
+          "cg-native:program-beneficiary-demographic-scope"
+        ],
+        "support_rationale": "The observation identifies a named program, its non-online status, classification, countries served and beneficiary groups.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-beneficiary-demographic-scope"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+      "observation": {
+        "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+        "subject": "World Vision Australia",
+        "section_id": 5,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The ACNC register lists operation in Tasmania, New South Wales, Queensland, Western Australia, South Australia, the Australian Capital Territory and the Northern Territory.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-03-24"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0263-L0292",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for organisation operating-location or geographic scope statements is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ba6418331816bc445b4d2061a3654c7cc091a2fd0afad7ce",
+        "concept_ids": [
+          "cg-native:organisational-scale-or-community-description"
+        ],
+        "support_rationale": "The observation reports the jurisdictions in which the organisation operates.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept concerns first-party geographic-scope descriptions, while this evidence is an ACNC register record."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+      "observation": {
+        "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+        "subject": "World Vision Australia",
+        "section_id": 7,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "40 Hour Famine"
+        },
+        "proposition": "A historical article describes the 40 Hour Famine as a fundraising scheme in which Australians, especially young people, go without food for 40 hours and seek sponsorship from others; it also reports a Backpack Challenge in 2017 and 2018 in its place.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "2017-2018 and earlier historical operation"
+        },
+        "evidence": [
+          {
+            "source": "S006",
+            "locator": "L0028-L0028",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "The evidence is from a third-party article and includes citation-needed markers in the source text."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue has no concept specifically covering fundraising activity or fundraising challenge mechanics; the observation does not establish fundraising proceeds."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+        "concept_ids": [
+          "cg-native:fundraising-channel"
+        ],
+        "support_rationale": "The 40 Hour Famine is described as a fundraising scheme using sponsorship, which is a fundraising mechanism.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:58b0163a7c5d17fb1be45ab320007cd60cb51201034ef1ce",
+      "observation": {
+        "observation_id": "nativeobs:58b0163a7c5d17fb1be45ab320007cd60cb51201034ef1ce",
+        "subject": "World Vision Australia",
+        "section_id": 9,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The FY25 Directors’ Report identifies Peter Trent as Chair and lists Jon Seeley, Darryl Gardiner, Andrew Scipione, Charles Badenoch, Kate Harrison Brennan, Alicia Leis, Louise Mercer and Kylie Gerrard as directors in office during the year.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 September 2025"
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0027-L0033",
+            "role": "supporting"
+          },
+          {
+            "source": "S003",
+            "locator": "L0046-L0056",
+            "role": "corroborating"
+          },
+          {
+            "source": "S003",
+            "locator": "L0183-L0197",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:58b0163a7c5d17fb1be45ab320007cd60cb51201034ef1ce",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The observation explicitly assigns a chair role and identifies directors in office.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:58b0163a7c5d17fb1be45ab320007cd60cb51201034ef1ce",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The report assigns named individuals to chair and director governance roles.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:governance-personnel-role-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+      "observation": {
+        "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+        "subject": "World Vision Australia",
+        "section_id": 9,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "Directors provide their services without charge, although certain travel and other business expenses may be reimbursed.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 September 2025"
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L1608-L1611",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+        "concept_ids": [
+          "cg-native:voluntary-advisory-governance-participation"
+        ],
+        "support_rationale": "Directors are reported to provide services without charge, evidencing unpaid governance participation; the expense-reimbursement qualification is preserved.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is specifically framed around advisory or governance-body participation, while this observation only states that directors are unpaid."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ca0f66befb5381958b8d3b2a6c056ade26ff61be26dd16c2",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept specifically covers unpaid director service or director remuneration absence.",
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+      "observation": {
+        "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+        "subject": "World Vision Australia",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The organisation’s Melbourne office receives all income and is responsible for all expenditure, while branch accounting records are maintained for State Governments.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": "described in FY25 financial report"
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0571-L0582",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation describes internal accounting responsibility and branch records, but no frozen concept specifically covers accounting responsibility or branch accounting arrangements."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:f583c7c812effcc9768e990e060e8cf088a326b376bfe1df",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept precisely covers an organisational arrangement in which one office receives all income and is responsible for expenditure while branch accounting records are maintained.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+      "observation": {
+        "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+        "subject": "World Vision Australia",
+        "section_id": 12,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "World Vision Australia is part of the World Vision International Partnership; Australian sponsors and donors provide funds to field offices, while World Vision Australia provides technical support.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": "described in FY25 reporting"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0262-L0262",
+            "role": "supporting"
+          },
+          {
+            "source": "S003",
+            "locator": "L0903-L0909",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+        "concept_ids": [
+          "cg-native:organisation-network-affiliation",
+          "cg-native:program-implementation-support-network",
+          "cg-native:international-funds-distribution-network"
+        ],
+        "support_rationale": "The observation states affiliation with the World Vision International Partnership, describes funds flowing to field offices, and identifies technical support provided by the subject.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The supplied concepts distinguish affiliation, implementation support and international fund distribution; the statement supports all three aspects."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:9e1daefef007e79a09b20aa8c6107f03250276a03c6091d1",
+        "concept_ids": [
+          "cg-native:organisation-network-affiliation",
+          "cg-native:program-implementation-support-network",
+          "cg-native:international-funds-distribution-network"
+        ],
+        "support_rationale": "The observation reports membership in the World Vision International Partnership, fund flows to field offices and technical support provided by World Vision Australia.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:international-funds-distribution-network",
+        "cg-native:organisation-network-affiliation",
+        "cg-native:program-implementation-support-network"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+      "observation": {
+        "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+        "subject": "World Vision Australia",
+        "section_id": 16,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "The Directors’ Report states that the organisation was not subject to particular or significant environmental regulations and that the directors were not aware of environmental-regulation breaches.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 September 2025"
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0273-L0276",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This is a management representation and is not a general determination that no adverse matters exist."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for absence of environmental-regulation breaches or environmental-regulation applicability is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:7b858932b10dccbe1654f027e5ef6382ecc2685aea04ff07",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept specifically covers absence of environmental-regulation breaches or environmental-regulation applicability.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:207a8d9f2deb8130785fb2516dd7c542fbff72d157502721",
+      "observation": {
+        "observation_id": "nativeobs:207a8d9f2deb8130785fb2516dd7c542fbff72d157502721",
+        "subject": "World Vision Australia",
+        "section_id": 17,
+        "scope": {
+          "kind": "subject",
+          "label": "World Vision Australia"
+        },
+        "proposition": "A historical article reports that World Vision Australia was founded in 1966 after a proposal to establish an Australian office and that its first project related to Vietnam.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "1966"
+        },
+        "evidence": [
+          {
+            "source": "S006",
+            "locator": "L0028-L0028",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This source-native historical account differs from the ACNC establishment date."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:207a8d9f2deb8130785fb2516dd7c542fbff72d157502721",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports the historical establishment of an Australian office in 1966 and identifies its first project, providing a dated origin history for an initiative or organisational operation.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is framed around a named initiative launch; the observation primarily concerns organisational founding history."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:207a8d9f2deb8130785fb2516dd7c542fbff72d157502721",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports the founding of World Vision Australia's Australian office in 1966 and its first project, providing historical launch information.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The evidence concerns organisational founding rather than a named initiative, so the match is approximate."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:initiative-launch-history"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898",
+      "observation": {
+        "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898",
+        "subject": "Australian Communities Foundation",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The entity was established on 10 March 1997.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "1997-03-10"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0035]",
+            "role": "supporting",
+            "excerpt": "\"DateEstablished\": \"1997-03-10T13:00:00.0000000Z\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports the entity’s official establishment date, which is part of an entity registration profile.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:b9b188e6ba35bf2567d875f43304485836c366cdae7ff898",
+        "concept_ids": [],
+        "support_rationale": "The catalogue contains no concept for an organisation’s establishment date or launch history at entity level.",
+        "missing_concept_suggestion": "A concept for official organisation establishment-date record.",
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:6ce41678cdf15ae2b70eb5cb27ca6bbbcb4dafe6725509af",
+      "observation": {
+        "observation_id": "nativeobs:6ce41678cdf15ae2b70eb5cb27ca6bbbcb4dafe6725509af",
+        "subject": "Australian Communities Foundation",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The ACNC record marks the entity as not being an ACNC reporting group head, and the 2025 AIS marks ReportingGroupFlag as false.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0586]",
+            "role": "supporting",
+            "excerpt": "\"GroupHeadFlag\": false"
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0025]",
+            "role": "supporting",
+            "excerpt": "\"ReportingGroupFlag\": false"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:6ce41678cdf15ae2b70eb5cb27ca6bbbcb4dafe6725509af",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "The observation reports official group-head and reporting-group flag fields, which classify the entity's organisational form or reporting status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:6ce41678cdf15ae2b70eb5cb27ca6bbbcb4dafe6725509af",
+        "concept_ids": [
+          "cg-native:official-charity-form-classification"
+        ],
+        "support_rationale": "The observation reports official group-head classification fields as false.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:official-charity-form-classification"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+      "observation": {
+        "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "subject": "Australian Communities Foundation",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation describes itself as supporting and enabling smart, rewarding and effective giving.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0101]",
+            "role": "supporting",
+            "excerpt": "Australian Communities Foundation is a non-profit organisation that supports and enables smart, rewarding and effective giving."
+          }
+        ],
+        "qualifications": [
+          "This is an official website statement."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "support_rationale": "The organisation explicitly describes itself as supporting and enabling effective giving.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:15360b5e7740d347019d07565040e91e622bb6ffcdfdd3ae",
+        "concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "support_rationale": "The organisation explicitly describes its activity as supporting and enabling effective giving.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:philanthropic-giving-enablement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+      "observation": {
+        "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+        "subject": "Australian Communities Foundation",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Program 1"
+        },
+        "proposition": "The 2025 ACNC record identifies a source-native program named Program 1, located in Australia and not operated online.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0236]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Program 1\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0249]",
+            "role": "supporting",
+            "excerpt": "\"OperatesOnline\": false"
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016feebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0239]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Australia\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The observation identifies a source-native program and explicitly records Australia as its program location.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ad75ea0306e15e1887bf1db52c40302fcb0adbd467ab6580",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:named-program-classification-and-geographic-scope"
+        ],
+        "support_rationale": "The observation identifies a named program and reports its location and non-online operating status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-identity-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:f85b6d809484fda41dd520ba9fe5130876016753208bd161",
+      "observation": {
+        "observation_id": "nativeobs:f85b6d809484fda41dd520ba9fe5130876016753208bd161",
+        "subject": "Australian Communities Foundation",
+        "section_id": 8,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "For the year ended 30 June 2025, total expenses were $4,216,151, including $2,859,321 in employee expenses, and the reported net surplus was $418,046.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 June 2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0145]",
+            "role": "supporting",
+            "excerpt": "\"ExpenseEmployees\": \"2859321.0000\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0150]",
+            "role": "supporting",
+            "excerpt": "\"ExpenseTotal\": \"4216151.0000\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016feebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0151]",
+            "role": "supporting",
+            "excerpt": "\"NetSurplusDeficit\": \"418046.0000\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:f85b6d809484fda41dd520ba9fe5130876016753208bd161",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total expenses, employee expenses and net surplus for a specified reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:f85b6d809484fda41dd520ba9fe5130876016753208bd161",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total expenses, employee expenses and net surplus for a specified reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-financial-reporting"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:58b0fa72634e9ca3fb50beaca70de82e41470e4e4bd4d774",
+      "observation": {
+        "observation_id": "nativeobs:58b0fa72634e9ca3fb50beaca70de82e41470e4e4bd4d774",
+        "subject": "Australian Communities Foundation",
+        "section_id": 8,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "At 30 June 2025, the entity reported total assets of $2,767,118, total liabilities of $1,413,755 and net assets of $1,353,363.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "30 June 2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0158]",
+            "role": "supporting",
+            "excerpt": "\"TotalAssets\": \"2767118.0000\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0163]",
+            "role": "supporting",
+            "excerpt": "\"TotalLiabilities\": \"1413755.0000\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0164]",
+            "role": "supporting",
+            "excerpt": "\"NetAssetsLiabilities\": \"1353363.0000\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:58b0fa72634e9ca3fb50beaca70de82e41470e4e4bd4d774",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting",
+          "cg-native:reported-net-assets-and-liabilities"
+        ],
+        "support_rationale": "The observation reports total assets, total liabilities and net assets at a specified reporting date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:58b0fa72634e9ca3fb50beaca70de82e41470e4e4bd4d774",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting",
+          "cg-native:reported-net-assets-and-liabilities"
+        ],
+        "support_rationale": "The observation reports total assets, total liabilities and net assets for a specified reporting date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-financial-reporting",
+        "cg-native:reported-net-assets-and-liabilities"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+      "observation": {
+        "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+        "subject": "Australian Communities Foundation",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation states that it provides structures, services and a community to support structured giving, and that it makes philanthropy easy and accessible.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0105]",
+            "role": "supporting",
+            "excerpt": "We make philanthropy easy and accessible"
+          },
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0107]",
+            "role": "supporting",
+            "excerpt": "We provide the structures, services and community that will get you there."
+          }
+        ],
+        "qualifications": [
+          "This is a first-party capability and access claim."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+        "concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "support_rationale": "Providing structures, services and community to support structured giving and make philanthropy accessible directly matches philanthropic giving enablement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a134a5af589f7863d63b7a4e5be48c27d051e3b66edbbceb",
+        "concept_ids": [
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "support_rationale": "The organisation reports providing structures, services and community to enable structured giving and make philanthropy accessible.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:philanthropic-giving-enablement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+      "observation": {
+        "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+        "subject": "Australian Communities Foundation",
+        "section_id": 12,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "During the year ended 30 June 2025, the company received $2,949,741 in administration and investment fees from the three named Funds; fees owed at year end were $510,014 and other receivables for reimbursed sub-fund expenses were $110,197.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 June 2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0536]",
+            "role": "supporting",
+            "excerpt": "During the year, the Company received amounts from Australian Communities Foundation, the Australian"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0538]",
+            "role": "supporting",
+            "excerpt": "for administration and investment fees of $2,949,741 (2024: $2,597,569). Fees owed at year end were"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0539]",
+            "role": "supporting",
+            "excerpt": "$510,014 (2024: $454,754). Other amounts receivable of $110,197"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports administration and investment fee receipts and receivable amounts for a specified reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:3b05629c0c3bba98e987253be79695842d5f9af8df039933",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting",
+          "cg-native:philanthropic-giving-enablement"
+        ],
+        "support_rationale": "The observation reports administration and investment-fee receipts and receivables, while the named Funds relationship concerns administration of giving-related funds.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The financial-reporting concept is directly supported; the enablement concept is supported only insofar as the stated fees concern administration of named Funds."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-financial-reporting"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+      "observation": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "subject": "Australian Communities Foundation",
+        "section_id": 13,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "ABN Lookup states that the entity is not entitled to receive tax deductible gifts.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0101]",
+            "role": "supporting",
+            "excerpt": "Deductible gift recipient status"
+          },
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0103]",
+            "role": "supporting",
+            "excerpt": "Not entitled to receive tax deductible gifts"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns deductible-gift-recipient tax status, for which no frozen catalogue concept is provided."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:7b412255ff10b68ff44a15c6e140aab09579294c1625ba71",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept precisely covers an entity's deductible-gift-recipient ineligibility status.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+      "observation": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "subject": "Australian Communities Foundation",
+        "section_id": 14,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation presents itself as a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0196]",
+            "role": "supporting",
+            "excerpt": "Australian Communities Foundation is a proudly inclusive organisation and an ally of LGBTQIA+ communities and the movement toward equality."
+          }
+        ],
+        "qualifications": [
+          "This is an official website statement about institutional identity."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "concept_ids": [
+          "cg-native:organisational-ethos-statement"
+        ],
+        "support_rationale": "The organisation explicitly describes itself as inclusive and as an ally of LGBTQIA+ communities, expressing institutional identity and values.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:2ee154bd46fe5be0e3ed747b65a1280360887125b4be6a8a",
+        "concept_ids": [
+          "cg-native:organisational-ethos-statement",
+          "cg-native:organisational-diversity-and-inclusion-value"
+        ],
+        "support_rationale": "The organisation describes itself as inclusive and an ally of LGBTQIA+ communities and equality.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-ethos-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+      "observation": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "subject": "Australian Communities Foundation",
+        "section_id": 15,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation"
+        },
+        "proposition": "The organisation's website acknowledges Aboriginal and Torres Strait Islander peoples as the first inhabitants and Traditional Custodians of the lands on which it operates, and states that it pays respects to Elders past and present.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:57c74120e9290aef3b1ec3e0b1ee8111159ebff231ff616c01f6dc7e56f5de9a",
+            "packet_locator": "[S005:L0195]",
+            "role": "supporting",
+            "excerpt": "We acknowledge Aboriginal and Torres Strait Islander peoples as the first inhabitants and Traditional Custodians of the lands on which we live, learn and work."
+          }
+        ],
+        "qualifications": [
+          "This evidences a public website statement or commitment; the packet does not independently evaluate implementation."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The observation explicitly recognises Aboriginal and Torres Strait Islander peoples as Traditional Custodians and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:b275a4a4e75e812a1df6413843b79e001688398bba19a8cc",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The organisation explicitly acknowledges Aboriginal and Torres Strait Islander peoples as Traditional Custodians and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:traditional-custodian-recognition-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+      "observation": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The packet contains conflicting tax-status statements: ABN Lookup says the entity is not entitled to receive tax deductible gifts, while the 2025 financial report says it is a deductible gift recipient.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "ABN Lookup current record and year ended 30 June 2025 financial report"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:92dccecf2b2ff80b3439f626c3778afef5c976e2530daf67ef7a3d7cea7f1b15",
+            "packet_locator": "[S004:L0103]",
+            "role": "supporting",
+            "excerpt": "Not entitled to receive tax deductible gifts"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0390]",
+            "role": "supporting",
+            "excerpt": "The Company is a deductible gift recipient."
+          }
+        ],
+        "qualifications": [
+          "The packet does not resolve which statement reflects the applicable status."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns conflicting deductible-gift-recipient tax-status statements, for which no frozen catalogue concept is provided."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:33603bf54294077f418755cb603b0059118369ec5d26da6c",
+        "concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "support_rationale": "The observation explicitly identifies conflicting tax-status statements from different sources and temporal contexts.",
+        "missing_concept_suggestion": "A concept for conflicting administrative or tax-status statements would provide a more precise match.",
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+      "observation": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The packet contains a beneficiary-data discrepancy: the register and Program 1 record list “Other charities”, while the 2025 AIS BeneficiaryOtherCharities field is false.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "register/program record and 2025 AIS"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0030]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Other charities\""
+          },
+          {
+            "source_record_id": "srcrec:a9cecffe938cee2ee7125e7c9950fef5978c84152a0b1a33cbc9244f11bca193",
+            "packet_locator": "[S001:L0687]",
+            "role": "supporting",
+            "excerpt": "\"Other charities\""
+          },
+          {
+            "source_record_id": "srcrec:10e5b5fbbb1783b1f25582012f94016fe0ff868043176ebeb0f5efabdd4d61c8",
+            "packet_locator": "[S002:L0080]",
+            "role": "supporting",
+            "excerpt": "\"BeneficiaryOtherCharities\": false"
+          }
+        ],
+        "qualifications": [
+          "The packet does not reconcile the differing record structures or reporting times."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "concept_ids": [
+          "cg-native:program-beneficiary-demographic-scope",
+          "cg-native:program-beneficiary-or-service-reach"
+        ],
+        "support_rationale": "The observation reports the beneficiary category “Other charities” for the register and program record, while separately reporting a conflicting AIS boolean.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The concepts capture the beneficiary-scope content; the discrepancy itself is not represented by a dedicated catalogue concept."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a4b301f210ff9c2bcd5d76565e7a370e32bf9c255266c3ef",
+        "concept_ids": [
+          "cg-native:temporal-source-scope-mismatch"
+        ],
+        "support_rationale": "The observation explicitly reports a discrepancy across register, program and 2025 AIS records with mixed reporting positions.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+      "observation": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "subject": "Australian Communities Foundation",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Australian Communities Foundation Limited"
+        },
+        "proposition": "The financial-report text extraction identifies representation gaps at pages 5 and 21.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "year ended 30 June 2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0097]",
+            "role": "supporting",
+            "excerpt": "Page 5:"
+          },
+          {
+            "source_record_id": "srcrec:eded7249eedff9849d0e9e32ce1c40804960e2316413d2c713da547da87b27c7",
+            "packet_locator": "[S003:L0555]",
+            "role": "supporting",
+            "excerpt": "Page 21:"
+          }
+        ],
+        "qualifications": [
+          "This is a packet representation limitation, not a claim that the underlying pages contain no information."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for source or packet representation gaps is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4feb9f7f5ddee7ae23ac7e8719cbe60e08cbb3a5b758f6e3",
+        "concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "support_rationale": "The observation explicitly identifies representation gaps in the supplied financial-report extraction.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+      "observation": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The Foundation states its vision is a world in which no person is needlessly blind or vision impaired.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0121]-[S003:L0124]",
+            "role": "supporting",
+            "excerpt": "\"A world in which no person is needlessly blind or vision impaired.\""
+          }
+        ],
+        "qualifications": [
+          "This is the Foundation's stated vision."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation explicitly states the Foundation's vision.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4f14fabe69fa35a45b9ee35db7702965000b817250ff5f98",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision"
+        ],
+        "support_rationale": "The observation reports the Foundation's stated vision.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:stated-purpose-or-vision"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+      "observation": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Eritrea Trachoma Elimination Project"
+        },
+        "proposition": "The 2025 AIS identifies the Eritrea Trachoma Elimination Project as a program in Eritrea.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:052bbdadc0e167c0f38974f576ee481924c22cfa04b84442135b58579279d29d",
+            "packet_locator": "[S002:L0296]-[S002:L0316]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Eritrea Trachoma Elimination Project\""
+          }
+        ],
+        "qualifications": [
+          "The filed program record lists Eritrea as the program country."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The observation identifies a named program and states that it is located in Eritrea.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:64430b8c876d581490feda038685281e344d55748b00c006",
+        "concept_ids": [
+          "cg-native:program-identity-statement",
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed record names the program and records Eritrea as its program country.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-identity-statement",
+        "cg-native:program-location-registration"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+      "observation": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 5,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Strengthening Aboriginal Led Eye Health Services in the Top End of the Northern Territory"
+        },
+        "proposition": "The filed program record specifies locations in New South Wales, Northern Territory, Western Australia and Queensland.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:052bbdadc0e167c0f38974f576ee481924c22cfa04b84442135b58579279d29d",
+            "packet_locator": "[S002:L0339]-[S002:L0380]",
+            "role": "supporting",
+            "excerpt": "\"Name\": \"Northern Territory\""
+          }
+        ],
+        "qualifications": [
+          "The program's source-native name refers to the Top End of the Northern Territory, while its filed location list also includes New South Wales, Western Australia and Queensland."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "concept_ids": [
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed program record explicitly lists the named program's recorded locations.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:deb7e2193e8487238a57eea5b695cdceb7b6af7c28f4d45e",
+        "concept_ids": [
+          "cg-native:program-location-registration"
+        ],
+        "support_rationale": "The filed program record explicitly lists the program locations.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-location-registration"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+      "observation": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 9,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "Jane Madden was Chair of the Board as at 25 March 2026.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": "2026-03-25"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0017]-[S003:L0029]",
+            "role": "supporting",
+            "excerpt": "\"Current Directors Jane Madden (Chair) as at 25 March 2026\""
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The observation identifies Jane Madden as Chair of the Board at a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:50d73aa10c43896a91ed8af6065498d30d6a421ee9241f3e",
+        "concept_ids": [
+          "cg-native:governance-personnel-role-statement"
+        ],
+        "support_rationale": "The observation identifies Jane Madden as Chair of the Board at a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:governance-personnel-role-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+      "observation": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 12,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "The Foundation and its subsidiaries"
+        },
+        "proposition": "During 2025, Bloomberg Philanthropies provided a USD 15.5 million grant, managed by the US team, to support the Foundation's work over two years.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0129]-[S003:L0133]",
+            "role": "supporting",
+            "excerpt": "\"grant of USD 15.5 million (AUD 23.2 million) over two years\""
+          }
+        ],
+        "qualifications": [
+          "The financial report states that the grant was being managed by the US team."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation reports a grant supporting the Foundation’s work, but the catalogue has no dedicated grant-receipt or grant amount concept; the funding-process concept is the closest available match.",
+        "missing_concept_suggestion": "A concept for reported grant funding received, including grant amount and funding recipient, would represent this observation more precisely.",
+        "ambiguity_note": "The concept’s boundaries focus on organised grant administration rather than receipt of a grant by the subject, so this is an imperfect catalogue match."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:44cfd554f2f9a4df244c0d46e70e8a62e9c75c4eb296e2a0",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation reports a grant supporting the Foundation’s work over two years, but does not describe a grant application or administration process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue has no precise concept for a received grant or grant support relationship; the process concept is only an approximate match."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+      "observation": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 16,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "The ACNC register record contains no listed enforcement outcomes for the charity.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:240603fcd347ae3dad922030a6f255dd6d944c217ff9320cc444f1947b788da8",
+            "packet_locator": "[S001:L0693]-[S001:L0702]",
+            "role": "supporting",
+            "excerpt": "\"EnforcementOutcomes\": []"
+          }
+        ],
+        "qualifications": [
+          "This is limited to the enforcement-outcomes field in the supplied ACNC register record and is not evidence of absence of all adverse, compliance or conduct matters."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "concept_ids": [
+          "cg-native:regulatory-enforcement-record-absence"
+        ],
+        "support_rationale": "The observation explicitly reports an empty enforcement-outcomes field in the supplied ACNC record.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:c1807e9d51d81cdb98ef4a6446a44ef98bd2c464f5ddd75f",
+        "concept_ids": [
+          "cg-native:regulatory-enforcement-record-absence"
+        ],
+        "support_rationale": "The supplied ACNC record contains an empty enforcement-outcomes field, which is an explicit absence in that source field.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regulatory-enforcement-record-absence"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+      "observation": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 17,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "An external Wikipedia article describes the Foundation as founded in 1992 by eye surgeon Fred Hollows.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "1992"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:2f9106c014d0efeb438ad1244947949d331d5e4498fb3533dd9d778b4cee2c77",
+            "packet_locator": "[S006:L0028]",
+            "role": "supporting",
+            "excerpt": "\"The Fred Hollows Foundation was founded on 3 September 1992 by Fred Hollows\""
+          }
+        ],
+        "qualifications": [
+          "This is external editorial context from Wikipedia, not a regulator record."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was founded in 1992, providing a historical launch statement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is framed around a named initiative launch, while this observation concerns organisational founding history."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:e90e395a57deae168da0f6fb451ee089dc88226cae4aa94a",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports the Foundation's founding in 1992, including founder and date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is defined for named initiatives, while this observation concerns organisational founding."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:initiative-launch-history"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+      "observation": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 18,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Cameroon Cataract Bond"
+        },
+        "proposition": "The Foundation reports that the Cameroon Cataract Bond achieved its milestones, met its impact targets and reached the end of its planned cycle.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2025"
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:384007f19b1292d4fac0a874e89d783625ddbf827284a9870fdf18bcf1d9b2b6",
+            "packet_locator": "[S003:L0951]-[S003:L0958]",
+            "role": "supporting",
+            "excerpt": "\"The Cameroon Cataract Bond has achieved its milestones, met its impact targets\""
+          }
+        ],
+        "qualifications": [
+          "This outcome statement is reported in the Foundation's financial report; the packet does not supply the underlying independent evaluation."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "support_rationale": "The observation reports that a named program achieved milestones and met impact targets, supporting an outcome/effectiveness claim and a reported evaluation or milestone-review practice.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The source-reported statement is not supplied as an independent evaluation, as noted in the qualification."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611",
+        "concept_ids": [
+          "cg-native:monitoring-and-evaluation-practice",
+          "cg-native:program-outcome-effectiveness-claim"
+        ],
+        "support_rationale": "The report states that the named bond achieved milestones and met impact targets, while preserving the reported evaluation-related nature of the statement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:monitoring-and-evaluation-practice",
+        "cg-native:program-outcome-effectiveness-claim"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+      "observation": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "subject": "The Fred Hollows Foundation",
+        "section_id": 19,
+        "scope": {
+          "kind": "subject",
+          "label": "The Fred Hollows Foundation"
+        },
+        "proposition": "ABN Lookup reports the Foundation as a Health Promotion Charity for charity tax-concession purposes.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source_record_id": "srcrec:16089e402c7d7b095ec9826464255b7bcb37b7ae923e2a6a7a60a2dcbf462336",
+            "packet_locator": "[S004:L0073]-[S004:L0078]",
+            "role": "supporting",
+            "excerpt": "\"is a Health Promotion Charity\""
+          }
+        ],
+        "qualifications": [
+          "This reproduces a source-reported tax-concession classification."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reproduces an official source-reported charity subtype or purpose classification.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:26152f9e5e5ee47a8322b7bb112c4f8649ac84fb1685e6ed",
+        "concept_ids": [
+          "cg-native:official-organisational-classification"
+        ],
+        "support_rationale": "ABN Lookup reports the Foundation’s charity tax-concession subtype as Health Promotion Charity.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+      "observation": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register records the organisation's legal name as TWEED REGIONAL GALLERY FOUNDATION LIMITED.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          },
+          {
+            "source": "S002",
+            "locator": "L0001",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports the organisation's official legal name from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:832f26158b1c762123f03b91bd5aeb3c172b94ef8055d89f",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports the organisation's legal name from the ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+      "observation": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register records the organisation's status as Registered.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This is a source-reported register status; no additional legal characterization is inferred."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official register status for the named organisation.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:424c231004027c939b08019db6124105283ccfa2eaa2b076",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The ACNC register reports the organisation’s registered status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation gives status but no identifier or entity-type detail."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+      "observation": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "subject": "Tweed Regional Gallery Foundation Limited",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "TWEED REGIONAL GALLERY FOUNDATION LIMITED"
+        },
+        "proposition": "The ACNC register record reports NextReportDue as 2027-01-31T23:30:00.0000000Z.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-22T07:06:04.0000000Z"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0001",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "The proposition reports the register field without inferring whether the date changed subsequently."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "A concept for next-report-due or regulatory filing due-date status is not present in the frozen catalogue.",
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:2a3008dc3602ee9758975760eb720d67849833a83d88f3b5",
+        "concept_ids": [
+          "cg-native:official-reporting-deadline-status"
+        ],
+        "support_rationale": "The ACNC record reports a specific NextReportDue date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+      "observation": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "The Trustee for Local Buying Foundation (WA)"
+        },
+        "proposition": "The ATO ABN record characterises the entity as a Discretionary Investment Trust, active from 1 June 2020.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-08-31"
+        },
+        "evidence": [
+          {
+            "source": "S004",
+            "locator": "L0039-L0048",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official entity type, active status and effective date from an ATO ABN record.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:e2041f0ad1b51d4f5173791cd93bcb797bbc01ea855ef8f1",
+        "concept_ids": [
+          "cg-native:official-organisational-classification",
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The ATO record reports the entity's classification as a Discretionary Investment Trust and its active status from a specified date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+      "observation": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 1,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC register records the charity subtype purpose as Advancing social or public welfare, beginning 31 May 2020 and with no recorded end date.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "from 2020-05-31; no end date recorded"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0315-L0321",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reports a charity subtype purpose classification and its recorded start and end-date status in an official register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a8f0e68036bb39d5e0c9a442f9da5b5ceb951e4785b139a1",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The ACNC register reports a charity subtype purpose classification with a start date and no recorded end date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:reported-regulatory-purpose-classification"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+      "observation": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC activity summary states that the Foundation supports projects and programs facilitating workforce development, innovation and the productive capacity of business and industry to grow regional economies.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0041-L0047",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "concept_ids": [
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The activity summary explicitly describes workforce development, innovation and productive-capacity support for regional economies.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:77c84c7cc876292fe3a78e9cc8413893ecdc82c47c499553",
+        "concept_ids": [
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The activity summary explicitly describes workforce development, innovation and productive capacity supporting regional economies.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-capability-development"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+      "observation": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 2,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Western Australia page states that the WA Foundation aims to enhance the economic sustainability of regions within the operational footprint of BHP Minerals Australia assets and BHP Operation Services in Western Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S009",
+            "locator": "L0029-L0032",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation states an organisational aim to enhance regional economic sustainability and therefore expresses both a purpose/aim and a regional capability-development orientation.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:1d525f8e010096e17278dbc6e5827f698775ffdad536d11b",
+        "concept_ids": [
+          "cg-native:stated-purpose-or-vision",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation states an organisational aim concerning regional economic sustainability, fitting both a stated aim and regional capability development.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-capability-development",
+        "cg-native:stated-purpose-or-vision"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+      "observation": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Continuing a Connection to Business, Industry and Region"
+        },
+        "proposition": "The project transitioned an Industry Engagement Officer role into an Industry Stakeholder Lead role with a stronger capability-building and on-ground support focus for small businesses.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "24 February 2026"
+        },
+        "evidence": [
+          {
+            "source": "S016",
+            "locator": "L0057-L0063",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "National network page."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "concept_ids": [
+          "cg-native:funded-role-continuation-support",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The observation describes transition of a named Industry Engagement Officer role into a capability-building and on-ground support role, matching role-continuation support and regional capability development.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The proposition describes a project role transition but does not explicitly state funding; the funded-role concept is therefore a borderline match."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4e9b8cf39f9e998f6eee678b67b6d228fe6ba3bedc39e12a",
+        "concept_ids": [
+          "cg-native:funded-role-continuation-support",
+          "cg-native:regional-capability-development"
+        ],
+        "support_rationale": "The project transitioned and expanded a named industry-support role with a capability-building focus for small businesses.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:funded-role-continuation-support",
+        "cg-native:regional-capability-development"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+      "observation": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 3,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "The Launch of Yarnz Network"
+        },
+        "proposition": "The inaugural Yarnz Network hosted by Queensland Trading Tracks took place on 20 February 2025 and is stated to recur monthly.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "20 February 2025; recurring monthly as stated"
+        },
+        "evidence": [
+          {
+            "source": "S015",
+            "locator": "L0071-L0077",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Official website project story."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "concept_ids": [
+          "cg-native:regional-business-networking-activity",
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation identifies a hosted network activity and reports its inaugural date and recurrence, supporting both regional business networking and initiative launch history.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:9a3b4960b10b02abd19ac21c4e8d8b69367aec81942b8d98",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting",
+          "cg-native:regional-business-networking-activity"
+        ],
+        "support_rationale": "The observation reports a completed inaugural networking event and its stated recurring schedule.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The event is described as hosted by Queensland Trading Tracks; the observation does not explicitly establish Local Buying Foundation (WA) as delivery operator."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:regional-business-networking-activity"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+      "observation": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 4,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Local Buying Foundation Funding"
+        },
+        "proposition": "The ACNC program record identifies beneficiaries as current and emerging industries in local footprints where BHP Minerals Australia operates in Western Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0364-L0369",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "support_rationale": "The observation identifies current and emerging industries in specified local footprints as beneficiaries of the named program.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:40f4cc89425a6e8f10690cb98fb4b3397c7afd08e12c1e55",
+        "concept_ids": [
+          "cg-native:program-beneficiary-or-service-reach",
+          "cg-native:program-beneficiary-population-scope"
+        ],
+        "support_rationale": "The named funding program is reported as serving current and emerging industries in specified local footprints.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:program-beneficiary-or-service-reach",
+        "cg-native:program-beneficiary-population-scope"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+      "observation": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 5,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The subject is registered with an address in Mackay, Queensland, Australia.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-28"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0017-L0024",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports an official registration address and jurisdiction for the subject.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:d15f56a1682c72b23fa99bef65ca6cd55134594af4106e73",
+        "concept_ids": [
+          "cg-native:entity-registration-profile"
+        ],
+        "support_rationale": "The observation reports a registered entity and its recorded address.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue does not provide a distinct registered-office-location concept."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:entity-registration-profile"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+      "observation": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The 2025 annual information statement reports donations and bequests of $714,199.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2024-07-01 to 2025-06-30"
+        },
+        "evidence": [
+          {
+            "source": "S002",
+            "locator": "L0130-L0135",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "concept_ids": [
+          "cg-native:fundraising-proceeds-report"
+        ],
+        "support_rationale": "The observation reports donations and bequests received during a specified reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:4601cf2b721989b45fcc8215f511396d6850a1b846af730e",
+        "concept_ids": [
+          "cg-native:fundraising-proceeds-report",
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports a specified amount of donations and bequests during a reporting period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The fundraising-proceeds concept is a close fit, although the reported category is donations and bequests rather than a described fundraising appeal."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:fundraising-proceeds-report"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+      "observation": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "Funding applications are submitted online and assessed by a Local Buying Foundation Advisory Committee.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S013",
+            "locator": "L0026-L0030",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation describes online funding applications and assessment by an advisory committee, both components of an organised funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The observation describes online application submission and assessment by an advisory committee within a funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+      "observation": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 7,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The Foundation publishes state-specific funding rounds and accepts out-of-round enquiries by email.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2026 funding rounds"
+        },
+        "evidence": [
+          {
+            "source": "S013",
+            "locator": "L0031-L0047",
+            "role": "supporting"
+          },
+          {
+            "source": "S014",
+            "locator": "L0039-L0056",
+            "role": "corroborating"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "Publishing funding rounds and accepting funding enquiries are explicit elements of an organised grant funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:09aea0a0e364ce104ed1072db3b657e04e9765569b4db03f",
+        "concept_ids": [
+          "cg-native:grant-and-sponsorship-funding-process"
+        ],
+        "support_rationale": "The Foundation publishes funding rounds and accepts funding enquiries, which are elements of an organised funding process.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:grant-and-sponsorship-funding-process"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+      "observation": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 8,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "For the 2024-25 reporting period, total receipts were reported as $1,300,002, comprising $714,199 revenue and $585,803 classified as other income.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "reporting_period",
+          "value": "2024-07-01 to 2025-06-30"
+        },
+        "evidence": [
+          {
+            "source": "S002",
+            "locator": "L0130-L0138",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total receipts and their revenue and other-income components for a specified period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:71fac1369650a8fbf67d7c80451447ffb6bbeff5c51d0923",
+        "concept_ids": [
+          "cg-native:organisational-financial-reporting"
+        ],
+        "support_rationale": "The observation reports total receipts and their revenue and other-income components for a specified period.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:organisational-financial-reporting"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+      "observation": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 11,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Charter provides online meeting options for Advisory Committee members unable to travel.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "Charter Version 3, released January 2026"
+        },
+        "evidence": [
+          {
+            "source": "S010",
+            "locator": "L0117-L0121",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation concerns meeting-access arrangements for advisory committee members, which do not match a frozen concept's meeting-count, governance-role or voluntary-participation boundaries."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": "No catalogue concept precisely covers a provision for online attendance at advisory committee meetings.",
+        "ambiguity_note": null
+      },
+      "both_zero": true,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+      "observation": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 12,
+        "scope": {
+          "kind": "named_program_or_service",
+          "label": "Trading Tracks"
+        },
+        "proposition": "Trading Tracks is stated to have been developed in partnership with the Local Buying Foundation, BMA and BHP and delivered by Indigenous Business Builders.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "reported 7 August 2022"
+        },
+        "evidence": [
+          {
+            "source": "S015",
+            "locator": "L0099-L0104",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Official website project story."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "concept_ids": [
+          "cg-native:project-partnership-support",
+          "cg-native:program-delivery-partnership"
+        ],
+        "support_rationale": "The named project is explicitly described as developed in partnership with named entities and delivered by a named entity.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The statement supports project-linked partnership and identifies a delivery relationship, but does not state that all named partners jointly delivered the project."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:74a4945edc709a503975dabd70874d90323faae60d508af4",
+        "concept_ids": [
+          "cg-native:project-partnership-support"
+        ],
+        "support_rationale": "The named project is explicitly stated to have been developed in partnership with multiple named entities.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:project-partnership-support"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+      "observation": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 14,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The Foundation acknowledges Traditional Owners and pays respects to Elders past, present and emerging.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "current",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S005",
+            "locator": "L0081-L0085",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The observation explicitly acknowledges Traditional Owners and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:60ddb9a0e8541f59eb05eceda2ebd2b322e09042d7ccb4c3",
+        "concept_ids": [
+          "cg-native:traditional-custodian-recognition-statement"
+        ],
+        "support_rationale": "The Foundation explicitly acknowledges Traditional Owners and pays respects to Elders.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:traditional-custodian-recognition-statement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+      "observation": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 15,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The Charter requires conflicts of interest to be declared and provides for abstention, removal from proceedings and maintenance of an interests and conflicts register.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "Charter Version 3, released January 2026"
+        },
+        "evidence": [
+          {
+            "source": "S010",
+            "locator": "L0211-L0227",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Policy requirement; the packet does not establish implementation in a particular case."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "concept_ids": [
+          "cg-native:strategic-risk-management-requirement"
+        ],
+        "support_rationale": "The Charter requires identification and management of conflicts of interest, including declaration, abstention, removal and a conflicts register; this is an explicit governance risk-control requirement.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is broad strategic risk management, while this observation is specifically about conflicts of interest."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:42e95bebfafb890bb6215f8455cd0ee31a53cf6d2ec31710",
+        "concept_ids": [
+          "cg-native:strategic-risk-management-requirement"
+        ],
+        "support_rationale": "The Charter states requirements for declaring and managing conflicts of interest, including abstention, removal and a register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue's strategic-risk concept is the closest available governance requirement, although the observation specifically concerns conflicts of interest."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:strategic-risk-management-requirement"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+      "observation": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 17,
+        "scope": {
+          "kind": "reporting_group",
+          "label": "Local Buying Foundation (national network)"
+        },
+        "proposition": "The official website states that the Foundation was established in 2012 in connection with BHP's commitment to regional economic development.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "historical",
+          "value": "2012"
+        },
+        "evidence": [
+          {
+            "source": "S011",
+            "locator": "L0026-L0027",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "National network history."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was established in 2012, providing a historical launch or establishment statement for the initiative.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The catalogue concept is framed around a named initiative’s launch, while the observation concerns the Foundation’s establishment."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:a12ddfe18aafe146de767ab1b29afb7683995695bb9e2b63",
+        "concept_ids": [
+          "cg-native:initiative-launch-history"
+        ],
+        "support_rationale": "The observation reports that the Foundation was established in 2012 in connection with a stated regional-development commitment.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The available launch-history concept is defined for named initiatives rather than organisations, so the match is approximate."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:initiative-launch-history"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+      "observation": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 19,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC source-reported charity subtype is Advancing social or public welfare.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "mixed",
+          "value": "from 2020-05-31; no end date recorded"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0315-L0321",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "Source-reported classification only; no external taxonomy assignment is made."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The observation reports a charity subtype from the ACNC source and preserves its source-reported status.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:77763c853569d6c6e9c63ae3267a2c3338b3f72f62251582",
+        "concept_ids": [
+          "cg-native:reported-regulatory-purpose-classification"
+        ],
+        "support_rationale": "The ACNC source reports a charity subtype classification and preserves its stated effective date.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": false,
+      "both_nonzero": true,
+      "exact_shared_attachment_ids": [
+        "cg-native:reported-regulatory-purpose-classification"
+      ]
+    },
+    {
+      "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+      "observation": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The ACNC register records the latest reported date as 28 January 2026 and the next report due date as 31 January 2027.",
+        "epistemic_status": "supported",
+        "temporal_scope": {
+          "kind": "as_of",
+          "value": "2026-01-28"
+        },
+        "evidence": [
+          {
+            "source": "S001",
+            "locator": "L0005-L0012",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": []
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "concept_ids": [],
+        "support_rationale": "",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The observation reports regulatory reporting dates, but no frozen concept specifically covers reporting due-date or filing-timetable status."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:1224195fccdecbbe2ca7264bff9f4350b40618c09a3777d1",
+        "concept_ids": [
+          "cg-native:official-reporting-deadline-status"
+        ],
+        "support_rationale": "The observation reports the latest reported date and next report due date in an ACNC register.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "The latest reported date is not itself a deadline, but the next report due date directly matches the concept."
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    },
+    {
+      "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+      "observation": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "subject": "Local Buying Foundation (WA)",
+        "section_id": 20,
+        "scope": {
+          "kind": "subject",
+          "label": "Local Buying Foundation (WA)"
+        },
+        "proposition": "The supplied representation of the 2025 financial report is predominantly garbled or non-textual and does not provide reliably readable financial-report propositions beyond the structured ACNC AIS data.",
+        "epistemic_status": "explicit_absence",
+        "temporal_scope": {
+          "kind": "undated",
+          "value": null
+        },
+        "evidence": [
+          {
+            "source": "S003",
+            "locator": "L0001-L0018",
+            "role": "supporting"
+          },
+          {
+            "source": "S003",
+            "locator": "L0040-L0055",
+            "role": "supporting"
+          }
+        ],
+        "qualifications": [
+          "This is a packet representation limitation, not a statement that the underlying financial report lacks information."
+        ]
+      },
+      "luna_attachment": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "concept_ids": [],
+        "support_rationale": "The observation is a packet representation limitation and does not itself state a catalogue-classifiable organisational, financial, program or operational proposition.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": "It explicitly concerns unreadable supplied material rather than absence of the underlying information."
+      },
+      "terra_attachment": {
+        "observation_id": "nativeobs:fb97dae308c9a16fbacf7c0c57caeb27c30479d1d60ed812",
+        "concept_ids": [
+          "cg-native:financial-source-content-limitation"
+        ],
+        "support_rationale": "The observation explicitly states that the supplied financial report representation is garbled or non-textual and does not expose reliably readable financial propositions.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
+      },
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
+      "both_nonzero": false,
+      "exact_shared_attachment_ids": []
+    }
+  ]
+}

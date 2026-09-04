@@ -1,0 +1,1407 @@
+{
+  "experiment_id": "native-induction-v3-gardener-comparison",
+  "base_catalogue_count": 93,
+  "base_catalogue_hash": "640bc0110923ac7a9997a9e06cc016ec3a99d09fcc811407054ce20d5a405742",
+  "workshop_observations": 205,
+  "holdout_observations": 58,
+  "provider_calls": [
+    {
+      "label": "L-1-structural",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 78207,
+      "output_tokens": 3224,
+      "total_tokens": 81431,
+      "cost_usd": "0.019510",
+      "latency_seconds": 32.144,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-2-epistemic-grain",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 70665,
+      "output_tokens": 2043,
+      "total_tokens": 72708,
+      "cost_usd": "0.016585",
+      "latency_seconds": 19.064,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-3-relationship-role",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 69989,
+      "output_tokens": 2423,
+      "total_tokens": 72412,
+      "cost_usd": "0.016905",
+      "latency_seconds": 24.634,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33145,
+      "output_tokens": 1972,
+      "total_tokens": 35117,
+      "cost_usd": "0.008995",
+      "latency_seconds": 16.239,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33149,
+      "output_tokens": 1965,
+      "total_tokens": 35114,
+      "cost_usd": "0.008988",
+      "latency_seconds": 16.972,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33288,
+      "output_tokens": 2089,
+      "total_tokens": 35377,
+      "cost_usd": "0.009164",
+      "latency_seconds": 20.892,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-04",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33068,
+      "output_tokens": 2082,
+      "total_tokens": 35150,
+      "cost_usd": "0.009112",
+      "latency_seconds": 15.862,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-05",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33290,
+      "output_tokens": 2201,
+      "total_tokens": 35491,
+      "cost_usd": "0.009299",
+      "latency_seconds": 25.0,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-06",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33394,
+      "output_tokens": 2034,
+      "total_tokens": 35428,
+      "cost_usd": "0.009120",
+      "latency_seconds": 17.629,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-07",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33895,
+      "output_tokens": 2080,
+      "total_tokens": 35975,
+      "cost_usd": "0.009275",
+      "latency_seconds": 20.89,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-08",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33344,
+      "output_tokens": 1934,
+      "total_tokens": 35278,
+      "cost_usd": "0.008990",
+      "latency_seconds": 18.975,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-first-09",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33464,
+      "output_tokens": 1977,
+      "total_tokens": 35441,
+      "cost_usd": "0.009065",
+      "latency_seconds": 14.677,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-4-residual",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 44037,
+      "output_tokens": 1265,
+      "total_tokens": 45302,
+      "cost_usd": "0.010325",
+      "latency_seconds": 11.597,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33466,
+      "output_tokens": 1933,
+      "total_tokens": 35399,
+      "cost_usd": "0.009013",
+      "latency_seconds": 18.99,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33470,
+      "output_tokens": 1822,
+      "total_tokens": 35292,
+      "cost_usd": "0.008880",
+      "latency_seconds": 11.89,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33609,
+      "output_tokens": 1956,
+      "total_tokens": 35565,
+      "cost_usd": "0.009069",
+      "latency_seconds": 16.526,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-04",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33389,
+      "output_tokens": 1990,
+      "total_tokens": 35379,
+      "cost_usd": "0.009066",
+      "latency_seconds": 18.843,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-05",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33611,
+      "output_tokens": 2053,
+      "total_tokens": 35664,
+      "cost_usd": "0.009186",
+      "latency_seconds": 18.784,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-06",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33715,
+      "output_tokens": 2051,
+      "total_tokens": 35766,
+      "cost_usd": "0.009204",
+      "latency_seconds": 17.428,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-07",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 34216,
+      "output_tokens": 2033,
+      "total_tokens": 36249,
+      "cost_usd": "0.009283",
+      "latency_seconds": 18.564,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-08",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33665,
+      "output_tokens": 2010,
+      "total_tokens": 35675,
+      "cost_usd": "0.009145",
+      "latency_seconds": 16.054,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-workshop-second-09",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 33785,
+      "output_tokens": 1956,
+      "total_tokens": 35741,
+      "cost_usd": "0.009104",
+      "latency_seconds": 14.286,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-5-final",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 46471,
+      "output_tokens": 2467,
+      "total_tokens": 48938,
+      "cost_usd": "0.012255",
+      "latency_seconds": 19.397,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-holdout-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 15070,
+      "output_tokens": 2069,
+      "total_tokens": 17139,
+      "cost_usd": "0.005497",
+      "latency_seconds": 16.184,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-holdout-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 14893,
+      "output_tokens": 1634,
+      "total_tokens": 16527,
+      "cost_usd": "0.004939",
+      "latency_seconds": 12.264,
+      "transport_attempts": 1
+    },
+    {
+      "label": "L-holdout-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 14565,
+      "output_tokens": 1689,
+      "total_tokens": 16254,
+      "cost_usd": "0.004940",
+      "latency_seconds": 13.102,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-1-structural",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "incomplete",
+      "input_tokens": 78207,
+      "output_tokens": 6000,
+      "total_tokens": 84207,
+      "cost_usd": "0.228414",
+      "latency_seconds": 84.778,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-2-epistemic-grain",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "incomplete",
+      "input_tokens": 78212,
+      "output_tokens": 6000,
+      "total_tokens": 84212,
+      "cost_usd": "0.228424",
+      "latency_seconds": 86.391,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-3-relationship-role",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "incomplete",
+      "input_tokens": 78211,
+      "output_tokens": 6000,
+      "total_tokens": 84211,
+      "cost_usd": "0.228422",
+      "latency_seconds": 95.584,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 40998,
+      "output_tokens": 2030,
+      "total_tokens": 43028,
+      "cost_usd": "0.010636",
+      "latency_seconds": 12.117,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41002,
+      "output_tokens": 1940,
+      "total_tokens": 42942,
+      "cost_usd": "0.010528",
+      "latency_seconds": 14.02,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41141,
+      "output_tokens": 2040,
+      "total_tokens": 43181,
+      "cost_usd": "0.010676",
+      "latency_seconds": 18.495,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-04",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 40921,
+      "output_tokens": 2018,
+      "total_tokens": 42939,
+      "cost_usd": "0.010606",
+      "latency_seconds": 22.462,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-05",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41143,
+      "output_tokens": 1917,
+      "total_tokens": 43060,
+      "cost_usd": "0.010529",
+      "latency_seconds": 13.136,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-06",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41247,
+      "output_tokens": 2347,
+      "total_tokens": 43594,
+      "cost_usd": "0.011066",
+      "latency_seconds": 13.283,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-07",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41748,
+      "output_tokens": 2012,
+      "total_tokens": 43760,
+      "cost_usd": "0.010764",
+      "latency_seconds": 15.014,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-08",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41197,
+      "output_tokens": 1955,
+      "total_tokens": 43152,
+      "cost_usd": "0.010585",
+      "latency_seconds": 13.462,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-first-09",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41317,
+      "output_tokens": 2044,
+      "total_tokens": 43361,
+      "cost_usd": "0.010716",
+      "latency_seconds": 16.26,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-4-residual",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "incomplete",
+      "input_tokens": 46294,
+      "output_tokens": 6000,
+      "total_tokens": 52294,
+      "cost_usd": "0.164588",
+      "latency_seconds": 76.952,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 40998,
+      "output_tokens": 76,
+      "total_tokens": 41074,
+      "cost_usd": "0.008291",
+      "latency_seconds": 1.925,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41002,
+      "output_tokens": 2090,
+      "total_tokens": 43092,
+      "cost_usd": "0.010708",
+      "latency_seconds": 17.492,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41141,
+      "output_tokens": 1977,
+      "total_tokens": 43118,
+      "cost_usd": "0.010601",
+      "latency_seconds": 14.059,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-04",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 40921,
+      "output_tokens": 2055,
+      "total_tokens": 42976,
+      "cost_usd": "0.010650",
+      "latency_seconds": 15.031,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-05",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41143,
+      "output_tokens": 2065,
+      "total_tokens": 43208,
+      "cost_usd": "0.010707",
+      "latency_seconds": 14.963,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-06",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41247,
+      "output_tokens": 2153,
+      "total_tokens": 43400,
+      "cost_usd": "0.010833",
+      "latency_seconds": 10.307,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-07",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41748,
+      "output_tokens": 2020,
+      "total_tokens": 43768,
+      "cost_usd": "0.010774",
+      "latency_seconds": 13.911,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-08",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41197,
+      "output_tokens": 2060,
+      "total_tokens": 43257,
+      "cost_usd": "0.010711",
+      "latency_seconds": 15.801,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-workshop-second-09",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 41317,
+      "output_tokens": 1991,
+      "total_tokens": 43308,
+      "cost_usd": "0.010653",
+      "latency_seconds": 13.58,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-5-final",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "incomplete",
+      "input_tokens": 53784,
+      "output_tokens": 6000,
+      "total_tokens": 59784,
+      "cost_usd": "0.179568",
+      "latency_seconds": 93.345,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-holdout-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 18181,
+      "output_tokens": 1880,
+      "total_tokens": 20061,
+      "cost_usd": "0.005892",
+      "latency_seconds": 14.039,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-holdout-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 18004,
+      "output_tokens": 1708,
+      "total_tokens": 19712,
+      "cost_usd": "0.005650",
+      "latency_seconds": 14.389,
+      "transport_attempts": 1
+    },
+    {
+      "label": "T-holdout-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 17676,
+      "output_tokens": 1707,
+      "total_tokens": 19383,
+      "cost_usd": "0.005584",
+      "latency_seconds": 13.06,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-luna-01",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 4372,
+      "output_tokens": 2248,
+      "total_tokens": 6620,
+      "cost_usd": "0.003572",
+      "latency_seconds": 20.97,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-terra-01",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "completed",
+      "input_tokens": 4372,
+      "output_tokens": 4440,
+      "total_tokens": 8812,
+      "cost_usd": "0.062024",
+      "latency_seconds": 52.027,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-luna-02",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 4199,
+      "output_tokens": 1214,
+      "total_tokens": 5413,
+      "cost_usd": "0.002297",
+      "latency_seconds": 11.835,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-terra-02",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "completed",
+      "input_tokens": 4199,
+      "output_tokens": 3935,
+      "total_tokens": 8134,
+      "cost_usd": "0.055618",
+      "latency_seconds": 47.701,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-luna-03",
+      "model": "gpt-5.6-luna",
+      "reasoning": "none",
+      "status": "completed",
+      "input_tokens": 4249,
+      "output_tokens": 1016,
+      "total_tokens": 5265,
+      "cost_usd": "0.002069",
+      "latency_seconds": 9.719,
+      "transport_attempts": 1
+    },
+    {
+      "label": "aux-terra-03",
+      "model": "gpt-5.6-terra",
+      "reasoning": "high",
+      "status": "completed",
+      "input_tokens": 4249,
+      "output_tokens": 3718,
+      "total_tokens": 7967,
+      "cost_usd": "0.053114",
+      "latency_seconds": 45.794,
+      "transport_attempts": 1
+    }
+  ],
+  "actual_cost_usd": "1.670184",
+  "quarantines": {
+    "L": [
+      {
+        "stage": "L-1-structural",
+        "ordinal": 2,
+        "operation": {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:program-beneficiary-demographic-scope",
+            "cg-native:program-beneficiary-population-scope"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "rationale": "Both concepts represent demographic or population groups served by a named program. Their boundaries and supporting observations substantially overlap, and the existing parent concept directly captures this shared meaning.",
+          "new_preferred_label": "Program beneficiary or service reach",
+          "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+          "new_inclusion_boundary": "Includes demographic, population and geographic groups listed as beneficiaries or served populations of a named program or service.",
+          "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+            "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+            "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+          ]
+        },
+        "reason": "successor_collision"
+      },
+      {
+        "stage": "L-1-structural",
+        "ordinal": 3,
+        "operation": {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:program-location-registration",
+            "cg-native:organisational-scale-or-community-description"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-service-reach-statement"
+          ],
+          "rationale": "Both concepts are geographic or coverage statements rather than distinct semantic relations. The first records program locations and the second reports organisational geographic reach; the existing reach-statement concept accommodates reported places and coverage while excluding administrative locations.",
+          "new_preferred_label": "Program or service reach statement",
+          "new_definition": "A reported statement describing the people, places, programs, projects or partners reached, covered or geographically located within an organisation’s program or service activity.",
+          "new_inclusion_boundary": "Includes reported program locations, geographic coverage, organisational service reach and community or audience coverage when attached to a program, service or organisational activity.",
+          "new_exclusion_boundary": "Excludes registered-office or other purely administrative locations, geographic expansion history, financial amounts and unverified claims of benefit or impact.",
+          "new_parent_concept_id": "cg-native:program-beneficiary-or-service-reach",
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:a064d4a400b4f49785971a0b5897b58adb40ac994f08fa17",
+            "nativeobs:354bb10b294592c2a06fab916b694435d64ae5a35f21bccd",
+            "nativeobs:ba61e209085c726e2291d8e0b14da3a5c158da52e8a0de1b"
+          ]
+        },
+        "reason": "successor_collision"
+      },
+      {
+        "stage": "L-1-structural",
+        "ordinal": 7,
+        "operation": {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:program-governance-oversight-responsibility",
+            "cg-native:monitoring-and-evaluation-practice"
+          ],
+          "successor_concept_ids": [
+            "cg-native:monitoring-and-evaluation-practice",
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "rationale": "The concepts are related but not semantically identical: monitoring and evaluation is a practice, while governance oversight is an assigned role. Retain both as distinct concepts and remove the misleading parent relation that treats the role as a subtype of the practice.",
+          "new_preferred_label": null,
+          "new_definition": null,
+          "new_inclusion_boundary": null,
+          "new_exclusion_boundary": null,
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+            "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+            "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+          ]
+        },
+        "reason": "merge_cardinality"
+      },
+      {
+        "stage": "L-2-epistemic-grain",
+        "ordinal": 1,
+        "operation": {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:program-beneficiary-demographic-scope",
+            "cg-native:program-beneficiary-population-scope"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "rationale": "The two concepts overlap as program-scoped identification of demographic or population beneficiary groups. The broader existing concept preserves beneficiary, geographic and service-reach distinctions without collapsing them into outcomes.",
+          "new_preferred_label": "Program beneficiary or service reach",
+          "new_definition": "A statement identifying the people, groups, communities, organisations or places a named program or service serves or reaches.",
+          "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries or recipients of a named program or service.",
+          "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+            "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02"
+          ]
+        },
+        "reason": "successor_collision"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+          "concept_ids": [
+            "cg-native:program-delivery-output-reporting"
+          ],
+          "support_rationale": "The observation reports a count of cataract operations as a program or organisational delivery result.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+          "concept_ids": [
+            "cg-native:program-delivery-output-reporting"
+          ],
+          "support_rationale": "The observation reports a quantified training result, but no supplied child concept specifically covers training-person output.",
+          "missing_concept_suggestion": "Training delivery output count",
+          "ambiguity_note": "The catalogue contains participation output and facility output concepts, but this is a count of people trained and is not expressly framed as participation."
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5,",
+          "concept_ids": [
+            "cg-native:program-identity-statement",
+            "cg-native:program-location-registration"
+          ],
+          "support_rationale": "The observation identifies a named program and records Bangladesh as its program country.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": "The supplied concept for program location registration is defined around recorded program locations; Bangladesh is treated as the supplied program location here."
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5,",
+          "concept_ids": [
+            "cg-native:official-charity-form-classification"
+          ],
+          "support_rationale": "The observation reports group-head and parent-account classifications from an official register.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a1",
+          "concept_ids": [
+            "cg-native:monitoring-and-evaluation-practice"
+          ],
+          "support_rationale": "It explicitly describes monitoring and evaluation practice across project lifecycles.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "L-4-residual",
+        "ordinal": 2,
+        "operation": {
+          "action": "reparent",
+          "predecessor_concept_ids": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "rationale": "Governance oversight is an assigned responsibility, not a subtype of monitoring-and-evaluation practice. Remove the misleading parent relation while retaining both concepts and their role/practice distinction.",
+          "new_preferred_label": null,
+          "new_definition": null,
+          "new_inclusion_boundary": null,
+          "new_exclusion_boundary": null,
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6",
+            "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+            "nativeobs:b0006ddad0fd000b24f3d02755e5c165febe5412d8308611"
+          ]
+        },
+        "reason": "reparent_requires_parent"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+          "concept_ids": [
+            "cg-native:program-delivery-output-reporting"
+          ],
+          "support_rationale": "The observation reports a quantified program result, namely people screened.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:80438d8f912a697c918bbf579dc4d86d8801521dc29d5026,",
+          "concept_ids": [
+            "cg-native:program-purpose-or-intended-change",
+            "cg-native:regional-capability-development"
+          ],
+          "support_rationale": "Describes a named program’s support purpose and its mentoring and business-development activity for Indigenous businesses and entrepreneurs.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0,",
+          "concept_ids": [],
+          "support_rationale": "The catalogue has no concept for quorum rules or casting-vote provisions.",
+          "missing_concept_suggestion": "Governance quorum and voting rule",
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619,",
+          "concept_ids": [
+            "cg-native:program-delivery-operator",
+            "cg-native:program-delivery-partnership"
+          ],
+          "support_rationale": "Explicitly identifies RCOE as deliverer and Greater Whitsunday Alliance as its delivery partner.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7,",
+          "concept_ids": [
+            "cg-native:official-organisational-classification"
+          ],
+          "support_rationale": "Reports official ACNC organisational classification fields.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:22d40ac946b762c6832cb3c8c55a94b053db47e0c0d379f7",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:80438d8f912a697c918bbf579dc4d86d8801521dc29d5026",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:8aadaa626c34d76b444c5dd4bacc240c079a110117ffd619",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:c6f742f35750a16920f008d1d5fee7d6e3da6f45872bcaa0",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:c407bf6cc417d1bbc6dc6b8422ef449c3100e8b5aace7c8",
+          "concept_ids": [
+            "cg-native:entity-registration-profile"
+          ],
+          "support_rationale": "The observation reports official registration and tax-status records for the subject.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:c407bf6cc417d1bbc6dc6b8422ef449c3100e8b5aace7c8e",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:ec0c139200f76636640deba90bc4d054290890bd3952efb4,",
+          "concept_ids": [
+            "cg-native:organisational-scale-or-community-description"
+          ],
+          "support_rationale": "Reports a first-party description of a community of givers numbering in the thousands.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5,",
+          "concept_ids": [
+            "cg-native:official-charity-form-classification"
+          ],
+          "support_rationale": "Reports group-head and parent-account classifications from the ACNC register.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:ee1ac72a1e20453367b15bb1f98d3510b60efd16c9720a5b,",
+          "concept_ids": [
+            "cg-native:governance-personnel-role-statement"
+          ],
+          "support_rationale": "Identifies a chairperson and directors in an official register.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:b58fe40427e432840677e709cd835eec527091fe29fbce0a,",
+          "concept_ids": [
+            "cg-native:grant-and-sponsorship-funding-process"
+          ],
+          "support_rationale": "Reports funding categories covering business support, training, workforce development, facilities and related initiatives.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": "The observation lists funding categories but does not itself describe the application, assessment or disbursement process."
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:b58fe40427e432840677e709cd835eec527091fe29fbce0a",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:ec0c139200f76636640deba90bc4d054290890bd3952efb4",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:ee1ac72a1e20453367b15bb1f98d3510b60efd16c9720a5b",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:f688d66301a76376fc7a2794d5fb703778a6e8735f7da2f5",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "L-5-final",
+        "ordinal": 0,
+        "operation": {
+          "action": "merge",
+          "predecessor_concept_ids": [
+            "cg-native:program-beneficiary-demographic-scope",
+            "cg-native:program-beneficiary-population-scope",
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "rationale": "The three concepts substantially overlap in identifying demographic or population groups served by named programs. Preserve program scope and beneficiary/service-reach semantics while eliminating fragmentation.",
+          "new_preferred_label": "Program beneficiary or service reach",
+          "new_definition": "A statement identifying the people, demographic groups, communities, organisations or places a named program or service serves or reaches.",
+          "new_inclusion_boundary": "Includes demographic, population and geographic groups identified as beneficiaries, served populations or recipients of a named program or service.",
+          "new_exclusion_boundary": "Excludes delivery activities, output counts that do not identify reach, intended beneficiaries without program scope, and outcomes or impacts.",
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+            "nativeobs:393ff9496b100da38d114543d9db81b5287680f3986b9e9c",
+            "nativeobs:925a50cb250b884f6cc93bdd1d4b36ed2d9f4138d0abfb02",
+            "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+          ]
+        },
+        "reason": "impossible_support_observation_id"
+      },
+      {
+        "stage": "L-5-final",
+        "ordinal": 2,
+        "operation": {
+          "action": "reparent",
+          "predecessor_concept_ids": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-beneficiary-or-service-reach"
+          ],
+          "rationale": "Beneficiary and service-reach statements are more coherent as a child of the program/service reach family rather than as a root-level category, while retaining their distinct beneficiary scope.",
+          "new_preferred_label": null,
+          "new_definition": null,
+          "new_inclusion_boundary": null,
+          "new_exclusion_boundary": null,
+          "new_parent_concept_id": "cg-native:program-service-reach-statement",
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b328e5ab",
+            "nativeobs:8e24943d6891cfd48dff3bc169035e39eb75b1ace8d5d52b"
+          ]
+        },
+        "reason": "impossible_support_observation_id"
+      },
+      {
+        "stage": "L-5-final",
+        "ordinal": 5,
+        "operation": {
+          "action": "reparent",
+          "predecessor_concept_ids": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "successor_concept_ids": [
+            "cg-native:program-governance-oversight-responsibility"
+          ],
+          "rationale": "Oversight responsibility is a governance role distinction, not a subtype of monitoring and evaluation practice. Move it to the governance layer while retaining monitoring/evaluation as a supported responsibility component.",
+          "new_preferred_label": null,
+          "new_definition": null,
+          "new_inclusion_boundary": null,
+          "new_exclusion_boundary": null,
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:2e2446bd6daf96d402178621b41e31ca132ad8b9687cafb6"
+          ]
+        },
+        "reason": "reparent_requires_parent"
+      },
+      {
+        "stage": "L-5-final",
+        "ordinal": 6,
+        "operation": {
+          "action": "reparent",
+          "predecessor_concept_ids": [
+            "cg-native:financial-risk-management-implementation"
+          ],
+          "successor_concept_ids": [
+            "cg-native:financial-risk-management-implementation"
+          ],
+          "rationale": "Implementation of financial risk management is not a subtype of a stated risk requirement. Separate the implemented arrangement from the requirement concept by removing the misleading parent.",
+          "new_preferred_label": null,
+          "new_definition": null,
+          "new_inclusion_boundary": null,
+          "new_exclusion_boundary": null,
+          "new_parent_concept_id": null,
+          "successor_concept_specs": [],
+          "supporting_observation_ids": [
+            "nativeobs:a9861626dd25f97944aea1f0958e5cb7817a4d66aeca631f"
+          ]
+        },
+        "reason": "reparent_requires_parent"
+      }
+    ],
+    "calls": [
+      {
+        "label": "T-1-structural",
+        "reason": "noncompleted_response"
+      },
+      {
+        "label": "T-2-epistemic-grain",
+        "reason": "noncompleted_response"
+      },
+      {
+        "label": "T-3-relationship-role",
+        "reason": "noncompleted_response"
+      },
+      {
+        "label": "T-4-residual",
+        "reason": "noncompleted_response"
+      },
+      {
+        "label": "T-5-final",
+        "reason": "noncompleted_response"
+      }
+    ],
+    "T": [
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+          "concept_ids": [
+            "cg-native:commitment-to-standards-or-conduct",
+            "cg-native:organisation-membership-or-compliance-statement"
+          ],
+          "support_rationale": "The organisation reports adherence to a named conduct code.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:80c38933cdc95fdfa095e6224a5a084484536ca8f5c61b20",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-first",
+        "item": {
+          "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a1",
+          "concept_ids": [
+            "cg-native:monitoring-and-evaluation-practice"
+          ],
+          "support_rationale": "The observation explicitly describes monitoring and evaluation at project lifecycle points against plans and intended impact.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": null
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-first",
+        "observation_id": "nativeobs:f4f3673d06e54d9f83924367b8c77917dcade0c56ba1181a",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:10874f53e8cb2753c30c801777410c7d7449c2fa2ec67470",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:1dd37e39009c6f5591640bec9ff324820c32c242b3285eab",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:1fa6b01a54291f43656669b480aae0a7dea45c3714d645de",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:237d3099e614d7b55a72144e0071a7f86550f24b67cbdfe4",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:2cb83baa73612adbf0a228b3cd86af7876f74f75b6af5f81",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:35aac0e1e039561a8fcfd8e0c596e3e8cf7e42960b8639e1",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:3ccb9b27cadbdadf070766abd07f4365e16f14ad0c2d5323",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:47e43e02de7dcda8e53cf2b97e7e3a5c910e90203b04cf1c",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:730a55aa58f7c0ff06c6c92afba0cf9c9f41c04cc3bb28a2",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:86930c6563c53a86f13f40e2deec2e97e6d90eb2fd5efa9d",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:881a6e41266d38c7db33763f6fc0859735e5638c17751ce3",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:91ab9e0403a002a4ebc58171df9690621684492eaa487229",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:938567f51d7807975d85cca0f00a04f29202d22b4657f94a",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:93a53660b8bda127f11a486820f424a38b8103e654686d9c",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:93e327ab489adedb891ce153a16bbff60476901da0473bff",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:ac1ae463c73fc0c727e8eabfd767bcbc7353d1d3fccbfca6",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:ce0929f195dc38796c599c5501e4aa6587cbfd7377ec10ed",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:d2fa8f4fae9f2f14c6a2785b0a0ce97a5337d02159b48b73",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:d5460431722edc353f8192604bc6665aca7173093ba6606a",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:eed15d93f54a96373c7adaef2524b5782f2e7e941dc197a8",
+        "reason": "missing_attachment_record"
+      },
+      {
+        "stage": "workshop-second",
+        "item": {
+          "observation_id": "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e,",
+          "concept_ids": [
+            "cg-native:advisory-committee-governance-rule"
+          ],
+          "support_rationale": "The observation states a required meeting frequency for an Advisory Committee and permits sub-committees for funding assessment.",
+          "missing_concept_suggestion": null,
+          "ambiguity_note": "The observation concerns meeting frequency and possible sub-committees, whereas the catalogue’s closest concept focuses on advisory committee governance rules."
+        },
+        "reason": "invalid_observation_or_concept_reference"
+      },
+      {
+        "stage": "workshop-second",
+        "observation_id": "nativeobs:6047cc5c8297fb2ab7cf2f588fc1d5a4f5a79d7abd65f35e",
+        "reason": "missing_attachment_record"
+      }
+    ]
+  },
+  "production_persistence": false
+}

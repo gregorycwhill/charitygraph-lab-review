@@ -1,0 +1,26 @@
+{
+  "experiment_id": "native-induction-v3-gardener-comparison",
+  "files": [
+    "README.md",
+    "base-catalogue-summary.json",
+    "discovery-challenge-summary.json",
+    "experiment-summary.json",
+    "holdout-comparison.json",
+    "index.json",
+    "lineage-comparison.json",
+    "luna-catalogue-evolution.json",
+    "luna-final-catalogue.json",
+    "operation-comparison.json",
+    "reuse-comparison.json",
+    "review-cases-01.json",
+    "review-cases-02.json",
+    "review-cases-03.json",
+    "review-cases-operations.json",
+    "structural-integrity.json",
+    "terra-catalogue-evolution.json",
+    "terra-final-catalogue.json",
+    "workshop-attachment-comparison.json"
+  ],
+  "provider_calls_in_publication": 0,
+  "review_boundary": "derived, public-safe review data only"
+}
