@@ -1,0 +1,25 @@
+{
+  "experiment_id": "native-induction-v4r-faceted-disposition-repair",
+  "files": [
+    "README.md",
+    "boundary-pressure-diagnostics.json",
+    "catalogue-evolution.json",
+    "corrected-disposition-diagnostics.json",
+    "cost-ledger.json",
+    "discovery-catalogues.json",
+    "experiment-summary.json",
+    "external-evaluation-manifest.json",
+    "external-transfer-results.json",
+    "gardeners-and-operations.json",
+    "index.json",
+    "luna-terra-disposition-comparison.json",
+    "native-facet-pools.json",
+    "restricted-discovery-comparison.json",
+    "sweep-repeatability.json",
+    "v4-orchestration-postmortem.json",
+    "workshop-corpus-summary.json",
+    "workshop-validation-comparison.json"
+  ],
+  "raw_provider_traffic_excluded": true,
+  "provider_calls": 30
+}

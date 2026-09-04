@@ -1,0 +1,34 @@
+{
+  "stage_a": {
+    "expected": 263,
+    "returned": 263,
+    "missing": 0,
+    "duplicates": 0,
+    "unknown": 0,
+    "zero": 0,
+    "one": 238,
+    "multi": 25
+  },
+  "family_counts": {
+    "identity_attribute": 11,
+    "population_beneficiary": 10,
+    "governance_role_or_structure": 33,
+    "position_or_commitment_observation": 24,
+    "finance_resource_flow": 52,
+    "geography_location": 15,
+    "external_scheme_assignment": 4,
+    "evidence_coverage_metadata": 11,
+    "graph_relationship_instance": 11,
+    "program_service_structure": 44,
+    "temporal_history_event": 15,
+    "native_candidate": 4,
+    "regulatory_source_fact": 40,
+    "outcome_or_evaluation_observation": 15
+  },
+  "facet_counts": {
+    "participation": 1,
+    "governance_practice": 2,
+    "fundraising_mode": 1
+  },
+  "multi_object_records": 25
+}

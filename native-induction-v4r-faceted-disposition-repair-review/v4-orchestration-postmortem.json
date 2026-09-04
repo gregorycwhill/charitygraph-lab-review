@@ -1,0 +1,17 @@
+{
+  "historical_v4_not_interpretable": true,
+  "confirmed_defects": [
+    "first batch not persisted",
+    "no exact coverage validation",
+    "empty objects permitted",
+    "durable IDs model-facing",
+    "Terra saw Luna outputs",
+    "external set not unseen",
+    "paid same-cohort external call",
+    "operations not applied",
+    "arms not independent",
+    "round-2 state not chained",
+    "splits not guaranteed disjoint",
+    "attachments not held-out"
+  ]
+}

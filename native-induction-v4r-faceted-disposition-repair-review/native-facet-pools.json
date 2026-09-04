@@ -1,0 +1,17 @@
+{
+  "pools": {
+    "participation": {
+      "objects": 1,
+      "organisations": 1
+    },
+    "governance_practice": {
+      "objects": 2,
+      "organisations": 1
+    },
+    "fundraising_mode": {
+      "objects": 1,
+      "organisations": 1
+    }
+  },
+  "qualifying_facets": []
+}
