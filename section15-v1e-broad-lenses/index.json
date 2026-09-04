@@ -1,0 +1,15 @@
+{
+  "experiment_id": "section15-v1e-broad-lenses",
+  "files": {
+    "campaign_summary": "campaign-summary.json",
+    "aggregate_review": "aggregate-review.json"
+  },
+  "task_count": 344,
+  "candidate_count": 919,
+  "subject_counts": {
+    "World Vision Australia": 103,
+    "Australian Red Cross Society": 540,
+    "Australian Communities Foundation Limited": 190,
+    "The Fred Hollows Foundation": 86
+  }
+}

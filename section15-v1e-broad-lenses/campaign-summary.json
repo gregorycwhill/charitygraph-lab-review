@@ -1,0 +1,30 @@
+{
+  "campaign": "section15-v1e-broad-lenses",
+  "frozen_corpus": "section15-v1e valid packets only",
+  "packet_count": 43,
+  "task_count": 344,
+  "provider_calls": 344,
+  "total_cost_usd": "0.229121",
+  "task_status_counts": {
+    "completed": 333,
+    "incomplete": 11
+  },
+  "candidate_count": 919,
+  "zero_candidate_tasks": 102,
+  "domains": [
+    "purpose_mandate_cause",
+    "programs_populations_geography",
+    "participation_fundraising",
+    "finance_resource_flows",
+    "governance_workforce_relationships",
+    "ethos_identity",
+    "positions_commitments_implementation",
+    "outcomes_impact_evaluation"
+  ],
+  "excluded_invalid_packets": [
+    "s15v1e-003",
+    "s15v1e-041"
+  ],
+  "source_acquisition": 0,
+  "public_projection_note": "Review preview only; not governed Assertions or production publication."
+}
