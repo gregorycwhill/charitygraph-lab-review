@@ -21,7 +21,7 @@
       "emitted_action": "redefine",
       "new_parent": null,
       "rationale": "The concept is governance-role semantics, but its current parent monitoring-and-evaluation practice makes a role assignment appear to be a practice. Remove that parent to preserve relationship-role distinctions.",
-      "outcome": "fully_represented_and_applied",
+      "outcome": "emitted_but_unrepresentable_by_operation_grammar",
       "final_parent_by_concept": {
         "cg-native:program-governance-oversight-responsibility": "cg-native:monitoring-and-evaluation-practice"
       }
@@ -34,7 +34,7 @@
       "emitted_action": "redefine",
       "new_parent": null,
       "rationale": "The concept concerns guidance or conduct requirements, not strategic risk management. Remove the risk-management parent to avoid conflating policy requirements with risk governance.",
-      "outcome": "fully_represented_and_applied",
+      "outcome": "emitted_but_unrepresentable_by_operation_grammar",
       "final_parent_by_concept": {
         "cg-native:inclusive-conduct-guidance-requirement": "cg-native:strategic-risk-management-requirement"
       }
