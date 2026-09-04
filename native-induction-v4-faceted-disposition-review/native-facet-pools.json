@@ -1,0 +1,13 @@
+{
+  "facet_pool_sizes": {
+    "participation": {
+      "objects": 1,
+      "organisations": 1
+    },
+    "fundraising_mode": {
+      "objects": 1,
+      "organisations": 1
+    }
+  },
+  "selected_main_facets": []
+}

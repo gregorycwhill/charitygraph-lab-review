@@ -1,0 +1,22 @@
+{
+  "experiment_id": "native-induction-v4-faceted-disposition",
+  "files": [
+    "README.md",
+    "index.json",
+    "experiment-summary.json",
+    "architecture-basis.json",
+    "workshop-corpus-summary.json",
+    "evaluation-corpus-summary.json",
+    "representation-disposition-summary.json",
+    "terra-disposition-audit.json",
+    "native-facet-pools.json",
+    "gardener-comparison.json",
+    "workshop-validation-comparison.json",
+    "external-evaluation-comparison.json",
+    "auxiliary-discovery-comparison.json",
+    "operation-quarantine-summary.json",
+    "cost-ledger.json"
+  ],
+  "provider_calls": 13,
+  "raw_provider_traffic_excluded": true
+}
