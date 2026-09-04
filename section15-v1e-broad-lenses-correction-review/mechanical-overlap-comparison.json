@@ -1,3 +1,24 @@
 {
-  "note": "mechanical comparison pending offline aggregation"
+  "metrics": [
+    "exact_statement_cluster_count",
+    "normalized_statement_cluster_count",
+    "identical_atom_set_cluster_count",
+    "semantic_type_plus_atom_set_cluster_count"
+  ],
+  "historical": [
+    112,
+    112,
+    74,
+    31
+  ],
+  "corrected": [
+    65,
+    65,
+    23,
+    44
+  ],
+  "same_lens_one_atom_multi_candidate": {
+    "historical": 535,
+    "corrected": 413
+  }
 }

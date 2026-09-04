@@ -1,4 +1,6 @@
 {
   "historical_exact_request_payloads_retained": false,
-  "reconstruction_basis": "retained V1E packet/atom artefacts and historical task metadata"
+  "corrected_exact_prompt_bytes_retained": false,
+  "reconstruction_basis": "retained V1E packet/atom artefacts and task metadata",
+  "provider_calls_this_publication": 0
 }

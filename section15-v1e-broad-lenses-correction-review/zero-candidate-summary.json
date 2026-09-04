@@ -1,3 +1,44 @@
 {
-  "count": 226
+  "historical": {
+    "successful_zero": 91,
+    "incomplete_zero_retained": 11,
+    "total_zero_retained": 102,
+    "by_charity": {
+      "World Vision Australia": 5,
+      "Australian Red Cross Society": 77,
+      "Australian Communities Foundation Limited": 7,
+      "The Fred Hollows Foundation": 13
+    },
+    "by_lens": {
+      "finance_resource_flows": 15,
+      "purpose_mandate_cause": 18,
+      "participation_fundraising": 16,
+      "positions_commitments_implementation": 8,
+      "outcomes_impact_evaluation": 14,
+      "governance_workforce_relationships": 15,
+      "programs_populations_geography": 8,
+      "ethos_identity": 8
+    }
+  },
+  "corrected": {
+    "successful_zero": 226,
+    "incomplete_zero_retained": 10,
+    "total_zero_retained": 236,
+    "by_charity": {
+      "World Vision Australia": 16,
+      "Australian Red Cross Society": 160,
+      "Australian Communities Foundation Limited": 34,
+      "The Fred Hollows Foundation": 26
+    },
+    "by_lens": {
+      "governance_workforce_relationships": 30,
+      "purpose_mandate_cause": 31,
+      "participation_fundraising": 29,
+      "finance_resource_flows": 24,
+      "ethos_identity": 32,
+      "outcomes_impact_evaluation": 34,
+      "programs_populations_geography": 28,
+      "positions_commitments_implementation": 28
+    }
+  }
 }

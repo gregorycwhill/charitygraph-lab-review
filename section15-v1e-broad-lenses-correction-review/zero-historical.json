@@ -1,0 +1,21 @@
+{
+  "successful_zero": 91,
+  "incomplete_zero_retained": 11,
+  "total_zero_retained": 102,
+  "by_charity": {
+    "World Vision Australia": 5,
+    "Australian Red Cross Society": 77,
+    "Australian Communities Foundation Limited": 7,
+    "The Fred Hollows Foundation": 13
+  },
+  "by_lens": {
+    "finance_resource_flows": 15,
+    "purpose_mandate_cause": 18,
+    "participation_fundraising": 16,
+    "positions_commitments_implementation": 8,
+    "outcomes_impact_evaluation": 14,
+    "governance_workforce_relationships": 15,
+    "programs_populations_geography": 8,
+    "ethos_identity": 8
+  }
+}

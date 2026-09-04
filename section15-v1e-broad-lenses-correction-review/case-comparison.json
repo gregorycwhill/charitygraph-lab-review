@@ -1,1 +1,8 @@
-{"note":"Atom-key case comparison remains private in the reconstructed campaign aggregate; no semantic pairing performed.","provider_calls":0}
+{
+  "files": [
+    "case-comparison-part-01.json",
+    "case-comparison-part-02.json"
+  ],
+  "case_count": 148,
+  "selection_basis": "existing deterministic review-core samples; no post-hoc candidate selection"
+}

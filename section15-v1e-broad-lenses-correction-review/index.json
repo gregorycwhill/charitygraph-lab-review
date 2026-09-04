@@ -1,19 +1,25 @@
 {
-  "experiment": "section15-v1e-broad-lenses-correction-v1",
-  "classification": "reconstructed corrected rerun, not exact replay",
-  "historical": {
-    "tasks": 344,
-    "candidates": 919,
-    "completed": 333,
-    "incomplete": 11,
-    "cost_usd": "0.229121"
-  },
-  "corrected": {
-    "tasks": 344,
-    "candidates": 438,
-    "completed": 334,
-    "incomplete": 10,
-    "cost_usd": "0.160001"
-  },
-  "provider_calls_this_tranche": 344
+  "experiment_id": "section15-v1e-broad-lenses-correction-v1",
+  "provider_calls_this_tranche": 0,
+  "source_acquisition": 0,
+  "case_count": 148,
+  "files": [
+    "README.md",
+    "campaign-comparison.json",
+    "case-comparison-part-01.json",
+    "case-comparison-part-02.json",
+    "case-comparison.json",
+    "density-comparison.json",
+    "density-corrected.json",
+    "density-historical.json",
+    "fanout-comparison.json",
+    "incomplete-tasks.json",
+    "index.json",
+    "mechanical-overlap-comparison.json",
+    "prompt-contracts.md",
+    "reconstruction-notes.json",
+    "zero-candidate-summary.json",
+    "zero-corrected.json",
+    "zero-historical.json"
+  ]
 }

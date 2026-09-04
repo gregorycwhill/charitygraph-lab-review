@@ -9,5 +9,20 @@
     "7": 37,
     "8": 18
   },
-  "corrected": "not recalculated from corrected outputs"
+  "corrected": {
+    "1": 185,
+    "2": 77,
+    "3": 34,
+    "4": 7,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0
+  },
+  "historical_used_atoms": 458,
+  "corrected_used_atoms": 303,
+  "historical_reused_atoms": 377,
+  "corrected_reused_atoms": 118,
+  "historical_reused_proportion": 0.8231441048034934,
+  "corrected_reused_proportion": 0.38943894389438943
 }

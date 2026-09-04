@@ -1,19 +1,24 @@
 {
-  "experiment": "section15-v1e-broad-lenses-correction-v1",
-  "classification": "reconstructed corrected rerun, not exact replay",
   "historical": {
+    "valid_packets": 43,
     "tasks": 344,
-    "candidates": 919,
+    "calls": 344,
     "completed": 333,
     "incomplete": 11,
-    "cost_usd": "0.229121"
+    "candidates": 919,
+    "cost_usd": 0.229121
   },
   "corrected": {
+    "valid_packets": 43,
     "tasks": 344,
-    "candidates": 438,
+    "calls": 344,
     "completed": 334,
     "incomplete": 10,
-    "cost_usd": "0.160001"
+    "successful_zero": 226,
+    "candidates": 438,
+    "input_tokens": 476486,
+    "output_tokens": 53922,
+    "cost_usd": 0.160001
   },
-  "provider_calls_this_tranche": 344
+  "reconstructed_not_exact_replay": true
 }
