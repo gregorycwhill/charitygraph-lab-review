@@ -1,8 +1,8 @@
 {
   "luna_counts": {
-    "records": 195,
+    "records": 196,
     "zero": 39,
-    "one": 125,
+    "one": 126,
     "multi": 31,
     "missing_concept_suggestions": 31
   },
@@ -5407,13 +5407,19 @@
         ]
       },
       "luna_attachment": {
-        "concept_ids": []
+        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
+        "concept_ids": [
+          "cg-native:program-delivery-output-reporting"
+        ],
+        "support_rationale": "The observation reports a quantified program result, namely people screened.",
+        "missing_concept_suggestion": null,
+        "ambiguity_note": null
       },
       "terra_attachment": {
         "concept_ids": []
       },
-      "both_zero": true,
-      "one_zero_one_nonzero": false,
+      "both_zero": false,
+      "one_zero_one_nonzero": true,
       "both_nonzero": false,
       "exact_shared_attachment_ids": []
     },

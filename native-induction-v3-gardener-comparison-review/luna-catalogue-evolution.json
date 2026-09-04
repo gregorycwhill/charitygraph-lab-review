@@ -8,8 +8,8 @@
         "deprecate": 2
       },
       "quarantined": 3,
-      "active_concepts": 76,
-      "inactive_concepts": 17
+      "active_concepts": 82,
+      "inactive_concepts": 11
     },
     {
       "stage": "2-epistemic-grain",
@@ -18,8 +18,8 @@
         "redefine": 6
       },
       "quarantined": 1,
-      "active_concepts": 74,
-      "inactive_concepts": 19
+      "active_concepts": 81,
+      "inactive_concepts": 12
     },
     {
       "stage": "3-relationship-role",
@@ -27,8 +27,8 @@
         "retain": 16
       },
       "quarantined": 0,
-      "active_concepts": 74,
-      "inactive_concepts": 19
+      "active_concepts": 81,
+      "inactive_concepts": 12
     },
     {
       "stage": "4-residual",
@@ -37,8 +37,8 @@
         "split": 1
       },
       "quarantined": 1,
-      "active_concepts": 75,
-      "inactive_concepts": 20
+      "active_concepts": 82,
+      "inactive_concepts": 13
     },
     {
       "stage": "5-final",
@@ -50,8 +50,8 @@
         "deprecate": 1
       },
       "quarantined": 4,
-      "active_concepts": 72,
-      "inactive_concepts": 23
+      "active_concepts": 80,
+      "inactive_concepts": 15
     }
   ],
   "quarantined_operations": [
@@ -166,42 +166,6 @@
     {
       "stage": "workshop-first",
       "item": {
-        "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
-        "concept_ids": [
-          "cg-native:program-delivery-output-reporting"
-        ],
-        "support_rationale": "The observation reports a count of cataract operations as a program or organisational delivery result.",
-        "missing_concept_suggestion": null,
-        "ambiguity_note": null
-      },
-      "reason": "invalid_observation_or_concept_reference"
-    },
-    {
-      "stage": "workshop-first",
-      "observation_id": "nativeobs:46179101cc1265ea6241cffc4a84db31bcdb742437ea62b2",
-      "reason": "missing_attachment_record"
-    },
-    {
-      "stage": "workshop-first",
-      "item": {
-        "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
-        "concept_ids": [
-          "cg-native:program-delivery-output-reporting"
-        ],
-        "support_rationale": "The observation reports a quantified training result, but no supplied child concept specifically covers training-person output.",
-        "missing_concept_suggestion": "Training delivery output count",
-        "ambiguity_note": "The catalogue contains participation output and facility output concepts, but this is a count of people trained and is not expressly framed as participation."
-      },
-      "reason": "invalid_observation_or_concept_reference"
-    },
-    {
-      "stage": "workshop-first",
-      "observation_id": "nativeobs:435c764dfff4ff75178a931e3f13baa3361cb360b66d8bf3",
-      "reason": "missing_attachment_record"
-    },
-    {
-      "stage": "workshop-first",
-      "item": {
         "observation_id": "nativeobs:c78f6ee1b620b128dfc122979b59f7ee4159c4027f042da5,",
         "concept_ids": [
           "cg-native:program-identity-statement",
@@ -279,24 +243,6 @@
         ]
       },
       "reason": "reparent_requires_parent"
-    },
-    {
-      "stage": "workshop-second",
-      "item": {
-        "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
-        "concept_ids": [
-          "cg-native:program-delivery-output-reporting"
-        ],
-        "support_rationale": "The observation reports a quantified program result, namely people screened.",
-        "missing_concept_suggestion": null,
-        "ambiguity_note": null
-      },
-      "reason": "invalid_observation_or_concept_reference"
-    },
-    {
-      "stage": "workshop-second",
-      "observation_id": "nativeobs:7fcff2dd834487f3669a9d27262617599380b42cd8fb6c2e",
-      "reason": "missing_attachment_record"
     },
     {
       "stage": "workshop-second",

@@ -1,12 +1,12 @@
 {
   "luna": {
-    "concepts_used_by_1_organisation": 47,
-    "concepts_used_by_2plus_organisations": 25,
-    "concepts_used_by_3plus_organisations": 12,
+    "concepts_used_by_1_organisation": 48,
+    "concepts_used_by_2plus_organisations": 26,
+    "concepts_used_by_3plus_organisations": 13,
     "concepts_used_by_4plus_organisations": 5,
-    "concepts_spanning_multiple_scopes": 10,
-    "concepts_spanning_multiple_sections": 22,
-    "unused_concepts": 0,
+    "concepts_spanning_multiple_scopes": 11,
+    "concepts_spanning_multiple_sections": 23,
+    "unused_concepts": 6,
     "per_concept": [
       {
         "concept_id": "cg-native:philanthropic-giving-enablement",
@@ -30,11 +30,25 @@
         "section_count": 1
       },
       {
+        "concept_id": "cg-native:program-delivery-output-reporting",
+        "attachment_count": 1,
+        "organisation_count": 1,
+        "scope_count": 1,
+        "section_count": 1
+      },
+      {
         "concept_id": "cg-native:monitoring-and-evaluation-practice",
         "attachment_count": 2,
         "organisation_count": 2,
         "scope_count": 1,
         "section_count": 2
+      },
+      {
+        "concept_id": "cg-native:fundraising-channel",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
       },
       {
         "concept_id": "cg-native:stated-purpose-or-vision",
@@ -93,6 +107,13 @@
         "section_count": 3
       },
       {
+        "concept_id": "cg-native:program-service-delivery-activity",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
         "concept_id": "cg-native:program-beneficiary-or-service-reach",
         "attachment_count": 6,
         "organisation_count": 4,
@@ -140,6 +161,13 @@
         "organisation_count": 1,
         "scope_count": 1,
         "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:program-service-reach-statement",
+        "attachment_count": 9,
+        "organisation_count": 3,
+        "scope_count": 3,
+        "section_count": 5
       },
       {
         "concept_id": "cg-native:program-implementation-support-network",
@@ -191,6 +219,13 @@
         "section_count": 2
       },
       {
+        "concept_id": "cg-native:named-program-classification-statement",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
         "concept_id": "cg-native:program-participation-output",
         "attachment_count": 2,
         "organisation_count": 2,
@@ -212,11 +247,25 @@
         "section_count": 1
       },
       {
+        "concept_id": "cg-native:organisation-membership-and-conduct-commitment",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
+      },
+      {
         "concept_id": "cg-native:community-led-program-implementation-approach",
         "attachment_count": 1,
         "organisation_count": 1,
         "scope_count": 1,
         "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:board-committee-oversight-structure",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
       },
       {
         "concept_id": "cg-native:responsible-investment-commitment",
@@ -399,6 +448,13 @@
         "organisation_count": 1,
         "scope_count": 1,
         "section_count": 1
+      },
+      {
+        "concept_id": "cg-native:governance-quorum-and-voting-rule",
+        "attachment_count": 0,
+        "organisation_count": 0,
+        "scope_count": 0,
+        "section_count": 0
       },
       {
         "concept_id": "cg-native:organisational-diversity-and-inclusion-value",

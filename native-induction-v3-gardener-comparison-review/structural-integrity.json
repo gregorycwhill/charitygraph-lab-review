@@ -4,7 +4,7 @@
     "exact_duplicate_labels": 0,
     "normalised_duplicate_labels": 0,
     "parent_cycles": false,
-    "orphan_parents": 6,
+    "orphan_parents": 0,
     "inactive_concepts_used_as_active_attachments": 0,
     "broken_lineage": 0,
     "successor_predecessor_inconsistencies": 0

@@ -112,7 +112,7 @@
         "The Fred Hollows Foundation",
         "Local Buying Foundation (WA)"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -127,9 +127,7 @@
           "rationale": "Workshop series delivery output is a specific form of the existing program delivery output reporting concept. The broader concept already includes sessions and workshops and preserves the activity/output distinction."
         }
       ],
-      "deprecated_by": [
-        "cg-native:program-delivery-output-reporting"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:monitoring-and-evaluation-practice",
@@ -192,7 +190,7 @@
         "The Fred Hollows Foundation",
         "World Vision Australia"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -207,9 +205,7 @@
           "rationale": "The two concepts describe the same semantic object: mechanisms or pathways for soliciting or receiving fundraising support. The broader catalogue concept already covers pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods."
         }
       ],
-      "deprecated_by": [
-        "cg-native:fundraising-channel"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:stated-purpose-or-vision",
@@ -495,7 +491,7 @@
         "The Fred Hollows Foundation",
         "Local Buying Foundation (WA)"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -510,9 +506,7 @@
           "rationale": "Workshop session delivery is explicitly a subtype of program or service delivery activity, and its sole observation is already represented as a delivered activity. The distinction between activity and output is preserved because completed workshop counts remain under output-reporting concepts."
         }
       ],
-      "deprecated_by": [
-        "cg-native:program-service-delivery-activity"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:program-beneficiary-or-service-reach",
@@ -763,7 +757,7 @@
       "organisations": [
         "World Vision Australia"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -794,9 +788,7 @@
           "rationale": "Both concepts represent reported geographic, community or portfolio reach. The successor should retain the narrower distinction between operational/service reach and general first-party scale claims through its inclusion boundary."
         }
       ],
-      "deprecated_by": [
-        "cg-native:program-service-reach-statement"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:program-implementation-support-network",
@@ -1006,7 +998,7 @@
       "organisations": [
         "World Vision Australia"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -1021,9 +1013,7 @@
           "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes."
         }
       ],
-      "deprecated_by": [
-        "cg-native:named-program-classification-statement"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:program-participation-output",
@@ -1104,7 +1094,7 @@
       "organisations": [
         "World Vision Australia"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -1119,9 +1109,7 @@
           "rationale": "The narrower concept duplicates the broader concept’s stated membership, signatory and conduct-code commitment semantics; retain the more descriptive preferred label and definition."
         }
       ],
-      "deprecated_by": [
-        "cg-native:organisation-membership-and-conduct-commitment"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:community-led-program-implementation-approach",
@@ -1158,7 +1146,7 @@
       "organisations": [
         "The Fred Hollows Foundation"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -1173,9 +1161,7 @@
           "rationale": "Governance committee structure is a narrower duplicate of board committee oversight structure: both describe named committees and their relationship to a governing body. The broader concept preserves structure without inferring committee activities or approval powers."
         }
       ],
-      "deprecated_by": [
-        "cg-native:board-committee-oversight-structure"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:responsible-investment-commitment",
@@ -2051,7 +2037,7 @@
       "organisations": [
         "Local Buying Foundation (WA)"
       ],
-      "active": false,
+      "active": true,
       "lineage": [
         {
           "stage": "native-v3-base-93",
@@ -2066,9 +2052,7 @@
           "rationale": "The advisory-committee concept is a narrower duplicate of the quorum-and-voting concept: its sole observation concerns quorum and casting-vote rules, already covered by the latter concept."
         }
       ],
-      "deprecated_by": [
-        "cg-native:governance-quorum-and-voting-rule"
-      ]
+      "deprecated_by": null
     },
     {
       "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
@@ -2344,7 +2328,7 @@
       "definition": "An auditor’s explicit statement that no professional-conduct contraventions occurred in relation to a specified audit.",
       "inclusion_boundary": "Includes qualified absence statements limited to the auditor’s professional conduct for the identified audit.",
       "exclusion_boundary": "Excludes organisational compliance, audit opinion, enforcement records and general absence of misconduct.",
-      "parent_concept_id": "cg-native:organisational-membership-or-compliance-statement",
+      "parent_concept_id": "cg-native:organisation-membership-and-conduct-commitment",
       "supporting_observation_ids": [
         "nativeobs:4deda13493c359e952472adb9134c35c645602eda26d7cca"
       ],

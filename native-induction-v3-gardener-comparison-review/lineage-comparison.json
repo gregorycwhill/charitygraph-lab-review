@@ -62,7 +62,7 @@
           "rationale": "Workshop series delivery output is a specific form of the existing program delivery output reporting concept. The broader concept already includes sessions and workshops and preserves the activity/output distinction."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:monitoring-and-evaluation-practice",
@@ -106,7 +106,7 @@
           "rationale": "The two concepts describe the same semantic object: mechanisms or pathways for soliciting or receiving fundraising support. The broader catalogue concept already covers pledge programs, sponsorship, appeals, donations, bequests, grants, online fundraising and donated goods."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:stated-purpose-or-vision",
@@ -270,7 +270,7 @@
           "rationale": "Workshop session delivery is explicitly a subtype of program or service delivery activity, and its sole observation is already represented as a delivered activity. The distinction between activity and output is preserved because completed workshop counts remain under output-reporting concepts."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:program-beneficiary-or-service-reach",
@@ -432,7 +432,7 @@
           "rationale": "Both concepts represent reported geographic, community or portfolio reach. The successor should retain the narrower distinction between operational/service reach and general first-party scale claims through its inclusion boundary."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:program-implementation-support-network",
@@ -560,7 +560,7 @@
           "rationale": "These concepts all capture source-reported classifications and scope fields attached to named programs. The more general named-program classification concept can preserve classification, geographic and beneficiary fields without collapsing them into activities, outputs or outcomes."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:program-participation-output",
@@ -608,7 +608,7 @@
           "rationale": "The narrower concept duplicates the broader concept’s stated membership, signatory and conduct-code commitment semantics; retain the more descriptive preferred label and definition."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:community-led-program-implementation-approach",
@@ -636,7 +636,7 @@
           "rationale": "Governance committee structure is a narrower duplicate of board committee oversight structure: both describe named committees and their relationship to a governing body. The broader concept preserves structure without inferring committee activities or approval powers."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:responsible-investment-commitment",
@@ -1090,7 +1090,7 @@
           "rationale": "The advisory-committee concept is a narrower duplicate of the quorum-and-voting concept: its sole observation concerns quorum and casting-vote rules, already covered by the latter concept."
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "concept_id": "cg-native:organisational-diversity-and-inclusion-value",
