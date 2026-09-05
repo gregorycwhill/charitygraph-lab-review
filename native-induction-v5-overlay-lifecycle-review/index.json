@@ -1,0 +1,17 @@
+{
+  "experiment_id": "native-induction-v5-overlay-lifecycle",
+  "status": "OVERLAY HARVEST REALITY-TESTED / SEMANTIC QUALITY REVIEW PENDING / FACET LIFECYCLE NOT TESTED / TRANSFER NOT TESTED",
+  "derived_files": [
+    "experiment-summary.json",
+    "organisation-split.json",
+    "harvest-corrected-summary.json",
+    "harvest-local-key-crosswalk.json",
+    "harvest-order-grounding-audit.json",
+    "overlay-instances-index.json",
+    "v5-validity-ledger.json",
+    "cost-reconciliation.json",
+    "holdout-contamination-audit.json",
+    "V5_INTERPRETATION_LIMITATIONS.md"
+  ],
+  "provider_calls_in_reconciliation": 0
+}
