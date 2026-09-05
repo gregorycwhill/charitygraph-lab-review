@@ -1,0 +1,123 @@
+{
+  "governance_practice": {
+    "overlay_instances": 21,
+    "canonical_objects": 21,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "position_or_commitment_observation": 1,
+      "finance_resource_flow": 1,
+      "governance_role_or_structure": 14,
+      "temporal_history_event": 1,
+      "external_scheme_assignment": 2,
+      "program_service_structure": 1,
+      "graph_relationship_instance": 1
+    }
+  },
+  "ethos_conduct": {
+    "overlay_instances": 13,
+    "canonical_objects": 13,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "position_or_commitment_observation": 11,
+      "regulatory_source_fact": 1,
+      "identity_attribute": 1
+    }
+  },
+  "capability_access": {
+    "overlay_instances": 24,
+    "canonical_objects": 24,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "finance_resource_flow": 5,
+      "program_service_structure": 14,
+      "outcome_or_evaluation_observation": 2,
+      "governance_role_or_structure": 1,
+      "position_or_commitment_observation": 2
+    }
+  },
+  "operational_activity": {
+    "overlay_instances": 27,
+    "canonical_objects": 27,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "graph_relationship_instance": 4,
+      "position_or_commitment_observation": 1,
+      "program_service_structure": 15,
+      "finance_resource_flow": 4,
+      "temporal_history_event": 2,
+      "governance_role_or_structure": 1
+    }
+  },
+  "participation": {
+    "overlay_instances": 17,
+    "canonical_objects": 17,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "native_candidate": 2,
+      "governance_role_or_structure": 3,
+      "program_service_structure": 3,
+      "population_beneficiary": 4,
+      "position_or_commitment_observation": 1,
+      "finance_resource_flow": 1,
+      "temporal_history_event": 2,
+      "graph_relationship_instance": 1
+    }
+  },
+  "evaluation_method": {
+    "overlay_instances": 12,
+    "canonical_objects": 12,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "outcome_or_evaluation_observation": 8,
+      "position_or_commitment_observation": 2,
+      "regulatory_source_fact": 1,
+      "finance_resource_flow": 1
+    }
+  },
+  "fundraising_mode": {
+    "overlay_instances": 25,
+    "canonical_objects": 25,
+    "organisations": [
+      "Australian Communities Foundation",
+      "Local Buying Foundation (WA)",
+      "World Vision Australia"
+    ],
+    "organisation_count": 3,
+    "representation_families": {
+      "position_or_commitment_observation": 2,
+      "finance_resource_flow": 20,
+      "temporal_history_event": 1,
+      "native_candidate": 2
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "harvest": "potentially valid subject to grounding",
+  "terra_audit": "semantically invalid schema",
+  "facet_discovery": "semantically invalid schema",
+  "tending": "semantically invalid schema",
+  "sweeps": "semantically invalid schema",
+  "terra_final_review": "semantically invalid",
+  "holdout_extraction": "semantically invalid",
+  "holdout_transfer": "semantically invalid"
+}

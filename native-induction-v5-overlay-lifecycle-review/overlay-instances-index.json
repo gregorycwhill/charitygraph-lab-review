@@ -1,0 +1,22 @@
+{
+  "experiment_id": "native-induction-v5-overlay-lifecycle",
+  "overlay_instance_count": 139,
+  "facets": {
+    "governance_practice": 21,
+    "ethos_conduct": 13,
+    "capability_access": 24,
+    "operational_activity": 27,
+    "participation": 17,
+    "evaluation_method": 12,
+    "fundraising_mode": 25
+  },
+  "files": [
+    "overlays-capability-access.json",
+    "overlays-ethos-conduct.json",
+    "overlays-evaluation-method.json",
+    "overlays-fundraising-mode.json",
+    "overlays-governance-practice.json",
+    "overlays-operational-activity.json",
+    "overlays-participation.json"
+  ]
+}

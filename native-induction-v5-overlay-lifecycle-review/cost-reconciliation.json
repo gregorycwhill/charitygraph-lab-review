@@ -1,0 +1,26 @@
+{
+  "harvest": {
+    "calls": 20,
+    "model": {
+      "gpt-5.6-luna": 20
+    },
+    "input_tokens": 20405,
+    "output_tokens": 18016,
+    "cost_usd": "0.025701"
+  },
+  "downstream_unusable": {
+    "calls": 38,
+    "model": {
+      "gpt-5.6-terra": 9,
+      "gpt-5.6-luna": 29
+    },
+    "input_tokens": 37583,
+    "output_tokens": 13172,
+    "cost_usd": "0.137635"
+  },
+  "total_physical_transmissions": 58,
+  "semantically_usable_cost_usd": "0.025701",
+  "semantically_unusable_cost_usd": "0.137635",
+  "aggregate_cost_usd": "0.163336",
+  "historical_discrepancy": "experiment-summary total_cost_usd retained later-call spend only; authoritative per-call sum is used here."
+}

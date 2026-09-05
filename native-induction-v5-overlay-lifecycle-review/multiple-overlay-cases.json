@@ -1,0 +1,31 @@
+[
+  {
+    "canonical_object_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb:1",
+    "observation_id": "nativeobs:a8f42a3f25df67038325e9cd64cbfa635d4285997a8265bb",
+    "organisation": "World Vision Australia",
+    "statement": "The 40 Hour Famine was described as a fundraising scheme in which Australians, especially young people, went without food for 40 hours and sought sponsorship from others.",
+    "representation_family": "finance_resource_flow",
+    "local_key": "O06",
+    "batch": 9,
+    "overlays": [
+      {
+        "overlay_statement": "Fundraising uses a participant-led sponsorship challenge in which individuals undertake a voluntary deprivation activity and solicit pledges from their networks.",
+        "facet": "fundraising_mode",
+        "analytic_dimension": "peer_sponsored_challenge_fundraising",
+        "why_adds_value_beyond_canonical": "Identifies the reusable fundraising mechanism and participant role.",
+        "anti_duplication_boundary": "Excludes event branding, dates, amounts and ordinary participant demographics.",
+        "qualification": "The deprivation activity is represented as a fundraising device, not as a service or beneficiary intervention.",
+        "uncertainty": null
+      },
+      {
+        "overlay_statement": "Young people can participate as active fundraisers and network mobilisers rather than only as donors.",
+        "facet": "participation",
+        "analytic_dimension": "youth_led_peer_mobilisation",
+        "why_adds_value_beyond_canonical": "Adds a participation distinction concerning who performs the fundraising activity and how.",
+        "anti_duplication_boundary": "Does not duplicate the sponsorship mechanism; focuses on participant agency.",
+        "qualification": "Apply where youth participation is materially part of the described scheme.",
+        "uncertainty": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "holdout_objects": 49,
+  "pre_freeze_exposure_count": 0,
+  "earliest_holdout_exposure": "after final catalogue stage (payload manifests unavailable; runner ordering confirms training-only first 20 calls)"
+}
