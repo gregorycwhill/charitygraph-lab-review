@@ -1,0 +1,32 @@
+{
+  "organisations": [
+    {
+      "organisation": "Local Buying Foundation (WA)",
+      "role": "train",
+      "object_count": 108
+    },
+    {
+      "organisation": "World Vision Australia",
+      "role": "train",
+      "object_count": 80
+    },
+    {
+      "organisation": "Australian Communities Foundation",
+      "role": "train",
+      "object_count": 52
+    },
+    {
+      "organisation": "The Fred Hollows Foundation",
+      "role": "holdout",
+      "object_count": 37
+    },
+    {
+      "organisation": "Tweed Regional Gallery Foundation Limited",
+      "role": "holdout",
+      "object_count": 12
+    }
+  ],
+  "training_object_count": 240,
+  "holdout_object_count": 49,
+  "source_sha256": "e900429e449ff687b5203401ed5e4d8541b6213d123ea36f1b8ba4b18dd5881d"
+}
