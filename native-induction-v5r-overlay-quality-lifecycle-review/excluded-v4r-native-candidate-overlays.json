@@ -1,0 +1,62 @@
+[
+  {
+    "canonical_object_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f:1",
+    "observation_id": "nativeobs:8dcdf368cf7a2344f5611ec789e1f49cf50e7c16e2e4887f",
+    "organisation": "Local Buying Foundation (WA)",
+    "representation_family": "native_candidate",
+    "local_key": "O09",
+    "batch": 13,
+    "overlay_statement": "Funding access follows an online application process with committee-based assessment.",
+    "facet": "fundraising_mode",
+    "analytic_dimension": "digital application and participatory grant assessment",
+    "why_adds_value_beyond_canonical": "Adds a reusable funding-access and assessment-mode distinction not otherwise represented in the canonical statement.",
+    "anti_duplication_boundary": "Does not encode the committee as an ordinary governance relationship or repeat any organisation, program, or funding-category information.",
+    "qualification": "The statement describes process design, not the committee's composition, decision criteria, or outcome quality.",
+    "uncertainty": null
+  },
+  {
+    "canonical_object_id": "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225:2",
+    "observation_id": "nativeobs:eeff1aba673a438b81cb80b02e57402f8207f4b20394b225",
+    "organisation": "Australian Communities Foundation",
+    "representation_family": "native_candidate",
+    "local_key": "O06",
+    "batch": 16,
+    "overlay_statement": "Fundraising uses online channels as an operational fundraising mode.",
+    "facet": "fundraising_mode",
+    "analytic_dimension": "digital_channel_use",
+    "why_adds_value_beyond_canonical": "Adds a reusable distinction between online and non-online fundraising channels.",
+    "anti_duplication_boundary": "Does not restate the reporting period or treat online presence generally as fundraising; it identifies online fundraising as the activity mode.",
+    "qualification": "Apply only when online fundraising is explicitly reported, not merely when an organisation has a website.",
+    "uncertainty": null
+  },
+  {
+    "canonical_object_id": "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e:1",
+    "observation_id": "nativeobs:8a018dd7a92bcaabc6778370daba18475ef41e801248b36e",
+    "organisation": "World Vision Australia",
+    "representation_family": "native_candidate",
+    "local_key": "O05",
+    "batch": 2,
+    "overlay_statement": "Works directly with First Nations communities in Australian projects, with communities driving their own development.",
+    "facet": "participation",
+    "analytic_dimension": "community-led participation and decision-making",
+    "why_adds_value_beyond_canonical": "Adds a reusable distinction about how affected communities participate in and direct project design and development, rather than merely indicating organisational identity or activity geography.",
+    "anti_duplication_boundary": "Does not restate the organisation's identity, project locations, leadership chronology, or employment arrangement.",
+    "qualification": "Treat as a reported participation and empowerment practice for the described project context, not as a universal organisational rule.",
+    "uncertainty": null
+  },
+  {
+    "canonical_object_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44:1",
+    "observation_id": "nativeobs:ff50358d96386d74c7f3629319e3ecead30f5ca849005a44",
+    "organisation": "Local Buying Foundation (WA)",
+    "representation_family": "native_candidate",
+    "local_key": "O11",
+    "batch": 16,
+    "overlay_statement": "Governance participation is enabled through remote meeting access when physical travel is impractical.",
+    "facet": "participation",
+    "analytic_dimension": "remote_participation_access",
+    "why_adds_value_beyond_canonical": "Adds a reusable participation distinction concerning access to committee deliberation, rather than merely recording a meeting format.",
+    "anti_duplication_boundary": "Does not restate the committee, travel circumstance, or charter as a structural relationship; it captures the inclusion mechanism for remote participation.",
+    "qualification": "Indicates an available participation accommodation, not necessarily its frequency, uptake, or effectiveness.",
+    "uncertainty": null
+  }
+]

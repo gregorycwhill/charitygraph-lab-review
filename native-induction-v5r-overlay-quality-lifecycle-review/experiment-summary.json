@@ -1,0 +1,354 @@
+{
+  "experiment_id": "native-induction-v5r-overlay-quality-lifecycle",
+  "v5_overlays": 139,
+  "excluded_native_candidate_overlays": 4,
+  "clean_overlays": 135,
+  "quality_reviews": 135,
+  "quality_usage": [
+    {
+      "stage": "quality",
+      "label": "quality-01",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2592,
+      "output_tokens": 2442,
+      "cost_usd": "0.034488",
+      "latency_seconds": 23.73,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-02",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2603,
+      "output_tokens": 3443,
+      "cost_usd": "0.046522",
+      "latency_seconds": 33.62,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-03",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2646,
+      "output_tokens": 2457,
+      "cost_usd": "0.034776",
+      "latency_seconds": 24.3,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-04",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2676,
+      "output_tokens": 3504,
+      "cost_usd": "0.047400",
+      "latency_seconds": 34.83,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-05",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2607,
+      "output_tokens": 3831,
+      "cost_usd": "0.051186",
+      "latency_seconds": 36.2,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-06",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2610,
+      "output_tokens": 2900,
+      "cost_usd": "0.040020",
+      "latency_seconds": 28.58,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-07",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2608,
+      "output_tokens": 3473,
+      "cost_usd": "0.046892",
+      "latency_seconds": 34.06,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-08",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2639,
+      "output_tokens": 3352,
+      "cost_usd": "0.045502",
+      "latency_seconds": 32.79,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-09",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2612,
+      "output_tokens": 2313,
+      "cost_usd": "0.032980",
+      "latency_seconds": 22.71,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-10",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2608,
+      "output_tokens": 3964,
+      "cost_usd": "0.052784",
+      "latency_seconds": 39.89,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-11",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2611,
+      "output_tokens": 2365,
+      "cost_usd": "0.033602",
+      "latency_seconds": 21.17,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-12",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2671,
+      "output_tokens": 2848,
+      "cost_usd": "0.039518",
+      "latency_seconds": 28.25,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-13",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 2563,
+      "output_tokens": 3340,
+      "cost_usd": "0.045206",
+      "latency_seconds": 31.94,
+      "status": "completed"
+    },
+    {
+      "stage": "quality",
+      "label": "quality-14",
+      "model": "gpt-5.6-terra",
+      "input_tokens": 1416,
+      "output_tokens": 1547,
+      "cost_usd": "0.021396",
+      "latency_seconds": 15.42,
+      "status": "completed"
+    },
+    {
+      "stage": "discovery",
+      "facet": "operational_activity",
+      "call": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 8677,
+      "output_tokens": 108,
+      "cost_usd": "0.001865"
+    },
+    {
+      "stage": "discovery",
+      "facet": "operational_activity",
+      "call": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 209,
+      "output_tokens": 17,
+      "cost_usd": "0.000062"
+    },
+    {
+      "stage": "gardener",
+      "facet": "operational_activity",
+      "round": 1,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 199,
+      "output_tokens": 536,
+      "cost_usd": "0.006830"
+    },
+    {
+      "stage": "gardener",
+      "facet": "operational_activity",
+      "round": 2,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 199,
+      "output_tokens": 470,
+      "cost_usd": "0.006038"
+    },
+    {
+      "stage": "sweep",
+      "facet": "operational_activity",
+      "round": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 3263,
+      "output_tokens": 108,
+      "cost_usd": "0.000782"
+    },
+    {
+      "stage": "sweep",
+      "facet": "operational_activity",
+      "round": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 3263,
+      "output_tokens": 108,
+      "cost_usd": "0.000782"
+    },
+    {
+      "stage": "discovery",
+      "facet": "participation",
+      "call": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 2886,
+      "output_tokens": 47,
+      "cost_usd": "0.000634"
+    },
+    {
+      "stage": "discovery",
+      "facet": "participation",
+      "call": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 127,
+      "output_tokens": 16,
+      "cost_usd": "0.000045"
+    },
+    {
+      "stage": "gardener",
+      "facet": "participation",
+      "round": 1,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 117,
+      "output_tokens": 340,
+      "cost_usd": "0.004314"
+    },
+    {
+      "stage": "gardener",
+      "facet": "participation",
+      "round": 2,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 117,
+      "output_tokens": 139,
+      "cost_usd": "0.001902"
+    },
+    {
+      "stage": "sweep",
+      "facet": "participation",
+      "round": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 1375,
+      "output_tokens": 47,
+      "cost_usd": "0.000331"
+    },
+    {
+      "stage": "sweep",
+      "facet": "participation",
+      "round": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 1375,
+      "output_tokens": 47,
+      "cost_usd": "0.000331"
+    },
+    {
+      "stage": "discovery",
+      "facet": "fundraising_mode",
+      "call": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 3844,
+      "output_tokens": 106,
+      "cost_usd": "0.000896"
+    },
+    {
+      "stage": "discovery",
+      "facet": "fundraising_mode",
+      "call": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 195,
+      "output_tokens": 106,
+      "cost_usd": "0.000166"
+    },
+    {
+      "stage": "gardener",
+      "facet": "fundraising_mode",
+      "round": 1,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 291,
+      "output_tokens": 316,
+      "cost_usd": "0.004374"
+    },
+    {
+      "stage": "gardener",
+      "facet": "fundraising_mode",
+      "round": 2,
+      "model": "gpt-5.6-terra",
+      "input_tokens": 291,
+      "output_tokens": 588,
+      "cost_usd": "0.007638"
+    },
+    {
+      "stage": "sweep",
+      "facet": "fundraising_mode",
+      "round": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 1508,
+      "output_tokens": 194,
+      "cost_usd": "0.000534"
+    },
+    {
+      "stage": "sweep",
+      "facet": "fundraising_mode",
+      "round": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 1508,
+      "output_tokens": 17,
+      "cost_usd": "0.000322"
+    },
+    {
+      "stage": "holdout_extraction",
+      "call": 1,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 671,
+      "output_tokens": 16,
+      "cost_usd": "0.000153"
+    },
+    {
+      "stage": "holdout_extraction",
+      "call": 2,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 632,
+      "output_tokens": 16,
+      "cost_usd": "0.000146"
+    },
+    {
+      "stage": "holdout_extraction",
+      "call": 3,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 629,
+      "output_tokens": 16,
+      "cost_usd": "0.000145"
+    },
+    {
+      "stage": "holdout_extraction",
+      "call": 4,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 668,
+      "output_tokens": 16,
+      "cost_usd": "0.000153"
+    },
+    {
+      "stage": "holdout_extraction",
+      "call": 5,
+      "model": "gpt-5.6-luna",
+      "input_tokens": 648,
+      "output_tokens": 16,
+      "cost_usd": "0.000149"
+    }
+  ],
+  "total_cost_usd": "0.610864",
+  "holdout_objects": 49,
+  "provider_calls": 37
+}
